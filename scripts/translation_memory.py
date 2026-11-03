@@ -150,6 +150,20 @@ def import_package(path, root=MEMORY_ROOT):
             'counts': counts, 'skipped': skipped, 'job': job}
 
 
+def coverage(language, model, root=MEMORY_ROOT):
+    """(translated, total) texts needing translation in one manual, for progress displays."""
+    from manual_build import build
+    from manual_localization import RecordingLocalizer
+    recorder = RecordingLocalizer()
+    recorder.model = model
+    build(model, None, localizer=recorder, render_only=True)
+    texts = set(recorder.strings) | {part['text'] for text in recorder.markdown_files.values()
+                                     for part in segments(segment_markdown(text))}
+    spec, memory = current_protected(), Memory(language, root)
+    needed = [text for text in texts if needs_translation(text, spec)]
+    return sum(1 for text in needed if memory.translation(text) is not None), len(needed)
+
+
 def status(language, models, root=MEMORY_ROOT):
     """Which manuals can be built in a language now."""
     from manual_build import build

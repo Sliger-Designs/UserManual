@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sliger user manuals</title>
+<style>
+:root { --accent: #D6383C; --ink: #1d2327; --muted: #5b6670; --line: #d9dee2; --soft: #f4f6f7; --ok: #1e7d4f; --focus: #2667c9;
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: var(--ink); }
+body { margin: 0; background: var(--soft); }
+header { background: white; border-bottom: 1px solid var(--line); padding: 16px 24px; display: flex; gap: 14px; align-items: center; }
+header img { height: 22px; display: block; }
+main { max-width: 980px; margin: 0 auto; padding: 8px 24px 60px; }
+h1 { font-size: 1.4em; margin: 22px 0 4px; } h2 { font-size: 1em; margin: 18px 0 8px; } h3 { font-size: .95em; margin: 16px 0 6px; color: var(--muted); }
+.intro, .note { color: var(--muted); } .note { font-size: .88em; }
+a { color: #b92e32; } a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.filters { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 14px 0; }
+.filters input { font: inherit; padding: 7px 10px; border: 1px solid #b9c2c8; border-radius: 6px; min-width: 16em; }
+details.manual { background: white; border: 1px solid var(--line); border-radius: 8px; margin: 10px 0; }
+details.manual[open] { box-shadow: 0 2px 10px #0001; }
+summary { list-style: none; cursor: pointer; padding: 14px 16px; display: grid; grid-template-columns: 7.5em 1fr auto; gap: 12px; align-items: center; }
+summary::-webkit-details-marker { display: none; }
+summary .model { font-weight: 700; font-size: 1.1em; }
+summary .what { color: var(--muted); }
+.badges { display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+.badge { font-size: .78em; border-radius: 10px; padding: 1px 9px; background: var(--soft); border: 1px solid var(--line); white-space: nowrap; }
+.badge.released { background: #e6f2ec; border-color: #a9d3bd; color: var(--ok); }
+.badge.draft { background: #fff1d6; border-color: #f0d49a; color: #6b4600; }
+.panel { padding: 0 16px 16px; border-top: 1px solid var(--line); }
+.row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid #eef1f3; }
+.row:last-child { border-bottom: 0; }
+.row .meta { color: var(--muted); font-size: .88em; }
+.actions { display: flex; gap: 10px; align-items: center; flex: none; }
+.button, button { font: inherit; padding: .35em .85em; border: 1px solid var(--line); border-radius: 6px; background: white; color: var(--ink); text-decoration: none; cursor: pointer; display: inline-block; }
+.button.primary, button.primary { background: var(--accent); border-color: var(--accent); color: white; font-weight: 600; }
+.newrow input { font: inherit; padding: 6px 8px; border: 1px solid #b9c2c8; border-radius: 4px; width: 12em; }
+.error { color: #b3261e; font-size: .88em; }
+dialog { border: 0; border-radius: 10px; max-width: 520px; padding: 20px 22px; box-shadow: 0 10px 40px #0004; }
+dialog::backdrop { background: #0005; } dialog .buttons { display: flex; justify-content: flex-end; gap: 8px; margin-top: 14px; }
+@media (max-width: 640px) { summary { grid-template-columns: 1fr; } .badges { justify-content: flex-start; } .row { flex-wrap: wrap; } }
+</style>
+</head>
+<body>
+<header><img src="__SLIGER_LOGO__" alt="Sliger"><strong>User manuals</strong></header>
+<main>
+  <h1>Manuals</h1>
+  <p class="intro">Download a manual, or open one to translate it. Translation work is saved in this browser on this computer.</p>
+  <div class="filters"><input type="search" id="filter" placeholder="Filter by model, e.g. S630" aria-label="Filter manuals"></div>
+  <div id="manuals"></div>
+  <p class="note" id="built"></p>
+</main>
+<dialog id="dialog"></dialog>
+<script type="application/json" id="site-data">__SITE_DATA__</script>
+<script>/*__WORKSPACES_JS__*/</script>
+<script>
+'use strict';
+const SITE = JSON.parse(document.getElementById('site-data').textContent);
+function h(tag, attrs = {}, ...children) {
+  const node = document.createElement(tag);
+  for (const [key, value] of Object.entries(attrs)) {
+    if (value == null || value === false) continue;
+    if (key.startsWith('on')) node.addEventListener(key.slice(2), value);
+    else if (key === 'class') node.className = value;
+    else if (key === 'text') node.textContent = value;
+    else node.setAttribute(key, value);
+  }
+  for (const child of children.flat()) if (child != null) node.append(child);
+  return node;
+}
+const percent = (done, total) => total ? Math.round(100 * done / total) + '%' : '0%';
+const languageLabel = (code, name) => Workspaces.label(code, name);
+
+function confirmDialog(title, text, buttons) {
+  const box = document.getElementById('dialog');
+  return new Promise(resolve => {
+    box.replaceChildren(h('h2', {text: title}), h('p', {text}),
+      h('div', {class: 'buttons'}, buttons.map(([label, value], k) =>
+        h('button', {type: 'button', class: k === buttons.length - 1 ? 'primary' : null, onclick: () => { box.close(); resolve(value); }}, label))));
+    box.onclose = () => resolve(null);
+    box.showModal();
+  });
+}
+
+function translatePanel(manual) {
+  const pkg = manual.package && SITE.packages[manual.package];
+  const panel = [h('h2', {text: 'Translate'})];
+  if (!pkg || !pkg.editor) {
+    panel.push(h('p', {class: 'note', text: manual.released
+      ? 'A translation package for this manual has not been prepared yet.'
+      : 'This manual is still a draft; translation starts after release.'}));
+    return panel;
+  }
+  const others = pkg.models.filter(model => model !== manual.model);
+  if (others.length) panel.push(h('p', {class: 'note', text: `Translated together with ${others.join(', ')}: shared text is translated once for all of them.`}));
+  Workspaces.migrate(manual.package, pkg.commit);  // Work saved before per-language workspaces.
+  const saved = Workspaces.list(manual.package, pkg.commit);
+  const savedLanguages = new Set(saved.map(item => item.language));
+
+  panel.push(h('h3', {text: 'Continue in this browser'}));
+  if (!saved.length) panel.push(h('p', {class: 'note', text: 'No translation of this manual is saved in this browser.'}));
+  for (const item of saved) {
+    const summary = item.summary;
+    panel.push(h('div', {class: 'row'},
+      h('div', {}, h('strong', {text: languageLabel(item.language, item.name)}),
+        h('div', {class: 'meta', text: [summary ? `${summary.done} of ${summary.total} items (${percent(summary.done, summary.total)})` : '',
+          item.savedAt ? 'saved ' + new Date(item.savedAt).toLocaleString() : ''].filter(Boolean).join(' · ')})),
+      h('div', {class: 'actions'}, h('a', {class: 'button primary', href: Workspaces.editorLink(pkg.editor, item.language)}, 'Continue'))));
+  }
+
+  const existing = Object.entries(manual.languages).filter(([, item]) => item.done > 0);
+  if (existing.length) {
+    panel.push(h('h3', {text: 'Translations Sliger already has'}));
+    for (const [code, item] of existing) {
+      const pdf = item.preview && h('a', {href: item.preview}, 'Preview PDF');
+      panel.push(h('div', {class: 'row'},
+        h('div', {}, h('strong', {text: languageLabel(code, item.name)}),
+          h('div', {class: 'meta', text: `${item.done} of ${item.total} items translated for ${manual.model} (${percent(item.done, item.total)})`})),
+        h('div', {class: 'actions'}, pdf,
+          h('a', {class: 'button primary', href: Workspaces.editorLink(pkg.editor, code)},
+            savedLanguages.has(code) ? 'Continue (saved here)' : 'Edit'))));
+    }
+  }
+
+  panel.push(h('h3', {text: 'Start a new translation'}));
+  const input = h('input', {list: 'language-codes', placeholder: 'Language code, e.g. de', autocomplete: 'off', spellcheck: 'false', 'aria-label': `Language code for a new ${manual.model} translation`});
+  const name = h('span', {class: 'meta'}), error = h('div', {class: 'error'});
+  input.addEventListener('input', () => { name.textContent = Workspaces.languageName(input.value.trim()); error.textContent = ''; });
+  const start = async () => {
+    const code = input.value.trim();
+    if (!Workspaces.valid(code) || code === Workspaces.UNDETERMINED) return void (error.textContent = 'Enter a language code such as de, fr, it, es, nl or pl (not en).');
+    // Only "Start over" discards saved work. A language Sliger already has starts from its translation.
+    let fresh = false;
+    if (savedLanguages.has(code)) {
+      const choice = await confirmDialog(`You already have a ${languageLabel(code)} translation here`,
+        'Continue it, or start over? Starting over removes the work saved in this browser for this language; download its ZIP from the editor first if you might need it.',
+        [['Cancel', null], ['Start over', 'fresh'], ['Continue', 'continue']]);
+      if (!choice) return;
+      fresh = choice === 'fresh';
+    }
+    location.href = Workspaces.editorLink(pkg.editor, code, fresh);
+  };
+  input.addEventListener('keydown', event => { if (event.key === 'Enter') start(); });
+  panel.push(h('div', {class: 'row newrow'}, h('div', {}, input, ' ', name, error),
+    h('div', {class: 'actions'}, h('button', {type: 'button', class: 'primary', onclick: start}, 'Start'))));
+  return panel;
+}
+
+function manualCard(manual) {
+  const card = h('details', {class: 'manual', 'data-model': manual.model.toLowerCase()});
+  const badges = [h('span', {class: 'badge ' + (manual.released ? 'released' : 'draft'), text: manual.released ? `Released ${manual.revision}` : `Draft · ${manual.revision}`}),
+    ...Object.entries(manual.languages).filter(([, item]) => item.done > 0)
+      .map(([code, item]) => h('span', {class: 'badge', title: `${item.name || code}: ${percent(item.done, item.total)} translated`, text: `${code} ${percent(item.done, item.total)}`}))];
+  card.append(h('summary', {}, h('span', {class: 'model', text: manual.model}),
+    h('span', {class: 'what', text: [manual.description, manual.form_factor].filter(Boolean).join(' · ')}), h('span', {class: 'badges'}, badges)));
+  const panel = h('div', {class: 'panel'});
+  const pdfs = manual.pdfs.map(pdf => h('div', {class: 'row'},
+    h('div', {}, h('strong', {text: pdf.label}), h('div', {class: 'meta', text: pdf.note})),
+    h('div', {class: 'actions'}, h('a', {class: 'button', href: pdf.href}, 'PDF'))));
+  panel.append(h('h2', {text: 'Download'}), ...(pdfs.length ? pdfs : [h('p', {class: 'note', text: 'No PDF published yet.'})]));
+  card.append(panel);
+  card.addEventListener('toggle', () => {  // Rebuilt on open, so saved work is always current.
+    if (!card.open) return;
+    panel.querySelector('.translate')?.remove();
+    panel.append(h('div', {class: 'translate'}, translatePanel(manual)));
+  });
+  return card;
+}
+
+const list = document.getElementById('manuals');
+list.append(...SITE.manuals.map(manualCard),
+  h('datalist', {id: 'language-codes'}, SITE.language_codes.map(code => h('option', {value: code}, Workspaces.languageName(code)))));
+document.getElementById('filter').addEventListener('input', event => {
+  const query = event.target.value.trim().toLowerCase();
+  for (const card of list.querySelectorAll('details.manual')) card.hidden = query && !card.dataset.model.includes(query);
+});
+const wanted = new URLSearchParams(location.search).get('manual');
+const opened = wanted && list.querySelector(`details[data-model="${CSS.escape(wanted.toLowerCase())}"]`);
+if (opened) { opened.open = true; opened.scrollIntoView(); }
+document.getElementById('built').textContent = `Built ${SITE.built} from commit ${SITE.commit}.`;
+</script>
+</body>
+</html>

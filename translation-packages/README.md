@@ -17,8 +17,11 @@ Translators who do not work with text files or a command line can use a single
 HTML page instead of the raw package. It shows each page of both manuals as
 sentence-sized items beside a live preview of the real page, keeps headings,
 lists, tables, placeholders and hardware letters locked, checks protected text
-and page overflow as they type, and saves work in their browser. It exports a
-translation ZIP for Sliger and prints either manual to PDF from the browser.
+and page overflow as they type, and saves work in their browser, separately for each
+language. It exports a translation ZIP for Sliger and prints either manual to PDF from
+the browser. One editor serves every language: `index.html?lang=de` opens the German
+translation (pre-filled from `translations/de/` when Sliger has one); without `?lang`
+it lists the translations saved in that browser and offers a new one.
 
 Build it (requires the same Python environment and Chromium as the manual build):
 

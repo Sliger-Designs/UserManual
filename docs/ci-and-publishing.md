@@ -34,15 +34,21 @@ a new branch and open a pull request. The check attaches the rebuilt PDFs.
 
 After each push to `main`, `python scripts/ci.py site` builds:
 
-- a translation editor for every package in `translation-packages/`, plus a pre-filled
-  editor for every language in `translations/` (only text that is new to that language
-  is left to translate)
+- the front page (`templates/site/index.html`), generated from the repository: every
+  manual with its status, released and preview PDFs, and how complete each language is.
+  Opening a manual offers **Continue** (translations saved in this browser, with
+  progress), **Translations Sliger already has** (start from the approved translation;
+  only new text is left) and **Start a new translation**.
+- one translation editor per package in `translation-packages/`, containing every
+  language in `translations/`. The language is chosen in the link (`…/index.html?lang=de`);
+  without it the editor shows the same choices. Each language is saved separately in
+  the browser, and a ZIP always opens as the translation for its own language.
 - preview PDFs of every manual from `main`, in English and in each language whose memory
   is complete
 - the released PDFs from `releases/`
 
-All of this goes on one index page. Editors whose English has changed since their package
-was exported are skipped; export a new package for the current text.
+Editors whose English has changed since their package was exported are skipped; export
+a new package for the current text. Link straight to a manual with `?manual=S630`.
 
 ## Returning translations (`.github/workflows/translation-import.yml`)
 

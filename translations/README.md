@@ -27,9 +27,11 @@ python3 scripts/translation_memory.py status de --models S630 S640
 # 3. Build review PDFs (stops on missing text; --allow-incomplete makes an English-filled draft).
 python3 scripts/build_manual.py --model S630 --language de
 
-# 4. For the next version or another manual, give the translator a pre-filled editor:
-#    only new text is empty; reused translations are marked "From translation memory".
-python3 scripts/translation_editor.py translation-packages/<package> --language de
+# 4. For the next version or another manual, the package's editor offers every language
+#    with a memory (on the site, open the manual and choose "Edit"): only new text is
+#    empty; reused translations are marked "From translation memory".
+python3 scripts/translation_editor.py translation-packages/<package>
+#    then open _build/translation-editor/<package>/index.html?lang=de
 ```
 
 Importing replaces an entry when the returned translation differs, so review the

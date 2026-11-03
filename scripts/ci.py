@@ -152,84 +152,85 @@ def check(the_plan, output, browser=None):
     return not results.failed
 
 
-PAGE = '''<!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sliger manuals</title>
-<style>
-body{{font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:#1d2327;margin:0;background:#f4f6f7}}
-header{{background:white;border-bottom:1px solid #d9dee2;padding:18px 24px;display:flex;gap:14px;align-items:center}}
-header img{{height:24px}} main{{max-width:960px;margin:0 auto;padding:12px 24px 60px}}
-h2{{margin-top:32px;font-size:1.15em}} table{{border-collapse:collapse;width:100%;background:white}}
-th,td{{text-align:left;padding:8px 10px;border-bottom:1px solid #e3e7ea}} th{{font-size:.8em;text-transform:uppercase;color:#5b6670}}
-a{{color:#b92e32}} .note{{color:#5b6670;font-size:.9em}}
-</style></head><body>
-<header><img src="{logo}" alt="Sliger"><strong>User manuals</strong></header>
-<main>{body}<p class="note">Built {built} from commit {commit}.</p></main></body></html>
-'''
+FORM_FACTORS = {'desktop': 'Desktop', '2u': '2U rackmount', '3u': '3U rackmount', '4u': '4U rackmount'}
+LANGUAGE_CODES = ['bg', 'cs', 'da', 'de', 'el', 'es', 'et', 'fi', 'fr', 'ga', 'hr', 'hu', 'it', 'lt', 'lv', 'mt', 'nl',
+                  'no', 'pl', 'pt', 'ro', 'sk', 'sl', 'sv', 'tr', 'uk']
 
 
 def site(output, browser=None):
-    """Static site for GitHub Pages: translation editors, preview PDFs of main, released PDFs."""
+    """Static site for GitHub Pages: a generated list of every manual with its PDFs and
+    translation choices (templates/site/index.html), one translation editor per package
+    (all languages inside), preview PDFs of main and released PDFs."""
     import base64
     from translation_editor import build_editor
+    from translation_memory import Memory, coverage
     if output.exists():
         shutil.rmtree(output)
     output.mkdir(parents=True)
-    sections = []
 
-    editors = []
+    site_packages = {}
     for name in packages():
         package = ROOT / 'translation-packages' / name
-        for language in [None] + languages():
-            filename = f'index-{language}.html' if language else 'index.html'
-            try:
-                build_editor(package, browser, output / 'editors' / name / filename, language)
-            except ValueError as error:
-                print(f'Skipping editor {name} {language or ""}: {str(error).splitlines()[0]}')
-                continue
-            editors.append((name, language or 'new translation', f'editors/{name}/{filename}'))
-    if editors:
-        rows = ''.join(f'<tr><td>{escape(name)}</td><td>{escape(label)}</td><td><a href="{href}">Open editor</a></td></tr>'
-                       for name, label, href in editors)
-        sections.append('<h2>Translation editors</h2><p class="note">Work stays in your browser; download the ZIP from the '
-                        'editor to send it to Sliger.</p><table><tr><th>Package</th><th>Language</th><th></th></tr>' + rows + '</table>')
+        manifest = json.loads((package / 'manifest.json').read_text(encoding='utf-8'))
+        try:
+            build_editor(package, browser, output / 'editors' / name / 'index.html')
+            editor = f'editors/{name}/index.html'
+        except ValueError as error:  # English changed since the package was exported.
+            print(f'No editor for {name}: {str(error).splitlines()[0]}')
+            editor = None
+        site_packages[name] = {'editor': editor, 'commit': manifest['source_commit'], 'models': manifest['models'],
+                               'version': manifest['source_version']}
 
-    released = sorted((ROOT / 'releases').rglob('*.pdf'))
-    for pdf in released:
-        target = output / 'manuals/released' / pdf.relative_to(ROOT / 'releases')
+    released = {}
+    for pdf in sorted((ROOT / 'releases').rglob('*.pdf')):
+        relative = pdf.relative_to(ROOT / 'releases')
+        language, _, model, revision = relative.parts[:4]
+        target = output / 'manuals/released' / relative
         target.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(pdf, target)
-    if released:
-        rows = ''.join(f'<tr><td>{escape(pdf.parts[-3])}</td><td>{escape(pdf.relative_to(ROOT / "releases").parts[0])}</td>'
-                       f'<td>{escape(pdf.parts[-2])}</td><td><a href="manuals/released/{pdf.relative_to(ROOT / "releases").as_posix()}">PDF</a></td></tr>'
-                       for pdf in released)
-        sections.append('<h2>Released manuals</h2><table><tr><th>Model</th><th>Language</th><th>Revision</th><th></th></tr>' + rows + '</table>')
+        released.setdefault(model, []).append((language, revision, f'manuals/released/{relative.as_posix()}'))
 
-    previews = []
-    for model in sorted(MODEL_CATEGORIES):
+    manuals = []
+    for model in sorted(MODEL_CATEGORIES, key=lambda sku: (MODEL_CATEGORIES[sku], sku)):
+        manual = manual_build.manual(model)
+        pdfs = [{'label': f'{language} · {revision}', 'note': 'Released', 'href': href}
+                for language, revision, href in sorted(released.get(model, []))]
+        preview_links = {}
         for language in ['en'] + languages():
             try:
                 built = manual_build.build(model, browser) if language == 'en' else build_translation(model, language)
             except Exception as error:
-                print(f'No {language} preview for {model}: {error}')
+                print(f'No {language} preview for {model}: {str(error).splitlines()[0] if str(error) else type(error).__name__}')
                 continue
             target = output / 'manuals/preview' / language / f'{model}.pdf'
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(built['pdf'], target)
-            revision = manual_build.manual(model)['revision']
-            previews.append((model, language, revision, f'manuals/preview/{language}/{model}.pdf'))
-    if previews:
-        rows = ''.join(f'<tr><td>{escape(model)}</td><td>{escape(language)}</td><td>{escape(revision)}</td><td><a href="{href}">PDF</a></td></tr>'
-                       for model, language, revision, href in previews)
-        sections.append('<h2>Current previews</h2><p class="note">Built from the latest approved text on main. '
-                        'Not released; for review only.</p><table><tr><th>Model</th><th>Language</th><th>Revision</th><th></th></tr>' + rows + '</table>')
+            preview_links[language] = f'manuals/preview/{language}/{model}.pdf'
+        if 'en' in preview_links:
+            pdfs.append({'label': f'en · {manual["revision"]} preview', 'note': 'Current text on main; not a release', 'href': preview_links['en']})
+        candidates = [name for name, item in site_packages.items() if model in item['models'] and item['editor']]
+        model_languages = {}
+        for language in languages():
+            done, total = coverage(language, model)
+            model_languages[language] = {'name': Memory(language).language_name, 'done': done, 'total': total,
+                                         'preview': preview_links.get(language)}
+        manuals.append({'model': model, 'revision': manual['revision'], 'released': bool(manual.get('release_ready')),
+                        'description': manual.get('cover_description', ''), 'form_factor': FORM_FACTORS.get(MODEL_CATEGORIES[model], ''),
+                        'pdfs': pdfs, 'package': candidates[-1] if candidates else None, 'languages': model_languages})
 
+    data = {'manuals': manuals, 'packages': site_packages, 'language_codes': LANGUAGE_CODES,
+            'built': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'),
+            'commit': os.environ.get('GITHUB_SHA', '')[:7] or 'local'}
+    page = (ROOT / 'templates/site/index.html').read_text(encoding='utf-8')
     logo = 'data:image/svg+xml;base64,' + base64.b64encode((ROOT / 'templates/brand/sliger-logo.svg').read_bytes()).decode()
-    commit = os.environ.get('GITHUB_SHA', '')[:7] or 'local'
-    built = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-    (output / 'index.html').write_text(PAGE.format(logo=logo, body=''.join(sections), built=built, commit=escape(commit)), encoding='utf-8')
+    for marker, text in [('/*__WORKSPACES_JS__*/', (ROOT / 'templates/translation-editor/workspaces.js').read_text(encoding='utf-8')),
+                         ('__SLIGER_LOGO__', logo),
+                         ('__SITE_DATA__', json.dumps(data, ensure_ascii=False).replace('<', '\u003c'))]:
+        assert page.count(marker) == 1, marker
+        page = page.replace(marker, text)
+    (output / 'index.html').write_text(page, encoding='utf-8')
     (output / '.nojekyll').write_text('', encoding='utf-8')
-    print(f'Site in {output}: {len(editors)} editors, {len(released)} released and {len(previews)} preview PDFs')
+    print(f'Site in {output}: {len(manuals)} manuals, {sum(1 for item in site_packages.values() if item["editor"])} editors')
 
 
 def import_issue(body, issue, output, browser=None):

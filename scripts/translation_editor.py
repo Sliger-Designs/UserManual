@@ -63,20 +63,23 @@ def expressions(models, markdown_files, localizer):
     return values
 
 
-def memory_for(language, catalog, markdown_files):
-    """The language memory's entries for this package's English text (pre-filled in the editor)."""
-    from translation_memory import Memory
-    memory = Memory(language)
-    if not memory.entries:
-        raise ValueError(f'No translation memory at {memory.path}')
+def memories_for(catalog, markdown_files):
+    """Each language memory's entries for this package's English text: the editor offers
+    those languages and pre-fills them. Text only, a few KB per language."""
+    from translation_memory import MEMORY_ROOT, Memory
     english = {entry['source'] for entry in catalog.values()}
     english |= {part['text'] for item in markdown_files for part in segments(segment_markdown(item['text']))}
-    entries = {text: memory.translation(text) for text in sorted(english) if memory.translation(text) is not None}
-    return {'language': language, 'language_name': memory.language_name, 'entries': entries,
-            'version': hashlib.sha256(json.dumps(entries, sort_keys=True).encode()).hexdigest()[:16]}
+    memories = {}
+    for path in sorted(MEMORY_ROOT.glob('*/memory.json')):
+        memory = Memory(path.parent.name)
+        entries = {text: memory.translation(text) for text in sorted(english) if memory.translation(text) is not None}
+        if entries:
+            memories[memory.language] = {'language_name': memory.language_name, 'entries': entries,
+                                         'version': hashlib.sha256(json.dumps(entries, sort_keys=True).encode()).hexdigest()[:16]}
+    return memories
 
 
-def build_editor(package, browser, output, language=None):
+def build_editor(package, browser, output):
     package = package.resolve()
     manifest = read_json(package / 'manifest.json')
     catalog = read_json(package / 'source/strings.json')
@@ -132,12 +135,13 @@ def build_editor(package, browser, output, language=None):
         # Current rules (a superset of any older package's): the editor warns about everything
         # a build from the translation memory would reject.
         'protected': protected_terms(manifest['models']),
-        'memory': memory_for(language, catalog, markdown_files) if language else None,
+        'memories': memories_for(catalog, markdown_files),
         'job': read_json(package / 'translation/job.json'),
     }
     data = json.dumps(payload, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c')
     page = (EDITOR / 'editor.html').read_text(encoding='utf-8')
     for marker, text in [('/*__EDITOR_CSS__*/', (EDITOR / 'editor.css').read_text(encoding='utf-8')),
+                         ('/*__WORKSPACES_JS__*/', (EDITOR / 'workspaces.js').read_text(encoding='utf-8')),
                          ('/*__EDITOR_JS__*/', (EDITOR / 'editor.js').read_text(encoding='utf-8')),
                          ('__PACKAGE_NAME__', package.name),
                          ('__SLIGER_LOGO__', 'data:image/svg+xml;base64,' + base64.b64encode(
@@ -148,22 +152,20 @@ def build_editor(package, browser, output, language=None):
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(page, encoding='utf-8')
     print(f'Built {output} ({output.stat().st_size / 1e6:.1f} MB): {len(catalog)} strings, '
-          f'{len(markdown_files)} Markdown files, {len(assets)} shared images/fonts' +
-          (f'; {len(payload["memory"]["entries"])} translations pre-filled from {language} memory' if language else ''))
+          f'{len(markdown_files)} Markdown files, {len(assets)} shared images/fonts; '
+          f'languages with translations: {", ".join(payload["memories"]) or "none"}')
     return output
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__.split('\n\n')[0])
     parser.add_argument('package', type=Path, help='Translation package folder, e.g. translation-packages/S630-S640-v1.0-en')
-    parser.add_argument('--language', help='Pre-fill translations from translations/LANG/memory.json')
-    parser.add_argument('--output', type=Path, help='Default: _build/translation-editor/<package>/index[-LANG].html')
+    parser.add_argument('--output', type=Path, help='Default: _build/translation-editor/<package>/index.html')
     parser.add_argument('--browser', default=shutil.which('chromium') or shutil.which('google-chrome') or shutil.which('chrome'),
-                        help='Chromium executable (default: one on PATH, else Playwright''s bundled Chromium)')
+                        help="Chromium executable (default: one on PATH, else Playwright's bundled Chromium)")
     args = parser.parse_args()
-    name = f'index-{args.language}.html' if args.language else 'index.html'
-    output = args.output or ROOT / '_build/translation-editor' / args.package.resolve().name / name
-    build_editor(args.package, args.browser, output.resolve(), args.language)
+    output = args.output or ROOT / '_build/translation-editor' / args.package.resolve().name / 'index.html'
+    build_editor(args.package, args.browser, output.resolve())
 
 
 if __name__ == '__main__':

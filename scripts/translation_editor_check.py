@@ -83,7 +83,12 @@ def check(editor_path, browser_path, keep_zip=None, package_dir=None):
             page = browser.new_page(viewport={'width': 1600, 'height': 1000})
             page.on('pageerror', lambda error: errors.append(str(error)))
             page.on('console', lambda message: errors.append(message.text) if message.type == 'error' else None)
+            # Without a language the editor offers its chooser; with ?lang it opens that workspace.
             page.goto(editor_path.as_uri())
+            page.wait_for_function('window.translationEditor && document.body.classList.contains("choosing")', timeout=60000)
+            if not page.locator('#editor h2').count():
+                failures.append('Editor without ?lang does not show the translation chooser')
+            page.goto(editor_path.as_uri() + '?lang=de&fresh=1')
             page.wait_for_function('window.translationEditor && !document.getElementById("preview-loading")', timeout=120000)
             preview = lambda model: page.evaluate(f'() => ({PAGES})(window.translationEditor.previews[{json.dumps(model)}].doc)')
             page.evaluate('() => document.querySelector(".toggle [data-mode=english]").click()')
@@ -160,7 +165,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__.split('\n\n')[0])
     parser.add_argument('editor', type=Path, help='Built editor, e.g. _build/translation-editor/S630-S640-v1.0-en/index.html')
     parser.add_argument('--browser', default=shutil.which('chromium') or shutil.which('google-chrome') or shutil.which('chrome'),
-                        help='Chromium executable (default: one on PATH, else Playwright''s bundled Chromium)')
+                        help="Chromium executable (default: one on PATH, else Playwright's bundled Chromium)")
     parser.add_argument('--keep-zip', type=Path, help='Save the pseudo-translated package ZIP here')
     parser.add_argument('--package', type=Path, help='Package the editor was built from (default: translation-packages/<editor folder name>)')
     args = parser.parse_args()
