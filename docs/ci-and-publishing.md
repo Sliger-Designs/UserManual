@@ -32,7 +32,11 @@ a new branch and open a pull request. The check attaches the rebuilt PDFs.
 
 ## Site (`.github/workflows/pages.yml`)
 
-After each push to `main`, `python scripts/ci.py site` builds:
+After *Manual checks* passes for a push to `main`, the publish workflow builds exactly
+that commit and deploys it, so a commit that fails its checks never reaches the site; the
+site keeps the last good version. If a newer commit has reached `main` in the meantime,
+the older run skips and the newer one publishes. Run *Publish site* by hand from the
+Actions tab to republish the current `main`. `python scripts/ci.py site` builds:
 
 - the front page (`templates/site/index.html`), generated from the repository: every
   manual with its status, released and preview PDFs, and how complete each language is.
