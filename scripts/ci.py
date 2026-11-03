@@ -220,7 +220,7 @@ def site(output, browser=None):
 
     data = {'manuals': manuals, 'packages': site_packages, 'language_codes': LANGUAGE_CODES,
             'built': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'),
-            'commit': os.environ.get('GITHUB_SHA', '')[:7] or 'local'}
+            'commit': (os.environ.get('SITE_COMMIT') or os.environ.get('GITHUB_SHA', ''))[:7] or 'local'}
     page = (ROOT / 'templates/site/index.html').read_text(encoding='utf-8')
     logo = 'data:image/svg+xml;base64,' + base64.b64encode((ROOT / 'templates/brand/sliger-logo.svg').read_bytes()).decode()
     for marker, text in [('/*__WORKSPACES_JS__*/', (ROOT / 'templates/translation-editor/workspaces.js').read_text(encoding='utf-8')),

@@ -1,10 +1,15 @@
 name: Publish site
 
-# GitHub Pages: translation editors, preview PDFs of main and released PDFs (scripts/ci.py site).
-# Enable Pages (Settings → Pages → Source: GitHub Actions), then set the repository
-# variable PAGES_ENABLED to true (Settings → Secrets and variables → Actions → Variables).
+# GitHub Pages: the manuals page, translation editors, preview PDFs of main and released
+# PDFs (scripts/ci.py site). Publishes only after "Manual checks" passes for a push to main,
+# and builds exactly the commit that was checked, so a broken commit never reaches the site.
+# Run it by hand from the Actions tab to republish the current main.
+# Setup: Settings → Pages → Source: GitHub Actions, and the repository variable
+# PAGES_ENABLED=true (Settings → Secrets and variables → Actions → Variables).
 on:
-  push:
+  workflow_run:
+    workflows: [Manual checks]
+    types: [completed]
     branches: [main]
   workflow_dispatch:
 
@@ -19,31 +24,60 @@ concurrency:
 
 jobs:
   build:
-    if: vars.PAGES_ENABLED == 'true'
+    if: >-
+      vars.PAGES_ENABLED == 'true' && (github.event_name == 'workflow_dispatch' ||
+      (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push'))
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    outputs:
+      current: ${{ steps.commit.outputs.current }}
+    env:
+      COMMIT: ${{ github.event.workflow_run.head_sha || github.sha }}
     steps:
+      - name: Skip if main has moved on
+        id: commit
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          latest=$(gh api "repos/$GITHUB_REPOSITORY/commits/main" --jq .sha)
+          if [ "$latest" = "$COMMIT" ]; then
+            echo "current=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "current=false" >> "$GITHUB_OUTPUT"
+            echo "Checked commit $COMMIT is no longer the tip of main ($latest); its own run publishes." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
       - uses: actions/checkout@v4
+        if: steps.commit.outputs.current == 'true'
+        with:
+          ref: ${{ env.COMMIT }}
 
       - uses: actions/setup-python@v5
+        if: steps.commit.outputs.current == 'true'
         with:
           python-version: '3.13'
           cache: pip
 
       - name: Install Python packages and Chromium
+        if: steps.commit.outputs.current == 'true'
         run: |
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
       - name: Build site
+        if: steps.commit.outputs.current == 'true'
+        env:
+          SITE_COMMIT: ${{ env.COMMIT }}
         run: python scripts/ci.py site --output _site
 
       - uses: actions/upload-pages-artifact@v3
+        if: steps.commit.outputs.current == 'true'
         with:
           path: _site
 
   deploy:
     needs: build
+    if: needs.build.outputs.current == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
