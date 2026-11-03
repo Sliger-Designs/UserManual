@@ -5,8 +5,19 @@
 
 const DATA = JSON.parse(document.getElementById('editor-data').textContent);
 const MODELS = DATA.package.models;
-const MEMORY = DATA.memory;  // Pre-filled translations from translations/<lang>/memory.json, or null.
-const STORAGE_KEY = `sliger-translation:${DATA.package.name}:${DATA.package.source_commit}` + (MEMORY ? ':' + MEMORY.language : '');
+const PACKAGE = DATA.package;
+// Each target language has its own saved workspace (workspaces.js); ?lang=xx selects it.
+// Without a valid ?lang the editor shows the chooser instead of a translation.
+const PARAMS = new URLSearchParams(location.search);
+Workspaces.migrate(PACKAGE.name, PACKAGE.source_commit);
+const LANGUAGE = Workspaces.valid(PARAMS.get('lang')) ? PARAMS.get('lang') : null;
+const STORAGE_KEY = LANGUAGE && Workspaces.key(PACKAGE.name, PACKAGE.source_commit, LANGUAGE);
+if (LANGUAGE && PARAMS.has('fresh')) {  // "Start over": drop this language's saved work first.
+  localStorage.removeItem(STORAGE_KEY);
+  history.replaceState(null, '', Workspaces.editorLink(location.pathname, LANGUAGE));
+}
+// Translations Sliger already has for this language (translations/<lang>/memory.json), or null.
+const MEMORY = (LANGUAGE && DATA.memories[LANGUAGE]) || null;
 
 // ---------------------------------------------------------------- small helpers
 function h(tag, attrs = {}, ...children) {
@@ -219,18 +230,19 @@ for (const file of MD) for (const parts of file.seg.lines) for (const part of pa
 
 // ---------------------------------------------------------------- state
 function loadState() {
-  try {
-    const saved = JSON.parse(localStorage.getItem(STORAGE_KEY));
-    if (saved && saved.tm) return {job: {...DATA.job, ...saved.job}, tm: saved.tm, ui: saved.ui || {}};
-  } catch (error) { console.warn(error); }
-  return {job: {...DATA.job}, tm: {}, ui: {}};
+  const saved = STORAGE_KEY && Workspaces.read(STORAGE_KEY);
+  const loaded = saved && saved.tm ? {job: {...DATA.job, ...saved.job}, tm: saved.tm, ui: saved.ui || {}}
+                                   : {job: {...DATA.job}, tm: {}, ui: {}};
+  if (LANGUAGE && LANGUAGE !== Workspaces.UNDETERMINED) {
+    loaded.job.target_language = LANGUAGE;  // The workspace decides the language.
+    loaded.job.target_language_name ||= (MEMORY && MEMORY.language_name) || Workspaces.languageName(LANGUAGE);
+  }
+  return loaded;
 }
 const state = loadState();
 if (MEMORY && state.ui.memoryVersion !== MEMORY.version) {
   // Fill each memory translation once; later edits (including clearing a box) are kept.
   for (const [english, value] of Object.entries(MEMORY.entries)) if (!(english in state.tm)) state.tm[english] = value;
-  state.job.target_language ||= MEMORY.language;
-  state.job.target_language_name ||= MEMORY.language_name;
   state.ui.memoryVersion = MEMORY.version;
 }
 const fromMemory = english => MEMORY && MEMORY.entries[english] != null && state.tm[english] === MEMORY.entries[english];
@@ -244,9 +256,18 @@ function unitStatus(english) {
 
 const translatedMarkdown = file => assemble(file.seg, part => translation(part.text) ?? part.text);
 
+// Items translated without protected-text problems, out of those needing translation.
+function progressOf(tm) {
+  const all = [...UNITS.values()].filter(unit => unit.needs);
+  const done = all.filter(unit => typeof tm[unit.english] === 'string' && tm[unit.english].trim()
+    && !tokenProblems(unit.english, tm[unit.english]).length).length;
+  return {done, total: all.length};
+}
+
 const saveNow = () => {
+  if (!STORAGE_KEY) return;
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify({...state, savedAt: new Date().toISOString()}));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify({...state, savedAt: new Date().toISOString(), summary: progressOf(state.tm)}));
     setSaved('Saved in this browser');
   } catch (error) {
     setSaved('Not saved in this browser: download the ZIP to keep your work', true);
@@ -693,9 +714,90 @@ function unitCard(unit, entry) {
 
 const LANGUAGES = ['bg', 'cs', 'da', 'de', 'el', 'en-GB', 'es', 'et', 'fi', 'fr', 'ga', 'hr', 'hu', 'it', 'lt', 'lv', 'mt', 'nl', 'no', 'pl', 'pt', 'ro', 'sk', 'sl', 'sv', 'tr', 'uk'];
 const NON_LATIN = /^(bg|el|uk|ru|sr|mk|be|ka|hy|he|ar|zh|ja|ko|th|hi)\b/;
-function languageName(code) {
-  try { const name = new Intl.DisplayNames([code], {type: 'language'}).of(code); return name.charAt(0).toLocaleUpperCase(code) + name.slice(1); }
-  catch { return ''; }
+const languageName = Workspaces.languageName;
+const languageCodes = () => h('datalist', {id: 'language-codes'},
+  LANGUAGES.filter(code => code !== 'en-GB').map(code => h('option', {value: code}, languageName(code))));
+const editorLink = (language, fresh) => Workspaces.editorLink(location.pathname, language, fresh);
+
+/** Open a language's workspace, asking first when this browser already has work for it. */
+async function openLanguage(language, {fresh = false} = {}) {
+  if (fresh && Workspaces.read(Workspaces.key(PACKAGE.name, PACKAGE.source_commit, language))) {
+    const choice = await dialog(`You already have a ${Workspaces.label(language, languageName(language))} translation here`, [
+      h('p', {text: 'Continue it, or start over? Starting over removes the work saved in this browser for this language. Download its ZIP first if you might need it.'}),
+    ], [['Cancel', null], ['Start over', 'fresh'], ['Continue', 'continue']]);
+    if (!choice) return;
+    fresh = choice === 'fresh';
+  }
+  location.href = editorLink(language, fresh);
+}
+
+function renderChooser(main) {
+  main.replaceChildren();
+  const saved = Workspaces.list(PACKAGE.name, PACKAGE.source_commit);
+  const savedLanguages = new Set(saved.map(item => item.language));
+  const percent = ({done, total}) => total ? Math.round(100 * done / total) + '%' : '';
+  main.append(h('h1', {text: `Translate the ${MODELS.join(' and ')} user guides`}),
+    h('p', {class: 'intro', text: `English version ${PACKAGE.source_version}. Choose a translation. Your work is saved in this browser on this computer; download its ZIP to keep a copy or send it to Sliger.`}));
+
+  main.append(h('h2', {text: 'Continue a translation saved in this browser'}));
+  if (!saved.length) main.append(h('p', {class: 'intro', text: 'None yet.'}));
+  for (const item of saved) {
+    main.append(h('div', {class: 'choice'},
+      h('div', {}, h('strong', {text: Workspaces.label(item.language, item.name)}),
+        h('div', {class: 'hint', text: [item.summary ? `${item.summary.done} of ${item.summary.total} items (${percent(item.summary)})` : '',
+          item.savedAt ? 'saved ' + new Date(item.savedAt).toLocaleString() : ''].filter(Boolean).join(' · ')})),
+      h('div', {class: 'choice-actions'},
+        h('button', {type: 'button', class: 'link', onclick: async () => {
+          const ok = await dialog('Remove from this browser?', [h('p', {text: `This deletes the ${Workspaces.label(item.language, item.name)} work saved in this browser. Download its ZIP first if you need it.`})],
+            [['Cancel', false], ['Remove', true]]);
+          if (ok) { Workspaces.remove(PACKAGE.name, PACKAGE.source_commit, item.language); renderChooser(main); }
+        }}, 'Remove'),
+        h('a', {class: 'button primary', href: editorLink(item.language)}, 'Continue'))));
+  }
+
+  const memories = Object.entries(DATA.memories).filter(([language]) => !savedLanguages.has(language));
+  if (memories.length) {
+    main.append(h('h2', {text: 'Edit a translation Sliger already has'}),
+      h('p', {class: 'intro', text: 'Starts from the approved translation; only new or changed English text is left to translate.'}));
+    for (const [language, memory] of memories) {
+      const coverage = progressOf(memory.entries);
+      main.append(h('div', {class: 'choice'},
+        h('div', {}, h('strong', {text: Workspaces.label(language, memory.language_name)}),
+          h('div', {class: 'hint', text: `${coverage.done} of ${coverage.total} items translated (${percent(coverage)})`})),
+        h('div', {class: 'choice-actions'}, h('a', {class: 'button primary', href: editorLink(language)}, 'Edit'))));
+    }
+  }
+
+  main.append(h('h2', {text: 'Start a new translation'}));
+  const input = h('input', {list: 'language-codes', autocomplete: 'off', spellcheck: 'false', placeholder: 'Language code, e.g. de', 'aria-label': 'Language code'});
+  const name = h('span', {class: 'hint'}), error = h('div', {class: 'problems'});
+  input.addEventListener('input', () => { name.textContent = languageName(input.value.trim()); error.textContent = ''; });
+  const start = () => {
+    const code = input.value.trim();
+    if (!Workspaces.valid(code) || code === Workspaces.UNDETERMINED)
+      return void (error.textContent = 'Enter a language code such as de, fr, it, es, nl or pl (not en).');
+    openLanguage(code, {fresh: true});
+  };
+  input.addEventListener('keydown', event => { if (event.key === 'Enter') start(); });
+  main.append(h('div', {class: 'choice'}, h('div', {}, input, ' ', name, error),
+    h('div', {class: 'choice-actions'}, h('button', {type: 'button', class: 'primary', onclick: start}, 'Start'))), languageCodes());
+  main.append(h('p', {class: 'intro'}, 'Have a ZIP from this editor? Use ', h('b', {}, 'Open ZIP…'), ' above: it opens as the translation for its language.'));
+}
+
+/** Give work migrated without a language its language: move it to that language's workspace. */
+async function assignLanguage(code) {
+  if (!Workspaces.valid(code) || code === Workspaces.UNDETERMINED) return false;
+  const target = Workspaces.key(PACKAGE.name, PACKAGE.source_commit, code);
+  if (Workspaces.read(target)) {
+    await dialog('That language already has a translation here', [h('p', {text: `Continue or remove the existing ${Workspaces.label(code)} translation first (Translations…).`})], [['OK', true]]);
+    return false;
+  }
+  state.job.target_language = code;
+  state.job.target_language_name ||= languageName(code);
+  localStorage.setItem(target, JSON.stringify({...state, savedAt: new Date().toISOString(), summary: progressOf(state.tm)}));
+  localStorage.removeItem(STORAGE_KEY);
+  location.href = editorLink(code);
+  return true;
 }
 
 function renderProject(main) {
@@ -703,23 +805,20 @@ function renderProject(main) {
   const field = (key, label, hint, control) => {
     control.id = 'job-' + key;
     control.value = job[key] || '';
-    control.addEventListener('input', () => {
-      job[key] = control.value.trim();
-      if (key === 'target_language') {
-        const name = languageName(job.target_language);
-        const nameField = document.getElementById('job-target_language_name');
-        if (name && (!job.target_language_name || job.target_language_name === state.ui.autoName)) {
-          job.target_language_name = nameField.value = state.ui.autoName = name;
-        }
-        fontWarning.hidden = !NON_LATIN.test(job.target_language);
-        schedulePreview();
-      }
-      save();
-    });
+    control.addEventListener('input', () => { job[key] = control.value.trim(); save(); });
     return [h('label', {for: control.id, text: label}), control, hint ? h('div', {class: 'hint', text: hint}) : null];
   };
-  const codes = h('datalist', {id: 'language-codes'}, LANGUAGES.map(code => h('option', {value: code}, languageName(code))));
-  const fontWarning = h('div', {class: 'notice bad', hidden: !NON_LATIN.test(job.target_language || '')},
+  let languageField;
+  if (LANGUAGE === Workspaces.UNDETERMINED) {
+    const input = h('input', {list: 'language-codes', autocomplete: 'off', spellcheck: 'false', id: 'job-target_language'});
+    languageField = [h('label', {for: input.id, text: 'Language code'}),
+      h('div', {}, input, ' ', h('button', {type: 'button', onclick: () => assignLanguage(input.value.trim())}, 'Set language')),
+      h('div', {class: 'hint', text: 'This work was saved before translations had their own language. Set its language once, for example de.'})];
+  } else {
+    languageField = [h('label', {text: 'Language'}), h('div', {class: 'fixed-value'}, Workspaces.label(LANGUAGE, job.target_language_name), ' ',
+      h('a', {href: location.pathname}, 'Choose another translation')), null];
+  }
+  const fontWarning = h('div', {class: 'notice bad', hidden: !NON_LATIN.test(LANGUAGE || '')},
     'The manual typeface only covers Latin alphabets. This language will print in a substitute font: tell Sliger before publishing.');
   const all = [...UNITS.values()].filter(unit => unit.needs);
   const done = all.filter(unit => unitStatus(unit.english) === 'done').length;
@@ -733,12 +832,12 @@ function renderProject(main) {
       h('li', {}, 'Text shared by both manuals only needs translating once. Most S640 pages fill in from your S630 work.'),
       h('li', {}, h('b', {}, 'Download ZIP for Sliger'), ' regularly as a backup, and send the final ZIP to Sliger. ', h('b', {}, 'Create PDF'), ' makes a printable manual from your translation.')),
     h('div', {class: 'form'},
-      ...field('target_language', 'Language code', 'For example de, fr, it, es, nl, pl.', h('input', {list: 'language-codes', autocomplete: 'off', spellcheck: 'false'})),
+      ...languageField,
       ...field('target_language_name', 'Language name', 'In the language itself, for example Deutsch.', h('input', {})),
       ...field('translator', 'Translator', 'Name and company.', h('input', {})),
       ...field('reviewer', 'Reviewer', 'Native-language reviewer who checked terminology and technical meaning.', h('input', {})),
       ...field('notes', 'Notes for Sliger', 'Terminology questions, text intentionally left in English, layout concerns, or illustrations that need localized text.', h('textarea', {}))),
-    codes, fontWarning,
+    languageCodes(), fontWarning,
     h('p', {class: 'intro', text: `Progress: ${done} of ${all.length} items translated.`}),
     h('p', {}, h('button', {type: 'button', class: 'primary', onclick: () => select(NAV[1].key)}, 'Start translating →')));
 }
@@ -890,18 +989,31 @@ async function openPackage(file) {
   } catch (error) { skipped.push(MEMORY_FILE + ' (not valid JSON)'); }
   let job = {};
   try { job = JSON.parse(decode('translation/job.json') || '{}'); } catch { /* keep current details */ }
-  const existing = Object.keys(state.tm).length;
+  // A ZIP always opens as the translation for its own language, never into another one.
+  const target = Workspaces.valid(job.target_language) ? job.target_language : (LANGUAGE || Workspaces.UNDETERMINED);
+  const here = target === LANGUAGE;
+  const targetKey = Workspaces.key(PACKAGE.name, PACKAGE.source_commit, target);
+  const targetState = here ? state : (Workspaces.read(targetKey) || {job: {...DATA.job}, tm: {}, ui: {}});
+  const existing = Object.keys(targetState.tm || {}).length;
+  const label = Workspaces.label(target, job.target_language_name || targetState.job?.target_language_name);
   const proceed = await dialog('Open translation ZIP', [
-    h('p', {text: `Found ${plural(Object.keys(found).length, 'translated item')}${job.target_language ? ` (${job.target_language})` : ''}.`}),
-    existing ? h('p', {text: `This browser already has ${plural(existing, 'translated item')}. Items in the ZIP replace matching ones; others are kept.`}) : null,
+    h('p', {text: `Found ${plural(Object.keys(found).length, 'translated item')} for the ${label} translation.`}),
+    !here && LANGUAGE ? h('p', {text: `It opens as your ${label} translation, not the one you are working on now.`}) : null,
+    existing ? h('p', {text: `This browser already has ${plural(existing, 'translated item')} for ${label}. Items in the ZIP replace matching ones; others are kept.`}) : null,
     conflicts ? h('p', {text: `${plural(conflicts, 'passage')} had different translations in different places; the first one was used.`}) : null,
     skipped.length ? h('div', {}, h('p', {text: 'Not imported:'}), h('pre', {text: skipped.join('\n')})) : null,
   ], [['Cancel', false], ['Import', true]]);
   if (!proceed) return;
-  Object.assign(state.tm, found);
-  for (const key of Object.keys(DATA.job)) if (job[key]) state.job[key] = job[key];
-  saveNow();
-  renderNav(); renderMain(); renderPreviews();
+  targetState.tm = {...(targetState.tm || {}), ...found};
+  targetState.job = {...DATA.job, ...(targetState.job || {})};
+  for (const key of Object.keys(DATA.job)) if (job[key]) targetState.job[key] = job[key];
+  if (here) {
+    saveNow();
+    renderNav(); renderMain(); renderPreviews();
+  } else {
+    localStorage.setItem(targetKey, JSON.stringify({...targetState, ui: targetState.ui || {}, savedAt: new Date().toISOString(), summary: progressOf(targetState.tm)}));
+    location.href = editorLink(target);
+  }
 }
 
 // ---------------------------------------------------------------- PDF
@@ -963,12 +1075,19 @@ function setMode(mode) {
 
 // ---------------------------------------------------------------- start
 async function start() {
-  document.getElementById('package-name').textContent = `${DATA.package.name.replace(/-en$/, '')} · English source ${DATA.package.source_version}`;
+  document.getElementById('package-name').textContent = `${DATA.package.name.replace(/-en$/, '')} · English source ${DATA.package.source_version}` +
+    (LANGUAGE ? ' · ' + Workspaces.label(LANGUAGE, state.job.target_language_name) : '');
   document.getElementById('btn-open').addEventListener('click', () => document.getElementById('file-open').click());
   document.getElementById('file-open').addEventListener('change', event => { const file = event.target.files[0]; event.target.value = ''; if (file) openPackage(file); });
+  document.getElementById('btn-translations').href = location.pathname;
+  document.getElementById('btn-help').addEventListener('click', showHelp);
+  if (!LANGUAGE) {  // Choose or start a translation; nothing to edit or preview yet.
+    document.body.classList.add('choosing');
+    renderChooser(document.getElementById('editor'));
+    return;
+  }
   document.getElementById('btn-download').addEventListener('click', downloadPackage);
   document.getElementById('btn-pdf').addEventListener('click', createPdf);
-  document.getElementById('btn-help').addEventListener('click', showHelp);
   for (const button of document.querySelectorAll('.toggle button')) button.addEventListener('click', () => setMode(button.dataset.mode));
   window.addEventListener('beforeunload', saveNow);
   window.addEventListener('resize', debounce(fitPreviews, 100));
@@ -983,7 +1102,7 @@ async function start() {
   showPreviewFor();
 }
 // Used by scripts/translation_editor_check.py.
-window.translationEditor = {state, UNITS, MD, previews, packageFiles, makeZip, renderPreviews, tokenRanges, tokenProblems, select};
+window.translationEditor = {state, UNITS, MD, previews, packageFiles, makeZip, renderPreviews, tokenRanges, tokenProblems, select, language: LANGUAGE};
 start().catch(error => {
   console.error(error);
   document.getElementById('editor').prepend(h('div', {class: 'notice bad', text: 'The editor could not start: ' + error.message}));

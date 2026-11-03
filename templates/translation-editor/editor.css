@@ -11,6 +11,20 @@ button.primary { background: var(--accent); border-color: var(--accent); color: 
 button.primary:hover { background: #b92e32; }
 button:focus-visible, textarea:focus-visible, input:focus-visible, select:focus-visible, a:focus-visible { outline: 3px solid var(--focus); outline-offset: 1px; }
 button.link { border: 0; background: none; padding: 0; color: var(--focus); text-decoration: underline; }
+a.button { display: inline-block; font: inherit; padding: .4em .85em; border: 1px solid var(--line); border-radius: 6px; background: white; color: var(--ink); text-decoration: none; }
+a.button:hover { border-color: #9aa5ad; }
+a.button.primary { background: var(--accent); border-color: var(--accent); color: white; font-weight: 600; }
+
+/* Choosing a translation: no page list, preview or translation actions yet. */
+body.choosing .layout { grid-template-columns: 1fr; }
+body.choosing #nav, body.choosing #preview, body.choosing .progress, body.choosing #btn-download,
+body.choosing #btn-pdf, body.choosing #btn-translations { display: none; }
+body.choosing #editor { max-width: 860px; width: 100%; margin: 0 auto; }
+.choice { display: flex; align-items: center; justify-content: space-between; gap: 14px; background: white; border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; margin: 8px 0; }
+.choice input { font: inherit; padding: 6px 8px; border: 1px solid #b9c2c8; border-radius: 4px; width: 14em; }
+.choice .hint { color: var(--muted); font-size: .85em; }
+.choice-actions { display: flex; gap: 12px; align-items: center; flex: none; }
+.fixed-value { padding-top: 6px; }
 
 .topbar { display: flex; align-items: center; gap: 18px; padding: 8px 16px; background: white; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
 .brand { display: flex; align-items: center; gap: 12px; font-weight: 600; }

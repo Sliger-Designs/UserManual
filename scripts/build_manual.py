@@ -16,7 +16,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__.split('\n\n')[0])
     parser.add_argument('--model', default='CX3150a', choices=sorted(MODEL_CATEGORIES))
     parser.add_argument('--browser', default=shutil.which('chromium') or shutil.which('google-chrome'),
-                        help='Chromium executable (default: one on PATH, else Playwright''s bundled Chromium)')
+                        help="Chromium executable (default: one on PATH, else Playwright's bundled Chromium)")
     parser.add_argument('--public-preview', action='store_true', help='Build customer-facing SFF PDFs without marking them released')
     source = parser.add_mutually_exclusive_group()
     source.add_argument('--translation', type=Path, metavar='PACKAGE',
