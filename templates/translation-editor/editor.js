@@ -737,7 +737,7 @@ function renderChooser(main) {
   const savedLanguages = new Set(saved.map(item => item.language));
   const percent = ({done, total}) => total ? Math.round(100 * done / total) + '%' : '';
   main.append(h('h1', {text: `Translate the ${MODELS.join(' and ')} user guides`}),
-    h('p', {class: 'intro', text: `English version ${PACKAGE.source_version}. Choose a translation. Your work is saved in this browser on this computer; download its ZIP to keep a copy or send it to Sliger.`}));
+    h('p', {class: 'intro', text: `English version ${PACKAGE.source_version}. Choose a translation. Work is saved only in this browser on this computer: it isn't available from another computer or browser, and clearing your browser data deletes it. To move your work or send it to Sliger, download its ZIP.`}));
 
   main.append(h('h2', {text: 'Continue a translation saved in this browser'}));
   if (!saved.length) main.append(h('p', {class: 'intro', text: 'None yet.'}));
@@ -824,7 +824,7 @@ function renderProject(main) {
   const done = all.filter(unit => unitStatus(unit.english) === 'done').length;
   main.append(
     h('h1', {text: `Translate the ${MODELS.join(' and ')} user guides`}),
-    h('p', {class: 'intro', text: `Version ${DATA.package.source_version}. Your work stays on this computer and is saved automatically in this browser.`}),
+    h('p', {class: 'intro', text: `Version ${DATA.package.source_version}. Your work is saved automatically, only in this browser on this computer. Download the ZIP to move it to another computer or browser.`}),
     h('ol', {class: 'steps'},
       h('li', {}, 'Fill in the details below.'),
       h('li', {}, 'Work through the pages on the left. Type each translation under its English text. The preview on the right shows the real page as you type.'),
