@@ -1,0 +1,324 @@
+{
+  "model": "S640",
+  "source": "Sliger internal image library (not public)",
+  "inventory_date": "2026-10-28",
+  "originals_modified": false,
+  "items": [
+    {
+      "id": "s640-c3bf63437205",
+      "original_filename": "1Default.jpg",
+      "local_path": "illustrations/desktop/S640/1Default.jpg",
+      "sha256": "c3bf634372053ee1d39d949839d335816c2989392ff43aad04b286c49df3fd3c",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s640-c8d8623ca327",
+      "original_filename": "2StandardOrientationPanels.jpg",
+      "local_path": "illustrations/desktop/S640/2StandardOrientationPanels.jpg",
+      "sha256": "c8d8623ca3274cff50fd1ad4b968d0f826655ab29ff8fd75efd30cd7b280cbee",
+      "dimensions_px": [
+        3000,
+        3000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S640/2StandardOrientationPanels-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s640-4669e45d1e86",
+      "original_filename": "3.1_ioShieldInstall.jpg",
+      "local_path": "illustrations/desktop/S640/3.1_ioShieldInstall.jpg",
+      "sha256": "4669e45d1e8666302c8bd6eb3ce901809ba5e5be78044d978cc62a2f5734239d",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s640-b2cbcd86d10b",
+      "original_filename": "3.1_moboinstall..jpg",
+      "local_path": "illustrations/desktop/S640/3.1_moboinstall..jpg",
+      "sha256": "b2cbcd86d10be74bfe8853b83ae7fac4abec5cf32d99e675de5816596ac65e08",
+      "dimensions_px": [
+        2079,
+        1174
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s640-2db2d945cdd4",
+      "original_filename": "3.1_standoffInstall.jpg",
+      "local_path": "illustrations/desktop/S640/3.1_standoffInstall.jpg",
+      "sha256": "2db2d945cdd438b716f577590d49ac11026daa0587fccaf28b6605ce9a596346",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s640-fafd1d374e24",
+      "original_filename": "3.3_ATXBracketInstall.jpg",
+      "local_path": "illustrations/desktop/S640/3.3_ATXBracketInstall.jpg",
+      "sha256": "fafd1d374e246a94a8ffa4ecdf58733b31d58cde69bc20b8e1efecf950b4487a",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s640-c97a8ee20f06",
+      "original_filename": "3.3_SFXBracketInstall.jpg",
+      "local_path": "illustrations/desktop/S640/3.3_SFXBracketInstall.jpg",
+      "sha256": "c97a8ee20f0650bf5b168609aba7b8130f892243c1dfc833f154d6b8c519955f",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s640-182dfe49063b",
+      "original_filename": "3FlippedOrientationPanels.jpg",
+      "local_path": "illustrations/desktop/S640/3FlippedOrientationPanels.jpg",
+      "sha256": "182dfe49063b6ebed67b87adc92b000823ffa2461af053d6260c9991b553ac8d",
+      "dimensions_px": [
+        3000,
+        3000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S640/3FlippedOrientationPanels-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s640-ef10fc6a0690",
+      "original_filename": "3FlippedOrientationPanels.png",
+      "local_path": "illustrations/desktop/S640/3FlippedOrientationPanels.png",
+      "sha256": "ef10fc6a06909b23d9e2af905a1132e18d432d50a4e5d81adc0a2f8525e2f14c",
+      "dimensions_px": [
+        3000,
+        3000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s640-5187e98b7cb9",
+      "original_filename": "4AioMountingLocations.jpg",
+      "local_path": "illustrations/desktop/S640/4AioMountingLocations.jpg",
+      "sha256": "5187e98b7cb94031163d60f41547bdb9219531c9f2d5dc9e6068c020c71e5773",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S640/4AioMountingLocations-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s640-3bc425bf7e0b",
+      "original_filename": "5FanMountingLocations.jpg",
+      "local_path": "illustrations/desktop/S640/5FanMountingLocations.jpg",
+      "sha256": "3bc425bf7e0b43852b2e6dc1e2aacea7153c8d21a964423128ba9b55103a45e1",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S640/5FanMountingLocations-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s640-105a1064bc80",
+      "original_filename": "6ATXMountingLocations1.jpg",
+      "local_path": "illustrations/desktop/S640/6ATXMountingLocations1.jpg",
+      "sha256": "105a1064bc80decd2cc972700dd59b954bfc4666accd62cf5476e8154a077f3c",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S640/6ATXMountingLocations1-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s640-f3e3fd33d848",
+      "original_filename": "7ATXMountingLocations2.jpg",
+      "local_path": "illustrations/desktop/S640/7ATXMountingLocations2.jpg",
+      "sha256": "f3e3fd33d848a34f6f83d57be4ba430de84b98ed9ef6f57a8b59b7b7d34e5559",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S640/7ATXMountingLocations2-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s640-ef2300f12185",
+      "original_filename": "8SFXMountingLocations1.jpg",
+      "local_path": "illustrations/desktop/S640/8SFXMountingLocations1.jpg",
+      "sha256": "ef2300f12185a7811765b29f04a0d0f088894982b93fd0ffa32ea8f85a150039",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S640/8SFXMountingLocations1-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s640-b36593eca46f",
+      "original_filename": "9SFXMountingLocations2.jpg",
+      "local_path": "illustrations/desktop/S640/9SFXMountingLocations2.jpg",
+      "sha256": "b36593eca46fb22ead32097227580bbacb471cda2e9d57aeb6d60c7f93253ae6",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S640/9SFXMountingLocations2-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s640-b7c13883d64b",
+      "original_filename": "2.2_FPIORemoval_Step1.jpg",
+      "local_path": "illustrations/desktop/S640/2.2_FPIORemoval_Step1.jpg",
+      "sha256": "b7c13883d64b9125bb789139ab2e30a523c5c4b5a0216c0ccb0bbaa54e22a6c6",
+      "dimensions_px": [
+        2079,
+        1174
+      ],
+      "selection_status": "selected_needs_final_review",
+      "note": "Owner supplied as S640 FPIO source, 2026-10-28; byte-identical to the matching staged S630 source."
+    },
+    {
+      "id": "s640-4ace8912c11d",
+      "original_filename": "_S640B_IO.png",
+      "local_path": "illustrations/desktop/S640/_S640B_IO.png",
+      "sha256": "4ace8912c11d4a29759446844d47e64e1183eb33c278231a8d9e943b075c5996",
+      "dimensions_px": [
+        366,
+        762
+      ],
+      "selection_status": "selected_needs_final_review",
+      "note": "Owner-supplied close-up replacement, 2026-10-28; displayed at the shared rackmount FPIO scale.",
+      "supersedes_source_sha256": "58fae754b0ff19b4f1420f3282729ec59002f962211f3359e79d86d28e6fa3a3"
+    },
+    {
+      "id": "s640-70abb9434367",
+      "original_filename": "3.4_PCIeinstall.jpg",
+      "local_path": "illustrations/desktop/S640/3.4_PCIeinstall.jpg",
+      "sha256": "70abb9434367a8d6a0b097836fd04567d1dbb2568fc50cd6062402082322d492",
+      "dimensions_px": [
+        2079,
+        1174
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s640-e81b415e69cf",
+      "original_filename": "_S640_Esplode.jpg",
+      "local_path": "illustrations/desktop/S640/_S640_Esplode.jpg",
+      "sha256": "e81b415e69cf1162ac1e5d92cd313e5e7f0769957a78d6c40a9b29b1c7f7b641",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s640-d48b24f1e5b9",
+      "original_filename": "_S640_BG_3.2-SideFanBracketInstall.jpg",
+      "local_path": "illustrations/desktop/S640/_S640_BG_3.2-SideFanBracketInstall.jpg",
+      "sha256": "d48b24f1e5b9594b8402f3d4f7142d225ca8d61b0dbc93f51c5288a76e693680",
+      "dimensions_px": [
+        2079,
+        1174
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "note": "Owner-supplied side fan bracket installation render; requested placement after motherboard installation and before cooling, 2026-11-02."
+    },
+    {
+      "id": "s640-fda291f6814e",
+      "original_filename": "_S640_swtichoptions.jpg",
+      "local_path": "illustrations/desktop/S640/_S640_swtichoptions.jpg",
+      "sha256": "fda291f6814eb5d8928970a7bd36626b08ec2d3e286450af3ef8c1269dc2e532",
+      "dimensions_px": [
+        2079,
+        1174
+      ],
+      "selection_status": "owner_selected_switch_position_render_2026-11-02"
+    }
+  ],
+  "inventory_updated_at": "2026-10-30"
+}

@@ -1,0 +1,14 @@
+{
+  "asset_key": "3.4_PCIeinstall.jpg",
+  "source_sha256": "8be5cb9fdc4d4b241ffd89ca2419e45f19fec3221418c43d5b00045750efc174",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7716535433070866,
+  "view_box": [
+    0.19,
+    0.02,
+    0.81,
+    0.98
+  ],
+  "callouts": [],
+  "review_status": "Tighter vector framing for larger manual illustrations; original source pixels unchanged."
+}

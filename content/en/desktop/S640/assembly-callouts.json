@@ -1,0 +1,95 @@
+{
+  "asset_key": "_S640_Esplode.jpg",
+  "source_sha256": "e81b415e69cf1162ac1e5d92cd313e5e7f0769957a78d6c40a9b29b1c7f7b641",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7716535433070866,
+  "badge_radius_height_fraction": 0.026,
+  "font_size_height_fraction": 0.036,
+  "review_status": "Initial assembly overlay located against supplied model artwork; final visual review required.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Chassis frame",
+      "target": [
+        0.54,
+        0.66
+      ],
+      "badge": [
+        0.83,
+        0.79
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Front panel",
+      "target": [
+        0.65,
+        0.56
+      ],
+      "badge": [
+        0.83,
+        0.53
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Side panels",
+      "target": [
+        0.37,
+        0.55
+      ],
+      "badge": [
+        0.12,
+        0.58
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Front I/O assembly",
+      "target": [
+        0.59,
+        0.265
+      ],
+      "badge": [
+        0.83,
+        0.18
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Top panel",
+      "target": [
+        0.45,
+        0.17
+      ],
+      "badge": [
+        0.2,
+        0.075
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Bottom panel",
+      "target": [
+        0.47,
+        0.87
+      ],
+      "badge": [
+        0.2,
+        0.94
+      ]
+    },
+    {
+      "number": 7,
+      "label": "Side fan bracket",
+      "target": [
+        0.535,
+        0.42
+      ],
+      "badge": [
+        0.12,
+        0.3
+      ]
+    }
+  ]
+}

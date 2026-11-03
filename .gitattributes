@@ -1,0 +1,2 @@
+# Translation packages are checksummed snapshots: keep their bytes exactly as committed.
+translation-packages/** -text

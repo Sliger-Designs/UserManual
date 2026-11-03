@@ -1,0 +1,48 @@
+{
+  "asset_key": "_S630B_IO.png",
+  "source_sha256": "4ace8912c11d4a29759446844d47e64e1183eb33c278231a8d9e943b075c5996",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 0.48031496062992124,
+  "right_padding_fraction": 0.4,
+  "badge_radius_height_fraction": 0.029,
+  "font_size_height_fraction": 0.04,
+  "review_status": "Visually relocated against the replacement portrait crop. Uses the same displayed height, padding and badge proportions as 3U/4U FPIO.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Power switch and status light",
+      "target": [
+        0.817,
+        0.4974
+      ],
+      "badge": [
+        1.2,
+        0.4974
+      ]
+    },
+    {
+      "number": 2,
+      "label": "USB Type-A",
+      "target": [
+        0.746,
+        0.2743
+      ],
+      "badge": [
+        1.2,
+        0.2743
+      ]
+    },
+    {
+      "number": 3,
+      "label": "USB Type-C",
+      "target": [
+        0.727,
+        0.7179
+      ],
+      "badge": [
+        1.2,
+        0.7179
+      ]
+    }
+  ]
+}

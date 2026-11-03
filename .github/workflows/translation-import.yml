@@ -1,0 +1,81 @@
+name: Import translation
+
+# A translator attaches the editor's ZIP to a "Return a translation" issue. A maintainer
+# adds the label `import-translation`; this validates the ZIP, imports it into
+# translations/<lang>/memory.json, builds the manuals it completes, and opens a PR.
+# The issue text is untrusted: it is only passed to scripts/ci.py through the environment.
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: translation-import-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  import:
+    if: github.event.label.name == 'import-translation'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      ISSUE: ${{ github.event.issue.number }}
+      RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+
+      - name: Install Python packages and Chromium
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Import the attached ZIP
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/ci.py import-issue --issue "$ISSUE" --output _build/ci
+
+      - name: Upload translated PDFs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: translation-issue-${{ github.event.issue.number }}
+          path: _build/ci
+          retention-days: 30
+          if-no-files-found: ignore
+
+      - name: Open pull request
+        run: |
+          language=$(python -c "import json; print(json.load(open('_build/ci/import.json'))['language'])")
+          branch="translation/$language-issue-$ISSUE"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add translations
+          if git diff --cached --quiet; then
+            gh issue comment "$ISSUE" --body "This ZIP adds nothing new to \`translations/$language\`. Details: $RUN_URL"
+            exit 0
+          fi
+          git commit -q -m "Import $language translation from #$ISSUE"
+          git push -q --force origin "$branch"
+          printf '\n\nTranslated PDFs: %s (run artifact). Checks do not start automatically on pull requests opened by this workflow; push a commit or close and reopen to run them.\n' "$RUN_URL" >> _build/ci/result.md
+          url=$(gh pr view "$branch" --json url --jq .url 2>/dev/null || gh pr create --base main --head "$branch" --title "Import $language translation from #$ISSUE" --body-file _build/ci/result.md)
+          gh issue comment "$ISSUE" --body "Imported into a pull request for review: $url"
+
+      - name: Report a failed import
+        if: failure()
+        run: |
+          if [ -f _build/ci/result.md ]; then body=$(cat _build/ci/result.md); else body="The import failed."; fi
+          gh issue comment "$ISSUE" --body "$body
+
+          Details: $RUN_URL"

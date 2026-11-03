@@ -1,0 +1,54 @@
+{
+  "asset_key": "common/front-io/CX3U a FPIO.png",
+  "source_sha256": "0f0b9830110255ca5b49cbfe9cc4b62c5bd3a7adfb581b4c466168794a14b631",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 0.6594202898550725,
+  "right_padding_fraction": 0.4,
+  "badge_radius_height_fraction": 0.029,
+  "font_size_height_fraction": 0.04,
+  "review_status": "Visually located against the owner-supplied clean FPIO render; review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Power switch and status light",
+      "target": [
+        0.766,
+        0.255
+      ],
+      "badge": [
+        1.2,
+        0.255
+      ]
+    },
+    {
+      "number": 2,
+      "label": "USB Type-A ports",
+      "targets": [
+        [
+          0.745,
+          0.5236
+        ],
+        [
+          0.745,
+          0.6395
+        ]
+      ],
+      "badge": [
+        1.2,
+        0.58155
+      ]
+    },
+    {
+      "number": 3,
+      "label": "USB Type-C",
+      "target": [
+        0.72,
+        0.757
+      ],
+      "badge": [
+        1.2,
+        0.757
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "reference-3b47f8e7bcd1",
+      "asset_key": "reference/CX3150a/exploded-numbered.png",
+      "original_filename": "exploded-numbered.png",
+      "local_path": "illustrations/reference/CX3150a/exploded-numbered.png",
+      "width_px": 1890,
+      "height_px": 678,
+      "size_bytes": 420594,
+      "sha256": "f4267e15fe96eff658d1a41b70f86f3100ac70e1d0e0993e0b8523d9abe25624",
+      "selection_status": "candidate",
+      "reference": {
+        "path": "sources/original/cx3150a-reference.pdf",
+        "sha256": "3b2231634e3fe2220f7375ea4aef6b7fe6e381070785a50c6eb399a494e05169",
+        "page": 3,
+        "clip_pt": [
+          94,
+          126,
+          724,
+          352
+        ],
+        "render_scale": 3
+      }
+    },
+    {
+      "id": "reference-0681ceeaeab4",
+      "asset_key": "reference/CX3150a/side-profile.png",
+      "original_filename": "side-profile.png",
+      "local_path": "illustrations/reference/CX3150a/side-profile.png",
+      "width_px": 888,
+      "height_px": 309,
+      "size_bytes": 1538,
+      "sha256": "742b9fd311c477a4c210fab28acd9ed6e1666d1560ebcab550e9ee6cda35459f",
+      "selection_status": "candidate",
+      "reference": {
+        "path": "sources/original/cx3150a-reference.pdf",
+        "sha256": "3b2231634e3fe2220f7375ea4aef6b7fe6e381070785a50c6eb399a494e05169",
+        "page": 4,
+        "clip_pt": [
+          61,
+          158,
+          357,
+          261
+        ],
+        "render_scale": 3
+      }
+    },
+    {
+      "id": "reference-5e184a527d17",
+      "asset_key": "reference/CX3150a/front-profile.png",
+      "original_filename": "front-profile.png",
+      "local_path": "illustrations/reference/CX3150a/front-profile.png",
+      "width_px": 1017,
+      "height_px": 309,
+      "size_bytes": 246890,
+      "sha256": "3d26001ebc6d869b2a79b2d75b50530324fd6056e1cc596955570593484e88c4",
+      "selection_status": "candidate",
+      "reference": {
+        "path": "sources/original/cx3150a-reference.pdf",
+        "sha256": "3b2231634e3fe2220f7375ea4aef6b7fe6e381070785a50c6eb399a494e05169",
+        "page": 4,
+        "clip_pt": [
+          364,
+          158,
+          703,
+          261
+        ],
+        "render_scale": 3
+      }
+    },
+    {
+      "id": "reference-f5853d343a7b",
+      "asset_key": "reference/CX3150a/front-ports-numbered.png",
+      "original_filename": "front-ports-numbered.png",
+      "local_path": "illustrations/reference/CX3150a/front-ports-numbered.png",
+      "width_px": 693,
+      "height_px": 621,
+      "size_bytes": 99442,
+      "sha256": "696c1e5a79fe722b8cc943b0054af4f51c0e58c7aa0bb15add3044401be5b831",
+      "selection_status": "candidate",
+      "reference": {
+        "path": "sources/original/cx3150a-reference.pdf",
+        "sha256": "3b2231634e3fe2220f7375ea4aef6b7fe6e381070785a50c6eb399a494e05169",
+        "page": 6,
+        "clip_pt": [
+          60,
+          285,
+          291,
+          492
+        ],
+        "render_scale": 3
+      }
+    },
+    {
+      "id": "reference-a2869775f048",
+      "asset_key": "common/hardware/slot-covers-reference.png",
+      "original_filename": "slot-covers-reference.png",
+      "local_path": "illustrations/common/hardware/slot-covers-reference.png",
+      "width_px": 209,
+      "height_px": 79,
+      "size_bytes": 14976,
+      "sha256": "59b3711abad60742aa5c60e1d402d5567a3c831f7eb5b954c280250cc70a664a",
+      "selection_status": "candidate",
+      "reference": {
+        "path": "sources/original/cx3150a-reference.pdf",
+        "sha256": "3b2231634e3fe2220f7375ea4aef6b7fe6e381070785a50c6eb399a494e05169",
+        "page": 5,
+        "image_xref": 54,
+        "soft_mask_xref": 563
+      }
+    },
+    {
+      "id": "reference-726ad99f8643",
+      "asset_key": "common/hardware/rack-ears-reference.png",
+      "original_filename": "rack-ears-reference.png",
+      "local_path": "illustrations/common/hardware/rack-ears-reference.png",
+      "width_px": 197,
+      "height_px": 127,
+      "size_bytes": 26098,
+      "sha256": "25be4c289bdd719656df731bcb8961a4deabdc8e8aa8e68ae81bcc428efc1eaa",
+      "selection_status": "candidate",
+      "reference": {
+        "path": "sources/original/cx3150a-reference.pdf",
+        "sha256": "3b2231634e3fe2220f7375ea4aef6b7fe6e381070785a50c6eb399a494e05169",
+        "page": 5,
+        "image_xref": 55,
+        "soft_mask_xref": 564
+      }
+    },
+    {
+      "id": "reference-622ace0e05bd",
+      "asset_key": "common/hardware/pull-handles-reference.png",
+      "original_filename": "pull-handles-reference.png",
+      "local_path": "illustrations/common/hardware/pull-handles-reference.png",
+      "width_px": 234,
+      "height_px": 118,
+      "size_bytes": 25657,
+      "sha256": "d47628abfe5acb1211edd8d5dcd329086b34592af628b3fa1f8b9c1598f60817",
+      "selection_status": "candidate",
+      "reference": {
+        "path": "sources/original/cx3150a-reference.pdf",
+        "sha256": "3b2231634e3fe2220f7375ea4aef6b7fe6e381070785a50c6eb399a494e05169",
+        "page": 5,
+        "image_xref": 56,
+        "soft_mask_xref": 565
+      }
+    },
+    {
+      "id": "reference-1c9c5801db8f",
+      "asset_key": "common/icons/MadeInUSA-reference.png",
+      "original_filename": "MadeInUSA-reference.png",
+      "local_path": "illustrations/common/icons/MadeInUSA-reference.png",
+      "width_px": 309,
+      "height_px": 285,
+      "size_bytes": 34034,
+      "sha256": "e8a3ae7ba71e39a4b26f43ec97657e9fb74835bff0784a5f3c59b61f5b2d2925",
+      "selection_status": "candidate",
+      "reference": {
+        "path": "sources/original/cx3150a-reference.pdf",
+        "sha256": "3b2231634e3fe2220f7375ea4aef6b7fe6e381070785a50c6eb399a494e05169",
+        "page": 21,
+        "image_xref": 141,
+        "soft_mask_xref": 678
+      }
+    }
+  ]
+}

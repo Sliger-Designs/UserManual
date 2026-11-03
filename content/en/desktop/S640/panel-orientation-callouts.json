@@ -1,0 +1,39 @@
+{
+  "asset_key": "_S640_swtichoptions.jpg",
+  "source_sha256": "fda291f6814eb5d8928970a7bd36626b08ec2d3e286450af3ef8c1269dc2e532",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7708688245315163,
+  "view_box": [
+    0.06,
+    0.045,
+    0.8,
+    0.89
+  ],
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Standard I/O assembly position",
+      "target": [
+        0.115,
+        0.58
+      ],
+      "badge": [
+        0.09,
+        0.36
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Alternative I/O assembly position",
+      "target": [
+        0.7,
+        0.73
+      ],
+      "badge": [
+        0.81,
+        0.78
+      ]
+    }
+  ],
+  "review_status": "Owner-supplied single render showing both alternative I/O positions; replaces the previous multi-source composition."
+}

@@ -1,0 +1,467 @@
+PAGE 1
+ENGLISH
+CX3150a
+1
+15" DEEP 3U CHASSIS
+
+
+PAGE 2
+TABLE OF CONTENTS 
+VERSION 1.0
+2
+1. PRODUCT INFORMATION
+1.1 Exploded View
+1.2 Dimensions and Specifications
+1.3 Hardware Kit
+2. COMPONENTS & PORTS
+2.1 Connectors and Ports
+2.2 Lid Removal
+2.3 Faceplate Removal
+2.4 Tray Removal
+2.5 Rack Ear / Pull Handle Install
+3. COMPONENT INSTALLATION
+3.1 Fan / AIO installation
+3.2 Motherboard Installation
+3.3 Power Supply Installation
+3.4 GPU / PCIe Card Installation
+3.5 SSD Installation
+3.6 Motherboard Tray Installation
+3.7 Cable Management
+4. APPENDIX
+4.1 Warranty Policy
+4.2 Support and Service
+4.3 Regulatory Compliance
+
+
+PAGE 3
+1.1 EXPLODED VIEW
+CX3150a
+3
+2
+NO.
+PART NAME
+1
+Chassis Lid
+2
+Subfront (Fan / AIO install on Pg 13)
+3
+Filter Foam
+4
+Faceplate
+5
+Hardware Kit (See Pg 05)
+3
+6
+7
+8
+5
+4
+NO.
+PART NAME
+6
+Motherboard Tray
+7
+Chassis Wrap
+8
+Rack Ear (Installation, Pg 11)
+9
+Pull Handle (Installation Optional, Pg 11)
+10
+Front IO Assembly
+9
+1
+10
+
+
+PAGE 4
+1.2 DIMENSIONS AND SPECIFICATIONS
+CX3150a
+4
+15.04in / 382mm 
+17in  / 431.8mm 
+5.2in / 132.75mm 
+MOTHERBOARD SUPPORT
+PSU SUPPORT
+STORAGE SUPPORT
+GPU / PCIe CARD SUPPORT
+Maximum card height: 
+CPU COOLER SUPPORT
+Maximum card length with
+Air Coolers up to
+Maximum card length with
+Maximum card length with
+Maximum card length with no fans / no AIO cooler:
+FAN SUPPORT
+Front:
+FRONT PANEL IO
+Rear: 
+1x 16mm momentary power button with status light
+FRONT BAYS
+17in / 431.8mm
+15.04in / 382mm
+5.2in / 132.5mm
+Front
+Side
+SSI-CEB, EATX, ATX, MicroATX, MiniITX
+SFX or SFX-L form factor
+Mounting locations for: 1x 2.5" SSD
+115mm - including power connectors
+8x Full Height Slots
+three(3) Noctua A12x25 fans: 324mm
+360mm AIO and three(3) Noctua A12x25 fans: 296mm
+349
+1x 360mm or 1x 240mm or 2x 120mm Liquid Coolers
+3x 120mm up to 38mm thick
+Optional PCIe fan adapters
+none
+1x USB 3.2 Type C 10Gbps, 2x USB 3.0 Type A
+360mm AIO and six(6) Noctua A12x25 fans: 270mm
+*The above lists total mounting locations. Not every mounting location can be always be used simultaneously.
+110mm Tall
+
+
+PAGE 5
+1.3 HARDWARE KIT
+CX3150a
+5
+A. HEX SCREW 6-32 x 0.25"
+x
+F. SCREW M4 x 7mm
+x
+Motherboard, PSU, HDDs, PCIe Accessories
+Rack Ears and Pull Handles
+B. SCREW M3.5 x 5mm
+x
+G. SLOT COVERS
+x
+2.5" SSDs, some 3.5" accessories
+Covers unused PCIe Slots
+C. STANDOFF 6-32 x 0.125", 0.25" LENGTH
+x
+H. RACK EARS
+1x pair
+Must be installed into Motherboard tray
+Secures Chassis to Rack
+D. SCREW M3 x 6mm
+x
+I. PULL HANDLES
+1x pair
+2.5" SSDs, some 3.5" accessories
+Makes pulling Chassis out from rack easier
+E. HEX SCREW 6-32 x 0.187"
+x
+J. Crumpled Brown Paper
+Motherboard Tray, Subfront, internal brackets
+Used to fill the void in the box
+FPIO bracket
+45
+10
+20
+16
+10
+7
+8
+
+
+PAGE 6
+2.1 CONNECTORS AND PORTS
+CX3150a
+6
+NO.
+PART NAME
+1
+Momentary Power Switch w/ Status Light
+2
+USB 3.0 Type A
+3
+USB 3.2 Type C
+1
+2
+3
+USB 3.2 Type C 
+USB 3.2 GEN 1 Type A
+Power Switch
+
+
+PAGE 7
+2.2 LID REMOVAL
+CX3150a
+Step 1
+Remove the two screws (A) along
+the top edge of the case that
+secure the lid to the motherboard
+tray. 
+Step 2
+Once the screws are removed,
+push the lid firmly towards the
+rear of the case.  
+Step 3
+Ensure the metal flanges on the
+lid have disengaged from the
+slots on the chassis. Pull the lid
+up and away from the case. 
+A
+7
+
+
+PAGE 8
+2.3 FACEPLATE REMOVAL
+CX3150a
+To remove the faceplate, pull on the left side handle of the
+faceplate until the pins disengage (approximately ½ inch). 
+Once the pins have disengaged from the sub-front, gently pull
+on the right side to fully remove the faceplate and dust filter. 
+8
+
+
+PAGE 9
+2.4 OPTIONAL TRAY REMOVAL
+CX3150a
+Removing your motherboard tray can make
+component installation easier. Remove the
+four screws (E) (two per side) that secure
+the rear panel of the motherboard tray to
+the chassis.
+Once these screws have been removed, push
+back against the bottom of the motherboard
+tray until the six round metal tabs have
+disengaged. Only pull the tray upward.
+E
+9
+
+
+PAGE 10
+2.5 RACK EAR / PULL HANDLE INSTALL
+CX3150a
+Stack the rack ears (H) on top of the pull
+handles (I), with the handle facing away
+from the faceplate. Thread six total M4
+thread screws (F) (three per side) through
+the rack ears and pull handles into the
+chassis and tighten. 
+*The rack ears can also be used on their
+own without the pull handles.
+F
+I
+H
+10
+
+
+PAGE 11
+3.1 FAN / AIO INSTALLATION
+CX3150a
+Align each 120mm fan with the twelve total
+mounting points on the subfront (four per fan).
+Thread the self-tapping fan screws (included
+with your fans) through the subfront and into the
+fans. Tighten to prevent vibration during
+operation. 
+Place three 120mm fans between the subfront
+and your 360mm AIO radiator. Thread radiator
+mounting screws through the fan mounting
+points on the subfront, through the fans, and
+into the radiator. Fan screws must be removed
+prior to radiator installation. Align fans and the
+radiator to the mounting points on the subfront
+(twelve total) to prevent damaging the radiator
+during installation.
+11
+
+
+PAGE 12
+3.2 MOTHERBOARD INSTALLATION
+CX3150a
+Step 1
+Install black hex standoffs (C) into the
+threaded mounting points on the
+motherboard tray. 
+Your exact quantity and positioning of
+these standoffs will depend on your
+motherboard.
+Step 2
+Verify you have the IO shield oriented correctly
+prior to installation. Place it inside the horizontal
+rectangular cutout in the rear panel of the
+motherboard tray. Press the IO shield firmly to
+secure (if your motherboard comes with an
+integrated IO shield, skip this step).
+C
+12
+
+
+PAGE 13
+C
+3.2 MOTHERBOARD INSTALLATION
+CX3150a
+Step 3
+Place your motherboard onto the hex
+standoffs (C). Thread yellow patched 6-32
+thread screws (A) through the mounting
+holes of the motherboard into the black hex
+standoffs. Tighten by hand to prevent
+damaging your motherboard, and to reduce
+the chance of the standoffs loosening
+during future removal. 
+A
+13
+
+
+PAGE 14
+Place your SFX or SFX-L power supply
+into the motherboard tray, and orient the
+PSU fan towards the wall of the case.
+Install yellow patched 6-32 thread
+screws (A) through the motherboard
+tray and into the power supply to secure.
+The intake fan of your PSU may be
+oriented towards the chassis wall or
+motherboard, depending on your
+brand/Model. 
+A
+3.3 POWER SUPPLY INSTALLATION
+CX3150a
+14
+
+
+PAGE 15
+A
+3.4 GPU / PCIe INSTALLATION
+CX3150a
+Ensure the PCIe slot latch on your
+motherboard is open/down. Check your
+motherboard’s manual to match the
+correct PCIe slot with your accessory
+card. Slowly lower the card, while aligning
+the connections. Apply gentle downward
+pressure until you hear a click. Secure the
+card with yellow patched 6-32 screws (A)
+through the card’s mounting bracket and
+into the motherboard tray. 
+Populate any empty slots
+with the included slot
+covers (H), and secure via
+yellow patched 6-32
+screws (A).
+15
+
+
+PAGE 16
+B
+3.5 SSD INSTALLATION
+CX3150a
+One 2.5” SSD up to 15mm thick
+can be installed between the PSU
+and motherboard IO shield. Place
+the SSD with its ports facing up
+and the bottom facing the power
+supply. Secure it by threading two
+red-patched M3 screws (B)
+through the motherboard tray into
+the SSD (tighten by hand to avoid
+damage).
+The Model is designed to be used with M.2 NVMe SSDs. Please refer to your motherboard’s user manual for M.2 slot
+locations and installation information.
+16
+
+
+PAGE 17
+3.6 TRAY INSTALLATION
+CX3150a
+Slide the fully assembled motherboard tray forward
+into the case. Lift gently as you push to avoid
+catching the tray’s front on the metal tabs located
+on the bottom of the chassis. 
+Push forward until all six metal
+tabs on the bottom of the
+chassis are fully seated into the
+motherboard tray, and the
+motherboard rear panel sits flush
+with the back of the chassis.
+Thread four green patched 6-32
+threads screws (D) (two per side)
+through the chassis and into the
+motherboard tray to secure. 
+D
+17
+
+
+PAGE 18
+3.7 CABLE MANAGEMENT
+CX3150a
+Route your cables (FPIO, PCIe, fan, 24-Pin, etc.) along
+the front edge of the cable management bar located
+along the front of the motherboard tray (highlighted
+in green). Secure tightly with zip ties, cable ties, etc.
+Excess cable slack should be bundled directly behind
+the power supply. If you are removing the
+motherboard tray, ensure your cables are not tied
+down. 
+18
+
+
+PAGE 19
+4.1 WARRANTY POLICY
+CX3150a
+SUPPORT AND SERVICE
+Sliger Designs LLC ("Sliger") warrants its Products, if properly used and installed, against defects
+in material and workmanship for the period stated on the product specifications. Under normal
+use and service, every hardware portion of the products will be free from physical defects in
+material and workmanship during the warranty period (excludes normal wear and tear), or the
+product will be repaired or replaced as determined solely by Sliger. 
+For full warranty and RMA policy visit : https://www.sliger.com/support/warranty_and_rma/
+19
+Website: 
+Support Email: 
+Phone Number: 
+Hours of Operation: 
+sliger.com
+orders@sliger.com
+1 775 356 5595 
+8a - 5:30p MST
+
+
+PAGE 20
+4.2 SUPPORT AND SERVICE
+CX3150a
+SUPPORT AND SERVICE
+If you have any questions or problems with the Sliger product you purchased, please don’t
+hesitate to contact us via email or phone. Please include a detailed explanation of your problem
+and your order number. 
+For comments and suggestions, you can e-mail our design team, orders@sliger.com. 
+Lastly we would like to thank you for your support by purchasing this product. 
+For more information about Sliger Designs, please visit us online. 
+20
+Website: 
+Support Email: 
+Phone Number: 
+Hours of Operation: 
+sliger.com
+orders@sliger.com
+1 775 356 5595 
+8a - 5:30p MST
+
+
+PAGE 21
+4.3 REGULATIONS
+CX3150a
+21
+To the best of our knowledge, all computer chassis manufactured by Sliger Designs, LLC adhere to
+ROHS, REACH, and Conflict Minerals regulations. All Sliger products are produced in the United
+States of America and primarily utilize materials sourced domestically.
+ROHS STATEMENT
+This product is compliant to implemented RoHS (Restriction of Hazardous Substances) type
+regulations worldwide, including but not limited to China, India, Japan, Korea and European Union.
+REACH STATEMENT
+REACH (Registration, Evaluation, Authorization and Restriction of Chemicals, EC 1907/2006) is
+the European Union's (EU) chemical substances regulatory framework. REACH requires Sliger
+Designs, LLC to provide customers with sufficient information on Substances of Very High
+Concern (SVHC) contained in products in concentration above 0.1% weight by weight (w/w) to
+allow safe use of the product.
+Certificates of Compliance are available upon request.
+
+
+PAGE 22
+4.4 MANUAL REVISION HISTORY
+CX3150a
+Version 1.0 2025/04/01
+22

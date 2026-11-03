@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="{{ manual.language }}">
+<head><meta charset="utf-8"><title>{{ manual.model }} · {{ t('User guide', 'browser document title') }} · {{ manual.revision }}</title>
+<style>{{ css }}</style></head>
+<body>
+{% macro reference_image(img) %}{% if img.get('svg') %}{{ img.svg }}{% else %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endif %}{% endmacro %}
+{% macro hardware_chips(entries, page_number=None) %}{% if entries %}<div class="figure-hardware">{% for entry in entries %}<a href="#hardware-{{ entry.letter }}" data-hardware-color="{{ entry.color|default('neutral') }}"><b>{{ entry.letter }}</b>{% if entry.color is defined %} {{ t(entry.color|capitalize, 'hardware chip color; translate display text, keep internal color key', page_number) }}{% endif %}</a>{% endfor %}</div>{% endif %}{% endmacro %}
+{% for page in pages %}{% set page_number = loop.index %}
+<section class="page {{ page.layout }}{% if manual.family|default('') == 'sff' %} sff{% endif %}{% if page.get('illustration_size') == 'large' %} illustrations-large{% endif %}{% if page.layout == 'sff-cover' %} cover{% endif %}{% if page.layout in ('cover', 'sff-cover') %} cover-format-{{ manual.cover_format|default('landscape') }}{% endif %}" id="{{ page.id }}">
+{% if page.layout in ('cover', 'sff-cover') %}
+ <div class="cover-brand"><img class="brand-logo" src="{{ logo_src }}" alt="Sliger"></div>
+ <div class="cover-edition">{{ manual.revision }} · {{ manual.status }}</div>
+ {% if page.images %}<img class="cover-image" src="{{ page.images[0].src }}" alt="{{ page.images[0].alt }}">{% endif %}
+ <div class="cover-banner" aria-hidden="true"></div>
+ <div class="cover-copy"><h1>{{ manual.model }}</h1><p>{{ manual.cover_description }}</p></div>
+ <div class="language-tag">{{ manual.language_label }}</div>
+{% else %}
+ <header><div><div class="eyebrow">{{ page.section }}</div><h1>{{ page.title }}</h1></div><span class="model">{{ manual.model }}</span></header>
+ <div class="page-body">
+ {% if page.layout == 'paired-procedure' %}
+ {% if page.get('intro_html') %}<div class="paired-intro">{{ page.intro_html }}</div>{% endif %}
+ <div class="paired-steps paired-steps-{{ page.steps|length }}">{% for step in page.steps %}
+ <div class="paired-step{% if step.images|length == 2 %} paired-step-wide{% endif %}"><article>{{ step.html }}</article><div class="paired-images paired-images-{{ step.images|length }}">{% for img in step.images %}<figure>{{ reference_image(img) }}{{ hardware_chips(img.get('hardware_items', []), page_number) }}<figcaption>{{ img.caption }}</figcaption></figure>{% else %}<div class="asset-gap">{{ step.get('illustration_pending', 'Reference render pending') }}</div>{% endfor %}</div></div>
+ {% endfor %}</div>
+ {% elif page.layout == 'sff-gallery' %}
+ <div class="sff-gallery-grid sff-gallery-{{ page.images|length }}">{% for img in page.images %}<figure><img src="{{ img.src }}" alt="{{ img.alt }}"><figcaption>{{ img.caption }}</figcaption></figure>{% endfor %}</div>
+ <article class="sff-board-caption">{{ page.html }}</article>
+ {% elif page.layout == 'sff-board' %}
+ <img class="sff-reference-board" src="{{ page.images[0].src }}" alt="{{ page.images[0].alt }}">
+ <article class="sff-board-caption">{{ page.html }}</article>
+ {% elif page.layout == 'contents' %}
+ <div class="intro">{{ page.html }}</div>
+ <nav aria-label="{{ t('Table of contents', 'contents accessibility label', page_number) }}">{% for item in pages[2:] %}<a href="#{{ item.id }}"><span>{{ item.title }}</span><b>{{ loop.index + 2 }}</b></a>{% endfor %}</nav>
+ {% elif page.layout == 'hardware-key' %}
+ <div class="catalog-intro">{{ page.html.split('</p>', 1)[0] }}</p></div>
+ <div class="key-grid{% if manual.family|default('') == 'sff' %} key-grid-sff{% endif %}" style="--hardware-rows:{{ ((page.hardware_items|length) / 2)|round(0, 'ceil')|int }}">{% for entry in page.hardware_items %}
+ <article class="key-entry{% if entry.details %} key-entry-details{% endif %}" id="hardware-{{ entry.letter }}">
+ <div class="key-copy"><h3><span class="key-letter" data-hardware-color="{{ entry.color|default('neutral') }}">{{ entry.letter }}</span> {{ entry.name }}</h3>
+ <p>{% if entry.color is defined %}<strong>{% if entry.color_label is defined %}{{ entry.color_label }}{% else %}{{ t((entry.color|capitalize) ~ '-marked', 'hardware key patch-color label', page_number) }}{% endif %}</strong> · {% endif %}{{ entry.description }}</p></div>
+ <span class="key-quantity">{% if entry.quantity %}{{ entry.quantity_display }}{% endif %}</span>
+ {% if entry.illustration %}<div class="key-gallery{% if entry.get('large_image') %} key-gallery-large{% endif %}">{% for image in entry.details %}<img src="{{ image.src }}" alt="{{ entry.letter }}: {{ entry.name }} {{ t('detail', 'hardware image accessibility suffix', page_number) }}">{% endfor %}<img class="key-color-view" src="{{ entry.illustration.src }}" alt="{{ entry.letter }}: {{ entry.name }}"></div>{% elif entry.get('artwork_pending') or entry.letter in ("H", "I") %}<span class="key-artwork-pending">{{ entry.get('artwork_pending', 'Artwork pending') }}</span>{% endif %}
+ </article>{% endfor %}</div>
+ <div class="catalog-note">{{ page.html.split('</p>', 1)[1] }}</div>
+ {% elif page.layout == 'exploded' %}
+ {% if page.images %}<img class="exploded-diagram" src="{{ page.images[0].src }}" alt="{{ t('Numbered exploded view of chassis assemblies 1–10', 'exploded view description for screen readers', page_number) }}">{% else %}<div class="asset-gap exploded-diagram">Exploded-view illustration pending</div>{% endif %}
+ <article>{{ page.html }}</article>
+ {% elif page.layout == 'dimensions' %}
+ {% if not page.images %}<div class="asset-gap dimension-gap">Model-specific side and front dimension drawings pending</div>{% endif %}
+ <div class="dimension-grid">
+ {% for img in page.images %}<figure class="dimension-figure"><div class="dimension-width">{% if loop.first %}{{ outer.depth }} mm / {{ manual.nominal_dimensions_in.depth }} in{% else %}{{ outer.width }} mm / {{ manual.nominal_dimensions_in.width }} in{% endif %}</div>
+ <img src="{{ img.src }}" alt="{% if loop.first %}{{ t('Side view', 'dimension drawing description', page_number) }}{% else %}{{ t('Front view', 'dimension drawing description', page_number) }}{% endif %}">
+ {% if loop.last %}<div class="dimension-height">{{ outer.height }} mm / {{ manual.nominal_dimensions_in.height }} in</div>{% endif %}
+ <figcaption>{% if loop.first %}{{ t('Side · depth', 'dimension drawing caption', page_number) }}{% else %}{{ t('Front · width and height', 'dimension drawing caption', page_number) }}{% endif %}</figcaption></figure>{% endfor %}
+ </div><article class="dimension-notes">{{ page.html }}</article>
+ {% elif page.layout == 'reference-drawing' %}
+ <img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}"><article>{{ page.html }}</article>
+ {% elif page.layout == 'regulations' %}
+ <div class="regulatory-icons">{% for img in page.images %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endfor %}</div>
+ <article>{{ page.html }}</article>
+ {% elif page.layout == 'front-io' %}
+ <div class="io-layout">
+ <figure class="io-location">{% if page.get("port_diagram_pending") %}<div class="asset-gap port-gap">Numbered front-panel location illustration pending</div>{% else %}{{ reference_image(page.images[0]) }}{% endif %}</figure>
+ <div class="io-reference">
+ <div class="io-connectors">{% for card in page.cards %}<figure class="io-connector"><img src="{{ card.image.src }}" alt="{{ card.image.alt }}"><figcaption>{{ card.title }}</figcaption></figure>{% endfor %}</div>
+ <article class="io-legend"><table><thead><tr><th>{{ t('No.', 'front I/O table heading', page_number) }}</th><th>{{ t('Port / connection', 'front I/O table heading', page_number) }}</th></tr></thead><tbody>{% for card in page.cards %}<tr><td>{{ loop.index }}</td><td><strong>{{ card.title }}</strong>{{ card.description_html }}</td></tr>{% endfor %}</tbody></table></article>
+ <div class="io-note">{{ page.html }}</div>
+ </div></div>
+ {% elif page.layout == 'illustrated-cards' %}
+ <div class="catalog-intro">{{ page.html }}</div>
+ <div class="card-grid cards-{{ page.cards|length }}">{% for card in page.cards %}
+ <article class="illustration-card">{% if card.image.review and card.image.review.status == "withheld" %}<div class="withheld-illustration">{{ card.image.review.message }}</div>{% else %}<img src="{{ card.image.src }}" alt="{{ card.image.alt }}">{% endif %}<div>{{ card.html }}</div></article>
+ {% endfor %}</div>
+ {% if page.id == 'hardware' %}<p class="catalog-note">Prototype review: confirm kit quantities, screw specifications, and final callout letters before release. Illustrations are not to scale. Fan and radiator fasteners are supplied with the cooling components.</p>{% endif %}
+ {% elif page.layout == 'procedure' %}
+ <div class="visuals count-{{ page.images|length }}">{% for img in page.images %}<figure><img src="{{ img.src }}" alt="{{ img.alt }}">{% if page.figure_keys[loop.index0] %}<div class="figure-hardware">{% for entry in page.figure_keys[loop.index0] %}<a href="#hardware-{{ entry.letter }}" data-hardware-color="{{ entry.color|default('neutral') }}"><b>{{ entry.letter }}</b>{% if entry.color is defined %} {{ t(entry.color|capitalize, 'hardware chip color; translate display text, keep internal color key', page_number) }}{% endif %}</a>{% endfor %}</div>{% endif %}{% if page.images|length > 1 %}<figcaption>{{ loop.index }}</figcaption>{% endif %}</figure>{% endfor %}</div>
+ <article>{{ page.html }}</article>
+ {% else %}<article>{{ page.html }}</article>{% if page.get("illustration_pending") %}<div class="asset-gap text-gap">{{ page.illustration_pending }}</div>{% endif %}{% endif %}
+ </div>
+{% endif %}
+<footer><span class="footer-brand"><img src="{{ logo_src }}" alt="Sliger"> <i>/</i> {{ manual.model }} <i>/</i> {{ manual.language_label }}</span><span>{{ manual.revision }} · {{ manual.status }}</span><b>{{ loop.index|string|zfill(2) }}</b></footer>
+</section>
+{% endfor %}
+</body></html>

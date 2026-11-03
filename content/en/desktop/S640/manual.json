@@ -1,0 +1,497 @@
+{
+  "model": "S640",
+  "language": "en",
+  "language_label": "ENGLISH",
+  "revision": "v1.0",
+  "status": "User guide",
+  "family": "sff",
+  "release_ready": true,
+  "canva_design_id": "DAHCQfir_rE",
+  "pages": [
+    {
+      "id": "cover",
+      "title": "S640",
+      "section": "USER GUIDE",
+      "source": "cover.md",
+      "layout": "sff-cover",
+      "images": []
+    },
+    {
+      "id": "contents",
+      "title": "In this guide",
+      "section": "START HERE",
+      "source": "../../shared/sff/contents.md",
+      "layout": "contents"
+    },
+    {
+      "id": "exploded-original",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "exploded-original.md",
+          "images": [
+            "_S640_Esplode.jpg"
+          ],
+          "image_captions": {
+            "_S640_Esplode.jpg": "S640 chassis assemblies"
+          },
+          "image_annotations": {
+            "_S640_Esplode.jpg": "assembly-callouts.json"
+          }
+        }
+      ]
+    },
+    {
+      "id": "specifications",
+      "title": "Compatibility & supported mounting options",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "specifications.md",
+      "layout": "specifications"
+    },
+    {
+      "id": "dimensions",
+      "title": "Dimensions & card clearance",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "dimensions.md",
+      "layout": "text"
+    },
+    {
+      "id": "hardware",
+      "title": "Hardware kit",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/sff/hardware.md",
+      "layout": "hardware-key"
+    },
+    {
+      "id": "ports",
+      "title": "Front ports & connections",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/sff/front-ports.md",
+      "layout": "front-io",
+      "images": [
+        "_S640B_IO.png",
+        "common/front-io/PowerAndLED_greyscale.png",
+        "common/front-io/20pinUSB3_greyscale.png",
+        "common/front-io/TypeEUSBC_greyscale.png"
+      ],
+      "image_captions": {
+        "_S640B_IO.png": "Power/status switch, USB Type-A and USB Type-C"
+      },
+      "image_annotations": {
+        "_S640B_IO.png": "io-callouts.json"
+      }
+    },
+    {
+      "id": "panel-removal",
+      "title": "Remove panels & choose orientation",
+      "section": "02 / CHASSIS ACCESS",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "../../shared/sff/panel-access.md",
+          "images": [
+            "_S640_swtichoptions.jpg"
+          ],
+          "image_captions": {
+            "_S640_swtichoptions.jpg": "One I/O assembly: choose position 1 or 2"
+          },
+          "image_annotations": {
+            "_S640_swtichoptions.jpg": "panel-orientation-callouts.json"
+          }
+        }
+      ]
+    },
+    {
+      "id": "front-io-access",
+      "title": "Relocate the front I/O assembly",
+      "section": "02 / CHASSIS ACCESS",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "../../shared/sff/io-access.md",
+          "images": [
+            "2.2_FPIORemoval_Step1.jpg"
+          ],
+          "image_captions": {
+            "2.2_FPIORemoval_Step1.jpg": "S640 front I/O block removal"
+          },
+          "hardware_callouts": [
+            [
+              "D"
+            ]
+          ],
+          "image_annotations": {
+            "2.2_FPIORemoval_Step1.jpg": "io-relocation-framing.json"
+          }
+        }
+      ]
+    },
+    {
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard mounting points",
+      "section": "03 / COMPONENT INSTALLATION",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "../../shared/sff/motherboard-prepare.md",
+          "images": [
+            "3.1_standoffInstall.jpg",
+            "3.1_ioShieldInstall.jpg"
+          ],
+          "image_captions": {
+            "3.1_standoffInstall.jpg": "Standoff installation",
+            "3.1_ioShieldInstall.jpg": "Separate I/O shield"
+          },
+          "hardware_callouts": [
+            [
+              "C"
+            ],
+            []
+          ],
+          "image_annotations": {
+            "3.1_standoffInstall.jpg": "31_standoffinstall-framing.json",
+            "3.1_ioShieldInstall.jpg": "31_ioshieldinstall-framing.json"
+          }
+        }
+      ],
+      "illustration_size": "large"
+    },
+    {
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "section": "03 / COMPONENT INSTALLATION",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "../../shared/sff/motherboard-fit.md",
+          "images": [
+            "3.1_moboinstall..jpg"
+          ],
+          "image_captions": {
+            "3.1_moboinstall..jpg": "Motherboard seated on the mounting points"
+          },
+          "hardware_callouts": [
+            [
+              "A",
+              "C"
+            ]
+          ],
+          "image_annotations": {
+            "3.1_moboinstall..jpg": "31_moboinstall-framing.json"
+          }
+        }
+      ],
+      "illustration_size": "large"
+    },
+    {
+      "id": "side-fan-bracket",
+      "title": "Side fan bracket installation",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": [],
+      "layout": "paired-procedure",
+      "steps": [
+        {
+          "source": "../../shared/sff/side-fan-bracket.md",
+          "images": [
+            "_S640_BG_3.2-SideFanBracketInstall.jpg"
+          ],
+          "image_captions": {
+            "_S640_BG_3.2-SideFanBracketInstall.jpg": "S640 side fan brackets; second bracket sold separately"
+          },
+          "hardware_callouts": [
+            [
+              "D"
+            ]
+          ],
+          "image_annotations": {
+            "_S640_BG_3.2-SideFanBracketInstall.jpg": "side-fan-bracket-framing.json"
+          }
+        }
+      ],
+      "illustration_size": "large"
+    },
+    {
+      "id": "cooling",
+      "title": "Install fans & a radiator",
+      "section": "03 / COMPONENT INSTALLATION",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "../../shared/sff/cooling-fit.md",
+          "images": [
+            "4AioMountingLocations.jpg",
+            "5FanMountingLocations.jpg"
+          ],
+          "image_captions": {
+            "4AioMountingLocations.jpg": "Alternative radiator positions",
+            "5FanMountingLocations.jpg": "Alternative fan positions"
+          },
+          "hardware_callouts": [
+            [
+              "D"
+            ],
+            [
+              "D"
+            ]
+          ],
+          "image_annotations": {
+            "4AioMountingLocations.jpg": "cooling-radiator-framing.json",
+            "5FanMountingLocations.jpg": "cooling-fans-framing.json"
+          }
+        }
+      ]
+    },
+    {
+      "id": "power-supply",
+      "title": "Attach the PSU bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "power-supply.md",
+          "images": [
+            "3.3_SFXBracketInstall.jpg",
+            "3.3_ATXBracketInstall.jpg"
+          ],
+          "image_captions": {
+            "3.3_SFXBracketInstall.jpg": "SFX bracket attachment",
+            "3.3_ATXBracketInstall.jpg": "ATX bracket attachment"
+          },
+          "hardware_callouts": [
+            [
+              "A"
+            ],
+            [
+              "A"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "psu-locations",
+      "title": "SFX / SFX-L PSU mounting positions",
+      "section": "03 / COMPONENT INSTALLATION",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "psu-locations.md",
+          "images": [
+            "8SFXMountingLocations1.jpg",
+            "9SFXMountingLocations2.jpg"
+          ],
+          "image_captions": {
+            "8SFXMountingLocations1.jpg": "Alternative SFX positions",
+            "9SFXMountingLocations2.jpg": "Additional SFX position"
+          },
+          "hardware_callouts": [
+            [
+              "D"
+            ],
+            [
+              "D"
+            ]
+          ],
+          "image_annotations": {
+            "8SFXMountingLocations1.jpg": "psu-sfx-positions-framing.json",
+            "9SFXMountingLocations2.jpg": "9sfxmountinglocations2-framing.json"
+          }
+        }
+      ],
+      "illustration_size": "large"
+    },
+    {
+      "id": "psu-locations-additional",
+      "title": "ATX PSU mounting positions",
+      "section": "03 / COMPONENT INSTALLATION",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "psu-atx-locations.md",
+          "images": [
+            "6ATXMountingLocations1.jpg",
+            "7ATXMountingLocations2.jpg"
+          ],
+          "image_captions": {
+            "6ATXMountingLocations1.jpg": "Alternative ATX positions",
+            "7ATXMountingLocations2.jpg": "Additional ATX position"
+          },
+          "hardware_callouts": [
+            [
+              "D"
+            ],
+            [
+              "D"
+            ]
+          ],
+          "image_annotations": {
+            "6ATXMountingLocations1.jpg": "psu-atx-positions-framing.json",
+            "7ATXMountingLocations2.jpg": "7atxmountinglocations2-framing.json"
+          }
+        }
+      ],
+      "illustration_size": "large"
+    },
+    {
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "section": "03 / COMPONENT INSTALLATION",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "gpu-installation.md",
+          "images": [
+            "3.4_PCIeinstall.jpg"
+          ],
+          "image_captions": {
+            "3.4_PCIeinstall.jpg": "S640 PCIe card seating and retention"
+          },
+          "hardware_callouts": [
+            [
+              "A"
+            ]
+          ],
+          "image_annotations": {
+            "3.4_PCIeinstall.jpg": "34_pcieinstall-framing.json"
+          }
+        }
+      ],
+      "illustration_size": "large"
+    },
+    {
+      "id": "storage",
+      "title": "Install 2.5-inch SSDs",
+      "section": "03 / COMPONENT INSTALLATION",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "../../shared/sff/storage.md",
+          "images": [
+            "common/S6xx-storage-kit/S630-425_assy.jpg"
+          ],
+          "image_captions": {
+            "common/S6xx-storage-kit/S630-425_assy.jpg": "Four-SSD bracket assembly"
+          },
+          "hardware_callouts": [
+            [
+              "E",
+              "D"
+            ]
+          ]
+        },
+        {
+          "source": "../../shared/sff/storage-ssd-pair.md",
+          "images": [
+            "common/S6xx-storage-kit/p-5-100013b-assy.jpg"
+          ],
+          "image_captions": {
+            "common/S6xx-storage-kit/p-5-100013b-assy.jpg": "Two-SSD bracket assembly"
+          },
+          "hardware_callouts": [
+            [
+              "E",
+              "B"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage-hdd",
+      "title": "Install 3.5-inch HDDs",
+      "section": "03 / COMPONENT INSTALLATION",
+      "layout": "paired-procedure",
+      "source": [],
+      "steps": [
+        {
+          "source": "../../shared/sff/storage-hdd-single.md",
+          "images": [
+            "common/S6xx-storage-kit/S630-433A-assy_alt.jpg"
+          ],
+          "image_captions": {
+            "common/S6xx-storage-kit/S630-433A-assy_alt.jpg": "One 3.5-inch HDD with a 2.5-inch SSD beneath it"
+          },
+          "hardware_callouts": [
+            [
+              "A",
+              "E",
+              "D"
+            ]
+          ]
+        },
+        {
+          "source": "../../shared/sff/storage-hdd-stack.md",
+          "images": [
+            "common/S6xx-storage-kit/S630_410_assy.jpg"
+          ],
+          "image_captions": {
+            "common/S6xx-storage-kit/S630_410_assy.jpg": "Two 3.5-inch HDDs in the stacked bracket"
+          },
+          "hardware_callouts": [
+            [
+              "A",
+              "D"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reassembly",
+      "title": "Cable routing & reassembly",
+      "section": "04 / REASSEMBLY",
+      "source": "../../shared/sff/reassembly.md",
+      "layout": "sff-copy"
+    },
+    {
+      "id": "support",
+      "title": "Warranty & support",
+      "section": "05 / REFERENCE",
+      "source": [
+        "../../shared/warranty.md",
+        "../../shared/support.md"
+      ],
+      "layout": "reference-columns",
+      "reference_sections": [
+        "4.1",
+        "4.2"
+      ]
+    },
+    {
+      "id": "regulations",
+      "title": "Regulatory compliance",
+      "section": "05 / REFERENCE",
+      "source": "../../shared/regulations.md",
+      "layout": "regulations",
+      "reference_sections": [
+        "4.3"
+      ]
+    },
+    {
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "section": "05 / REFERENCE",
+      "source": "revision-history.md",
+      "layout": "text"
+    }
+  ],
+  "cover_description": "ATX SFF PC Case",
+  "cover_format": "portrait",
+  "canva_snapshot": "sources/canva/2026-10-30/S640-content.json",
+  "publication_preview_revision": "v1.0",
+  "release_date": "2026-11-02",
+  "publication_history_source": "revision-history.md"
+}

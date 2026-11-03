@@ -1,0 +1,14 @@
+{
+  "asset_key": "5FanMountingLocations.jpg",
+  "source_sha256": "3bc425bf7e0b43852b2e6dc1e2aacea7153c8d21a964423128ba9b55103a45e1",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.0,
+  "view_box": [
+    0.2,
+    0.17,
+    0.6,
+    0.68
+  ],
+  "callouts": [],
+  "review_status": "Tighter framing for S640 pages 13 and 15; enlarge the existing render while preserving the full component assembly and source pixels."
+}

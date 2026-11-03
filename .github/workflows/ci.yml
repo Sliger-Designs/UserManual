@@ -1,0 +1,65 @@
+name: Manual checks
+
+# Builds and checks the manuals, translations and translation editors a change affects
+# (scripts/ci.py plan), and attaches the PDFs to the run for review.
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  manuals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+
+      - name: Install Python packages and Chromium
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Plan
+        env:
+          EVENT: ${{ github.event_name }}
+          BASE_REF: ${{ github.base_ref }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          mkdir -p _build
+          if [ "$EVENT" = pull_request ]; then
+            git diff --name-only "origin/$BASE_REF...HEAD" > _build/changed.txt
+            python scripts/ci.py plan --changed _build/changed.txt > _build/plan.json
+          elif [ "$EVENT" = push ] && git cat-file -e "$BEFORE" 2>/dev/null; then
+            git diff --name-only "$BEFORE" HEAD > _build/changed.txt
+            python scripts/ci.py plan --changed _build/changed.txt > _build/plan.json
+          else
+            python scripts/ci.py plan > _build/plan.json
+          fi
+          cat _build/plan.json
+
+      - name: Build and check
+        run: python scripts/ci.py check --plan _build/plan.json --output _build/ci
+
+      - name: Upload PDFs and reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: manuals-${{ github.run_number }}
+          path: _build/ci
+          retention-days: 14
+          if-no-files-found: ignore

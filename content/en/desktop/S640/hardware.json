@@ -1,0 +1,68 @@
+{
+  "source": "sources/canva/2026-10-30/S640-previews/05.png",
+  "status": "Owner-confirmed kit specifications and E measurements. New top/side renders used for A–E; colored views retained. Owner explicitly accepted the different .150-inch standoff as C illustration while retaining the actual .125-inch specification.",
+  "items": [
+    {
+      "letter": "A",
+      "description": "Motherboard, PSU and HDD fasteners. S640 PCIe retention and slot covers.",
+      "image": "common/hardware/YELLOW PATCHED SCREWS.jpg",
+      "detail_images": [
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg"
+      ]
+    },
+    {
+      "letter": "B",
+      "description": "Alternative fastener for the p-5-100013b storage bracket.",
+      "image": "common/hardware/RED PATCHED SCREWS.jpg",
+      "detail_images": [
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_side.jpg"
+      ]
+    },
+    {
+      "letter": "C",
+      "description": "0.25-inch length. Install only beneath motherboard mounting holes.",
+      "image": "common/hardware/BLACK HEX STANDOFFS.jpg",
+      "detail_images": [
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Top.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Side.jpg"
+      ]
+    },
+    {
+      "letter": "D",
+      "description": "PSU/fan brackets, front I/O and S630-prefix storage brackets.",
+      "image": "common/hardware/GREEN PATCHED SCREWS.jpg",
+      "detail_images": [
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg"
+      ]
+    },
+    {
+      "letter": "E",
+      "description": "SSDs; alternative p-5-100013b mounting.",
+      "image": "common/hardware/BLUE PATCHED SCREWS.jpg",
+      "detail_images": [
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_top.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_side.jpg"
+      ]
+    },
+    {
+      "letter": "F",
+      "description": "Five painted covers supplied in the common S630/S640 screw bag.",
+      "image": "common/S6xx-hwkit/blk_CXSC1020A_5x.jpg",
+      "large_image": true
+    },
+    {
+      "letter": "G",
+      "description": "ATX PSU bracket; S630 and S640 support ATX PSUs.",
+      "image": "common/S6xx-hwkit/S6xx_ATXpsuBrkt.png"
+    },
+    {
+      "letter": "H",
+      "description": "Use with SFX / SFX-L power supplies.",
+      "image": "common/S6xx-hwkit/S6xx_SFXpsuBrkt.png"
+    }
+  ],
+  "screwbag": "products/shared/S6xx-hardware.json"
+}

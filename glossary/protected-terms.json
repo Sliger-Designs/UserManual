@@ -1,0 +1,6 @@
+{
+  "description": "Text translators must keep unchanged, checked by scripts/translation_package.py and the browser editor. Model SKUs (scripts/manual_paths.py) and hardware letters (each model's hardware.json) are added automatically. Patterns are regular expressions valid in both Python and JavaScript.",
+  "terms": ["ATX", "EATX", "MicroATX", "Mini-ITX", "SSI-CEB", "SFX", "SFX-L", "CRPS", "PCIe", "USB", "USB-A", "USB-C", "SATA", "M.2"],
+  "part_numbers": ["p-5-100013b", "SBAG-HWKIT"],
+  "patterns": ["M\\d+(?:\\.\\d+)?"]
+}

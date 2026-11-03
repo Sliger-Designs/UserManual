@@ -1,0 +1,62 @@
+{
+  "CX3150a": {
+    "path": "illustrations/published/covers/CX3150a-17ae2d7638b5.jpg",
+    "sha256": "06621ea76c4334c06bf0dc0a2518697edac3ca7299d56db4346e74b94206642c",
+    "source_path": "sources/web/covers/CX3150a-17ae2d7638b5.webp",
+    "source_sha256": "17ae2d7638b522221557d93d2f5b234f76f6de2a0cf43aeca4afae5b072f7bc2",
+    "product_url": "https://sliger.com/products/cx3150a",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/3.webp",
+    "retrieved_at": "2026-10-28T20:27:06.742999+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1200,
+      440
+    ]
+  },
+  "CX4170a": {
+    "path": "illustrations/published/covers/CX4170a-17cc54f1aaeb.jpg",
+    "sha256": "dc52386003ea825bd592097a47ced02bab0a6c7b1d2a5fbe1d667faee3a6d407",
+    "source_path": "sources/web/covers/CX4170a-17cc54f1aaeb.webp",
+    "source_sha256": "17cc54f1aaebbd0e3bdb292b92a7e0022974fc910b731108d1d42bda8379da5a",
+    "product_url": "https://sliger.com/products/cx4170a",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/469.webp",
+    "retrieved_at": "2026-10-28T20:27:07.880260+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      821
+    ]
+  },
+  "S630": {
+    "path": "illustrations/published/covers/S630-f3bee5d4d384.jpg",
+    "sha256": "a43cdf66111ebda2f360f1e67c7714be0a44dfe66873e714887baa43126dd22e",
+    "source_path": "sources/web/covers/S630-f3bee5d4d384.webp",
+    "source_sha256": "f3bee5d4d384443ed66dbe1e2148a74319eed7507860a24d3d662f79e0085dd1",
+    "product_url": "https://sliger.com/products/s630",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1218.webp",
+    "retrieved_at": "2026-10-28T20:27:09.072947+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1891,
+      1800
+    ]
+  },
+  "S640": {
+    "path": "illustrations/published/covers/S640-4c23cc96fa70.jpg",
+    "sha256": "57b54552e48dadb27606a9b3cf3bb44059229d516fc6a5ffce538feb2632c8bb",
+    "source_path": "sources/web/covers/S640-4c23cc96fa70.webp",
+    "source_sha256": "4c23cc96fa70c9f24d2a7b5ff8155a381287a721ce026559089e45b9d84dc1a3",
+    "product_url": "https://sliger.com/products/s640",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1224.webp",
+    "retrieved_at": "2026-10-28T20:27:10.342778+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1804,
+      1800
+    ]
+  }
+}

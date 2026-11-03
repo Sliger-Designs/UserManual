@@ -1,0 +1,39 @@
+{
+  "model": "CX4170a",
+  "status": "needs_review",
+  "source": "Owner-supplied annotated drawings; existing compatibility facts unchanged.",
+  "values": {
+    "psu_space_with_cage_mm": {
+      "value": 191.9,
+      "image": "_CX4170a_ADVANCED_TOP VIEW.jpg"
+    },
+    "psu_space_without_cage_mm": {
+      "value": 269.2,
+      "image": "_CX4170a_ADVANCED_TOP VIEW 2.jpg"
+    },
+    "inside_depth_mm": {
+      "value": 400,
+      "image": "_CX4170a_ADVANCED_TOP VIEW.jpg"
+    },
+    "gpu_with_fans_mm": {
+      "value": 375,
+      "image": "_CX4170a_ADVANCED_TOP VIEW.jpg"
+    },
+    "gpu_with_radiator_mm": {
+      "value": 347.5,
+      "image": "_CX4170a_ADVANCED_TOP VIEW.jpg"
+    },
+    "gpu_with_push_pull_mm": {
+      "value": 323,
+      "image": "_CX4170a_ADVANCED_TOP VIEW 2.jpg"
+    },
+    "gpu_height_mm": {
+      "value": 158.7,
+      "image": "_CX4170a_ADVANCED_FRONT VIEW.jpg"
+    },
+    "cpu_cooler_height_mm": {
+      "value": 154.1,
+      "image": "_CX4170a_ADVANCED_FRONT VIEW.jpg"
+    }
+  }
+}

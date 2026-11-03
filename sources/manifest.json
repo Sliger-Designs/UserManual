@@ -1,0 +1,14 @@
+{
+  "sources": {
+    "compatibility": {
+      "path": "sources/original/compatibility-list.csv",
+      "sha256": "45e88fbe2a27fc287fb015fe868508796d37035b6eb865d0ee266cfeccaa92bd",
+      "row_reference": "Logical CSV record number including header as record 1; not physical line number."
+    },
+    "bulk_create": {
+      "path": "sources/original/bulk-create.csv",
+      "sha256": "737ae8804d5d9da8895223e946b476d840c8e9c9d9e9d9a25cb18970da0d4c97",
+      "row_reference": "Logical CSV record number including header as record 1; not physical line number."
+    }
+  }
+}

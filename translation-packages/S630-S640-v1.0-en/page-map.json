@@ -1,0 +1,376 @@
+{
+  "S630": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "S630",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/shared/sff/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-original",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/desktop/S630/exploded-original.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "specifications",
+      "title": "Compatibility & supported mounting options",
+      "markdown": [
+        "content/en/desktop/S630/specifications.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "dimensions",
+      "title": "Dimensions & card clearance",
+      "markdown": [
+        "content/en/desktop/S630/dimensions.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/sff/hardware.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/sff/front-ports.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "panel-removal",
+      "title": "Remove panels & choose orientation",
+      "markdown": [
+        "content/en/desktop/S630/panel-access.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-io-access",
+      "title": "Relocate the front I/O assembly",
+      "markdown": [
+        "content/en/shared/sff/io-access.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard mounting points",
+      "markdown": [
+        "content/en/shared/sff/motherboard-prepare.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/sff/motherboard-fit.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "side-fan-bracket",
+      "title": "Side fan bracket installation",
+      "markdown": [
+        "content/en/shared/sff/side-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "cooling",
+      "title": "Install fans & a radiator",
+      "markdown": [
+        "content/en/shared/sff/cooling-fit.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "power-supply",
+      "title": "Attach the PSU bracket",
+      "markdown": [
+        "content/en/desktop/S630/power-supply.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "psu-locations",
+      "title": "SFX / SFX-L PSU mounting positions",
+      "markdown": [
+        "content/en/desktop/S630/psu-locations.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "psu-locations-additional",
+      "title": "ATX PSU mounting positions",
+      "markdown": [
+        "content/en/desktop/S630/psu-atx-locations.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/desktop/S630/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "storage",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/sff/storage.md",
+        "content/en/shared/sff/storage-ssd-pair.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "storage-hdd",
+      "title": "Install 3.5-inch HDDs",
+      "markdown": [
+        "content/en/shared/sff/storage-hdd-single.md",
+        "content/en/shared/sff/storage-hdd-stack.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "reassembly",
+      "title": "Cable routing & reassembly",
+      "markdown": [
+        "content/en/shared/sff/reassembly.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "regulations",
+      "title": "Regulatory compliance",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/desktop/S630/revision-history.md"
+      ]
+    }
+  ],
+  "S640": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "S640",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/shared/sff/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-original",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/desktop/S640/exploded-original.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "specifications",
+      "title": "Compatibility & supported mounting options",
+      "markdown": [
+        "content/en/desktop/S640/specifications.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "dimensions",
+      "title": "Dimensions & card clearance",
+      "markdown": [
+        "content/en/desktop/S640/dimensions.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/sff/hardware.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/sff/front-ports.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "panel-removal",
+      "title": "Remove panels & choose orientation",
+      "markdown": [
+        "content/en/shared/sff/panel-access.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-io-access",
+      "title": "Relocate the front I/O assembly",
+      "markdown": [
+        "content/en/shared/sff/io-access.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard mounting points",
+      "markdown": [
+        "content/en/shared/sff/motherboard-prepare.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/sff/motherboard-fit.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "side-fan-bracket",
+      "title": "Side fan bracket installation",
+      "markdown": [
+        "content/en/shared/sff/side-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "cooling",
+      "title": "Install fans & a radiator",
+      "markdown": [
+        "content/en/shared/sff/cooling-fit.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "power-supply",
+      "title": "Attach the PSU bracket",
+      "markdown": [
+        "content/en/desktop/S640/power-supply.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "psu-locations",
+      "title": "SFX / SFX-L PSU mounting positions",
+      "markdown": [
+        "content/en/desktop/S640/psu-locations.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "psu-locations-additional",
+      "title": "ATX PSU mounting positions",
+      "markdown": [
+        "content/en/desktop/S640/psu-atx-locations.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/desktop/S640/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "storage",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/sff/storage.md",
+        "content/en/shared/sff/storage-ssd-pair.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "storage-hdd",
+      "title": "Install 3.5-inch HDDs",
+      "markdown": [
+        "content/en/shared/sff/storage-hdd-single.md",
+        "content/en/shared/sff/storage-hdd-stack.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "reassembly",
+      "title": "Cable routing & reassembly",
+      "markdown": [
+        "content/en/shared/sff/reassembly.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "regulations",
+      "title": "Regulatory compliance",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/desktop/S640/revision-history.md"
+      ]
+    }
+  ]
+}

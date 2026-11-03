@@ -1,0 +1,348 @@
+{
+  "model": "CX3150a",
+  "language": "en",
+  "language_label": "ENGLISH",
+  "revision": "Prototype 0.2",
+  "status": "Technical review draft",
+  "pages": [
+    {
+      "id": "cover",
+      "title": "CX3150a",
+      "section": "USER GUIDE",
+      "source": "cover.md",
+      "images": [
+        "_CX3150a_rendering.jpg"
+      ],
+      "layout": "cover"
+    },
+    {
+      "id": "contents",
+      "title": "In this guide",
+      "section": "START HERE",
+      "source": "contents.md",
+      "images": [],
+      "layout": "contents"
+    },
+    {
+      "id": "exploded-view",
+      "title": "Exploded view",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "reference/CX3150a/exploded-numbered.png"
+      ],
+      "layout": "exploded"
+    },
+    {
+      "id": "dimensions",
+      "title": "Outer dimensions",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "dimensions.md",
+      "images": [
+        "reference/CX3150a/side-profile.png",
+        "reference/CX3150a/front-profile.png"
+      ],
+      "layout": "dimensions"
+    },
+    {
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "specifications.md",
+      "images": [],
+      "layout": "specifications"
+    },
+    {
+      "id": "hardware",
+      "title": "Hardware kit",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/hardware.md",
+      "images": [
+        "common/hardware/YELLOW PATCHED SCREWS.jpg",
+        "common/hardware/RED PATCHED SCREWS.jpg",
+        "common/hardware/BLACK HEX STANDOFFS.jpg",
+        "common/hardware/BLUE PATCHED SCREWS.jpg",
+        "common/hardware/GREEN PATCHED SCREWS.jpg",
+        "common/hardware/M4 THREAD SCREWS.jpg",
+        "common/hardware/slot-covers-reference.png",
+        "common/hardware/rack-ears-reference.png",
+        "common/hardware/pull-handles-reference.png",
+        "common/hardware/YELLOW PATCHED SCREWS_TOP.png",
+        "common/hardware/YELLOW PATCHED SCREWS_SIDE.png",
+        "common/hardware/RED PATCHED SCREWS_TOP.png",
+        "common/hardware/RED PATCHED SCREWS_SIDE.png",
+        "common/hardware/BLACK HEX STANDOFFS_TOP.png",
+        "common/hardware/BLACK HEX STANDOFFS_SIDE.png",
+        "common/hardware/BLUE PATCHED SCREWS_TOP.png",
+        "common/hardware/BLUE PATCHED SCREWS_SIDE.png",
+        "common/hardware/GREEN PATCHED SCREWS_TOP.png",
+        "common/hardware/GREEN PATCHED SCREWS_SIDE.png",
+        "common/hardware/M4 THREAD SCREWS_TOP.png",
+        "common/hardware/M4 THREAD SCREWS_SIDE.png"
+      ],
+      "layout": "hardware-key"
+    },
+    {
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/front-ports.md",
+      "images": [
+        "common/front-io/CX3U a FPIO.png",
+        "common/front-io/PowerAndLED_greyscale.png",
+        "common/front-io/20pinUSB3_greyscale.png",
+        "common/front-io/TypeEUSBC_greyscale.png"
+      ],
+      "layout": "front-io",
+      "image_annotations": {
+        "common/front-io/CX3U a FPIO.png": "../../shared/rackmount/fpio-3u-a-callouts.json"
+      }
+    },
+    {
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/lid-removal.md",
+      "images": [
+        "1a_CX3150a_LID UNSCREW 2.jpg",
+        "1b_CX3150a_LID SLIDE BACK.jpg",
+        "1c_CX3150a_LID REMOVE.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/faceplate-removal.md",
+      "images": [
+        "2_CX3150a_FACEPLATE (EXPLODED).jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/tray-removal.md",
+      "images": [
+        "9a_CX3150a_TRAY UNSCREW.jpg",
+        "9b_CX3150a_TRAY SLIDE BACK.jpg",
+        "9c_CX3150a_TRAY REMOVE (cropped + detail view).jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/rack-ears.md",
+      "images": [
+        "8_CX3150a-RACK EARS (EXPLODED)2.jpg",
+        "8_CX3150a-RACK EARS CLOSE.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "F",
+          "H",
+          "I"
+        ],
+        [
+          "F"
+        ]
+      ]
+    },
+    {
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/fan-installation.md",
+      "images": [
+        "3a_CX3150a_FAN INSTALL.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "aio-installation.md",
+      "images": [
+        "3b1_CX3150a_FAN INSTALL PRECOOLER.jpg",
+        "3b2_CX3150a_AIO + FAN INSTALL.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/motherboard-preparation.md",
+      "images": [
+        "4a_CX3150a_STAND OFF INSTALL.jpg",
+        "5_CX3150a_MOTHERBOARD IO SHIELD (cropped).jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "C"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/motherboard-installation.md",
+      "images": [
+        "5_CX3150a_MOTHERBOARD (EXPLODED) 4 (cropped).jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "C"
+        ]
+      ]
+    },
+    {
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "psu-installation.md",
+      "images": [
+        "5_CX3150a_PSU (EXPLODED).jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ]
+      ]
+    },
+    {
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/gpu-installation.md",
+      "images": [
+        "7_CX3150a_GPU (EXPLODED).jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "G"
+        ]
+      ]
+    },
+    {
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "ssd-installation.md",
+      "images": [
+        "6_CX3150a_SSD (EXPLODED).jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "B"
+        ]
+      ]
+    },
+    {
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "section": "04 / REASSEMBLY",
+      "source": "../../shared/rackmount/tray-installation.md",
+      "images": [
+        "9d_CX3150a_TRAY INSTALL (cropped + detail view).jpg",
+        "9e_CX3150a_TRAY INSTALL 2.jpg",
+        "9f_CX3150a_TRAY INSTALL 3.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        [],
+        [
+          "E"
+        ]
+      ]
+    },
+    {
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "section": "04 / REASSEMBLY",
+      "source": "cable-management.md",
+      "images": [
+        "CABLE_MANAGEMENT_BAR_HIGHLIGHT.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "support",
+      "title": "Warranty & support",
+      "section": "05 / REFERENCE",
+      "source": [
+        "../../shared/warranty.md",
+        "../../shared/support.md"
+      ],
+      "images": [],
+      "layout": "reference-columns",
+      "reference_sections": [
+        "4.1",
+        "4.2"
+      ]
+    },
+    {
+      "id": "regulations",
+      "title": "Regulations",
+      "section": "05 / REFERENCE",
+      "source": "../../shared/regulations.md",
+      "images": [
+        "common/icons/RoHScompliant.png",
+        "common/icons/REACHcompliant.png",
+        "common/icons/ResponsibleMineralsInitive.png",
+        "common/icons/MadeInUSA-reference.png"
+      ],
+      "layout": "regulations",
+      "reference_sections": [
+        "4.3"
+      ]
+    },
+    {
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "section": "05 / REFERENCE",
+      "source": "revision-history.md",
+      "images": [],
+      "layout": "text"
+    }
+  ],
+  "nominal_dimensions_in": {
+    "depth": 15,
+    "width": 17,
+    "height": 5.22
+  },
+  "cover_description": "15\" DEEP 3U CHASSIS",
+  "cover_format": "landscape"
+}

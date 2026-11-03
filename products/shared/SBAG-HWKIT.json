@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "part_number": "SBAG-HWKIT",
+  "applies_to": "All rackmount chassis, per owner confirmation 2026-10-27.",
+  "quantity_source": {
+    "id": "owner_decision",
+    "date": "2026-10-27"
+  },
+  "specification_source": "Reference CX3150a hardware table, except B corrected by owner to M3 \u00d7 0.5, 5 mm long.",
+  "items": [
+    {
+      "letter": "A",
+      "name": "6-32 \u00d7 0.25-inch hex screws",
+      "color": "yellow",
+      "quantity": "45",
+      "description": "Motherboard, PSU, HDDs, and PCIe accessories.",
+      "image": "common/hardware/YELLOW PATCHED SCREWS.jpg",
+      "reference": "yellow-patched 6-32 screws",
+      "specification_status": "reference_table",
+      "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
+      "detail_images": [
+        "common/hardware/YELLOW PATCHED SCREWS_TOP.png",
+        "common/hardware/YELLOW PATCHED SCREWS_SIDE.png"
+      ]
+    },
+    {
+      "letter": "B",
+      "name": "M3 \u00d7 0.5 screws, 5 mm long",
+      "color": "red",
+      "quantity": "10",
+      "description": "2.5-inch SSDs and some 3.5-inch accessories.",
+      "image": "common/hardware/RED PATCHED SCREWS.jpg",
+      "reference": "red-patched M3 \u00d7 0.5 screws, 5 mm long",
+      "specification_status": "owner_confirmed_2026-10-27",
+      "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
+      "detail_images": [
+        "common/hardware/RED PATCHED SCREWS_TOP.png",
+        "common/hardware/RED PATCHED SCREWS_SIDE.png"
+      ]
+    },
+    {
+      "letter": "C",
+      "name": "6-32 hex standoffs",
+      "color": "teal",
+      "quantity": "20",
+      "description": "0.125-inch and 0.25-inch lengths. Install in the motherboard tray.",
+      "image": "common/hardware/BLACK HEX STANDOFFS.jpg",
+      "reference": "black hex standoffs",
+      "specification_status": "reference_table",
+      "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
+      "detail_images": [
+        "common/hardware/BLACK HEX STANDOFFS_TOP.png",
+        "common/hardware/BLACK HEX STANDOFFS_SIDE.png"
+      ],
+      "color_label": "Teal in drawings; black, unpatched hardware",
+      "physical_color": "black",
+      "patch_color": null,
+      "note": "Owner clarified: teal/light-blue render highlight identifies C; actual black hex standoffs have no colored patch."
+    },
+    {
+      "letter": "D",
+      "name": "M3 \u00d7 6 mm screws",
+      "color": "blue",
+      "quantity": "16",
+      "description": "2.5-inch SSDs and some 3.5-inch accessories.",
+      "image": "common/hardware/BLUE PATCHED SCREWS.jpg",
+      "reference": "blue-patched M3 \u00d7 6 mm screws",
+      "specification_status": "reference_table",
+      "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
+      "detail_images": [
+        "common/hardware/BLUE PATCHED SCREWS_TOP.png",
+        "common/hardware/BLUE PATCHED SCREWS_SIDE.png"
+      ]
+    },
+    {
+      "letter": "E",
+      "name": "6-32 \u00d7 0.187-inch hex screws",
+      "color": "green",
+      "quantity": "10",
+      "description": "Motherboard tray, subfront, internal brackets, and front I/O bracket.",
+      "image": "common/hardware/GREEN PATCHED SCREWS.jpg",
+      "reference": "green-patched 6-32 screws",
+      "specification_status": "reference_table",
+      "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
+      "detail_images": [
+        "common/hardware/GREEN PATCHED SCREWS_TOP.png",
+        "common/hardware/GREEN PATCHED SCREWS_SIDE.png"
+      ]
+    },
+    {
+      "letter": "F",
+      "name": "M4 \u00d7 7 mm screws",
+      "color": "pink",
+      "quantity": "7",
+      "description": "Rack ears and pull handles.",
+      "image": "common/hardware/M4 THREAD SCREWS.jpg",
+      "reference": "pink-marked M4 \u00d7 7 mm screws",
+      "specification_status": "reference_table",
+      "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
+      "detail_images": [
+        "common/hardware/M4 THREAD SCREWS_TOP.png",
+        "common/hardware/M4 THREAD SCREWS_SIDE.png"
+      ]
+    }
+  ]
+}

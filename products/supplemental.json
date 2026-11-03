@@ -1,0 +1,60 @@
+{
+  "CX3150a": {
+    "rack_ear_screw_count": {
+      "value": 6,
+      "source": {
+        "id": "reference_manual",
+        "page": 10,
+        "path": "sources/original/cx3150a-reference.pdf"
+      }
+    },
+    "rack_ear_screws_per_side": {
+      "value": 3,
+      "source": {
+        "id": "reference_manual",
+        "page": 10,
+        "path": "sources/original/cx3150a-reference.pdf"
+      }
+    }
+  },
+  "CX4170a": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 431.8,
+        "width": 431.8,
+        "height": 176.78
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4170a-specs.txt"
+      },
+      "status": "draft_review",
+      "note": "Website dimensions match nominal 17 \u00d7 17 \u00d7 6.96 inches; bulk-create dimensions differ."
+    },
+    "psu_length_max_mm": {
+      "value": 190,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4170a-specs.txt"
+      },
+      "status": "draft_review",
+      "note": "Includes connectors; Canva specification says 268 mm, so confirmation is required."
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "canva",
+        "design_id": "DAG8XZ4VqEk",
+        "page": 10
+      }
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "canva",
+        "design_id": "DAG8XZ4VqEk",
+        "page": 10
+      }
+    }
+  }
+}

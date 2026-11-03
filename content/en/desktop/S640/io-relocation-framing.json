@@ -1,0 +1,14 @@
+{
+  "asset_key": "2.2_FPIORemoval_Step1.jpg",
+  "source_sha256": "b7c13883d64b9125bb789139ab2e30a523c5c4b5a0216c0ccb0bbaa54e22a6c6",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7716535433070866,
+  "view_box": [
+    0.27,
+    0.12,
+    0.55,
+    0.7
+  ],
+  "callouts": [],
+  "review_status": "Close framing around the front I/O assembly, both mounting screws and chassis mounting context; source bitmap unchanged."
+}

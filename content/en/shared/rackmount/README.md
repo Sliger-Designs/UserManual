@@ -1,0 +1,9 @@
+# Verified shared pilot procedures
+
+These Markdown files are currently used by CX3150a and CX4170a after comparing their existing manual text and image sequences. They are not automatically applicable to every rackmount chassis.
+
+Each model selects its own illustrations and hardware callout placements. Product facts fill dimensional limits and rack-ear screw counts; shared SBAG-HWKIT definitions supply screw references. Model-specific drive/cooling and PSU procedures remain in each model folder.
+
+Front connectors default to the supplied grayscale drawings. The front-panel location cutout remains model-specific until the owner confirms a common drawing.
+
+`4u-rear-fan-ssd.md` is an owner-confirmed compatibility restriction for all 4U chassis. The build applies it automatically on the `ssd-installation` page when the product height is 4U, using `products/shared/compatibility-rules.json`. It does not apply to 3U manuals or rule out the separate drive cage.

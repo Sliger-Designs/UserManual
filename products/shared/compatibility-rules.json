@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "rules": [
+    {
+      "id": "4u-rear-fan-blocks-tray-ssd",
+      "scope": {
+        "height_u": 4,
+        "page_ids": ["ssd-installation"]
+      },
+      "content": "content/en/shared/rackmount/4u-rear-fan-ssd.md",
+      "source": {
+        "id": "owner_confirmation",
+        "date": "2026-10-27"
+      },
+      "note": "Optional rear fan bracket and the illustrated tray SSD location are mutually exclusive. This does not exclude the separate drive cage."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "asset_key": "3.1_ioShieldInstall.jpg",
+  "source_sha256": "781ba2d3c5203b695a5128342892355e6675a4a4c4cdd90980252d7ab3ee109a",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7716535433070866,
+  "view_box": [
+    0.22,
+    0.035,
+    0.56,
+    0.93
+  ],
+  "callouts": [],
+  "review_status": "Tighter vector framing for larger manual illustrations; original source pixels unchanged."
+}

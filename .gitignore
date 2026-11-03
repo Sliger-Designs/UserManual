@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+_build/
+_site/
+_book/
+.env
+.env.*
+
+.venv/
+
+# Root upload copies are already preserved under sources/original/.
+/Chassis Compatablity List - Chassis_List.csv
+/Sliger Chassis Bulk Create Sheet.csv
+
+# Staged full-resolution source libraries; selected publication copies are versioned.
+/illustrations/2u/*/
+/illustrations/3u/*/
+/illustrations/4u/*/
+/illustrations/desktop/*/
+
+# Private catalog exports used by scripts/import_pilot.py (not public).
+/sources/original/compatibility-list.csv
+/sources/original/bulk-create.csv

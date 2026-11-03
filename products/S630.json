@@ -1,0 +1,572 @@
+{
+  "schema_version": 1,
+  "sku": "S630",
+  "status": "draft",
+  "release_ready": false,
+  "review_issues": [
+    "S600-02",
+    "S600-03"
+  ],
+  "authority": "Explicit owner decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.",
+  "facts": {
+    "product_type": {
+      "value": "SFF",
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Product Type"
+      },
+      "raw": "SFF"
+    },
+    "height_description": {
+      "value": "Micro (12.14\")",
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Height"
+      },
+      "raw": "Micro (12.14\")"
+    },
+    "depth_in": {
+      "value": 17,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Depth(in.)"
+      },
+      "raw": "17"
+    },
+    "width_in": {
+      "value": 8,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Width(in.)"
+      },
+      "raw": "8"
+    },
+    "volume_l": {
+      "value": 26.55,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Volume(L)"
+      },
+      "raw": "26.55"
+    },
+    "material": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Material"
+      },
+      "raw": ""
+    },
+    "feature": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Main feature"
+      },
+      "raw": ""
+    },
+    "front_bays": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Front Bay(s)"
+      },
+      "raw": ""
+    },
+    "ssd_2_5_max": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Internal 2.5 SSD (Max)"
+      },
+      "raw": ""
+    },
+    "hdd_3_5_max": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Internal 3.5 HDD (Max)"
+      },
+      "raw": ""
+    },
+    "fans_max_description": {
+      "value": "8+ 120mm",
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Max Supported Fans"
+      },
+      "raw": "8+ 120mm"
+    },
+    "front_fans_default": {
+      "value": "2x 120mm",
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Front Fan Support(default)"
+      },
+      "raw": "2x 120mm"
+    },
+    "front_fans_max": {
+      "value": "4x 120mm",
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Front Fan Support(Max)"
+      },
+      "raw": "4x 120mm"
+    },
+    "mid_fans_default": {
+      "value": "3x 120mm",
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Mid Chassis Fan Support"
+      },
+      "raw": "3x 120mm"
+    },
+    "mid_fans_max": {
+      "value": "6x 120mm",
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Mid-Chassis Fans(Max)"
+      },
+      "raw": "6x 120mm"
+    },
+    "exhaust_fans": {
+      "value": "1x 120mm",
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Exhaust Fan Support"
+      },
+      "raw": "1x 120mm"
+    },
+    "rear_fan_kit": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "KIT-REARFAN Support"
+      },
+      "raw": "FALSE"
+    },
+    "top_fan_kit": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "KIT-TOPFAN Support"
+      },
+      "raw": "FALSE"
+    },
+    "air_cooler_height_max_mm": {
+      "value": 160,
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      }
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "2U AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_92": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "92mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_120": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "120mm AIO"
+      },
+      "raw": "TRUE"
+    },
+    "aio_140": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "140mm AIO"
+      },
+      "raw": "TRUE"
+    },
+    "aio_240": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "240mm AIO"
+      },
+      "raw": "TRUE"
+    },
+    "aio_280": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "280mm AIO"
+      },
+      "raw": "TRUE"
+    },
+    "aio_360": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "360mm AIO"
+      },
+      "raw": "TRUE"
+    },
+    "psu_flex_atx": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "FlexATX PSU"
+      },
+      "raw": "FALSE"
+    },
+    "psu_sfx_sfx_l": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "SFX/SFX-L PSU"
+      },
+      "raw": "TRUE"
+    },
+    "psu_crps": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "CRPS PSU"
+      },
+      "raw": "FALSE"
+    },
+    "psu_atx": {
+      "value": true,
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      }
+    },
+    "motherboard_mini_itx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Mini-ITX MoBo"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_micro_atx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "MicroATX MoBo"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_atx": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "ATX MoBo(10.5\" deep max)"
+      },
+      "raw": "FALSE"
+    },
+    "motherboard_eatx_13in": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "EATX MoBo(13\" deep max)"
+      },
+      "raw": "FALSE"
+    },
+    "riser_pcie_5": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "5.0 Riser"
+      },
+      "raw": "FALSE"
+    },
+    "riser_bifurcation": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Bifurcation Riser"
+      },
+      "raw": ""
+    },
+    "pcie_slots": {
+      "value": 5,
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      }
+    },
+    "gpu_height_max_mm": {
+      "value": 160,
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      },
+      "note": "Owner confirmed CPU cooler and PCIe card height limits of 160 mm. Connector/cable allowance must be checked with installed components."
+    },
+    "gpu_length_baseline_mm": {
+      "value": 416,
+      "configuration": {
+        "front_fans": "none"
+      },
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      }
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 391,
+      "configuration": {
+        "front_fan_count": 2,
+        "fan_thickness_mm": 25
+      },
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      }
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": 347,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "Max GPU Length(fans+AIO)(mm)"
+      },
+      "raw": "347"
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": 322,
+      "source": {
+        "id": "compatibility",
+        "record": 111,
+        "column": "MAX GPU Length (Max cooling)"
+      },
+      "raw": "322"
+    },
+    "hardware_bag_record": {
+      "value": "products/shared/S6xx-hardware.json",
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      },
+      "note": "S630 and S640 use the same screw bag; not the rackmount bag."
+    },
+    "front_io": {
+      "value": {
+        "usb_type_a": 1,
+        "usb_type_c": 1,
+        "power_switch": 1
+      },
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      }
+    },
+    "cooling_mounts": {
+      "value": {
+        "top": {
+          "radiator_max_mm": 360
+        },
+        "bottom": {
+          "radiator_max_mm": 360
+        },
+        "side_fan_bracket": {
+          "radiator_max_mm": 360
+        },
+        "front": {
+          "radiator_max_mm": 240
+        },
+        "rear": {
+          "radiator_max_mm": 120
+        }
+      },
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      },
+      "note": "360 mm or smaller on top, bottom and side; 240 mm on front, 120 mm on rear. Actual fit depends on installed components; these are alternative locations, not a simultaneous-fit claim."
+    },
+    "side_fan_bracket_attachment": {
+      "value": {
+        "hardware_letter": "D",
+        "quantity": 4
+      },
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      }
+    },
+    "storage_bracket_mounting": {
+      "value": {
+        "locations": "fan mounting locations",
+        "S630_prefix_brackets": {
+          "hardware_letters": [
+            "D"
+          ]
+        },
+        "p-5-100013b": {
+          "hardware_letters": [
+            "B",
+            "E"
+          ]
+        }
+      },
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      },
+      "note": "Owner confirmation applies to bracket-to-case attachment. Drive-to-bracket A/E fasteners remain as shown in supplied art."
+    },
+    "shared_depth_and_width": {
+      "value": [
+        "S630",
+        "S640"
+      ],
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+      },
+      "note": "Owner confirmed both chassis have the same depth and width; S640 is taller. Exact outer measurements remain unconfirmed."
+    },
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 449.55,
+        "width": 190.53,
+        "height": 324.42
+      },
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md",
+        "evidence": "sources/canva/2026-10-30/S630-dimensions-approved.json"
+      },
+      "note": "Current Canva explicit dimension table approved by owner; older drawing labels and archived website values are superseded."
+    },
+    "internal_dimensions_mm": {
+      "value": {
+        "depth": 418.16,
+        "width": 183.08,
+        "height": 310.82
+      },
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-10-30",
+        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md",
+        "evidence": "sources/canva/2026-10-30/S630-dimensions-approved.json"
+      }
+    }
+  },
+  "manual_copy_candidates": {},
+  "source_records": {
+    "compatibility": {
+      "record": 111,
+      "fields": {
+        "SKU": "S630",
+        "Name": "",
+        "Product Type": "SFF",
+        "Height": "Micro (12.14\")",
+        "Depth(in.)": "17",
+        "Width(in.)": "8",
+        "Volume(L)": "26.55",
+        "Material": "",
+        "Main feature": "",
+        "Front Bay(s)": "",
+        "Internal 2.5 SSD (Max)": "",
+        "Internal 3.5 HDD (Max)": "",
+        "Max Supported Fans": "8+ 120mm",
+        "Front Fan Support(default)": "2x 120mm",
+        "Front Fan Support(Max)": "4x 120mm",
+        "Mid Chassis Fan Support": "3x 120mm",
+        "Mid-Chassis Fans(Max)": "6x 120mm",
+        "Exhaust Fan Support": "1x 120mm",
+        "KIT-REARFAN Support": "FALSE",
+        "KIT-TOPFAN Support": "FALSE",
+        "Max Air Cooler Height (mm)": "142",
+        "2U AIO": "FALSE",
+        "92mm AIO": "FALSE",
+        "120mm AIO": "TRUE",
+        "140mm AIO": "TRUE",
+        "240mm AIO": "TRUE",
+        "280mm AIO": "TRUE",
+        "360mm AIO": "TRUE",
+        "FlexATX PSU": "FALSE",
+        "SFX/SFX-L PSU": "TRUE",
+        "CRPS PSU": "FALSE",
+        "ATX PSU": "FALSE",
+        "Mini-ITX MoBo": "TRUE",
+        "MicroATX MoBo": "TRUE",
+        "ATX MoBo(10.5\" deep max)": "FALSE",
+        "EATX MoBo(13\" deep max)": "FALSE",
+        "5.0 Riser": "FALSE",
+        "Bifurcation Riser": "",
+        "PCIe Slots": "4x Full Height",
+        "Max GPU Height (mm)": "167",
+        "Max GPU Length Baseline(mm)": "390",
+        "Max GPU Length(Only Fans)(mm)": "375",
+        "Max GPU Length(fans+AIO)(mm)": "347",
+        "MAX GPU Length (Max cooling)": "322",
+        "Chassis Weight": "",
+        "Shipped Weight": "",
+        "Item Package Length": "",
+        "Item Package Width": "",
+        "Item Package Height": "",
+        "User Manual": "FALSE",
+        "Data Sheet": "FALSE",
+        "Dimension Dwg": "FALSE",
+        "NC CAD Model": "FALSE"
+      }
+    }
+  }
+}

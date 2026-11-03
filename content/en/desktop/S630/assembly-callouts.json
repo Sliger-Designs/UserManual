@@ -1,0 +1,95 @@
+{
+  "asset_key": "_S630B_Esplode.jpg",
+  "source_sha256": "f35f72a4d30a423ac619fe014d43a3ce8ff3658265aa2fe92de0e7c9860b9e7b",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7716535433070866,
+  "badge_radius_height_fraction": 0.026,
+  "font_size_height_fraction": 0.036,
+  "review_status": "Initial assembly overlay located against supplied model artwork; final visual review required.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Chassis frame",
+      "target": [
+        0.54,
+        0.66
+      ],
+      "badge": [
+        0.83,
+        0.79
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Front panel",
+      "target": [
+        0.65,
+        0.56
+      ],
+      "badge": [
+        0.83,
+        0.53
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Side panels",
+      "target": [
+        0.3,
+        0.55
+      ],
+      "badge": [
+        0.12,
+        0.58
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Front I/O assembly",
+      "target": [
+        0.57,
+        0.24
+      ],
+      "badge": [
+        0.83,
+        0.18
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Top panel",
+      "target": [
+        0.45,
+        0.14
+      ],
+      "badge": [
+        0.2,
+        0.075
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Bottom panel",
+      "target": [
+        0.47,
+        0.81
+      ],
+      "badge": [
+        0.2,
+        0.94
+      ]
+    },
+    {
+      "number": 7,
+      "label": "Side fan bracket",
+      "target": [
+        0.46,
+        0.345
+      ],
+      "badge": [
+        0.12,
+        0.3
+      ]
+    }
+  ]
+}

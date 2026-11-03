@@ -1,0 +1,356 @@
+{
+  "model": "S630",
+  "source": "Sliger internal image library (not public)",
+  "inventory_date": "2026-10-28",
+  "originals_modified": false,
+  "items": [
+    {
+      "id": "s630-cb6dfbd1fcea",
+      "original_filename": "1Default.jpg",
+      "local_path": "illustrations/desktop/S630/1Default.jpg",
+      "sha256": "cb6dfbd1fceaf8e45b0e121c145c4565a93de0e7d0a42c1faefd14968ba07963",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-973d81346c07",
+      "original_filename": "2.1_panelRemoval.jpg",
+      "local_path": "illustrations/desktop/S630/2.1_panelRemoval.jpg",
+      "sha256": "973d81346c0787bcadce842b95ff71760872f2eea9dfbc7f2cf5a9dcc206a48a",
+      "dimensions_px": [
+        2079,
+        1174
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-d18343649779",
+      "original_filename": "2.1_panelRemoval_Rear.jpg",
+      "local_path": "illustrations/desktop/S630/2.1_panelRemoval_Rear.jpg",
+      "sha256": "d18343649779fc69176083fc9f528bf52d6138d0981544fbc9047f52462745bc",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-973d81346c07",
+      "original_filename": "2.1_panelRemoval_Side.jpg",
+      "local_path": "illustrations/desktop/S630/2.1_panelRemoval_Side.jpg",
+      "sha256": "973d81346c0787bcadce842b95ff71760872f2eea9dfbc7f2cf5a9dcc206a48a",
+      "dimensions_px": [
+        2079,
+        1174
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-b7c13883d64b",
+      "original_filename": "2.2_FPIORemoval_Step1.jpg",
+      "local_path": "illustrations/desktop/S630/2.2_FPIORemoval_Step1.jpg",
+      "sha256": "b7c13883d64b9125bb789139ab2e30a523c5c4b5a0216c0ccb0bbaa54e22a6c6",
+      "dimensions_px": [
+        2079,
+        1174
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-5fa505d4c945",
+      "original_filename": "2StandardOrienationPanels.jpg",
+      "local_path": "illustrations/desktop/S630/2StandardOrienationPanels.jpg",
+      "sha256": "5fa505d4c9450f93ed97b076b5d156019fba7b29abbf66245ac25863fd0b99a3",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S630/2StandardOrienationPanels-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s630-781ba2d3c520",
+      "original_filename": "3.1_ioShieldInstall.jpg",
+      "local_path": "illustrations/desktop/S630/3.1_ioShieldInstall.jpg",
+      "sha256": "781ba2d3c5203b695a5128342892355e6675a4a4c4cdd90980252d7ab3ee109a",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-19b95720f0f4",
+      "original_filename": "3.1_moboinstall.jpg",
+      "local_path": "illustrations/desktop/S630/3.1_moboinstall.jpg",
+      "sha256": "19b95720f0f4f0169140bbbf52aef7adb5be8f50d81215fc7fc01b5cfdee639f",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-0aeec863e342",
+      "original_filename": "3.1_standoffInstall.jpg",
+      "local_path": "illustrations/desktop/S630/3.1_standoffInstall.jpg",
+      "sha256": "0aeec863e342361009460bdd58dd41ce1344cf5eef42aec42a703fd122317933",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-c6763cd3b237",
+      "original_filename": "3.1_standoffInstall_alt.jpg",
+      "local_path": "illustrations/desktop/S630/3.1_standoffInstall_alt.jpg",
+      "sha256": "c6763cd3b237c4a7129df735091aa59f3503fb86baceb64b8eabca18448d1f7b",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-0fad1e790ed4",
+      "original_filename": "3FlippedOrientationPanels.jpg",
+      "local_path": "illustrations/desktop/S630/3FlippedOrientationPanels.jpg",
+      "sha256": "0fad1e790ed445547415bfa537216c6aa921acf74d9957b3ca1e983739304061",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S630/3FlippedOrientationPanels-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s630-0caf380e7f1b",
+      "original_filename": "4AioMountingLocations.jpg",
+      "local_path": "illustrations/desktop/S630/4AioMountingLocations.jpg",
+      "sha256": "0caf380e7f1bb27f722c0795db288d582008e7922f5e54342af3953ce4ae266f",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S630/4AioMountingLocations-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s630-0f60ab1b2a1f",
+      "original_filename": "5ATXMountingLoctations1.jpg",
+      "local_path": "illustrations/desktop/S630/5ATXMountingLoctations1.jpg",
+      "sha256": "0f60ab1b2a1f1f043d2262f67c47c51c7e1179e22791e5c88938516d8a7dc64f",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S630/5ATXMountingLoctations1-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s630-f4b11b207efa",
+      "original_filename": "6ATXMountingLoctations2.jpg",
+      "local_path": "illustrations/desktop/S630/6ATXMountingLoctations2.jpg",
+      "sha256": "f4b11b207efabb5a245b4ff8d36e0656e5216a11de01433ebdce716fb4e7dcb4",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S630/6ATXMountingLoctations2-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s630-45735fd3a616",
+      "original_filename": "7SFXLocations1.jpg",
+      "local_path": "illustrations/desktop/S630/7SFXLocations1.jpg",
+      "sha256": "45735fd3a6161210607c751ab76fc0b649dacb0972764788bdda50fb6918fead",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S630/7SFXLocations1-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s630-baa09bbe7fd4",
+      "original_filename": "8SFXLocations2.jpg",
+      "local_path": "illustrations/desktop/S630/8SFXLocations2.jpg",
+      "sha256": "baa09bbe7fd442d9b035f5530d683f8ba26bc926a969b5b6236d7c9235d9c644",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S630/8SFXLocations2-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s630-8465e9479f28",
+      "original_filename": "9FanLocations.jpg",
+      "local_path": "illustrations/desktop/S630/9FanLocations.jpg",
+      "sha256": "8465e9479f28d98d261928a5b3035a5679ec5872e9c1f759e80d77e490265d35",
+      "dimensions_px": [
+        4000,
+        4000
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "background_cleanup": {
+        "reference_rgb": [
+          249,
+          251,
+          250
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/S630/9FanLocations-white.png",
+        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+      }
+    },
+    {
+      "id": "s630-f35f72a4d30a",
+      "original_filename": "_S630B_Esplode.jpg",
+      "local_path": "illustrations/desktop/S630/_S630B_Esplode.jpg",
+      "sha256": "f35f72a4d30a423ac619fe014d43a3ce8ff3658265aa2fe92de0e7c9860b9e7b",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-4ace8912c11d",
+      "original_filename": "_S630B_IO.png",
+      "local_path": "illustrations/desktop/S630/_S630B_IO.png",
+      "sha256": "4ace8912c11d4a29759446844d47e64e1183eb33c278231a8d9e943b075c5996",
+      "dimensions_px": [
+        366,
+        762
+      ],
+      "selection_status": "selected_needs_final_review",
+      "note": "Owner-supplied close-up replacement, 2026-10-28; displayed at the shared rackmount FPIO scale.",
+      "supersedes_source_sha256": "58fae754b0ff19b4f1420f3282729ec59002f962211f3359e79d86d28e6fa3a3"
+    },
+    {
+      "id": "s630-8be5cb9fdc4d",
+      "original_filename": "3.4_PCIeinstall.jpg",
+      "local_path": "illustrations/desktop/S630/3.4_PCIeinstall.jpg",
+      "sha256": "8be5cb9fdc4d4b241ffd89ca2419e45f19fec3221418c43d5b00045750efc174",
+      "dimensions_px": [
+        2079,
+        1174
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-c97a8ee20f06",
+      "original_filename": "3.3_SFXBracketInstall.jpg",
+      "local_path": "illustrations/desktop/S630/3.3_SFXBracketInstall.jpg",
+      "sha256": "c97a8ee20f0650bf5b168609aba7b8130f892243c1dfc833f154d6b8c519955f",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-fafd1d374e24",
+      "original_filename": "3.3_ATXBracketInstall.jpg",
+      "local_path": "illustrations/desktop/S630/3.3_ATXBracketInstall.jpg",
+      "sha256": "fafd1d374e246a94a8ffa4ecdf58733b31d58cde69bc20b8e1efecf950b4487a",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review"
+    },
+    {
+      "id": "s630-9a57b280be8e",
+      "original_filename": "_S630_sideFanBracketInstall.jpg",
+      "local_path": "illustrations/desktop/S630/_S630_sideFanBracketInstall.jpg",
+      "sha256": "9a57b280be8eee90c002a99ff2b4d1429a6193c701ee9dafdae9f17768c42d60",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "candidate_needs_model_and_configuration_review",
+      "note": "Owner-supplied side fan bracket installation render; requested placement after motherboard installation and before cooling, 2026-11-02."
+    },
+    {
+      "id": "s630-b3298e698d0e",
+      "original_filename": "_S630_switchOptiopns.jpg",
+      "local_path": "illustrations/desktop/S630/_S630_switchOptiopns.jpg",
+      "sha256": "b3298e698d0e2ecf4c5182cc5c8ba23dc42e15cf485a449a3f3bb79c8c9b6254",
+      "dimensions_px": [
+        9000,
+        5082
+      ],
+      "selection_status": "owner_selected_switch_position_render_2026-11-02"
+    }
+  ],
+  "inventory_updated_at": "2026-10-30"
+}

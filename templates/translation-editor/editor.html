@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>__PACKAGE_NAME__ · Sliger manual translation</title>
+<style>/*__EDITOR_CSS__*/</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><img class="logo" src="__SLIGER_LOGO__" alt="Sliger"><span>Manual translation</span><span class="package" id="package-name"></span></div>
+  <div class="progress" title="Translated items">
+    <div class="bar"><i id="progress-bar"></i></div><span id="progress-text"></span>
+  </div>
+  <div class="actions">
+    <span class="saved" id="saved-state" aria-live="polite"></span>
+    <button type="button" id="btn-open" title="Continue from a ZIP downloaded from this page (or a returned package)">Open ZIP…</button>
+    <input type="file" id="file-open" accept=".zip,application/zip" hidden>
+    <button type="button" id="btn-download" class="primary">Download ZIP for Sliger</button>
+    <button type="button" id="btn-pdf">Create PDF…</button>
+    <button type="button" id="btn-help">Help</button>
+  </div>
+</header>
+<div class="layout">
+  <nav id="nav" aria-label="Manual pages"></nav>
+  <main id="editor" tabindex="-1"></main>
+  <section id="preview" aria-label="Manual preview">
+    <div class="preview-bar">
+      <strong id="preview-title">Preview</strong>
+      <div class="toggle" role="group" aria-label="Preview language">
+        <button type="button" data-mode="translated" class="on">Translation</button>
+        <button type="button" data-mode="english">English</button>
+      </div>
+    </div>
+    <div id="layout-warnings" aria-live="polite"></div>
+    <div class="preview-stage" id="preview-stage"><div class="loading" id="preview-loading">Loading preview…</div></div>
+    <p class="preview-note">Untranslated text appears in English. Scroll inside the preview to see other pages.</p>
+  </section>
+</div>
+<dialog id="dialog"></dialog>
+<script type="application/json" id="editor-data">__EDITOR_DATA__</script>
+<script>/*__EDITOR_JS__*/</script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+{
+  "source": "sources/original/cx3150a-reference.pdf",
+  "source_page": 5,
+  "quantities_status": "Screwbag quantities are owner-confirmed. Chassis/accessory quantities G\u2013J are copied from the reference manual.",
+  "owner_corrections": {
+    "B": "M3-.5 x 5, red; confirmed 2026-10-27."
+  },
+  "items": [
+    {
+      "letter": "G",
+      "name": "Slot covers",
+      "quantity": "8",
+      "description": "Cover unused PCIe slots.",
+      "image": "common/hardware/slot-covers-reference.png",
+      "reference": "slot covers",
+      "specification_status": "reference_table"
+    },
+    {
+      "letter": "H",
+      "name": "Rack ears",
+      "quantity": "1 pair",
+      "description": "Secure the chassis to the rack.",
+      "image": "common/hardware/rack-ears-reference.png",
+      "reference": "rack ears",
+      "specification_status": "reference_table"
+    },
+    {
+      "letter": "I",
+      "name": "Pull handles",
+      "quantity": "1 pair",
+      "description": "Optional handles make pulling the chassis from the rack easier.",
+      "image": "common/hardware/pull-handles-reference.png",
+      "reference": "pull handles",
+      "specification_status": "reference_table"
+    },
+    {
+      "letter": "J",
+      "name": "Crumpled brown paper",
+      "quantity": null,
+      "description": "Used to fill the void in the box.",
+      "image": null,
+      "reference": "packing paper",
+      "specification_status": "reference_table"
+    }
+  ],
+  "screwbag": "products/shared/SBAG-HWKIT.json"
+}

@@ -1,0 +1,49 @@
+{
+  "source": "sources/canva/CX4170a-content.json",
+  "source_page": 5,
+  "quantities_status": "Screwbag quantities are owner-confirmed. Chassis/accessory quantities G\u2013J are copied from the reference manual.",
+  "owner_corrections": {
+    "B": "M3-.5 x 5, red; confirmed 2026-10-27."
+  },
+  "items": [
+    {
+      "letter": "G",
+      "name": "Slot covers",
+      "quantity": "8",
+      "description": "Cover unused PCIe slots.",
+      "image": "common/hardware/slot-covers-reference.png",
+      "reference": "slot covers",
+      "specification_status": "reference_table"
+    },
+    {
+      "letter": "H",
+      "name": "Rack ears",
+      "quantity": "1 pair",
+      "description": "Secure the chassis to the rack.",
+      "image": "_CX4170a_RACK_EAR.jpg",
+      "reference": "rack ears",
+      "specification_status": "reference_table",
+      "note": "Owner-supplied standalone CX4170a rack ear."
+    },
+    {
+      "letter": "I",
+      "name": "Pull handles",
+      "quantity": "1 pair",
+      "description": "Optional handles make pulling the chassis from the rack easier.",
+      "image": null,
+      "reference": "pull handles",
+      "specification_status": "reference_table",
+      "note": "4U-specific isolated part illustration pending; CX3150a thumbnail not reused."
+    },
+    {
+      "letter": "J",
+      "name": "Crumpled brown paper",
+      "quantity": null,
+      "description": "Used to fill the void in the box.",
+      "image": null,
+      "reference": "packing paper",
+      "specification_status": "reference_table"
+    }
+  ],
+  "screwbag": "products/shared/SBAG-HWKIT.json"
+}

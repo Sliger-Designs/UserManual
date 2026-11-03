@@ -1,0 +1,45 @@
+{
+  "model": "CX4170a",
+  "source": {
+    "id": "owner_confirmation_and_renamed_images",
+    "date": "2026-10-27"
+  },
+  "scope": "Drive cage only; additional tray positions must not be added without validation.",
+  "layouts": [
+    {
+      "example": 1,
+      "hdd_3_5": 3,
+      "ssd_2_5": 0,
+      "ssd_thickness_mm": null,
+      "image": "common/4u-drive-cage/3xHDD.png"
+    },
+    {
+      "example": 2,
+      "hdd_3_5": 3,
+      "ssd_2_5": 1,
+      "ssd_thickness_mm": 7,
+      "image": "common/4u-drive-cage/3xHDD_1xSSD.png"
+    },
+    {
+      "example": 3,
+      "hdd_3_5": 2,
+      "ssd_2_5": 3,
+      "ssd_thickness_mm": 7,
+      "image": "common/4u-drive-cage/2xHDD_3xSSD.png"
+    },
+    {
+      "example": 4,
+      "hdd_3_5": 0,
+      "ssd_2_5": 8,
+      "ssd_thickness_mm": 7,
+      "image": "common/4u-drive-cage/8xSSD.png"
+    },
+    {
+      "example": 5,
+      "hdd_3_5": 0,
+      "ssd_2_5": 9,
+      "ssd_thickness_mm": 7,
+      "image": "common/4u-drive-cage/9xSSD.png"
+    }
+  ]
+}

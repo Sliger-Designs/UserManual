@@ -1,0 +1,422 @@
+{
+  "10a_CX4170a_DRIVE BRACKET INSTALL.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-f079e5c144c8.jpg",
+    "source_path": "illustrations/4u/CX4170a/10a_CX4170a_DRIVE BRACKET INSTALL.jpg",
+    "source_sha256": "c1b3b703b8195cf3fd290eb0eb23ec571f26d7cfaa6c4fd7af81c0c8fdfbaef1",
+    "sha256": "d61632609065f2aa4e754134b96b38f62bdd75a623097d483171d1c7af50bb9a",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "10b_CX4170a_DRIVE BRACKET SCREW.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-dcbb518e4f3e.jpg",
+    "source_path": "illustrations/4u/CX4170a/10b_CX4170a_DRIVE BRACKET SCREW.jpg",
+    "source_sha256": "ccf5fba177a024dd6c225be327cf0b315b66c6bdf21c1d351ad4da43df22cbc8",
+    "sha256": "a5969c8251c62bc25efcdbf6c6c44adaaf18d7ec3005a292e9fddeeafa2141e5",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "11_CX4170a_RACK EARS.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-8d312f74583d.jpg",
+    "source_path": "illustrations/4u/CX4170a/11_CX4170a_RACK EARS.jpg",
+    "source_sha256": "9a3988469c9da6d1cffa5e915c64ecafd5ade8604c198f8b0f4510aeefac108e",
+    "sha256": "aaaccb96872edc11ed44bb271de47ba9135ddc36b400282f33340bcb78a62e1d",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "12a_CX4170a_TRAY UNSCREW.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-2f30ad389406.jpg",
+    "source_path": "illustrations/4u/CX4170a/12a_CX4170a_TRAY UNSCREW.jpg",
+    "source_sha256": "a8222cd7fa27d4dc68ab002d49aab13fc46c9e2ca4abfa41af5ad56c13a3dbc4",
+    "sha256": "e1daa7e9e1f77d67e6ebeb001fdbedae6cc530ecfe6f6a9ec3f2b896966df4fb",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "12b_CX4170a_TRAY SLIDE BACK.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-b6c2c7ac0f27.jpg",
+    "source_path": "illustrations/4u/CX4170a/12b_CX4170a_TRAY SLIDE BACK.jpg",
+    "source_sha256": "5ce4d490534fbaa2470dd870a7e1cf533384ee84d46c983314b631345a3efc04",
+    "sha256": "9449b71c73e07ed7170c27e9bf649a183ed53cc239fd0ab178c584b82bbbd679",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "12c_CX4170a_TRAY SLIDE BACK 2.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-6347af475690.jpg",
+    "source_path": "illustrations/4u/CX4170a/12c_CX4170a_TRAY SLIDE BACK 2.jpg",
+    "source_sha256": "1051eacccf95c303643883da2d0eee73e9a006c256128fb8d5f6ea97a2f878e0",
+    "sha256": "0adb2b7c52036f08ab4d27133caf88d851df2c9a81ef99d925da3df954538470",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "12d_CX4170a_TRAY INSTALL.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-f3d574d24adc.jpg",
+    "source_path": "illustrations/4u/CX4170a/12d_CX4170a_TRAY INSTALL.jpg",
+    "source_sha256": "32675a9a1022e6f7853d77acb1d4347263d5d917a36fdf4cd3a1dc5a94617046",
+    "sha256": "a860941d8316dcd27b48fb85ec9cd9077c98d384d96da9d4bbd969290e09e1a8",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "12e_CX4170a_TRAY INSTALL 2.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-633089089cf3.jpg",
+    "source_path": "illustrations/4u/CX4170a/12e_CX4170a_TRAY INSTALL 2.jpg",
+    "source_sha256": "fd0c4b8fc424571f1cd58c91eb2acd6feb82f0034d589d912971d47dd0e1f010",
+    "sha256": "aee4ccc77dec19137a0932ae5129dc5b73b9a86e4c6ca0ca2b8832a3719e6cd1",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "12f_CX4170a_TRAY SCREW INSTALL.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-d22d48ca0b03.jpg",
+    "source_path": "illustrations/4u/CX4170a/12f_CX4170a_TRAY SCREW INSTALL.jpg",
+    "source_sha256": "97e3847655f9de5c0fb3b6046562dcf1343c1c0af6e1bb2f8cd96fbd7ef7681a",
+    "sha256": "f7a89945d0dbe975d92aa81a5770673f2404fd246ba87814255b8e148cfa8279",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1a_CX4170a_LID UNSCREW.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-0be2c2b87499.jpg",
+    "source_path": "illustrations/4u/CX4170a/1a_CX4170a_LID UNSCREW.jpg",
+    "source_sha256": "9f5ba426fc896c55ab92e7c650eb505e8833fcb2b28136119fff3427c73fec9a",
+    "sha256": "db42cb6a979b97b9d5df5856055237f663315efa39d42f3711c0330b5366e5a2",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1b_CX4170a_LID SLIDE BACK.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-487db283dead.jpg",
+    "source_path": "illustrations/4u/CX4170a/1b_CX4170a_LID SLIDE BACK.jpg",
+    "source_sha256": "0ecf51d982ab71e0374f781f7511d9b35cf7cef9b696b540d0c3fc426d6fe5de",
+    "sha256": "5d73aca7c1f617f801c6604303e7a1f1a8aa8107f4ba8c132ea6f419f8cf5299",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1c_CX4170a_LID REMOVE.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-77cfc619b377.jpg",
+    "source_path": "illustrations/4u/CX4170a/1c_CX4170a_LID REMOVE.jpg",
+    "source_sha256": "52944e698bfe2815768bdc3b5e584bc31149f7f1d99ecc9dfb51cbb7cdbc7ac4",
+    "sha256": "35af8ab700c0c2a878ccde407e3dcb3278151240edc11e4ca07118adb70ae845",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "2_CX4170a_FACEPLATE REMOVE.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-dde8881a55e4.jpg",
+    "source_path": "illustrations/4u/CX4170a/2_CX4170a_FACEPLATE REMOVE.jpg",
+    "source_sha256": "7370282e9bc66b56ccc2312dbaeebc68639b1e509dcc9b3107f32628e90f4b83",
+    "sha256": "86c228f314c2f1e390f8a31e6816a68648a3007ffa2209c50229185ba0e42214",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3a_CX4170a_DRIVE BRACKET UNSCREW.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-557473438537.jpg",
+    "source_path": "illustrations/4u/CX4170a/3a_CX4170a_DRIVE BRACKET UNSCREW.jpg",
+    "source_sha256": "2005886ac538731d2e5cedfc199e6cc634d61f3a1093492d675bcf8e61d1f15b",
+    "sha256": "845e9df83b7d896e0e7b8c3a5d85b6e1a5053f054bfe5c7de002a3e79289011e",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3b_CX4170a_DRIVE BRACKET REMOVE.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-2ac1afc2221f.jpg",
+    "source_path": "illustrations/4u/CX4170a/3b_CX4170a_DRIVE BRACKET REMOVE.jpg",
+    "source_sha256": "e101475790540243a0444e0aab1afc0574e9946abf103f444c58d0f2be003eb4",
+    "sha256": "2903381de50af0a0efe59d63a3e9b3d30ae0edb5a7daa60ec1eb7990bc3676c0",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3c_CX4170a_DRIVES INSTALL.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-d2898c0edb56.jpg",
+    "source_path": "illustrations/4u/CX4170a/3c_CX4170a_DRIVES INSTALL.jpg",
+    "source_sha256": "041947b60e2934df017b15f57134b124fc6df7295e4a49066393bb9463171ae4",
+    "sha256": "061a3400d0592bd9a825bcfcfcec1504ff8923b9de299dcade59dcc33216facd",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4a_CX4170a_FAN INSTALL.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-35bad441cd0d.jpg",
+    "source_path": "illustrations/4u/CX4170a/4a_CX4170a_FAN INSTALL.jpg",
+    "source_sha256": "00aff8004e3cc4c262907728682c7c86c6fccd9fe6e4339d97367d0d6beebbac",
+    "sha256": "5cc88bec67c48536475087a358307062b1365114e530ed6bf974cb4d14fc150f",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4b_CX4170a_FAN INSTALL PRECOOLER.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-007fcc5a9880.jpg",
+    "source_path": "illustrations/4u/CX4170a/4b_CX4170a_FAN INSTALL PRECOOLER.jpg",
+    "source_sha256": "02a60f092de9d37aa8337956cf0f9941ebf3b169c7c09454d9fc9087e06539b2",
+    "sha256": "60086d7c87c8971ca1ad4c88e07478f5a151b0aa4f844aef9fa315296ea2f61b",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4c1_CX4170a_COOLER INTERFERENCE.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-25242adabbc3.jpg",
+    "source_path": "illustrations/4u/CX4170a/4c1_CX4170a_COOLER INTERFERENCE.jpg",
+    "source_sha256": "65082d3f27f5e0f87ca5c75f303f98fa3215710d97c5985107f954a7fcb298e4",
+    "sha256": "ab8f24b242e4c0334d49aaf84242b3ec30359d9254051132b0842adfb774dd3d",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4c2_CX4170a_COOLER NO INTERFERENCE.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-a3761b2ae83c.jpg",
+    "source_path": "illustrations/4u/CX4170a/4c2_CX4170a_COOLER NO INTERFERENCE.jpg",
+    "source_sha256": "774878c0aaf77fd5b127049796edacb1d3d11643e5bf0c6953c1e34afa5ab7fd",
+    "sha256": "3ff44ebacb030bf9d179427197c76d5bf5cd8656e7022519baa70ec6d5d23892",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4d_CX4170a_FAN INSTALL PULL.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-f7794c8e18ca.jpg",
+    "source_path": "illustrations/4u/CX4170a/4d_CX4170a_FAN INSTALL PULL.jpg",
+    "source_sha256": "1234f2be16f230b93e05cf6dba93c5f19b58f811ac916269789f1354095040ed",
+    "sha256": "79b20aaa4cbaddc86d098929dc79a7b2e09ee914f4c5a5a30d1a6001925df9d4",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4e_CX4170a_FAN INSTALL + AIO.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-8998d543860d.jpg",
+    "source_path": "illustrations/4u/CX4170a/4e_CX4170a_FAN INSTALL + AIO.jpg",
+    "source_sha256": "96be8da6531d488b7cf8991d83dd019fd6c9c1509aa1e4bf38c8fa2b9460592f",
+    "sha256": "7bfa5172b14c9c08e70faea5e7cc22b0d362a5b3ef98376bf4cd7841752a9b7a",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4f_CX4170a_PUSH PULL INTERFERENCE.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-7bce2e9163b0.jpg",
+    "source_path": "illustrations/4u/CX4170a/4f_CX4170a_PUSH PULL INTERFERENCE.jpg",
+    "source_sha256": "ed1bb314896bc7ba9022d6edb1e7aee03190ef2c0547d32b9bd5dcd49b22bcc4",
+    "sha256": "d071ece1ec39fa4b6f17b21fa184c7ab86c265414b9339141e98d1f409966d08",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5a_CX4170a_STANDOFF INSTALL.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-a871477c30da.jpg",
+    "source_path": "illustrations/4u/CX4170a/5a_CX4170a_STANDOFF INSTALL.jpg",
+    "source_sha256": "2cf974f8c184bb495b6d0c47c532417b21b23e8415db2d320369074087c57203",
+    "sha256": "3355619c96d53b802aeb8f76439a8822df60c1045da877e2b6c8a9390a336d9f",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "6a_CX4170a_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-6099bde3cf5e.jpg",
+    "source_path": "illustrations/4u/CX4170a/6a_CX4170a_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "58c36932f6b46f665eea506645d6c9f587fe9bd425112b972daef2594bd445b1",
+    "sha256": "5a1728afd1020314380cd6a4f3c495ea94fec40a10cb40b991c9c542b8b8c792",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "6b_CX4170a_MOTHERBOARD.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-83e57312ddd0.jpg",
+    "source_path": "illustrations/4u/CX4170a/6b_CX4170a_MOTHERBOARD.jpg",
+    "source_sha256": "349730f4fa5a76568094dbc34327cf5ea02a7287344b3746678e20ae9e8ed528",
+    "sha256": "9c471706158ac2865b73e60e647274f81c0e418e7cf16bd3fc2114ab5492e0d4",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "7_CX4170a_PSU.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-eb3e9ec63266.jpg",
+    "source_path": "illustrations/4u/CX4170a/7_CX4170a_PSU.jpg",
+    "source_sha256": "b4bb75ac78e968097e6d9c56a2c2637421267d84dfbecb7a2f9fc274859da266",
+    "sha256": "2827d2300c2ef762487bd47847adba8bb62371a61cfed4c4d372a3b4de88355d",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "8_CX4170a_SSD.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-5065e6aea9f3.jpg",
+    "source_path": "illustrations/4u/CX4170a/8_CX4170a_SSD.jpg",
+    "source_sha256": "00463251c163c47cd90f9d7bdb64c32e75c1efae25aa8860bbaed9b0b2b5f761",
+    "sha256": "dfe058d9066fba8bea6619185fff025b6b90a077d3521eaa29c220c0393e795d",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9_CX4170a_GPU.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-6356342a353e.jpg",
+    "source_path": "illustrations/4u/CX4170a/9_CX4170a_GPU.jpg",
+    "source_sha256": "e7ba0a18915320a54c75597e523a487e30dc79ec391176c5401ed179c3ed8722",
+    "sha256": "da18e858c60832955b1d39c903ba74861c78a623f219180ecd0c08b3a277f47a",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX4170a.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-bfaff7d61ab3.jpg",
+    "source_path": "illustrations/4u/CX4170a/_CX4170a.jpg",
+    "source_sha256": "03cc1f20d22d94bf55447ca809d520f2e5d983ef50e4771fcfac3c2622f0043a",
+    "sha256": "02bb2aca7507384909a232ceb129336843ccd3a0e552a0ef53928e79189d6a31",
+    "dimensions_px": [
+      1800,
+      872
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX4170a_ADVANCED_FRONT VIEW.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-88eb7f3491d2.jpg",
+    "source_path": "illustrations/4u/CX4170a/_CX4170a_ADVANCED_FRONT VIEW.jpg",
+    "source_sha256": "e7b2ebcf300c595f608423fc84ecfa84451ececb9b842c6baac1afe6ed980b86",
+    "sha256": "ab5366f086a4c48fdbe5c9364b3315c78394791f84169a6e6c53f6ea976705de",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX4170a_ADVANCED_TOP VIEW 2.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-53372e4f4835.jpg",
+    "source_path": "illustrations/4u/CX4170a/_CX4170a_ADVANCED_TOP VIEW 2.jpg",
+    "source_sha256": "a87ae898a25c78d8803719d69db7b4cbd13d4aad4dfadb35e802a36e90be8585",
+    "sha256": "8eb0fcb1049399176b9c5d2dc4b66166d2e75aeb3bbbc7ec35734103012c31a3",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX4170a_ADVANCED_TOP VIEW.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-718c7eba35f8.jpg",
+    "source_path": "illustrations/4u/CX4170a/_CX4170a_ADVANCED_TOP VIEW.jpg",
+    "source_sha256": "e042711017a1a7c63b3594a50f1b6cf5413c18234467b3b060323c35c61b3637",
+    "sha256": "47d69c85c01b6a90c12dcdba4831ab5d822a875bb9c0cdd3c0456b09f106c8fc",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX4170a_RACK_EAR.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-e846e1ac1b91.jpg",
+    "source_path": "illustrations/4u/CX4170a/_CX4170a_RACK_EAR.jpg",
+    "source_sha256": "40fdb59120873f5552f7627f4e7ca2dee8a644c305f769c57fb720f3c5025ba0",
+    "sha256": "34f848f366ca00bc6792ba1fe6a8b9257cbb2dc6d5d8b87f69c9a392f2af0c95",
+    "dimensions_px": [
+      1800,
+      872
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX4170a_rendering.jpg": {
+    "path": "illustrations/published/CX4170a/cx4170a-2fdafe15b697.jpg",
+    "source_path": "illustrations/4u/CX4170a/_CX4170a_rendering.jpg",
+    "source_sha256": "9e8ca067566171da952c2dabb1ac3092604a0fac8bceb8517207012b8428353a",
+    "sha256": "0b4022d17924044a3104328e7eaaea59ad96ad7d2bf70047e74271c3c5576475",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  }
+}

@@ -1,0 +1,662 @@
+{
+  "common/front-io/20pinUSB3_greyscale.png": {
+    "path": "illustrations/published/common/common-ce2fed1bfec3.png",
+    "source_path": "illustrations/common/front-io/20pinUSB3_greyscale.png",
+    "source_sha256": "cdd000df4c2741c52f52a254ba9c0abf0aca17a4392117a6e54ffcf5296734f8",
+    "sha256": "f78b738aa47fdad4cde119b87ac746cef4a6697444907a31aec41057af095159",
+    "dimensions_px": [
+      365,
+      756
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/front-io/PowerAndLED_greyscale.png": {
+    "path": "illustrations/published/common/common-1d1876399ab6.png",
+    "source_path": "illustrations/common/front-io/PowerAndLED_greyscale.png",
+    "source_sha256": "9a209c7a989de15bd2a1bb327c85f088785fd0a1e8a4f6c8bf37d333654cef1b",
+    "sha256": "95771868b99e040996a38bde22b9280823365654ede7b06f2c0f887eb954e169",
+    "dimensions_px": [
+      329,
+      727
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/front-io/TypeEUSBC_greyscale.png": {
+    "path": "illustrations/published/common/common-6e45acaf9070.png",
+    "source_path": "illustrations/common/front-io/TypeEUSBC_greyscale.png",
+    "source_sha256": "44c6b893931824830d5dcdbc3894ab524771570c94fbb0d3df88195ee181849e",
+    "sha256": "c1f95969e06f6e0927e3b0c6b82d7422b4617ef2e23fe744e847127c405e51e1",
+    "dimensions_px": [
+      366,
+      760
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/BLACK HEX STANDOFFS.jpg": {
+    "path": "illustrations/published/common/common-c91d6fa96cbb.jpg",
+    "source_path": "illustrations/common/hardware/BLACK HEX STANDOFFS.jpg",
+    "source_sha256": "c4823a3cc723c83f0956e4800c8b55a5689bc6b2588c7cd1c3bfb1fbdbbe72aa",
+    "sha256": "b80bf3336fd033d4a653d93a69403c494cb03a32750cfbe59e28680cdbd14f66",
+    "dimensions_px": [
+      240,
+      171
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/BLACK HEX STANDOFFS_SIDE.png": {
+    "path": "illustrations/published/common/common-56fda43430f6.png",
+    "source_path": "illustrations/common/hardware/BLACK HEX STANDOFFS_SIDE.png",
+    "source_sha256": "83d5268c4b461f5c3d9681a8298ec7b61144827ad1811d2106bde5e64b4f8f2b",
+    "sha256": "04b2577ba87c615783590c1b45480afe055f2f3d045c02d3639aaffd07e72bde",
+    "dimensions_px": [
+      214,
+      276
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/BLACK HEX STANDOFFS_TOP.png": {
+    "path": "illustrations/published/common/common-9082a1a33a50.png",
+    "source_path": "illustrations/common/hardware/BLACK HEX STANDOFFS_TOP.png",
+    "source_sha256": "810520747ebffaab5a2b7d3a22189bad60142af8b01fab16c7301731ca4ae78a",
+    "sha256": "720a420543f99dcfdcba7d6c66934afc73afbaf84272ac51f6b6801a760088cc",
+    "dimensions_px": [
+      165,
+      133
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/BLUE PATCHED SCREWS.jpg": {
+    "path": "illustrations/published/common/common-30c496cced2c.jpg",
+    "source_path": "illustrations/common/hardware/BLUE PATCHED SCREWS.jpg",
+    "source_sha256": "37fbd77091252d200967291aee53c0950100df2b4320d7a353afe97cf91d1ef7",
+    "sha256": "49b43c725ce62e4af7ac28b28a06f311ede9b514c9bdce0709e4f084f3bd9fb5",
+    "dimensions_px": [
+      240,
+      172
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/BLUE PATCHED SCREWS_SIDE.png": {
+    "path": "illustrations/published/common/common-0724b5c4a652.png",
+    "source_path": "illustrations/common/hardware/BLUE PATCHED SCREWS_SIDE.png",
+    "source_sha256": "d66ea69740ad7a38ec256676447ec35fcc5085adc40a273dde0faef3bc71fe16",
+    "sha256": "51fb9d4f7e6f1db9c6d9246cee8f7bd24fc30fc9fc79540e4d5cbfb2b5696869",
+    "dimensions_px": [
+      149,
+      139
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/BLUE PATCHED SCREWS_TOP.png": {
+    "path": "illustrations/published/common/common-f850914df426.png",
+    "source_path": "illustrations/common/hardware/BLUE PATCHED SCREWS_TOP.png",
+    "source_sha256": "fdb612f2fd19be794978ebd9953f17bd425c2caaac42866a1e1cec023070c4e9",
+    "sha256": "6ef2a65a2978d6f2c3dc2721dfe4141de17a453c8d99f8d4f6044590f78d6096",
+    "dimensions_px": [
+      1400,
+      1400
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/GREEN PATCHED SCREWS.jpg": {
+    "path": "illustrations/published/common/common-2d113f664fd3.jpg",
+    "source_path": "illustrations/common/hardware/GREEN PATCHED SCREWS.jpg",
+    "source_sha256": "da9d0886c495dcccd376b4e5d0fa5ff59f6781a1a98c6f7780e95bb763b31ebc",
+    "sha256": "adcb174073f68e06b8ff47c3a23ecc0ea3aeb33339cd3cbcb86cf1fdcd8da1da",
+    "dimensions_px": [
+      240,
+      172
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/GREEN PATCHED SCREWS_SIDE.png": {
+    "path": "illustrations/published/common/common-dbc67613b71f.png",
+    "source_path": "illustrations/common/hardware/GREEN PATCHED SCREWS_SIDE.png",
+    "source_sha256": "8c259a424a03d44e01765548398dc54a90a527130b29bfd5ba7d6e791696c9ae",
+    "sha256": "39ff018b0c698553b0a7bac780f617d08715235722fe45f49c231486649d57f3",
+    "dimensions_px": [
+      269,
+      265
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/GREEN PATCHED SCREWS_TOP.png": {
+    "path": "illustrations/published/common/common-21cb4d897886.png",
+    "source_path": "illustrations/common/hardware/GREEN PATCHED SCREWS_TOP.png",
+    "source_sha256": "56b915682c9fa76fc3e64830a5393c01bfa38620ef222e945bc344023166375d",
+    "sha256": "3c32f750f0c9b4c23dacf97115a2beaba211112e413bacde7de53ccb9e015169",
+    "dimensions_px": [
+      180,
+      186
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/M4 THREAD SCREWS.jpg": {
+    "path": "illustrations/published/common/common-05c2bcb8317e.jpg",
+    "source_path": "illustrations/common/hardware/M4 THREAD SCREWS.jpg",
+    "source_sha256": "07005f26a55fdf22cc65100775d0f5d2a1fb3f40b20544e961cd4799a35ba1dc",
+    "sha256": "55a07ab9570a345f184d4eed6a15f068b7a2d53347b911654f1b085caf41ea87",
+    "dimensions_px": [
+      240,
+      172
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/M4 THREAD SCREWS_SIDE.png": {
+    "path": "illustrations/published/common/common-7966ac4a5ab5.png",
+    "source_path": "illustrations/common/hardware/M4 THREAD SCREWS_SIDE.png",
+    "source_sha256": "b88041b2d7217a1801fa0eb6d9c17b7e06049e0ad034d94028d1777aedc59e25",
+    "sha256": "a2b6727d1b71672722d02f1cdd8d9f069ebe561ee486ff606f0ea382267ff039",
+    "dimensions_px": [
+      295,
+      308
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/M4 THREAD SCREWS_TOP.png": {
+    "path": "illustrations/published/common/common-8798b6fbf7db.png",
+    "source_path": "illustrations/common/hardware/M4 THREAD SCREWS_TOP.png",
+    "source_sha256": "56b915682c9fa76fc3e64830a5393c01bfa38620ef222e945bc344023166375d",
+    "sha256": "3c32f750f0c9b4c23dacf97115a2beaba211112e413bacde7de53ccb9e015169",
+    "dimensions_px": [
+      180,
+      186
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/RED PATCHED SCREWS.jpg": {
+    "path": "illustrations/published/common/common-3261b058f919.jpg",
+    "source_path": "illustrations/common/hardware/RED PATCHED SCREWS.jpg",
+    "source_sha256": "61f0d3a61e1f68b9c4092e8e89b55ef24c25260743995b993c58cba086590d47",
+    "sha256": "8e0b6956987732f9cdb44aeb447276c88b586f4541ace028d3a207a1e2940e03",
+    "dimensions_px": [
+      240,
+      172
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/RED PATCHED SCREWS_SIDE.png": {
+    "path": "illustrations/published/common/common-4a0bbbbdfe60.png",
+    "source_path": "illustrations/common/hardware/RED PATCHED SCREWS_SIDE.png",
+    "source_sha256": "a871255ee810c39cdf480f4a527ade68324a61ab5a8ea12aa3c30bc44f45ee5e",
+    "sha256": "e7589fe17b8a674f07446235c0d3083b03b8434aa21eb786baa2d92f06d42a0b",
+    "dimensions_px": [
+      246,
+      275
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/RED PATCHED SCREWS_TOP.png": {
+    "path": "illustrations/published/common/common-00285f3bd25c.png",
+    "source_path": "illustrations/common/hardware/RED PATCHED SCREWS_TOP.png",
+    "source_sha256": "56b915682c9fa76fc3e64830a5393c01bfa38620ef222e945bc344023166375d",
+    "sha256": "3c32f750f0c9b4c23dacf97115a2beaba211112e413bacde7de53ccb9e015169",
+    "dimensions_px": [
+      180,
+      186
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/YELLOW PATCHED SCREWS.jpg": {
+    "path": "illustrations/published/common/common-e920fc69d317.jpg",
+    "source_path": "illustrations/common/hardware/YELLOW PATCHED SCREWS.jpg",
+    "source_sha256": "29f4439b0bdfa3ad76d3bd5ec970ce6f6b44283a1a04f9615d01929c6d4ace3e",
+    "sha256": "07f27404e0554c5ec1a19f035d18ecfa1ae9a481576ee83d892193c3fbced4f4",
+    "dimensions_px": [
+      240,
+      172
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/YELLOW PATCHED SCREWS_SIDE.png": {
+    "path": "illustrations/published/common/common-d9083bab6ce2.png",
+    "source_path": "illustrations/common/hardware/YELLOW PATCHED SCREWS_SIDE.png",
+    "source_sha256": "d46bd5d0081ced1c249c870b697d9493ccabd008eef607eefa5e7ff805ffe853",
+    "sha256": "adf581f75ccc84a5ec89ebe2556b0607782fc3e3bd79f835172e70a20794e2cd",
+    "dimensions_px": [
+      43,
+      41
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/YELLOW PATCHED SCREWS_TOP.png": {
+    "path": "illustrations/published/common/common-7e58dc70c4c0.png",
+    "source_path": "illustrations/common/hardware/YELLOW PATCHED SCREWS_TOP.png",
+    "source_sha256": "fdb612f2fd19be794978ebd9953f17bd425c2caaac42866a1e1cec023070c4e9",
+    "sha256": "6ef2a65a2978d6f2c3dc2721dfe4141de17a453c8d99f8d4f6044590f78d6096",
+    "dimensions_px": [
+      1400,
+      1400
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/pull-handles-reference.png": {
+    "path": "illustrations/published/common/reference-622ace0e05bd.png",
+    "source_path": "illustrations/common/hardware/pull-handles-reference.png",
+    "source_sha256": "d47628abfe5acb1211edd8d5dcd329086b34592af628b3fa1f8b9c1598f60817",
+    "sha256": "b8cd8ffc5f4a59a3c068da6fc84129ac6fa653c41c4cef13d0faa5a9cd922e2d",
+    "dimensions_px": [
+      234,
+      118
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/rack-ears-reference.png": {
+    "path": "illustrations/published/common/reference-726ad99f8643.png",
+    "source_path": "illustrations/common/hardware/rack-ears-reference.png",
+    "source_sha256": "25be4c289bdd719656df731bcb8961a4deabdc8e8aa8e68ae81bcc428efc1eaa",
+    "sha256": "392ad90cb3d30a8e4c0a2313c2bc19e8c3154b889c596c6460dce320b508c17b",
+    "dimensions_px": [
+      197,
+      127
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/slot-covers-reference.png": {
+    "path": "illustrations/published/common/reference-a2869775f048.png",
+    "source_path": "illustrations/common/hardware/slot-covers-reference.png",
+    "source_sha256": "59b3711abad60742aa5c60e1d402d5567a3c831f7eb5b954c280250cc70a664a",
+    "sha256": "70890812d969e7cffd3dc0f2ddedb1771e9a0e21ecca30af1242c67519e9c04a",
+    "dimensions_px": [
+      209,
+      79
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/icons/MadeInUSA-reference.png": {
+    "path": "illustrations/published/common/reference-1c9c5801db8f.png",
+    "source_path": "illustrations/common/icons/MadeInUSA-reference.png",
+    "source_sha256": "e8a3ae7ba71e39a4b26f43ec97657e9fb74835bff0784a5f3c59b61f5b2d2925",
+    "sha256": "ccd3c4699648a3155c1ef938cbdd151c57c61d059da09e874073ecee8e35e5cf",
+    "dimensions_px": [
+      309,
+      285
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/icons/REACHcompliant.png": {
+    "path": "illustrations/published/common/common-ffa7fa91da90.png",
+    "source_path": "illustrations/common/icons/REACHcompliant.png",
+    "source_sha256": "820ab0d309507b951ba6d6f4ce5b43328a09c8242118eef6d0f38e29d583aa26",
+    "sha256": "d9e57a43dfbfc964860cf117fa90cc0b01ce6c5d82be86631ca12b8e0843b8dd",
+    "dimensions_px": [
+      626,
+      417
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/icons/ResponsibleMineralsInitive.png": {
+    "path": "illustrations/published/common/common-548a0d70316f.png",
+    "source_path": "illustrations/common/icons/ResponsibleMineralsInitive.png",
+    "source_sha256": "8248fd30fd26403e67f01a685ca8d0a5132a067d620ebed20ad75831bc284dd4",
+    "sha256": "1a91b512494f9545b42d656d04b717801eafc5744dd61e14fd9c913da078eb31",
+    "dimensions_px": [
+      1024,
+      576
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/icons/RoHScompliant.png": {
+    "path": "illustrations/published/common/common-cdd856664503.png",
+    "source_path": "illustrations/common/icons/RoHScompliant.png",
+    "source_sha256": "b9aa11683e14fea0c43684c8cc29cb08cc334976aeb60eb3e7109f77d304e9fc",
+    "sha256": "aa8739b231858d195edf8e2eaf85ac676ef7126bf1d17ad087403ecc50dbf683",
+    "dimensions_px": [
+      600,
+      399
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/4u-drive-cage/2xHDD_3xSSD.png": {
+    "path": "illustrations/published/common/common-cff4b2ad4a18.png",
+    "source_path": "illustrations/common/4u-drive-cage/2xHDD_3xSSD.png",
+    "source_sha256": "7972e7018993c7793290047a8efbaa3ac6fc19fc5bc8b9f2877c659092c7f28b",
+    "sha256": "72c31f7e208d0adeff15a57d181c7429f4cfda41da50365e9f50b09dddacd8bd",
+    "dimensions_px": [
+      707,
+      733
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/4u-drive-cage/3xHDD.png": {
+    "path": "illustrations/published/common/common-0305590dc46b.png",
+    "source_path": "illustrations/common/4u-drive-cage/3xHDD.png",
+    "source_sha256": "47ec75079381b1887fad956a2f74d0ce1bb22a9fa9d13b406629bba6c0b638af",
+    "sha256": "226fb3e9852d0826f18893e6b113577614677a95877dab36e6596b50735bc00c",
+    "dimensions_px": [
+      659,
+      697
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/4u-drive-cage/3xHDD_1xSSD.png": {
+    "path": "illustrations/published/common/common-ef2fbc5072fe.png",
+    "source_path": "illustrations/common/4u-drive-cage/3xHDD_1xSSD.png",
+    "source_sha256": "81cff73e5a5c7f28318ee2e8f20cb6e37e5ff591ea2f01b529118aab5f412f52",
+    "sha256": "f6f5597e90d3df85e2aa307637bcdd29d6753a5dd663d055a46611206fb6225b",
+    "dimensions_px": [
+      835,
+      832
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/4u-drive-cage/8xSSD.png": {
+    "path": "illustrations/published/common/common-1110c9aa002e.png",
+    "source_path": "illustrations/common/4u-drive-cage/8xSSD.png",
+    "source_sha256": "bab07f4cc6d9f08a0abe6815f3b06a86dc826b1ebbc294da63ecec881b26b1d0",
+    "sha256": "d1ccc5445f2fd4546328ee8ecb5ad99b0d0aba5adf7121b8abb27676b0d022e2",
+    "dimensions_px": [
+      856,
+      802
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/4u-drive-cage/9xSSD.png": {
+    "path": "illustrations/published/common/common-b06d413eb327.png",
+    "source_path": "illustrations/common/4u-drive-cage/9xSSD.png",
+    "source_sha256": "323bc300ce314e8a1695eb8429b2da0fdd35a0793bf14f53135f4e602ae1010f",
+    "sha256": "5e567db1098ccc9437556cf8b7520e2aed81c5e8b0b52e43c151b72d8984c9c4",
+    "dimensions_px": [
+      728,
+      813
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/front-io/CX3U a FPIO.png": {
+    "path": "illustrations/published/common/common-0f0b98301102.png",
+    "source_path": "illustrations/common/front-io/CX3U a FPIO.png",
+    "source_sha256": "0f0b9830110255ca5b49cbfe9cc4b62c5bd3a7adfb581b4c466168794a14b631",
+    "sha256": "dc60ee15315582dee6a7ae79f7dbce7beeed6c3446321c4b8b898ff71e90d8d5",
+    "dimensions_px": [
+      364,
+      552
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/front-io/CX4U a FPIO.png": {
+    "path": "illustrations/published/common/common-254a39b6e8fb.png",
+    "source_path": "illustrations/common/front-io/CX4U a FPIO.png",
+    "source_sha256": "254a39b6e8fb1d4ef225a6fe4ad099b7de1020a88087a71cba4c0a52a8ba145f",
+    "sha256": "44c89815881f735345a9d2384912d3947f7e0d8cc58684072013e3e4b42b0543",
+    "dimensions_px": [
+      362,
+      736
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/S6xx-storage-kit/S630-425_assy.jpg": {
+    "path": "illustrations/published/common/common-b6ba06b391ac.jpg",
+    "source_path": "illustrations/common/S6xx-storage-kit/S630-425_assy.jpg",
+    "source_sha256": "b6ba06b391ac194d2a272b4a5aed8659ee50feda0d593c7ed59dd98e427c882d",
+    "sha256": "bd6420b37654d4d6a95da0518d7143c157b5840d184720d6d733578ad93cf52d",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/S6xx-storage-kit/S630-433A-assy.jpg": {
+    "path": "illustrations/published/common/common-116146531752.jpg",
+    "source_path": "illustrations/common/S6xx-storage-kit/S630-433A-assy.jpg",
+    "source_sha256": "116146531752f498abd5e28c52d1fb57ecce84633145ff9b1f90686d8686427d",
+    "sha256": "52a545c6a82a08e78499432afce9b6f14588659f99123569e45ab9b30026de4f",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/S6xx-storage-kit/S630-433A-assy_alt.jpg": {
+    "path": "illustrations/published/common/common-9c3d75a9506e.jpg",
+    "source_path": "illustrations/common/S6xx-storage-kit/S630-433A-assy_alt.jpg",
+    "source_sha256": "9c3d75a9506e39c4442dfd5f6af4986a56511b704a1c182e47048471f89b20f4",
+    "sha256": "cde79dd53b0dda2d7ded33b3c416bfe5d63894c07f4322c6d2c24144ee697c61",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/S6xx-storage-kit/S630_410_assy.jpg": {
+    "path": "illustrations/published/common/common-7a8c33158d48.jpg",
+    "source_path": "illustrations/common/S6xx-storage-kit/S630_410_assy.jpg",
+    "source_sha256": "7a8c33158d48ffa81274cabfe7738a3c6c37c8b9e10a56221bb12f74e759412b",
+    "sha256": "6615ec53b34dc3c63ca045acbfcabcf8ba3223e34c5bd3602112a01a4d580f12",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/S6xx-storage-kit/p-5-100013b-assy.jpg": {
+    "path": "illustrations/published/common/common-eee177189793.jpg",
+    "source_path": "illustrations/common/S6xx-storage-kit/p-5-100013b-assy.jpg",
+    "source_sha256": "eee177189793119d3fc408055b932363584a748d82549ece9b0e61f4404afbed",
+    "sha256": "e6797e3298254cb373ce30a30f06fbae09e671c42bc0b4febd8011bdcee43ef5",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/S6xx-hwkit/S6xx_ATXpsuBrkt.png": {
+    "path": "illustrations/published/common/common-b5f9c227fb82.png",
+    "source_path": "illustrations/common/S6xx-hwkit/S6xx_ATXpsuBrkt.png",
+    "source_sha256": "b5f9c227fb8274ef243a40cf80cfdba6c2d86abb2bf4d15447e1aae509429b1d",
+    "sha256": "fd31867c4238acdc60e897e2233c0fb0f1aa0110b798a0a465425d4bf87e2b3d",
+    "dimensions_px": [
+      356,
+      250
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/S6xx-hwkit/S6xx_SFXpsuBrkt.png": {
+    "path": "illustrations/published/common/common-b5217b0332d6.png",
+    "source_path": "illustrations/common/S6xx-hwkit/S6xx_SFXpsuBrkt.png",
+    "source_sha256": "b5217b0332d60eb498da0a0a81b0b466566fea19d70e3e63328748920bcf76f0",
+    "sha256": "bc68de75374f97ec84083436500222c27200dcce0c178359ab3887556344b6a8",
+    "dimensions_px": [
+      447,
+      238
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/S6xx-hwkit/blk_CXSC1020A_5x.jpg": {
+    "path": "illustrations/published/common/common-33c575823fdd.jpg",
+    "source_path": "illustrations/common/S6xx-hwkit/blk_CXSC1020A_5x.jpg",
+    "source_sha256": "33c575823fddc750d4c54b4b5b2945d784c70886473c0cdda79481948a2402e6",
+    "sha256": "9c881fa42e247b833d34f7639369dcf682840f72ce377cf15bd5283c0ca420e7",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg": {
+    "path": "illustrations/published/common/common-8d7121643659.jpg",
+    "source_path": "illustrations/common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg",
+    "source_sha256": "8d712164365932299f0e4c7d5c4d067d781fefa358caa0abb8eadd477c6f5277",
+    "sha256": "6d002d679c4843f13acd3e094416327160bf865f765b0d452ac99363910f6c38",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg": {
+    "path": "illustrations/published/common/common-6cda6df19184.jpg",
+    "source_path": "illustrations/common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg",
+    "source_sha256": "6cda6df191846a90d2d890d98414f71f3b3ac79b5a6db946c135a197a500b73f",
+    "sha256": "64358a2a266755808280a5aadd0555674c7bc0b51fa84e5ba022db1855fa42c6",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_side.jpg": {
+    "path": "illustrations/published/common/common-2b762b10f855.jpg",
+    "source_path": "illustrations/common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_side.jpg",
+    "source_sha256": "2b762b10f855567fbacc9a4aec8fd5fca9a9e85df0ed995f9df9825222cab2dd",
+    "sha256": "5729d3598bc82efecb1664ee5653bda4bb7c5263b0f80a39588c53540fdb6f5c",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_top.jpg": {
+    "path": "illustrations/published/common/common-1d9028a99a72.jpg",
+    "source_path": "illustrations/common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_top.jpg",
+    "source_sha256": "1d9028a99a7279bad03f9c77abb25dfe6cf2d25105abc75cd9acbc21cdbda19a",
+    "sha256": "ed4859ce778bcd02a5f555c0beef2387a92675fabbebcb85147bfe653dee041f",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PFH 632 x.187 BLK (217-018A)_side.jpg": {
+    "path": "illustrations/published/common/common-1906e361a44c.jpg",
+    "source_path": "illustrations/common/hardware/MS PFH 632 x.187 BLK (217-018A)_side.jpg",
+    "source_sha256": "1906e361a44ce7dcfb304026adfd759d8259d34b1175243249547ac6232adb47",
+    "sha256": "18ec152ba377b5c3ec3a6d1c55bce38eae84314fad8353fefb6b84cf06f26660",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PFH 632 x.187 BLK (217-018A)_top.jpg": {
+    "path": "illustrations/published/common/common-6a012fc1bc30.jpg",
+    "source_path": "illustrations/common/hardware/MS PFH 632 x.187 BLK (217-018A)_top.jpg",
+    "source_sha256": "6a012fc1bc300d5cb501cf939a4c33084b9e29a16cb2ff032686bd5aaed3c961",
+    "sha256": "b2ea10c8f107b4db8fb37709403721c2cbcc6899d744db26cff05f38cec06476",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Side.jpg": {
+    "path": "illustrations/published/common/common-fbaafcdabf3c.jpg",
+    "source_path": "illustrations/common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Side.jpg",
+    "source_sha256": "fbaafcdabf3ce6cb8877c0f36f59b662d98c536f97959f43263d4ed92e0e9f3d",
+    "sha256": "60787ed06ef3801f813ce6475ebdd32534f7241419ea38785cad230b720c634d",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Top.jpg": {
+    "path": "illustrations/published/common/common-de9feca3792f.jpg",
+    "source_path": "illustrations/common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Top.jpg",
+    "source_sha256": "de9feca3792f2246a1aceed450c0690ff6d9279e2551536bd26694b60ba4d727",
+    "sha256": "34635457a5b685089dcd296541864c36b5d2b0329015b4fc87d45e753eee48d9",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PFH M3 X 5mm BLK (217-621)_side.jpg": {
+    "path": "illustrations/published/common/common-eab0a27840c0.jpg",
+    "source_path": "illustrations/common/hardware/MS PFH M3 X 5mm BLK (217-621)_side.jpg",
+    "source_sha256": "eab0a27840c0334c9506b838407916a73233f86b3d60b9f6593c967b90dff0d4",
+    "sha256": "f7c087f5561623bb17ee8a951e93295e0a56e22e196cb69ba1b33fb8ca79cc16",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg": {
+    "path": "illustrations/published/common/common-98850e89e851.jpg",
+    "source_path": "illustrations/common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg",
+    "source_sha256": "98850e89e851f6966984106f7c49b0ec8ab91b16e793f56717a771c522111b48",
+    "sha256": "dd0b1b5eebedd138d09f48a2caf3fb7ac347a32d08837c6aa165a8a70c1a6420",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg": {
+    "path": "illustrations/published/common/common-c9489b3261bc.jpg",
+    "source_path": "illustrations/common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg",
+    "source_sha256": "c9489b3261bce531c3314517cb8455e767fe89ec45d2d254d36df8008824dcbf",
+    "sha256": "6ebfa96014dbe7c7322d83c8542e9b04e719bb484a36dfa1558b2229a1dd8c14",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg": {
+    "path": "illustrations/published/common/common-9b2a64a5728d.jpg",
+    "source_path": "illustrations/common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg",
+    "source_sha256": "9b2a64a5728d600c1b3e92057e50d428df24cfa62e74e4444c452242d2a9a433",
+    "sha256": "23ce9d645e6c5b78f24956404ee4e6764f3ab1de52b60d7bc42d70d6d1b05343",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  }
+}

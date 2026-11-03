@@ -1,0 +1,41 @@
+/* Shared S630/S640 type roles. Layout rules must not introduce smaller variants. */
+.sff {
+ --sff-type-title:25pt;
+ --sff-type-section:12pt;
+ --sff-type-body:10pt;
+ --sff-type-small:9pt;
+ --sff-type-meta:8pt;
+ --sff-body-leading:1.35;
+ font-size:var(--sff-type-body);
+ font-weight:400;
+ line-height:var(--sff-body-leading);
+}
+.sff :is(article, p, li, table, .paired-intro, .catalog-intro) {
+ font-size:var(--sff-type-body);
+ font-weight:400;
+ line-height:var(--sff-body-leading);
+}
+.sff :is(strong, b, th) { font-weight:700; }
+.sff strong { font-family:inherit; }
+.sff header h1 { font-size:var(--sff-type-title); font-weight:700; line-height:1.1; }
+.sff .page-body :is(h2, h3) { font-size:var(--sff-type-section); font-weight:700; line-height:1.25; }
+.sff :is(th, .key-quantity, .io-legend strong) { font-size:var(--sff-type-body); font-weight:700; }
+.sff .key-copy h3 { font-size:var(--sff-type-body); font-weight:700; line-height:1.25; }
+.sff :is(.key-copy p, .catalog-note p, .io-note, .io-note p, .sff-board-caption, .sff-board-caption p) {
+ font-size:var(--sff-type-small);
+ line-height:1.3;
+ font-weight:400;
+}
+.sff figcaption { font-size:var(--sff-type-small); line-height:1.25; font-weight:400; }
+.sff .figure-hardware a { font-size:var(--sff-type-small); line-height:1.25; font-weight:400; }
+.sff .figure-hardware b { font-size:inherit; font-weight:700; }
+.sff nav a { font-size:var(--sff-type-body); line-height:var(--sff-body-leading); font-weight:400; }
+.sff nav b { font-weight:700; }
+.sff .eyebrow { font-size:var(--sff-type-meta); font-weight:700; }
+.sff .model { font-size:var(--sff-type-body); font-weight:400; }
+.sff footer { font-size:var(--sff-type-meta); line-height:1.25; font-weight:400; }
+.sff footer b { font-size:var(--sff-type-section); font-weight:700; }
+.sff .cover-edition { font-size:var(--sff-type-meta); font-weight:400; }
+.sff.cover h1 { font-size:43pt; font-weight:700; line-height:1.05; }
+.sff .cover-copy p { font-size:15pt; line-height:1.2; font-weight:400; }
+.sff .language-tag { font-size:var(--sff-type-small); font-weight:700; }
