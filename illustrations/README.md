@@ -1,5 +1,7 @@
 # Illustrations
 
+Artwork still needed for the manuals is tracked in [ARTWORK-REQUESTS.md](ARTWORK-REQUESTS.md).
+
 Full-resolution originals (CAD renders and photographs) are kept in Sliger's internal
 image library and are not in Git. A maintainer stages the chassis being worked on
 locally, in the ignored `<category>/<model>/` folders (`desktop/S630/`, `3u/CX3150a/`,
