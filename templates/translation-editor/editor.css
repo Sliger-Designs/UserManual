@@ -29,6 +29,7 @@ body.choosing #editor { max-width: 860px; width: 100%; margin: 0 auto; }
 .topbar { display: flex; align-items: center; gap: 18px; padding: 8px 16px; background: white; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
 .brand { display: flex; align-items: center; gap: 12px; font-weight: 600; }
 .brand .logo { height: 18px; width: auto; display: block; }
+.brand .home-link { display: block; line-height: 0; }
 .brand .package { color: var(--muted); font-weight: 400; font-size: .85em; }
 .progress { display: flex; align-items: center; gap: 8px; flex: 1; min-width: 180px; max-width: 360px; }
 .progress .bar { flex: 1; height: 8px; background: var(--line); border-radius: 4px; overflow: hidden; }

@@ -16,6 +16,8 @@ h1 { font-size: 1.4em; margin: 22px 0 4px; } h2 { font-size: 1em; margin: 18px 0
 a { color: #b92e32; } a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
 .filters { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 14px 0; }
 .filters input { font: inherit; padding: 7px 10px; border: 1px solid #b9c2c8; border-radius: 6px; min-width: 16em; }
+.form-factor + .form-factor { border-top: 2px solid var(--line); margin-top: 22px; }
+.form-factor-title { font-size: .8em; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 20px 0 4px; }
 details.manual { background: white; border: 1px solid var(--line); border-radius: 8px; margin: 10px 0; }
 details.manual[open] { box-shadow: 0 2px 10px #0001; }
 summary { list-style: none; cursor: pointer; padding: 14px 16px; display: grid; grid-template-columns: 7.5em 1fr auto; gap: 12px; align-items: center; }
@@ -111,7 +113,7 @@ function translatePanel(manual) {
   if (existing.length) {
     panel.push(h('h3', {text: 'Translations Sliger already has'}));
     for (const [code, item] of existing) {
-      const pdf = item.preview && h('a', {href: item.preview}, 'Preview PDF');
+      const pdf = item.preview && h('a', {href: item.preview, target: '_blank', rel: 'noopener'}, 'Preview PDF');
       panel.push(h('div', {class: 'row'},
         h('div', {}, h('strong', {text: languageLabel(code, item.name)}),
           h('div', {class: 'meta', text: `${item.done} of ${item.total} items translated for ${manual.model} (${percent(item.done, item.total)})`})),
@@ -155,7 +157,7 @@ function manualCard(manual) {
   const panel = h('div', {class: 'panel'});
   const pdfs = manual.pdfs.map(pdf => h('div', {class: 'row'},
     h('div', {}, h('strong', {text: pdf.label}), h('div', {class: 'meta', text: pdf.note})),
-    h('div', {class: 'actions'}, h('a', {class: 'button', href: pdf.href}, 'PDF'))));
+    h('div', {class: 'actions'}, h('a', {class: 'button', href: pdf.href, target: '_blank', rel: 'noopener'}, 'PDF'))));
   panel.append(h('h2', {text: 'Download'}), ...(pdfs.length ? pdfs : [h('p', {class: 'note', text: 'No PDF published yet.'})]));
   card.append(panel);
   card.addEventListener('toggle', () => {  // Rebuilt on open, so saved work is always current.
@@ -167,11 +169,18 @@ function manualCard(manual) {
 }
 
 const list = document.getElementById('manuals');
-list.append(...SITE.manuals.map(manualCard),
+const groups = [];
+for (const manual of SITE.manuals) {  // One section per form factor, in the order the site data lists them.
+  let group = groups.find(item => item.name === manual.form_factor);
+  if (!group) groups.push(group = {name: manual.form_factor, cards: []});
+  group.cards.push(manualCard(manual));
+}
+list.append(...groups.map(group => h('section', {class: 'form-factor'}, h('h2', {class: 'form-factor-title', text: group.name || 'Other'}), group.cards)),
   h('datalist', {id: 'language-codes'}, SITE.language_codes.map(code => h('option', {value: code}, Workspaces.languageName(code)))));
 document.getElementById('filter').addEventListener('input', event => {
   const query = event.target.value.trim().toLowerCase();
   for (const card of list.querySelectorAll('details.manual')) card.hidden = query && !card.dataset.model.includes(query);
+  for (const section of list.querySelectorAll('section.form-factor')) section.hidden = ![...section.querySelectorAll('details.manual')].some(card => !card.hidden);
 });
 const wanted = new URLSearchParams(location.search).get('manual');
 const opened = wanted && list.querySelector(`details[data-model="${CSS.escape(wanted.toLowerCase())}"]`);

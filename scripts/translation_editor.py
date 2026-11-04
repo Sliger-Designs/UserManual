@@ -79,7 +79,8 @@ def memories_for(catalog, markdown_files):
     return memories
 
 
-def build_editor(package, browser, output):
+def build_editor(package, browser, output, home_url=None):
+    """home_url: link the logo and an "All manuals" button to the manuals index (site builds only)."""
     package = package.resolve()
     manifest = read_json(package / 'manifest.json')
     catalog = read_json(package / 'source/strings.json')
@@ -146,6 +147,9 @@ def build_editor(package, browser, output):
                          ('__PACKAGE_NAME__', package.name),
                          ('__SLIGER_LOGO__', 'data:image/svg+xml;base64,' + base64.b64encode(
                              (ROOT / 'templates/brand/sliger-logo.svg').read_bytes()).decode()),
+                         ('__HOME_OPEN__', f'<a class="home-link" href="{home_url}" title="Back to all manuals">' if home_url else ''),
+                         ('__HOME_CLOSE__', '</a>' if home_url else ''),
+                         ('__HOME_BUTTON__', f'<a class="button" href="{home_url}" title="Back to the list of all manuals">&larr; All manuals</a>' if home_url else ''),
                          ('__EDITOR_DATA__', data)]:
         assert page.count(marker) == 1, marker
         page = page.replace(marker, text)
