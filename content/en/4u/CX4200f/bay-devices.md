@@ -1,4 +1,4 @@
-Each bay holds a filler blank or a 5.25-inch device. Each blank provides mounting for two 2.5-inch SSDs and one 3.5-inch HDD.
+Each bay holds a filler blank or a 5.25-inch device. Each blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and two 2.5-inch SSDs.
 
 ### 1. Remove the filler blanks
 

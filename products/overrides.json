@@ -469,18 +469,18 @@
       "note": "324 mm (import CSV and website) chosen over the compatibility CSV 325 mm."
     },
     "ssd_2_5_max": {
-      "value": 6,
+      "value": 10,
       "configuration": {
         "motherboard_tray": 2,
-        "per_bay_filler_blank": 2,
+        "per_bay_filler_blank": 4,
         "bays": 2
       },
       "source": {
         "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/decisions/2026-11-04-CX4150e-i-storage-and-cooling.md"
+        "record": "sources/decisions/2026-11-04-bay-filler-blank-capacity.md"
       },
-      "note": "Total mounting locations; not all usable at once."
+      "note": "Total mounting locations; each filler blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs. Not all usable at once."
     },
     "hdd_3_5_max": {
       "value": 2,
@@ -507,18 +507,18 @@
       "note": "324 mm (import CSV and website) chosen over the compatibility CSV 325 mm."
     },
     "ssd_2_5_max": {
-      "value": 4,
+      "value": 6,
       "configuration": {
         "motherboard_tray": 2,
-        "per_bay_filler_blank": 2,
+        "per_bay_filler_blank": 4,
         "bays": 1
       },
       "source": {
         "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/decisions/2026-11-04-CX4150e-i-storage-and-cooling.md"
+        "record": "sources/decisions/2026-11-04-bay-filler-blank-capacity.md"
       },
-      "note": "Total mounting locations; not all usable at once."
+      "note": "Total mounting locations; each filler blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs. Not all usable at once."
     },
     "hdd_3_5_max": {
       "value": 1,
@@ -545,18 +545,18 @@
   },
   "CX4170e": {
     "ssd_2_5_max": {
-      "value": 6,
+      "value": 10,
       "configuration": {
         "motherboard_tray": 2,
-        "per_bay_filler_blank": 2,
+        "per_bay_filler_blank": 4,
         "bays": 2
       },
       "source": {
         "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/decisions/2026-11-04-CX4170e-i-storage-and-cooling.md"
+        "record": "sources/decisions/2026-11-04-bay-filler-blank-capacity.md"
       },
-      "note": "Total mounting locations; not all usable at once."
+      "note": "Total mounting locations; each filler blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs. Not all usable at once."
     },
     "hdd_3_5_max": {
       "value": 2,
@@ -574,18 +574,18 @@
   },
   "CX4170i": {
     "ssd_2_5_max": {
-      "value": 12,
+      "value": 14,
       "configuration": {
         "motherboard_tray": 2,
         "drive_cage": 8,
-        "bay_filler_blank": 2
+        "bay_filler_blank": 4
       },
       "source": {
         "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/decisions/2026-11-04-CX4170e-i-storage-and-cooling.md"
+        "record": "sources/decisions/2026-11-04-bay-filler-blank-capacity.md"
       },
-      "note": "Total mounting locations; not all usable at once."
+      "note": "Total mounting locations; each filler blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs. Not all usable at once."
     },
     "hdd_3_5_max": {
       "value": 4,
@@ -630,18 +630,18 @@
   },
   "CX4200e": {
     "ssd_2_5_max": {
-      "value": 6,
+      "value": 10,
       "configuration": {
         "motherboard_tray": 2,
-        "per_bay_filler_blank": 2,
+        "per_bay_filler_blank": 4,
         "bays": 2
       },
       "source": {
         "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+        "record": "sources/decisions/2026-11-04-bay-filler-blank-capacity.md"
       },
-      "note": "Total mounting locations; not all usable at once."
+      "note": "Total mounting locations; each filler blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs. Not all usable at once."
     },
     "hdd_3_5_max": {
       "value": 2,
@@ -659,18 +659,18 @@
   },
   "CX4200f": {
     "ssd_2_5_max": {
-      "value": 8,
+      "value": 14,
       "configuration": {
         "motherboard_tray": 2,
-        "per_bay_filler_blank": 2,
+        "per_bay_filler_blank": 4,
         "bays": 3
       },
       "source": {
         "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+        "record": "sources/decisions/2026-11-04-bay-filler-blank-capacity.md"
       },
-      "note": "Total mounting locations; not all usable at once."
+      "note": "Total mounting locations; each filler blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs. Not all usable at once."
     },
     "hdd_3_5_max": {
       "value": 3,
@@ -724,18 +724,18 @@
   },
   "CX4200i": {
     "ssd_2_5_max": {
-      "value": 12,
+      "value": 14,
       "configuration": {
         "motherboard_tray": 2,
         "drive_cage": 8,
-        "bay_filler_blank": 2
+        "bay_filler_blank": 4
       },
       "source": {
         "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+        "record": "sources/decisions/2026-11-04-bay-filler-blank-capacity.md"
       },
-      "note": "Total mounting locations; not all usable at once."
+      "note": "Total mounting locations; each filler blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs. Not all usable at once."
     },
     "hdd_3_5_max": {
       "value": 4,

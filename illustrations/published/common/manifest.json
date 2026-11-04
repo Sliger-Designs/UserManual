@@ -846,5 +846,34 @@
       ],
       "full_resolution_sha256": "5d8926e964537fc11b612bec8bc77e9ec9cd1ba7e91fa39f5f569305fb92d2d2"
     }
+  },
+  "common/4u-bay-blank/drive12.jpg.jpg": {
+    "path": "illustrations/published/common/common-96097dee46fc.jpg",
+    "source_path": "illustrations/common/4u-bay-blank/drive12.jpg.jpg",
+    "source_sha256": "96097dee46fc3719a27d4200646873a8f7848d5dec333533d818ad5f132e1c20",
+    "sha256": "0b2d27c3a77d35b2ba0b17e4b62a7fefb3d366fe5e771f5a02d096cb35141eeb",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13647446,
+      "total_pixels": 16897536,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/common/4u-bay-blank-drive12-white.png",
+      "full_resolution_dimensions_px": [
+        4864,
+        3474
+      ],
+      "full_resolution_sha256": "3bfad880f690ea666da1dbd5682aa9f3c3fd07bae416db6103812a95c0e5068a"
+    }
   }
 }

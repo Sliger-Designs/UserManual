@@ -1090,6 +1090,30 @@
         "full_resolution_path": "_build/cleaned-renders/common/4u-bay-bracket-4e_CX4150e_DRIVE BRACKET 2-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "common-96097dee46fc",
+      "asset_key": "common/4u-bay-blank/drive12.jpg.jpg",
+      "original_filename": "drive12.jpg.jpg",
+      "local_path": "illustrations/common/4u-bay-blank/drive12.jpg.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 596391,
+      "sha256": "96097dee46fc3719a27d4200646873a8f7848d5dec333533d818ad5f132e1c20",
+      "selection_status": "candidate",
+      "note": "Four 2.5-inch SSDs mounted on a 5.25-inch bay filler blank (red B screws). Supplied with the CX4712/CX4713; applies to every 4U bay filler blank (confirmed 2026-11-04).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/common/4u-bay-blank-drive12-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     }
   ],
   "removed_items": [
