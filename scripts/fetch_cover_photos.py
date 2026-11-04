@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--models', nargs='+', default=['CX3150a', 'CX4150a', 'CX4170a', 'S630', 'S640'])
+    parser.add_argument('--models', nargs='+', default=['CX3150a', 'CX4150a', 'CX4150e', 'CX4150i', 'CX4170a', 'S630', 'S640'])
     args = parser.parse_args()
     archive = ROOT / 'sources/web/covers'
     output = ROOT / 'illustrations/published/covers'

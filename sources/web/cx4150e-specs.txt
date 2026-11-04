@@ -1,0 +1,182 @@
+Technical Specifications
+Motherboard
+Mini-ITX (L x W: 170mm x 170mm) [6.7" x 6.7"]
+Mini-DTX (L x W: 203mm x 170mm) [8" x 6.7"]
+FlexATX (L x W: 229mm x 191mm) [9" x 7.5"]
+MicroATX (L x W: 245mm x 245mm) [9.6" x 9.6"]
+ATX (L x W: 305mm x 244mm) [12" x 9.6"]
+SSI-CEB (L x W: 305mm x 267mm) [12" x 10.5"]
+EATX (L x W: 305mm x 267mm) [12" x 10.5"]
+CPU Air Coolers
+Max Height: 153mm
+RECOMMENDED CPU COOLERS
+Noctua D9L
+Thermalright SI-100
+Thermalright Silver Soul 110
+ID-COOLING IS-67-XT
+CPU Liquid Coolers
+One (1) 120mm radiator
+Up to 1x 120mm liquid cooler
+One (1) 240mm radiator
+Maximum radiator length of 277mm supported
+NOTE: Case is designed around Asetek OEM AIO coolers. Compatibility with AIO liquid coolers on GPUs is limited by case height.
+Filter Foam
+Includes one (1) washable / reusable dust filter
+30 ppi open cell reticulated polyether filter foam with flame resistant rating, UL94 HF1, UL FILE NO E93229(N)
+Alternate density and/or materials such as aluminum mesh available for OEM projects
+Fan Mounting
+Front
+Mounting for two (2) 120mm fans
+Two(2) 120mm fan mounting spots, up to 38mm thick
+Mounting for four (4) 120mm fans
+Four(4) 120mm fan mounting spots, up to 38mm thick when using 240mm radiator with push/pull fan configuration
+RECOMMENDED 120mm FANS
+Noctua A12x25 PWM
+Noctua A12x25 Chromax Black
+Arctic P12 MAX
+Phanteks T30
+Corsair RS120 MAX
+Lian Li UNI Fan P28
+Lian Li UNI Fan SL-Infinity
+Any fan from
+Dynatron
+Rear
+Mounting for one (1) 120mm fan
+Optional bracket for one(1) 120mm fan over motherboard IO shield
+Bracket available through "Configure" or "Parts" tab of applicable chassis models
+Mounting for one (1) 120mm fan
+Optional bracket for one(1) 120mm fan blowing down onto PCIe cards
+Bracket available through "Parts" tab of applicable chassis models
+GPU / PCIe Cards
+Eight (8) Full height PCIe card slot cutouts
+Maximum card height: 158mm (including power connectors)
+Maximum card length with 2x 25mm thick front fans: 324mm
+Maximum card length with Asetek 240mm AIO and 2x 25mm thick front fans: 296mm
+Maximum card length with Asetek 240mm AIO and 4x 25mm thick front fans: 270mm
+Total Internal Depth: 349mm
+Thickness of radiator + thickness of case fans + GPU length must equal less than 349mm total.
+Storage
+Two (2) 2.5" drives
+Supports up to 2x 2.5" SSD up to 7mm thick, or 1x 2.5" SSD up to 15mm thick
+Mounting points are located on rear of case above ATX PSU cutout
+NOTE
+: use of the rear 120mm exhaust fan bracket blocks these 2.5" SSD mounting spots
+Sliger recommends use of M.2/NVMe and PCIe based storage on motherboard when possible
+Motherboard PCIe slots can be utilized for M.2 drives via
+Sabrent PCIe to M.2
+or equivalent
+5.25" Bays
+Two (2) 5.25" drives
+2x 5.25" bays with removable filler blanks
+5.25" to 3.5" adapter available for purchase on the parts tab
+5.25" bay filler blank provides mounting for two(2) 2.5" SSD and one(1) 3.5" HDD
+Front Panel I/O
+One (1) Momentary Switch / Power Status LED (Ring Shape, White)
+Two (2) USB 3.0 Type A Port
+One (1) USB 3.2 Type C 10Gbps Port
+Power Supply
+One (1) ATX power supply
+Maximum length 209mm - including connectors.
+OR
+One (1) CRPS power supply
+Redundant Power - ATX form factor
+Recommended Models:
+FSP Twins Pro 900W
+; or the identical / rebadged
+Silverstone Gemini 900W
+Retail CRPS PSU
+Optional adapter bracket kit for installing 2U CRPS power supplies is available on request.
+Recommended Models:
+SilverStone Gemini 800W 2U CRPS
+; or
+Athena Power 1200W
+Built-To-Order 2U CRPS PSUs
+Available up to 2400W from
+FSP Group
+or
+Zippy Power
+Rack Rails
+General Devices C300-S Series
+Rack Rails are not included by default, must be purchased on the configuration or parts page.
+Other Brand Compatibility
+Brands such as
+iStarUSA TC Rails
+are natively compatible.
+Please contact our support team for any compatibility questions.
+Warranty
+Case
+5 Years
+Chassis, USB cables, Power Button(s), Power Cable(s)
+5 Years
+Liquid Coolers & Fans
+3 Years
+Please see our warranty policy for additional conditions, exclusions, and limitations.
+Warranty Policy
+Rack Rails
+3 Years
+Weight & Dimensions
+Chassis Weight
+17.25 lbs [7.82 kg]
+Chassis Outer Dimensions
+15" x 17" x 6.96" [DxWxH]
+381.00mm x 431.80mm x 176.78mm [DxWxH]
+Chassis Volume
+29.20 L
+Rack Slide Kits
+Rack Slide Kits - All Rail Kits Will Ship In Separate Box
+GDRAIL-14XX - 6lbs [2.72kg]
+GDRAIL-20XX - 7.5lbs [3.4kg]
+GDRAIL-26XX - 8.75lbs [3.97kg]
+Fans
+.7lbs per fan
+Two(2) fans - 1.4lbs [.64kg]
+Four(4) fans - 2.8lbs [1.27kg]
+Coolers
+Liquid Coolers
+Asetek 612X-M2 120mm AIO - 1.7lbs [.77kg]
+Asetek 624S-M2 240mm AIO - 1.6lbs [.73kg]
+Asetek 636S-M2 360mm AIO - 1.9lbs [.86kg]
+Asetek 836SA 360mm Threadripper AIO - 2.35lbs [1.07kg]
+Retention kits - .25lbs [.11kg]
+Brackets
+Fan Brackets
+Rear Fan - .25lbs [.11kg]
+Rear Fan w/ A12x25 - .95lbs [.43kg]
+Packaging Materials
+Packaging Materials (Box, Tape, Foam Corners)
+3.25lbs [1.47kg]
+Shipping Box Outside Dimensions
+20.5" x 18.5" x 11.5"
+Shipping box is ECT52, Double Wall, Kraft Brown
+Standard SLIGER branded tape, optional unbranded kraft brown tape for business customers
+Regulatory & Homologation
+Product Lifecycle
+Planned availability through 2032
+Extended availability beyond 8 years as built-to-order(BTO) with a 25 unit MOQ
+EMI / Safety
+Case cannot be certified as a standalone item. Certifications must be sought as a fully integrated system.
+Contact us before using case for FCC, CE, UL, IEC, or other safety / regulatory compliance.
+Alternate vent sizes, brackets, EMI springs, and/or powder coat masking, may be required depending on certifications sought.
+UL listed wire, fans, coolers, and materials where possible
+Industry Standards
+19-inch rack standard
+Electronic Industries Alliance EIA-310-D
+International Electrotechnical Commission IEC 60297-1 / IEC 60297-3-100
+Consumer Electronics Association CEA-310-E
+Deutsches Institut für Normung DIN 41494
+Environmental
+Compliant with RoHS Directive 2002/95/EC, 2015/863 RoHS2, RoHS3 (EU) with all applicable exemptions
+Regulation (EC) No 1907/2006 Registration, Evaluation, Authorization and Restriction of Chemicals (REACH)
+Compliant for all Substances of Very High Concern (SVHC)
+Conflict–Free Sourcing Initiative (CFSI) with Conflict-Minerals Report (CMRT) available upon request
+Compliant with US EPA PBT Section 6 Toxic Substances Control Act (TSCA)
+Import / Export
+Harmonized Tariff Schedule (HTS) / HS Schedule B
+8473.30.1500 - COMPUTER CASES AND ACCESSORIES
+Export Control Classification Number [ECCN]
+EAR99 - LOW-TECHNOLOGY CONSUMER GOODS
+Country of Origin
+United States of America
+"Made in USA" per Federal Trade Commission (FTC) subchapter C title 16 Code of Federal Regulations Part 323
+TAA (Trade Agreements Act) Compliant for GSA Schedules, IDIQ contracts, and DoD contracts
+Compliant with Section 889 of Federal Acquisition Regulation (FAR) of National Defense Authorization Act (NDAA)

@@ -1,0 +1,59 @@
+{
+  "asset_key": "CX4150i.jpg",
+  "source_sha256": "91f260099a3ae9c813f91878b13a47e0ad33e31f96005c29d6f9f597800876ef",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.4991119005328597,
+  "view_box": [
+    0.78,
+    0.38,
+    0.21,
+    0.36
+  ],
+  "badge_radius_height_fraction": 0.012,
+  "font_size_height_fraction": 0.016,
+  "review_status": "Positions measured on the CX4150i front render; review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Power switch and status light",
+      "target": [
+        0.853,
+        0.472
+      ],
+      "badge": [
+        0.955,
+        0.472
+      ]
+    },
+    {
+      "number": 2,
+      "label": "USB Type-A ports",
+      "targets": [
+        [
+          0.853,
+          0.572
+        ],
+        [
+          0.853,
+          0.618
+        ]
+      ],
+      "badge": [
+        0.955,
+        0.595
+      ]
+    },
+    {
+      "number": 3,
+      "label": "USB Type-C",
+      "target": [
+        0.853,
+        0.66
+      ],
+      "badge": [
+        0.955,
+        0.69
+      ]
+    }
+  ]
+}

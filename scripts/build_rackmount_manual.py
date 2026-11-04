@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build rackmount manuals (CX3150a, CX4150a, CX4170a) from model content and selected publication images.
+"""Build rackmount manuals (CX3150a and the 4U models) from model content and selected publication images.
 
 Same interface as build_sff_manual.build(); use manual_build.build() to pick the family."""
 import base64

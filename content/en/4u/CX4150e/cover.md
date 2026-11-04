@@ -1,0 +1,8 @@
+# CX4150e
+## 15-inch deep · 4U rackmount chassis · two 5.25-inch bays
+
+Build and installation guide
+
+**ENGLISH**
+
+{{ revision }} · Technical review draft

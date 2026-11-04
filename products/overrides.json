@@ -457,5 +457,90 @@
         "evidence": "sources/canva/2026-10-30/S640-dimensions-approved.json"
       }
     }
+  },
+  "CX4150e": {
+    "gpu_length_fans_only_mm": {
+      "value": 324,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "324 mm (import CSV and website) chosen over the compatibility CSV 325 mm."
+    },
+    "ssd_2_5_max": {
+      "value": 6,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 2,
+        "bays": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4150e-i-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "bays": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4150e-i-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; a bay holding a 5.25-inch device has no filler blank."
+    }
+  },
+  "CX4150i": {
+    "gpu_length_fans_only_mm": {
+      "value": 324,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "324 mm (import CSV and website) chosen over the compatibility CSV 325 mm."
+    },
+    "ssd_2_5_max": {
+      "value": 4,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 2,
+        "bays": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4150e-i-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 1,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "bays": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4150e-i-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; a bay holding a 5.25-inch device has no filler blank."
+    },
+    "aio_360_six_fan_push_pull_supported": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4150e-i-storage-and-cooling.md"
+      },
+      "note": "Confirmed supported; maximum GPU length 270 mm."
+    }
   }
 }
