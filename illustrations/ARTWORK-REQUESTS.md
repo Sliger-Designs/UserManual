@@ -38,13 +38,8 @@ Confirmed 2026-11-04:
 | CX4200e | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
 | CX4200f | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
 | CX4200i | Push-pull renders (360 mm radiator, six fans); radiator/drive-cage clearance renders; a 5.25-inch device in the bay bracket | Push-pull and clearance pages are text only |
-
-## 4U: not yet built
-
-| Model | Needed | Notes |
-|---|---|---|
-| CX4712 | Exploded view | Otherwise complete |
-| CX4713 | Cover render; exploded view | Otherwise complete |
+| CX4712 | Exploded view; motherboard-tray removal and reinstallation renders, if the tray is removable (as CX4713 5a–5f) | Exploded view and tray pages omitted |
+| CX4713 | Exploded view; product render | Exploded view omitted |
 
 ## 3U: not yet built
 

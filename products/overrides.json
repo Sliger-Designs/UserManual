@@ -750,5 +750,85 @@
       },
       "note": "Total mounting locations; not all usable at once."
     }
+  },
+  "CX4712": {
+    "gpu_length_baseline_mm": {
+      "value": 362,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import sheet and website value; 475 mm in the compatibility CSV appears to be a pasted default."
+    },
+    "ssd_2_5_max": {
+      "value": 14,
+      "configuration": {
+        "behind_front_io": 4,
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 4,
+        "bays": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4712-CX4713.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 12,
+      "configuration": {
+        "hot_swap_bays": 10,
+        "per_bay_filler_blank": 1,
+        "bays": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4712-CX4713.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    }
+  },
+  "CX4713": {
+    "gpu_length_baseline_mm": {
+      "value": 416,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import sheet and website value; 475 mm in the compatibility CSV appears to be a pasted default."
+    },
+    "ssd_2_5_max": {
+      "value": 14,
+      "configuration": {
+        "behind_front_io": 4,
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 4,
+        "bays": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4712-CX4713.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 12,
+      "configuration": {
+        "hot_swap_bays": 10,
+        "per_bay_filler_blank": 1,
+        "bays": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4712-CX4713.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    }
   }
 }

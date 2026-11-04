@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "part_number": "CX-NAS-HWKIT",
+  "applies_to": "CX4712 and CX4713 (separately packaged kit, in addition to SBAG-HWKIT).",
+  "quantity_source": {
+    "id": "decision",
+    "date": "2026-11-04",
+    "record": "sources/decisions/2026-11-04-CX4712-CX4713.md"
+  },
+  "items": [
+    {
+      "letter": "J",
+      "name": "HDD shoulder screws (217-735)",
+      "quantity": "45",
+      "description": "Four per 3.5-inch HDD; they guide the drive into its hot-swap bay.",
+      "image": "common/hardware/HDD Shoulder Thumb Screw (217-735B)_side.jpg",
+      "detail_images": [
+        "common/hardware/HDD Shoulder Thumb Screw (217-735B)_top.jpg"
+      ],
+      "reference": "shoulder screws",
+      "part_number": "217-735"
+    },
+    {
+      "letter": "K",
+      "name": "Thumb screws (217-737)",
+      "quantity": "2",
+      "description": "Secure the drive retention tray.",
+      "image": "common/hardware/#6-32 THUMB SCREW (217-736)_side.jpg",
+      "detail_images": [
+        "common/hardware/#6-32 THUMB SCREW (217-736)_top.jpg"
+      ],
+      "reference": "thumb screws",
+      "part_number": "217-737",
+      "note": "Illustrated with the 217-736 render, which differs only in thread length (confirmed 2026-11-04)."
+    },
+    {
+      "letter": "L",
+      "name": "SAS/SATA adapters",
+      "quantity": "2",
+      "description": "Spare SFF-8482 to SATA adapters; ten are preinstalled in the drive bays.",
+      "image": "common/hardware/sasConnectors_2x.jpg",
+      "reference": "SAS/SATA adapters",
+      "large_image": true
+    },
+    {
+      "letter": "M",
+      "name": "5-way SATA power splitters",
+      "quantity": "2",
+      "description": "One SATA power input to five drive connectors.",
+      "image": "common/hardware/5-way_powerSplitter.jpg",
+      "reference": "SATA power splitters",
+      "large_image": true
+    },
+    {
+      "letter": "N",
+      "name": "Key pair",
+      "quantity": "1 pair",
+      "description": "Locks and unlocks the drive retention tray.",
+      "image": "common/hardware/J312-10_KeyPair.jpg",
+      "reference": "key",
+      "large_image": true
+    }
+  ]
+}
