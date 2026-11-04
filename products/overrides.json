@@ -53,6 +53,20 @@
       "note": "Owner selected website outer dimensions. Nominal source dimensions remain separately preserved."
     }
   },
+  "CX4150a": {
+    "gpu_length_fans_only_mm": {
+      "value": 324,
+      "configuration": {
+        "front_fans": "3 × 120 mm, 25 mm thick"
+      },
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Owner chose 324 mm (import CSV and website) over the compatibility CSV 325 mm."
+    }
+  },
   "CX4170a": {
     "ssd_2_5_max": {
       "value": 10,

@@ -9,6 +9,7 @@ tools used to translate them.
 | S630 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S630/v1.0/S630-en-v1.0.pdf) |
 | S640 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S640/v1.0/S640-en-v1.0.pdf) |
 | CX3150a | 3U rackmount | Review draft (Prototype 0.2) | built by CI and on the site |
+| CX4150a | 4U rackmount | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX4170a | 4U rackmount | Review draft (Prototype 0.1) | built by CI and on the site |
 
 ## Repository layout
@@ -46,7 +47,7 @@ python3 -m venv .venv
 .venv/bin/python scripts/build_manual.py --model S630
 ```
 
-Every model builds the same way (`--model S640`, `CX3150a`, `CX4170a`). A build writes
+Every model builds the same way (`--model S640`, `CX3150a`, `CX4150a`, `CX4170a`). A build writes
 standalone HTML, a landscape Letter PDF, a page overview and a validation report under
 `_build/`, and fails if text overflows a page, a link breaks, an image is missing, or
 approved values or wording differ. Released SFF manuals build into
@@ -64,9 +65,10 @@ Open a pull request: the *Manual checks* workflow rebuilds the manuals the chang
 and attaches their PDFs (see [docs/ci-and-publishing.md](docs/ci-and-publishing.md)).
 Small text edits can be made entirely on GitHub.
 
-New pages, new images or a new manual need a local checkout: images are prepared from
-full-resolution originals with `scripts/prepare_assets.py`, and callout positions are
-checked visually.
+New pages, new images or a new manual need a local checkout: originals are recorded with
+`scripts/inventory_originals.py`, publication copies are prepared with
+`scripts/prepare_assets.py`, and callout positions are checked visually. Each rackmount
+`manual.json` lists the approved values its PDF must show in `text_checks`.
 
 ## Translations
 

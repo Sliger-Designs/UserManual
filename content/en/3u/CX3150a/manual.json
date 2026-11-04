@@ -4,6 +4,17 @@
   "language_label": "ENGLISH",
   "revision": "Prototype 0.2",
   "status": "Technical review draft",
+  "text_checks": {
+    "required": [
+      "324 mm",
+      "381",
+      "132.59"
+    ],
+    "forbidden": [
+      "270 mm",
+      "325 mm"
+    ]
+  },
   "pages": [
     {
       "id": "cover",

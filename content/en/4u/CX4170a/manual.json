@@ -4,6 +4,18 @@
   "language_label": "ENGLISH",
   "revision": "Prototype 0.1",
   "status": "Technical review draft",
+  "text_checks": {
+    "required": [
+      "375 mm",
+      "347 mm",
+      "322 mm",
+      "8",
+      "153"
+    ],
+    "forbidden": [
+      "SFX or SFX-L"
+    ]
+  },
   "pages": [
     {
       "id": "cover",

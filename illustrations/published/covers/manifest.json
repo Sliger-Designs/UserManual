@@ -58,5 +58,20 @@
       1804,
       1800
     ]
+  },
+  "CX4150a": {
+    "path": "illustrations/published/covers/CX4150a-7dcce67863d6.jpg",
+    "sha256": "391f31f612647cfbbd83422689265402172965ee8d98f7514a97872b9c8f53d0",
+    "source_path": "sources/web/covers/CX4150a-7dcce67863d6.webp",
+    "source_sha256": "7dcce67863d6385172ae8fd913e92c62e0d716c7df43456599624fb3c1d95b64",
+    "product_url": "https://sliger.com/products/cx4150a",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/421.webp",
+    "retrieved_at": "2026-11-04T18:01:12.863482+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      851
+    ]
   }
 }
