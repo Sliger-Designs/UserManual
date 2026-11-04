@@ -77,7 +77,7 @@
         ],
         "tolerance_per_channel": 4,
         "full_resolution_path": "_build/cleaned-renders/S630/2StandardOrienationPanels-white.png",
-        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+        "authorization": "Explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
       }
     },
     {
@@ -142,7 +142,7 @@
         ],
         "tolerance_per_channel": 4,
         "full_resolution_path": "_build/cleaned-renders/S630/3FlippedOrientationPanels-white.png",
-        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+        "authorization": "Explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
       }
     },
     {
@@ -163,7 +163,7 @@
         ],
         "tolerance_per_channel": 4,
         "full_resolution_path": "_build/cleaned-renders/S630/4AioMountingLocations-white.png",
-        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+        "authorization": "Explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
       }
     },
     {
@@ -184,7 +184,7 @@
         ],
         "tolerance_per_channel": 4,
         "full_resolution_path": "_build/cleaned-renders/S630/5ATXMountingLoctations1-white.png",
-        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+        "authorization": "Explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
       }
     },
     {
@@ -205,7 +205,7 @@
         ],
         "tolerance_per_channel": 4,
         "full_resolution_path": "_build/cleaned-renders/S630/6ATXMountingLoctations2-white.png",
-        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+        "authorization": "Explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
       }
     },
     {
@@ -226,7 +226,7 @@
         ],
         "tolerance_per_channel": 4,
         "full_resolution_path": "_build/cleaned-renders/S630/7SFXLocations1-white.png",
-        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+        "authorization": "Explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
       }
     },
     {
@@ -247,7 +247,7 @@
         ],
         "tolerance_per_channel": 4,
         "full_resolution_path": "_build/cleaned-renders/S630/8SFXLocations2-white.png",
-        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+        "authorization": "Explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
       }
     },
     {
@@ -268,7 +268,7 @@
         ],
         "tolerance_per_channel": 4,
         "full_resolution_path": "_build/cleaned-renders/S630/9FanLocations-white.png",
-        "authorization": "Owner explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
+        "authorization": "Explicitly requested non-AI pixel-based background cleanup on 2026-11-02. Source render unchanged."
       }
     },
     {
@@ -292,7 +292,7 @@
         762
       ],
       "selection_status": "selected_needs_final_review",
-      "note": "Owner-supplied close-up replacement, 2026-10-28; displayed at the shared rackmount FPIO scale.",
+      "note": "Supplied close-up replacement, 2026-10-28; displayed at the shared rackmount FPIO scale.",
       "supersedes_source_sha256": "58fae754b0ff19b4f1420f3282729ec59002f962211f3359e79d86d28e6fa3a3"
     },
     {
@@ -338,7 +338,7 @@
         5082
       ],
       "selection_status": "candidate_needs_model_and_configuration_review",
-      "note": "Owner-supplied side fan bracket installation render; requested placement after motherboard installation and before cooling, 2026-11-02."
+      "note": "Supplied side fan bracket installation render; requested placement after motherboard installation and before cooling, 2026-11-02."
     },
     {
       "id": "s630-b3298e698d0e",
@@ -349,7 +349,7 @@
         9000,
         5082
       ],
-      "selection_status": "owner_selected_switch_position_render_2026-11-02"
+      "selection_status": "selected_switch_position_render_2026-11-02"
     }
   ],
   "inventory_updated_at": "2026-10-30"

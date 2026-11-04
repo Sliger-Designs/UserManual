@@ -69,11 +69,11 @@
         "path": "sources/web/cx4150a-specs.txt"
       },
       "approval": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-04",
         "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
       },
-      "note": "Website dimensions (15 \u00d7 17 \u00d7 6.96 inches). Owner approved the exact website depth over the bulk-create 382 mm."
+      "note": "Website dimensions (15 \u00d7 17 \u00d7 6.96 inches). Approved the exact website depth over the bulk-create 382 mm."
     },
     "psu_length_max_mm": {
       "value": 268,
@@ -82,7 +82,7 @@
         "path": "sources/web/cx4150a-specs.txt"
       },
       "approval": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-04",
         "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
       },
@@ -91,18 +91,18 @@
     "rack_ear_screw_count": {
       "value": 4,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/owner/2026-11-04-rackmount-rack-ears.md"
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
       },
       "note": "All 4U chassis use the same rack ears; count as on the CX4170a, and as shown in the CX4150a rack-ear render."
     },
     "rack_ear_screws_per_side": {
       "value": 2,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/owner/2026-11-04-rackmount-rack-ears.md"
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
       },
       "note": "All 4U chassis use the same rack ears; count as on the CX4170a, and as shown in the CX4150a rack-ear render."
     }

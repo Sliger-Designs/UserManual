@@ -1,10 +1,10 @@
 # Rackmount rack ears and pull handles — November 4, 2026
 
-The owner confirmed that rack ears are shared within each rackmount height: all 2U chassis
+Confirmed: rack ears are shared within each rackmount height: all 2U chassis
 use the same rack ears, all 3U chassis use the same rack ears, and all 4U chassis use the
 same rack ears.
 
-The owner then supplied one render of the left and right rack ears and one of the left and
+Sliger then supplied one render of the left and right rack ears and one of the left and
 right pull handles for each height, in `illustrations/common/hardware/`:
 `2URackEars.jpg`, `2UPullHandles.jpg`, `3URackEars.jpg`, `3UPullHandles.jpg`,
 `4URackEars.jpg`, `4UPullHandles.jpg`. They replace the earlier images, which showed an ear

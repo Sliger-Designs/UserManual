@@ -1,6 +1,6 @@
 # 4U motherboard-tray SSD mounting — November 4, 2026
 
-The owner confirmed that every 4U chassis tray has the same SSD mounting at its rear: two
+Confirmed: every 4U chassis tray has the same SSD mounting at its rear: two
 pairs of 2.5-inch mounting holes, taking either two SSDs up to 7 mm thick or one SSD up to
 15 mm thick. Each drive is secured with two red-patched screws (hardware B). Neither pair can be used when the optional rear fan bracket is installed.
 

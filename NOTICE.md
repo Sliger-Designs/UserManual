@@ -13,7 +13,7 @@ Unless stated otherwise, everything else in this repository is not licensed for 
 including:
 
 - manual text and translations (`content/`, `translations/`, `translation-packages/`)
-- product data and owner decisions (`products/`, `sources/owner/`)
+- product data and decisions (`products/`, `sources/decisions/`)
 - illustrations, renders and photographs (`illustrations/`, `sources/web/`)
 - manual PDFs (`releases/`, `sources/original/`) and built output
 - the glossary (`glossary/`)

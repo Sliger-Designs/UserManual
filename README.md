@@ -19,7 +19,7 @@ tools used to translate them.
   manuals is in `content/en/shared/`. Categories are lowercase (`desktop`, `2u`, `3u`,
   `4u`); model casing is preserved (`S630`, `CX3150a`).
 - `products/`: product facts (dimensions, clearances, supported parts) with their
-  provenance. `products/overrides.json` records explicit owner decisions, which take
+  provenance. `products/overrides.json` records explicit decisions, which take
   precedence; `products/shared/` holds shared hardware kits and compatibility rules.
 - `illustrations/published/`: the image copies used in the manuals, with checksums and
   transformation records. Full-resolution originals are not in Git.
@@ -30,7 +30,7 @@ tools used to translate them.
 - `translation-packages/` and `translations/`: translator handoffs and per-language
   translation memories.
 - `sources/`: archived public references (the original CX3150a manual and website
-  specifications) and `sources/owner/`, the owner decisions behind approved specifications.
+  specifications) and `sources/decisions/`, the decisions behind approved specifications.
 - `glossary/`: approved terminology and the protected terms translators keep unchanged.
 
 Some provenance fields in `products/` and `content/` refer to working files (catalog

@@ -9,7 +9,7 @@
     "P07",
     "P08"
   ],
-  "authority": "Explicit owner decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.",
+  "authority": "Explicit decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.",
   "facts": {
     "product_type": {
       "value": "Rackmount",
@@ -92,11 +92,11 @@
         "motherboard_tray_alternative": "one SSD up to 15 mm thick"
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/owner/2026-11-04-CX4170a-ssd-capacity.md"
+        "record": "sources/decisions/2026-11-04-CX4170a-ssd-capacity.md"
       },
-      "note": "Official listed capacity: ten 7 mm 2.5-inch SSDs, eight in the drive cage plus two on the motherboard tray. Nine fit in the cage only with the drives interlocked (\"laced\") so that none sit flat; that layout (example 5) is shown as technically possible and is not counted. The tray positions follow the all-4U tray mounting (sources/owner/2026-11-04-4U-tray-ssd-mounting.md)."
+      "note": "Official listed capacity: ten 7 mm 2.5-inch SSDs, eight in the drive cage plus two on the motherboard tray. Nine fit in the cage only with the drives interlocked (\"laced\") so that none sit flat; that layout (example 5) is shown as technically possible and is not counted. The tray positions follow the all-4U tray mounting (sources/decisions/2026-11-04-4U-tray-ssd-mounting.md)."
     },
     "hdd_3_5_max": {
       "value": 3,
@@ -436,11 +436,11 @@
     "hardware_bag_part_number": {
       "value": "SBAG-HWKIT",
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27",
         "record": "products/shared/SBAG-HWKIT.json"
       },
-      "note": "All rackmount chassis share this screwbag per owner confirmation."
+      "note": "All rackmount chassis share this screwbag as confirmed."
     }
   },
   "manual_copy_candidates": {

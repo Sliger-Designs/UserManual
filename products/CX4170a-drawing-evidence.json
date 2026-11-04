@@ -1,7 +1,7 @@
 {
   "model": "CX4170a",
   "status": "needs_review",
-  "source": "Owner-supplied annotated drawings; existing compatibility facts unchanged.",
+  "source": "Supplied annotated drawings; existing compatibility facts unchanged.",
   "values": {
     "psu_space_with_cage_mm": {
       "value": 191.9,

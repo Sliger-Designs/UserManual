@@ -1,6 +1,6 @@
-# S630 / S640 owner confirmations — October 30, 2026
+# S630 / S640 confirmations — October 30, 2026
 
-Source: Korey's explicit responses during manual review. These decisions override
+Source: explicit responses during manual review. These decisions override
 conflicting compatibility-spreadsheet and Canva candidates. Original source
 snapshots remain unchanged. This record normalizes spelling without extending
 the scope of the answers.
@@ -12,7 +12,7 @@ the scope of the answers.
 - Both models: CPU cooler and PCIe card height 160 mm; maximum GPU length
   416 mm, or 391 mm with two 25 mm front fans. Follow-up explicitly confirmed
   these GPU figures apply to both models. Both have the same depth and width;
-  S640 is taller. The owner subsequently approved the dimensions in the current Canva manuals. Fresh dimension tables give common depth 449.55 mm and width 190.53 mm; heights are S630 324.42 mm and S640 371.68 mm. Internal dimensions are common depth 418.16 mm and width 183.08 mm; heights S630 310.82 mm and S640 359.08 mm. Use these tables over conflicting older drawing labels.
+  S640 is taller. The dimensions in the current Canva manuals were subsequently approved. Fresh dimension tables give common depth 449.55 mm and width 190.53 mm; heights are S630 324.42 mm and S640 371.68 mm. Internal dimensions are common depth 418.16 mm and width 183.08 mm; heights S630 310.82 mm and S640 359.08 mm. Use these tables over conflicting older drawing labels.
 - Both use the same screw bag: 20 standoffs, 20 green-patched screws,
   16 red-patched screws, 20 yellow-patched screws, 8 blue-patched screws,
   and 5 painted slot covers. Follow-up confirmed red screws are M3.5 × 5 mm and standoffs are
@@ -33,9 +33,9 @@ the scope of the answers.
   on the other side of the case, secure it with two green-patched screws,
   and reinstall the panels. Both models have one USB-A, one USB-C and one
   power switch.
-- The owner also supplied `illustrations/desktop/S640/_S640_Esplode.jpg` to
+- `illustrations/desktop/S640/_S640_Esplode.jpg` was also supplied to
   replace the temporary panel-arrangement overview on the assembly page.
 
-Follow-up: the owner confirmed that each S630/S640 hardware kit includes one ATX PSU bracket and one SFX PSU bracket.
+Follow-up: confirmed that each S630/S640 hardware kit includes one ATX PSU bracket and one SFX PSU bracket.
 
 The current guides remain unreleased pending final page/callout acceptance and publication decisions.

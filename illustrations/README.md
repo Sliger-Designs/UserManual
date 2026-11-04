@@ -35,5 +35,5 @@ locally, in the ignored `<category>/<model>/` folders (`desktop/S630/`, `3u/CX31
 - Folder categories are lowercase (`desktop`, `2u`, `3u`, `4u`) and match
   `content/en/<category>/<model>/`; model casing and original filenames are preserved.
 
-Owner decisions about specific artwork (for example a different but approved standoff
-render for hardware C) are recorded in `sources/owner/`.
+Decisions about specific artwork (for example a different but approved standoff
+render for hardware C) are recorded in `sources/decisions/`.

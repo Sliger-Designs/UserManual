@@ -6,7 +6,7 @@
   "right_padding_fraction": 0.4,
   "badge_radius_height_fraction": 0.029,
   "font_size_height_fraction": 0.04,
-  "review_status": "Visually located against the owner-supplied clean FPIO render; review preview before release.",
+  "review_status": "Visually located against the supplied clean FPIO render; review preview before release.",
   "callouts": [
     {
       "number": 1,

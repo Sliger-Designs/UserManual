@@ -115,12 +115,12 @@ def main():
         if compat['Product Type'].strip() == 'Rackmount':
             facts['hardware_bag_part_number'] = {
                 'value': 'SBAG-HWKIT',
-                'source': {'id': 'owner_decision', 'date': '2026-10-27', 'record': 'products/shared/SBAG-HWKIT.json'},
-                'note': 'All rackmount chassis share this screwbag per owner confirmation.'}
+                'source': {'id': 'decision', 'date': '2026-10-27', 'record': 'products/shared/SBAG-HWKIT.json'},
+                'note': 'All rackmount chassis share this screwbag as confirmed.'}
         record = {
             'schema_version': 1, 'sku': sku, 'status': 'draft',
             'release_ready': False, 'review_issues': ISSUES[sku],
-            'authority': 'Explicit owner decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.',
+            'authority': 'Explicit decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.',
             'facts': facts,
             'manual_copy_candidates': {
                 column: {'text': raw.strip() or None,
@@ -138,7 +138,7 @@ def main():
         if facts.get('aio_360_six_fan_push_pull_supported', {}).get('value') is False:
             candidate = record['manual_copy_candidates']['Max Length with AIO push-pull']
             candidate['status'] = 'excluded_unsupported_configuration'
-            candidate['reason'] = 'Owner confirmed this configuration is officially unsupported.'
+            candidate['reason'] = 'Confirmed this configuration is officially unsupported.'
         (ROOT / 'products' / (sku + '.json')).write_text(json.dumps(record, indent=2, ensure_ascii=False) + '\n',
                                                         encoding='utf-8', newline='\n')
     (ROOT / 'sources' / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n', encoding='utf-8', newline='\n')
