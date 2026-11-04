@@ -14,8 +14,7 @@ HDD), and the internal drive cage where fitted (eight 7 mm SSDs or three 3.5-inc
 | CX4200i | yes | 1 | 12 (tray 2 + cage 8 + blank 2) | 4 (cage 3 + blank 1) |
 
 The CX4200a, CX4200e and CX4200f totals match the spec review. The CX4200i 3.5-inch total
-uses the count confirmed for the CX4170i (cage 3 + blank 1 = 4) rather than the spec
-review's 5; to be confirmed in review.
+is 4 (cage 3 + blank 1), confirmed over the spec review's 5, as for the CX4170i.
 
 ## Cooling and GPU length
 
@@ -27,3 +26,16 @@ review's 5; to be confirmed in review.
   shorter because of the third bay: 424 / 398 / 371 / 347 mm (spec review, matching the
   website and import sheet).
 - All four: ATX PSU up to 268 mm including connectors.
+
+## Bay bracket and device screws
+
+- The CX4200e uses the same 5.25-inch dual-bay bracket as the CX4150e and CX4170e; its
+  bay-device steps use the shared bracket renders (`illustrations/common/4u-bay-bracket/`).
+- CX4200f with a 240 mm AIO: the radiator comes close to the screws retaining 5.25-inch
+  devices without touching them. Countersunk screws are recommended in that position:
+  B (217-621) for M3 threads, E (217-019) for 6-32.
+
+## Unused renders
+
+`CX4200f-0.jpg` to `CX4200f-4.jpg`, and the CX4200a `STANDOFFDIMS` image and screenshots,
+are not needed in the manuals.

@@ -716,8 +716,8 @@
       "format": "JPEG",
       "size_bytes": 292037,
       "sha256": "c972a0be1b524d2b78162d4b467315145ecfe5fa9a790097ee34dcfc77dc6978",
-      "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "selection_status": "not_used",
+      "note": "Not needed in the manuals (confirmed 2026-11-04)."
     },
     {
       "id": "cx4200a-d4d1571d10ae",
@@ -728,8 +728,8 @@
       "format": "PNG",
       "size_bytes": 284784,
       "sha256": "c84ed693415875027385adcaff93e4a65103dc8abbfc8d4d42734e0004ffe6b7",
-      "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "selection_status": "not_used",
+      "note": "Not needed in the manuals (confirmed 2026-11-04)."
     },
     {
       "id": "cx4200a-708358412e8b",
@@ -740,8 +740,8 @@
       "format": "PNG",
       "size_bytes": 371994,
       "sha256": "e33772fb98eb0868afe348c1c6800c0d638926bc7e3735a2054b5b55b0a9bc56",
-      "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "selection_status": "not_used",
+      "note": "Not needed in the manuals (confirmed 2026-11-04)."
     },
     {
       "id": "cx4200a-7c9cd8cdbe50",
@@ -752,8 +752,8 @@
       "format": "PNG",
       "size_bytes": 20674,
       "sha256": "f7e44c6d14876b465274aa2ad4e45fed0e67861ef5c2bf21624fca12bf1b3286",
-      "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "selection_status": "not_used",
+      "note": "Not needed in the manuals (confirmed 2026-11-04)."
     },
     {
       "id": "cx4200a-d38ac95ab7c2",
@@ -764,8 +764,8 @@
       "format": "PNG",
       "size_bytes": 302516,
       "sha256": "e684b5e57b859a5f49e6a07fcf757b8e86a94fdd76e9c45ab5f709ec1a07e73b",
-      "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "selection_status": "not_used",
+      "note": "Not needed in the manuals (confirmed 2026-11-04)."
     },
     {
       "id": "cx4200a-016e9043a6e7",

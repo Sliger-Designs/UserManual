@@ -21,8 +21,8 @@ Confirmed 2026-11-04:
 - The CX3701 and CX3702 do not use motherboard standoffs. Of their successors (website concepts),
   the CX3150n (CX3701 "v2") uses no standoffs and the CX3180n (CX3702 "v2") uses standoffs.
 - The CX3151i I/O-shield step uses the CX3151a or CX3151x render.
-- The CX4150e and CX4170e use the same 5.25-inch bay bracket; their bay-device steps share the
-  CX4150e bracket renders (`illustrations/common/4u-bay-bracket/`).
+- The CX4150e, CX4170e and CX4200e use the same 5.25-inch bay bracket; their bay-device steps
+  share the CX4150e bracket renders (`illustrations/common/4u-bay-bracket/`).
 
 ## Published manuals: open items
 
