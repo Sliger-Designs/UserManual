@@ -81,8 +81,9 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
                 entry[field] = L.text(entry[field], f'hardware {entry["letter"]}: {field}', hardware_page)
         entry['quantity_display'] = quantity_display(entry.get('quantity'), L, f'hardware {entry["letter"]}: quantity', hardware_page)
     manual['language'] = L.language
-    for field in ('cover_description', 'status', 'language_label'):
-        manual[field] = L.text(manual[field], field, 1)
+    for field in ('cover_description', 'cover_description_detail', 'status', 'language_label'):
+        if field in manual:
+            manual[field] = L.text(manual[field], field, 1)
     def read_markdown(path, layout=None, page=None):
         return L.markdown(path.resolve().relative_to(ROOT).as_posix(), path.read_text(encoding='utf-8'), layout, page)
     hardware_by_letter = {entry['letter']: entry for entry in hardware['items']}

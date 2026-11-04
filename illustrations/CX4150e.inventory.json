@@ -486,18 +486,7 @@
       "size_bytes": 580363,
       "sha256": "07c0c756203763c47bc83970c12bfa337da738a8ab63422b39c86ec10620538f",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review.",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX4150e/4c_CX4150e_DRIVE BRACKET 1-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
+      "note": "Shared as common/4u-bay-bracket/4c_CX4150e_DRIVE BRACKET 1.jpg (CX4150e and CX4170e)."
     },
     {
       "id": "cx4150e-4bca478987fc",
@@ -509,18 +498,7 @@
       "size_bytes": 425494,
       "sha256": "4cacb845cdf2f592de91862e3d7354a6daabbc2a84da05ec83a2eaac29f7d7db",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review.",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX4150e/4d_CX4150e_DRIVE BRACKET 2-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
+      "note": "Shared as common/4u-bay-bracket/4d_CX4150e_DRIVE BRACKET 2.jpg (CX4150e and CX4170e)."
     },
     {
       "id": "cx4150e-b45b5feafc1e",
@@ -532,18 +510,7 @@
       "size_bytes": 725658,
       "sha256": "750e8d761f74aaf8e2c7bfac63ad347ed86677cb63f81cb413e566ba55f3a349",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review.",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX4150e/4e_CX4150e_DRIVE BRACKET 2-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
+      "note": "Shared as common/4u-bay-bracket/4e_CX4150e_DRIVE BRACKET 2.jpg (CX4150e and CX4170e)."
     },
     {
       "id": "cx4150e-975215af82ae",

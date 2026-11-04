@@ -13,6 +13,8 @@ tools used to translate them.
 | CX4150e | 4U rackmount, two 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX4150i | 4U rackmount, one 5.25" bay | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX4170a | 4U rackmount | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX4170e | 4U rackmount, two 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX4170i | 4U rackmount, one 5.25" bay | Review draft (Prototype 0.1) | built by CI and on the site |
 
 ## Repository layout
 
@@ -49,7 +51,7 @@ python3 -m venv .venv
 .venv/bin/python scripts/build_manual.py --model S630
 ```
 
-Every model builds the same way (`--model S640`, `CX3150a`, `CX4150a`, `CX4150e`, `CX4150i`, `CX4170a`). A build writes
+Every model builds the same way (`--model S640`, `CX3150a`, `CX4150a`, `CX4150e`, `CX4150i`, `CX4170a`, `CX4170e`, `CX4170i`). A build writes
 standalone HTML, a landscape Letter PDF, a page overview and a validation report under
 `_build/`, and fails if text overflows a page, a link breaks, an image is missing, or
 approved values or wording differ. Released SFF manuals build into

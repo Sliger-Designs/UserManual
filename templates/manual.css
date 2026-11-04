@@ -57,6 +57,7 @@ tr:nth-child(even) td { background:#f5f7f8; }
 .cover-copy { position:absolute; left:1.0in; bottom:1.0in; z-index:2; }
 .cover h1 { font-size:43pt; letter-spacing:-1px; line-height:1.05; margin:0 0 3px; color:black; }
 .cover-copy p { font-size:15pt; color:black; margin:0; line-height:1.2; }
+.cover-copy .cover-detail { display:block; padding-left:.25in; }
 .language-tag { position:absolute; right:0; bottom:1.2in; width:.4in; height:.94in; background:var(--accent); color:white; font-size:9pt; display:flex; justify-content:center; align-items:center; writing-mode:vertical-rl; transform:rotate(180deg); z-index:2; }
 .cover footer { left:auto; right:0; bottom:.45in; width:.9in; height:.4in; border:0; padding:0 8px; background:#c4c4c4; display:flex; align-items:center; }
 .cover footer span { display:none; }
