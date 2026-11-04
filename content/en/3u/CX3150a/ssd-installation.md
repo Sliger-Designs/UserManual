@@ -8,4 +8,4 @@ Position the drive with its connectors facing upward and its underside facing th
 
 Install two {{ hw("B") }} through the tray into the drive. Tighten by hand without forcing the threads.
 
-For M.2 storage, follow the motherboard's installation instructions.
+<p class="info-note" role="note">For M.2 storage, follow the motherboard's installation instructions.</p>

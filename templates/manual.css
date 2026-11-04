@@ -247,8 +247,8 @@ h1 { font-weight:700; }
 .sff.illustrations-large .paired-step-wide .paired-images :is(img, .annotated-image) { height:4.05in; max-height:4.05in; }
 
 /* Quiet markers for supporting notes, separate from numbered diagram badges. */
-.sff .info-note { position:relative; padding-left:23px; }
-.sff .info-note::before {
+.info-note { position:relative; padding-left:23px; }
+.info-note::before {
  content:"i";
  position:absolute;
  left:0;

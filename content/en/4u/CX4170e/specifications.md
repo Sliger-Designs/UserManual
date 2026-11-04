@@ -21,4 +21,4 @@
 | Asetek 240 mm AIO with two 25 mm fans | {{ facts.gpu_length_fans_aio_mm }} mm |
 | Asetek 240 mm AIO with four 25 mm fans | {{ facts.gpu_length_max_cooling_mm }} mm |
 
-Radiator thickness, fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. The tray SSD positions are unavailable with the rear fan bracket, and a bay holding a 5.25-inch device has no filler blank.
+<p class="info-note" role="note">Radiator thickness, fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. The tray SSD positions are unavailable with the rear fan bracket, and a bay holding a 5.25-inch device has no filler blank.</p>

@@ -8,4 +8,4 @@ Rack ears can also be installed without handles.
 
 Install {{ facts.rack_ear_screw_count }} {{ hw("F") }} in total, {{ facts.rack_ear_screws_per_side }} on each side, through the rack ears and handles into the chassis. Tighten by hand.
 
-Rack-slide installation depends on the rail kit. Follow the instructions supplied with the selected kit.
+<p class="info-note" role="note">Rack-slide installation depends on the rail kit. Follow the instructions supplied with the selected kit.</p>

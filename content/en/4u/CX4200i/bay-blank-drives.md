@@ -8,4 +8,4 @@ Place the SSDs on the blank, align their mounting holes with the holes in the bl
 
 Align the HDD's bottom mounting holes with the holes in the blank and install four {{ hw('E') }} through the blank into the drive. Two 2.5-inch SSDs can still be mounted alongside the HDD.
 
-Mount drives on the blank before fitting the blank in the bay bracket, and route their cables clear of the front cooling assembly.
+<p class="info-note" role="note">Mount drives on the blank before fitting the blank in the bay bracket, and route their cables clear of the front cooling assembly.</p>

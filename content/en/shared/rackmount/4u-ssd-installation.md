@@ -6,4 +6,4 @@ The rear of the motherboard tray has two pairs of 2.5-inch mounting holes. Insta
 
 Secure each drive with two {{ hw('B') }} through the tray. Two 7 mm drives use four screws in total. Tighten by hand without forcing the threads.
 
-For M.2 storage, follow the motherboard's installation instructions.
+<p class="info-note" role="note">For M.2 storage, follow the motherboard's installation instructions.</p>

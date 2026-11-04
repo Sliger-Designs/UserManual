@@ -21,4 +21,4 @@
 | Asetek 360 mm AIO with three 25 mm fans | {{ facts.gpu_length_fans_aio_mm }} mm |
 | Asetek 360 mm AIO with six 25 mm fans | {{ facts.gpu_length_max_cooling_mm }} mm |
 
-**Six-fan push-pull conflicts with the internal drive cage.** Mounting positions and maximum component counts are not all usable simultaneously.
+<p class="info-note" role="note"><strong>Six-fan push-pull conflicts with the internal drive cage.</strong> Mounting positions and maximum component counts are not all usable simultaneously.</p>

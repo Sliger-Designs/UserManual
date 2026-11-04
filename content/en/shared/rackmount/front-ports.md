@@ -1,4 +1,4 @@
-Use your motherboard manual to identify matching headers and pin assignments. The numbered front-panel locations correspond to the connector drawings and legend.
+<p class="info-note" role="note">Use your motherboard manual to identify matching headers and pin assignments. The numbered front-panel locations correspond to the connector drawings and legend.</p>
 
 ### 1. Power switch & status light
 

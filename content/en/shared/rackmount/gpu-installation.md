@@ -10,4 +10,4 @@ Align the card with the motherboard slot and rear bracket opening. Lower it care
 
 Fasten the card's mounting bracket to the tray with {{ hw("A") }}. Fit {{ hw("G") }} over unused openings and secure them with {{ hw("A") }}.
 
-Card height, including power connectors, must remain within **{{ facts.gpu_height_max_mm }} mm**. Check the cooling-dependent length limits before installation.
+<p class="info-note" role="note">Card height, including power connectors, must remain within <strong>{{ facts.gpu_height_max_mm }} mm</strong>. Check the cooling-dependent length limits before installation.</p>

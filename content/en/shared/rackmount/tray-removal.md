@@ -1,4 +1,4 @@
-Removing the tray is optional, but can make component installation easier.
+<p class="info-note" role="note">Removing the tray is optional, but can make component installation easier.</p>
 
 ### 1. Remove the tray screws
 

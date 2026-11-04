@@ -8,7 +8,7 @@ For each bay that will hold a device, remove the {{ hw('A') }} securing its blan
 
 Slide each device in from the front and secure it on both sides with screws that match its thread: {{ hw('D') }} or {{ hw('B') }} for M3, {{ hw('A') }} for 6-32.
 
-**With a 240 mm AIO:** the radiator comes close to these screws. Countersunk screws are recommended: {{ hw('B') }} for M3, {{ hw('E') }} for 6-32.
+<p class="info-note" role="note"><strong>With a 240 mm AIO:</strong> the radiator comes close to these screws. Countersunk screws are recommended: {{ hw('B') }} for M3, {{ hw('E') }} for 6-32.</p>
 
 ### 3. Keep the blanks in unused bays
 

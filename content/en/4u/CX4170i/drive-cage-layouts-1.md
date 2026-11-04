@@ -1,4 +1,4 @@
-These are alternative drive-cage layouts. SSD counts below apply to **7 mm-thick 2.5-inch drives**. Check cooler, PSU, and cable clearance for the chosen arrangement; do not add capacities from different layouts.
+<p class="info-note" role="note">These are alternative drive-cage layouts. SSD counts below apply to <strong>7 mm-thick 2.5-inch drives</strong>. Check cooler, PSU, and cable clearance for the chosen arrangement; do not add capacities from different layouts.</p>
 
 ### 1. Three 3.5-inch HDDs
 
