@@ -46,6 +46,7 @@ NUMBERS = {'depth_in', 'width_in', 'volume_l', 'ssd_2_5_max', 'hdd_3_5_max',
            'gpu_length_fans_only_mm', 'gpu_length_fans_aio_mm', 'gpu_length_max_cooling_mm'}
 ISSUES = {
     'CX3150a': [],
+    'CX4150a': [],
     'CX4170a': ['P05', 'P06', 'P07', 'P08'],
     'S630': ['S600-02', 'S600-03'],
     'S640': ['S640-01', 'S600-02', 'S600-03'],

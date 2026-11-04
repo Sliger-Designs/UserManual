@@ -9,7 +9,7 @@
 | Liquid cooling | One 360 mm, one 240 mm, or two 120 mm radiators |
 | Rear cooling | Optional 120 mm rear and PCIe-area fan brackets |
 | Expansion | Eight full-height PCIe slots; cards up to {{ facts.gpu_height_max_mm }} mm tall including power connectors |
-| Storage | Drive cage: up to {{ facts.ssd_2_5_max }} × 7 mm 2.5-inch SSDs, {{ facts.hdd_3_5_max }} × 3.5-inch HDDs, or mixed HDD/SSD configurations; see drive-cage layouts |
+| Storage | Up to {{ facts.ssd_2_5_max }} × 7 mm 2.5-inch SSDs: eight in the drive cage and two on the motherboard tray (or one 15 mm SSD there; the tray positions are unavailable with the rear fan bracket). The drive cage alternatively holds {{ facts.hdd_3_5_max }} × 3.5-inch HDDs or mixed HDD/SSD layouts; see drive-cage layouts |
 | Front bays | None |
 
 ### GPU length by cooling configuration

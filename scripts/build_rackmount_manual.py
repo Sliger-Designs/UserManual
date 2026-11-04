@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build rackmount manuals (CX3150a, CX4170a) from model content and selected publication images.
+"""Build rackmount manuals (CX3150a, CX4150a, CX4170a) from model content and selected publication images.
 
 Same interface as build_sff_manual.build(); use manual_build.build() to pick the family."""
 import base64
@@ -68,7 +68,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     if model == 'CX3150a':
         assert facts['aio_360_six_fan_push_pull_supported'] is False
     hardware_by_letter = {entry['letter']: entry for entry in hardware['items']}
-    assert set(hardware_by_letter) == set('ABCDEFGHIJ')
+    assert set(hardware_by_letter) == set('ABCDEFGHI')  # J (packing paper) removed by owner 2026-11-04
     assert {item['letter']: int(item['quantity']) for item in screwbag['items']} == {
         'A': 45, 'B': 10, 'C': 20, 'D': 16, 'E': 10, 'F': 7}
     page_numbers = {entry['id']: index + 1 for index, entry in enumerate(manual['pages'])}
@@ -180,14 +180,13 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     assert len(pdf) == len(pages), (len(pdf), len(pages))
     text = '\n'.join(page.get_text() for page in pdf)
     normalize = lambda value: ' '.join(value.split())
-    if model == 'CX3150a':
-        assert '324 mm' in text and '381' in text and '132.59' in text
-        assert '270 mm' not in text and '325 mm' not in text
-    else:
-        assert '375 mm' in text and '347 mm' in text and '322 mm' in text
-        assert 'SFX or SFX-L' not in text
-        assert 'SBAG-HWKIT' in text
-        assert '8' in text and '153' in text
+    checks = manual.get('text_checks', {})
+    assert checks.get('required'), 'manual.json must list the approved values the PDF has to show (text_checks.required)'
+    for required in checks['required']:
+        assert normalize(required) in normalize(text), ('Approved value missing from PDF', required)
+    for forbidden in checks.get('forbidden', []):
+        assert normalize(forbidden) not in normalize(text), ('Superseded or unsupported value in PDF', forbidden)
+    assert 'SBAG-HWKIT' in text
     for i, spec in enumerate(pages):
         title = model if i == 0 else spec['title']
         assert normalize(title) in normalize(pdf[i].get_text()), (i, title)
@@ -217,7 +216,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
             'motherboard-preparation': ['(C)'], 'motherboard-installation': ['(A)', '(C)'],
             'psu-installation': ['(A)'], 'gpu-installation': ['(A)', '(G)'],
             'ssd-installation': ['(B)', '5 mm long'], 'tray-installation': ['(E)']}.items():
-        content = pdf[page_numbers[identifier] - 1].get_text()
+        content = normalize(pdf[page_numbers[identifier] - 1].get_text())
         for required in expected:
             if english or required.startswith('('):
                 assert required in content, (identifier, required)
@@ -234,11 +233,11 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     assert len(next(item for item in manual['pages'] if item['id'] == 'regulations')['images']) == 4
     report = {'model': manual['model'], 'revision': manual['revision'], 'pages': len(pdf), 'language': L.language,
               'selected_images': len({name for item in manual['pages'] for name in item['images']}),
-              'checks': ['image hashes and loading', 'hardware A–J key and procedure references', 'internal links and generated page references', 'all four source regulatory images included', 'no page overflow or footer collisions', 'expected PDF page count and titles', 'landscape Letter page size', 'approved clearances and dimensions', 'unsupported clearance absent',
+              'checks': ['image hashes and loading', 'hardware A–I key and procedure references', 'internal links and generated page references', 'all four source regulatory images included', 'no page overflow or footer collisions', 'expected PDF page count and titles', 'landscape Letter page size', 'approved values present (text_checks.required)', 'superseded or unsupported values absent (text_checks.forbidden)',
                          'reference sections 4.1–4.3 body wording and repeated contact details match verbatim (whitespace normalized)' if english else 'translated text from ' + L.describe()],
               'applied_compatibility_rules': [{'id': rule['id'], 'page_id': rule['page_id']} for rule in applied_rules],
               'screwbag': screwbag['part_number'],
-              'hardware_key': 'A–J; B corrected by owner to red M3 × 0.5, 5 mm long',
+              'hardware_key': 'A–I; B corrected by owner to red M3 × 0.5, 5 mm long',
               'missing_assets': manual.get('missing_assets', []),
               'release_ready': False}
     report_prefix = model if english else f'{model}-{L.language}'

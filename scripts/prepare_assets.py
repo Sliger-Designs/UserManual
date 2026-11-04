@@ -4,7 +4,7 @@ import hashlib
 import argparse
 import json
 from pathlib import Path
-from manual_paths import content_directory
+from manual_paths import MODEL_CATEGORIES, content_directory
 from PIL import Image, ImageOps
 from background_cleanup import white_background
 
@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model', default='CX3150a', choices=['CX3150a', 'CX4170a', 'S630', 'S640'])
+    parser.add_argument('--model', default='CX3150a', choices=sorted(MODEL_CATEGORIES))
     parser.add_argument('--only', nargs='+', help='Prepare only these selected asset keys; retain other existing publication copies.')
     args = parser.parse_args()
     model = args.model
@@ -47,10 +47,21 @@ def main():
         original = ROOT / entry['local_path']
         assert hashlib.sha256(original.read_bytes()).hexdigest() == entry['sha256'], name
         group = 'common' if name.startswith('common/') else model
+        # Shared copies serve every manual: keep an existing one made from this same original,
+        # since re-encoding is not byte-identical and would change other manuals' assets.
+        cleanup = entry.get('background_cleanup')
+        # Cleaned copies are lossless PNG unless the entry asks for JPEG (rackmount, to keep the repository small).
+        cleaned_png = bool(cleanup) and cleanup.get('publication_format', 'png') == 'png'
+        suffix = '.png' if original.suffix.lower() == '.png' or cleaned_png else '.jpg'
+        previous = manifests[group].get(name)
+        if (group == 'common' and previous and previous['source_sha256'] == entry['sha256']
+                and previous['path'].endswith(suffix)
+                and bool(previous.get('background_cleanup')) == bool(cleanup)
+                and (ROOT / previous['path']).exists()
+                and hashlib.sha256((ROOT / previous['path']).read_bytes()).hexdigest() == previous['sha256']):
+            continue
         output = ROOT / 'illustrations/published' / group
         output.mkdir(parents=True, exist_ok=True)
-        cleanup = entry.get('background_cleanup')
-        suffix = '.png' if original.suffix.lower() == '.png' or cleanup else '.jpg'
         target = output / (entry['id'] + suffix)
         with Image.open(original) as image:
             image = ImageOps.exif_transpose(image)
@@ -75,7 +86,8 @@ def main():
             dimensions = list(image.size)
         transformation = 'EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.'
         if cleanup_report:
-            transformation = 'EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.'
+            encoding = 'lossless RGB PNG' if suffix == '.png' else 'RGB JPEG quality 90, subsampling 0'
+            transformation = f'EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; {encoding}. Full-resolution cleaned copy saved separately; original unchanged.'
         manifests[group][name] = {
             'path': target.relative_to(ROOT).as_posix(),
             'source_path': entry['local_path'], 'source_sha256': entry['sha256'],

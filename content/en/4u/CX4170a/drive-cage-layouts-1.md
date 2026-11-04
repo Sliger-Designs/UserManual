@@ -18,4 +18,4 @@ These are alternative drive-cage layouts. SSD counts below apply to **7 mm-thick
 
 ### 5. Nine 2.5-inch SSDs
 
-9 × 7 mm 2.5-inch SSD in this orientation.
+9 × 7 mm 2.5-inch SSD. Fits only with the drives interlocked; none sit flat. Not included in the listed capacity of eight.

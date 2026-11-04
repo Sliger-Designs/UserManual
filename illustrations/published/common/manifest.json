@@ -658,5 +658,77 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg": {
+    "path": "illustrations/published/common/common-0288a0a6887e.jpg",
+    "source_path": "illustrations/common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
+    "source_sha256": "0288a0a6887e0d370a3303de2e3e97ca1b2875107386a9e77bad5a106ef1a042",
+    "sha256": "4191940c817b47fa676f933b2ee73c6bcb80b3ec98d9ea7701a68c37cf79b35b",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg": {
+    "path": "illustrations/published/common/common-481b9f05c62b.jpg",
+    "source_path": "illustrations/common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
+    "source_sha256": "481b9f05c62b943c7c5e9d125d732be42b267b69ac438637934ea2ed49245915",
+    "sha256": "7ab70c35685902576baffb6dc1f35eab9552a4de012dd04aa3ab8f90ed57ac0e",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/3UPullHandles.jpg": {
+    "path": "illustrations/published/common/common-e7e71baad52f.jpg",
+    "source_path": "illustrations/common/hardware/3UPullHandles.jpg",
+    "source_sha256": "e7e71baad52f9841a50d2ab4c516d5101e45d2cc90720109eef3ee61eca2e9c3",
+    "sha256": "c3a980d89585867350b986ddfcd20ce4ebb4505d8d1fb64b4890126b83c84bd2",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/3URackEars.jpg": {
+    "path": "illustrations/published/common/common-92243fa87171.jpg",
+    "source_path": "illustrations/common/hardware/3URackEars.jpg",
+    "source_sha256": "92243fa8717124b3426e23f66199e94892bf334dbf5592acfbc43084ebd56d70",
+    "sha256": "3d5b2dca66bb0201459b959a894964716bd8397f35a3ea4ed7a9734cd1acb2b0",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/4UPullHandles.jpg": {
+    "path": "illustrations/published/common/common-7b3316ac0902.jpg",
+    "source_path": "illustrations/common/hardware/4UPullHandles.jpg",
+    "source_sha256": "7b3316ac09029273ddb0f682061728f4a2b374c3065de6c54a508a6c6372384d",
+    "sha256": "3a08340f92ac5fe10b10bd4602c76e8be7110fbf6e7cc98d9d3b2f4ff29d1b9c",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/4URackEars.jpg": {
+    "path": "illustrations/published/common/common-235efc0c5ac0.jpg",
+    "source_path": "illustrations/common/hardware/4URackEars.jpg",
+    "source_sha256": "235efc0c5ac036aa7e4d183be4f54c25fc248ca628d5fd4f64bba5e95a66ee73",
+    "sha256": "496e287d0104c3526f7987cd86ff34a40d3a5b064fa0a417f617ce8ac3f1fad3",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

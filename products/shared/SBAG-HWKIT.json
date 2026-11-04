@@ -19,9 +19,14 @@
       "specification_status": "reference_table",
       "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
       "detail_images": [
-        "common/hardware/YELLOW PATCHED SCREWS_TOP.png",
-        "common/hardware/YELLOW PATCHED SCREWS_SIDE.png"
-      ]
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg"
+      ],
+      "artwork_source": {
+        "id": "owner_decision",
+        "date": "2026-11-04",
+        "record": "sources/owner/2026-11-04-rackmount-hardware-artwork.md"
+      }
     },
     {
       "letter": "B",
@@ -34,9 +39,14 @@
       "specification_status": "owner_confirmed_2026-10-27",
       "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
       "detail_images": [
-        "common/hardware/RED PATCHED SCREWS_TOP.png",
-        "common/hardware/RED PATCHED SCREWS_SIDE.png"
-      ]
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_side.jpg"
+      ],
+      "artwork_source": {
+        "id": "owner_decision",
+        "date": "2026-11-04",
+        "record": "sources/owner/2026-11-04-rackmount-hardware-artwork.md"
+      }
     },
     {
       "letter": "C",
@@ -49,43 +59,65 @@
       "specification_status": "reference_table",
       "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
       "detail_images": [
-        "common/hardware/BLACK HEX STANDOFFS_TOP.png",
-        "common/hardware/BLACK HEX STANDOFFS_SIDE.png"
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Top.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Side.jpg"
       ],
       "color_label": "Teal in drawings; black, unpatched hardware",
       "physical_color": "black",
       "patch_color": null,
-      "note": "Owner clarified: teal/light-blue render highlight identifies C; actual black hex standoffs have no colored patch."
+      "note": "Owner clarified: teal/light-blue render highlight identifies C; actual black hex standoffs have no colored patch.",
+      "artwork_source": {
+        "id": "owner_decision",
+        "date": "2026-11-04",
+        "record": "sources/owner/2026-11-04-rackmount-hardware-artwork.md"
+      }
     },
     {
       "letter": "D",
-      "name": "M3 \u00d7 6 mm screws",
+      "name": "M3 screws (5 mm thread)",
       "color": "blue",
       "quantity": "16",
       "description": "2.5-inch SSDs and some 3.5-inch accessories.",
       "image": "common/hardware/BLUE PATCHED SCREWS.jpg",
-      "reference": "blue-patched M3 \u00d7 6 mm screws",
-      "specification_status": "reference_table",
+      "reference": "blue-patched M3 screws",
+      "specification_status": "owner_measured",
       "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
       "detail_images": [
-        "common/hardware/BLUE PATCHED SCREWS_TOP.png",
-        "common/hardware/BLUE PATCHED SCREWS_SIDE.png"
-      ]
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_top.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_side.jpg"
+      ],
+      "artwork_source": {
+        "id": "owner_decision",
+        "date": "2026-11-04",
+        "record": "sources/owner/2026-11-04-rackmount-hardware-artwork.md"
+      },
+      "thread": "M3",
+      "threaded_length_mm": 5,
+      "overall_length_mm": 8,
+      "part_number": "217-477P",
+      "note": "Same blue-patched screw as S630/S640 E. Owner measured 5 mm of thread and 8 mm overall; the reference table's M3 x 6 mm is the MRP value. Applied to rackmount kits 2026-11-04."
     },
     {
       "letter": "E",
-      "name": "6-32 \u00d7 0.187-inch hex screws",
+      "name": "6-32 \u00d7 0.25-inch flat-head screws",
       "color": "green",
       "quantity": "10",
       "description": "Motherboard tray, subfront, internal brackets, and front I/O bracket.",
       "image": "common/hardware/GREEN PATCHED SCREWS.jpg",
       "reference": "green-patched 6-32 screws",
-      "specification_status": "reference_table",
+      "specification_status": "owner_confirmed_2026-11-02",
       "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
       "detail_images": [
-        "common/hardware/GREEN PATCHED SCREWS_TOP.png",
-        "common/hardware/GREEN PATCHED SCREWS_SIDE.png"
-      ]
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg"
+      ],
+      "artwork_source": {
+        "id": "owner_decision",
+        "date": "2026-11-04",
+        "record": "sources/owner/2026-11-04-rackmount-hardware-artwork.md"
+      },
+      "part_number": "217-019",
+      "note": "Owner specified 217-019 (6-32 \u00d7 .250-inch flat-head) for the green screw in all rackmount kits (sources/owner/2026-11-02-S6xx-hardware-confirmations.md). Replaces the reference table's 6-32 \u00d7 0.187-inch hex screw."
     },
     {
       "letter": "F",
@@ -98,9 +130,14 @@
       "specification_status": "reference_table",
       "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
       "detail_images": [
-        "common/hardware/M4 THREAD SCREWS_TOP.png",
-        "common/hardware/M4 THREAD SCREWS_SIDE.png"
-      ]
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg"
+      ],
+      "artwork_source": {
+        "id": "owner_decision",
+        "date": "2026-11-04",
+        "record": "sources/owner/2026-11-04-rackmount-hardware-artwork.md"
+      }
     }
   ]
 }
