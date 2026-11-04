@@ -19,10 +19,10 @@
       "name": "Rack ears",
       "quantity": "1 pair",
       "description": "Secure the chassis to the rack.",
-      "image": null,
+      "image": "common/4u-rack-ear/_CX4170a_RACK_EAR.jpg",
       "reference": "rack ears",
       "specification_status": "reference_table",
-      "note": "Standalone CX4150a rack-ear illustration pending."
+      "note": "Shared 4U rack-ear render; all 4U chassis use the same rack ears (owner, 2026-11-04)."
     },
     {
       "letter": "I",

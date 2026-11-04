@@ -658,5 +658,58 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/4u-rack-ear/_CX4170a_RACK_EAR.jpg": {
+    "path": "illustrations/published/common/common-40fdb5912087.png",
+    "source_path": "illustrations/common/4u-rack-ear/_CX4170a_RACK_EAR.jpg",
+    "source_sha256": "40fdb59120873f5552f7627f4e7ca2dee8a644c305f769c57fb720f3c5025ba0",
+    "sha256": "5538b2aa50661dde93de740908d16e9a99493c1067571bd9d3a711fd7371b5de",
+    "dimensions_px": [
+      1800,
+      872
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 2750843,
+      "total_pixels": 3032424,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/common/4u-rack-ear-white.png",
+      "full_resolution_dimensions_px": [
+        2502,
+        1212
+      ],
+      "full_resolution_sha256": "7db837521577f5012f41e38d20b9ecc234e78afe5042ff3fbaa229d4f1ff07c4"
+    }
+  },
+  "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg": {
+    "path": "illustrations/published/common/common-0288a0a6887e.jpg",
+    "source_path": "illustrations/common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
+    "source_sha256": "0288a0a6887e0d370a3303de2e3e97ca1b2875107386a9e77bad5a106ef1a042",
+    "sha256": "4191940c817b47fa676f933b2ee73c6bcb80b3ec98d9ea7701a68c37cf79b35b",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg": {
+    "path": "illustrations/published/common/common-481b9f05c62b.jpg",
+    "source_path": "illustrations/common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
+    "source_sha256": "481b9f05c62b943c7c5e9d125d732be42b267b69ac438637934ea2ed49245915",
+    "sha256": "7ab70c35685902576baffb6dc1f35eab9552a4de012dd04aa3ab8f90ed57ac0e",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

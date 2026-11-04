@@ -45,7 +45,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing \u2014 top view",
+      "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -84,18 +84,19 @@
         "common/hardware/GREEN PATCHED SCREWS.jpg",
         "common/hardware/M4 THREAD SCREWS.jpg",
         "common/hardware/slot-covers-reference.png",
-        "common/hardware/YELLOW PATCHED SCREWS_TOP.png",
-        "common/hardware/YELLOW PATCHED SCREWS_SIDE.png",
-        "common/hardware/RED PATCHED SCREWS_TOP.png",
-        "common/hardware/RED PATCHED SCREWS_SIDE.png",
-        "common/hardware/BLACK HEX STANDOFFS_TOP.png",
-        "common/hardware/BLACK HEX STANDOFFS_SIDE.png",
-        "common/hardware/BLUE PATCHED SCREWS_TOP.png",
-        "common/hardware/BLUE PATCHED SCREWS_SIDE.png",
-        "common/hardware/GREEN PATCHED SCREWS_TOP.png",
-        "common/hardware/GREEN PATCHED SCREWS_SIDE.png",
-        "common/hardware/M4 THREAD SCREWS_TOP.png",
-        "common/hardware/M4 THREAD SCREWS_SIDE.png"
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_side.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Top.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Side.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_top.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_side.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
+        "common/4u-rack-ear/_CX4170a_RACK_EAR.jpg"
       ],
       "layout": "hardware-key"
     },
@@ -370,12 +371,6 @@
       "id": "M01",
       "needed": "Exploded view of the CX4150a assemblies (the CX4170a manual has one); the exploded-view page is omitted until supplied.",
       "section": "exploded-view",
-      "suggested_folder": "illustrations/4u/CX4150a/"
-    },
-    {
-      "id": "M02",
-      "needed": "Standalone CX4150a rack-ear illustration (H), or confirmation that the CX4170a rack-ear render can be shared across 4U models.",
-      "section": "hardware",
       "suggested_folder": "illustrations/4u/CX4150a/"
     },
     {

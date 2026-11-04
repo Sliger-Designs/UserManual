@@ -916,6 +916,29 @@
       "sha256": "eab0a27840c0334c9506b838407916a73233f86b3d60b9f6593c967b90dff0d4",
       "selection_status": "candidate",
       "note": "Owner identified the newly supplied 217-621 renders as replacement top/side artwork for red B in S630/S640. Retain confirmed M3.5 x 5 mm text and colored screw view; filename retained unchanged."
+    },
+    {
+      "id": "common-40fdb5912087",
+      "asset_key": "common/4u-rack-ear/_CX4170a_RACK_EAR.jpg",
+      "original_filename": "_CX4170a_RACK_EAR.jpg",
+      "local_path": "illustrations/common/4u-rack-ear/_CX4170a_RACK_EAR.jpg",
+      "width_px": 2502,
+      "height_px": 1212,
+      "format": "JPEG",
+      "size_bytes": 138025,
+      "sha256": "40fdb59120873f5552f7627f4e7ca2dee8a644c305f769c57fb720f3c5025ba0",
+      "selection_status": "candidate",
+      "note": "Owner-supplied CX4170a rack-ear render. Owner confirmed 2026-11-04 that all 4U chassis use the same rack ears; shared as hardware H for every 4U manual.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/common/4u-rack-ear-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     }
   ],
   "removed_items": [

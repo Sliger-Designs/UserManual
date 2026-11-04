@@ -12,7 +12,17 @@
       "size_bytes": 1231436,
       "sha256": "0dce3fe6bae224bc8bd1adfcb0efd0def49fa5812b1e84899d230765ca3ad511",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/10a_CX4150a_TRAY UNSCREW-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-2fe02bfafad5",
@@ -24,7 +34,17 @@
       "size_bytes": 1355846,
       "sha256": "b756ba959f40da49ee602566cf18fa37e706b0f6c1104bae021f94fd2604ec8c",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/10b_CX4150a_TRAY SLIDE BACK-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-ce33d6e73019",
@@ -36,7 +56,17 @@
       "size_bytes": 968203,
       "sha256": "bc629c6a42fa4be1277365001f3c5a1ddb7b82dfe22c6d6f1cd2f18a948de18a",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/10c_CX4150a_TRAY SLIDE BACK 2-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-9de085df2ee7",
@@ -48,7 +78,17 @@
       "size_bytes": 1167892,
       "sha256": "01cfd6c73a01345238e88cb4b9bf8ab878d569433e4fa9c13928f6df2e8ae7ef",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/10d_CX4150a_TRAY INSTALL-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-cd39b30a0481",
@@ -60,7 +100,17 @@
       "size_bytes": 1249810,
       "sha256": "9d1d8fdae5a11b8f9d71b4d33105c74dd964eb47af59ae96a7eae639ab28de18",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/10e_CX4150a_TRAY INSTALL 2-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-b4892ccdedf1",
@@ -72,7 +122,17 @@
       "size_bytes": 1258365,
       "sha256": "c931265948f83b01478e7f6027350c5d745b702bf1ca3f7a23b036d49ed6f2a8",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/10f_CX4150a_TRAY SCREW INSTALL-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-b7ac97e9ef9c",
@@ -96,7 +156,17 @@
       "size_bytes": 1319132,
       "sha256": "e83155d71ab7d6168a456bb1b1b0cfdc60c8db9dff172043a2d577a4adec4564",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/1a_CX4150a_LID UNSCREW-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-701576a4f76e",
@@ -108,7 +178,17 @@
       "size_bytes": 529442,
       "sha256": "5cbdf56284db6850587b49f0b626ebba13f2426da320d939a51bbdb13cdf561e",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/1b_CX4150a_LID SLIDE BACK-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-af8ed68e4b26",
@@ -120,7 +200,17 @@
       "size_bytes": 1663087,
       "sha256": "7acc4316340627d1784a33d4a1a7befc734b07b49e71620c49b7f9bf650b90d7",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/1c_CX4150a_LID REMOVE-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-41b760b6d4d4",
@@ -144,7 +234,17 @@
       "size_bytes": 2157467,
       "sha256": "b2212e35435d3645b128bc96e36c4402a39b08e20e66b0de24fc23beb0ec4bf1",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/2_CX4150a_FACEPLATE REMOVE-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-017b0e91571c",
@@ -168,7 +268,17 @@
       "size_bytes": 1143096,
       "sha256": "ca4478159e3c6b05d99182f78ebc58d20df9d281e515b0288069d80d51b90118",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/3a_CX4150a_FAN INSTALL-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-35b533073f75",
@@ -180,7 +290,17 @@
       "size_bytes": 1307076,
       "sha256": "ed982e722521d7699830107827a7643ababbf789cb71a0ac5bf5f55bf25774a6",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/3b_CX4150a_FAN INSTALL PRECOOLER-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-961b44fd5723",
@@ -192,7 +312,17 @@
       "size_bytes": 1773240,
       "sha256": "0dab091f376e3802ca2c09f73646ea55b83ad6c19bf3bb1b247d68f92d476edc",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/3c_CX4150a_FAN INSTALL + AIO-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-9fa259a0a138",
@@ -204,7 +334,17 @@
       "size_bytes": 1492437,
       "sha256": "1234f2be16f230b93e05cf6dba93c5f19b58f811ac916269789f1354095040ed",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/3d_CX4150a_FAN INSTALL PULL-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-a8204389a739",
@@ -216,7 +356,17 @@
       "size_bytes": 1448521,
       "sha256": "3e7e7e0a97ba0b832433e4b0b506c315ea375297e17458f04c5a2cd9ee16267b",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/3e_CX4150a_FAN INSTALL + AIO + PULL-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-b3a5ca4d6d9c",
@@ -240,7 +390,17 @@
       "size_bytes": 1606954,
       "sha256": "29e82c5436bb4d37d2d9050bb7d853fcdb419cf1f9b8c9924f1ba40b1516d6e7",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/4a_CX4150a_STANDOFF INSTALL-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-d3f592e9a078",
@@ -288,7 +448,17 @@
       "size_bytes": 1858230,
       "sha256": "98c6a4cabea6f8a8c7071d8a81b6f441d9798d345c3d4d43192ba26aec13ea15",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/5a_CX4150a_MOTHERBOARD IO SHIELD-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-038177070cd2",
@@ -300,7 +470,17 @@
       "size_bytes": 1418399,
       "sha256": "02e9db41244b28ff283463a1b9053adbd40ab55f829841e78d144c5651c9fc92",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/5b_CX4150a_MOTHERBOARD-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-d18918773676",
@@ -324,7 +504,17 @@
       "size_bytes": 1923129,
       "sha256": "c3f5c10b3c725c3a1460afb49044f77f80b6891ef79f9615e657ea59c68117c8",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/6_CX4150a_PSU-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-e30236d28f55",
@@ -336,7 +526,17 @@
       "size_bytes": 1706375,
       "sha256": "d0cdea7f419f508232ed1a857386009fc4bd8fb56bfd0be336e325dd428f07ee",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/7_CX4150a_SSD-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-d20ae4c996f3",
@@ -348,7 +548,17 @@
       "size_bytes": 1425577,
       "sha256": "940e8b56baf0fca6240e6ff628a2d97641a96dc243e9c388063eb65c1fbc63c8",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/8_CX4150a_GPU-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-cd3366dd7029",
@@ -360,7 +570,17 @@
       "size_bytes": 1002540,
       "sha256": "5c0674dd374fc6a0068005e771d3d5fef804e4090ef33f6ccecec9f2dbac913c",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/9_CX4150a_RACK EARS-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-111d40d70e02",
@@ -396,7 +616,17 @@
       "size_bytes": 1263845,
       "sha256": "0d01c44f4560523fce1fe3e985fe478035b120efce469511f8f46b712f635e69",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/_CX4150a_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-edfa8b449892",
@@ -408,7 +638,17 @@
       "size_bytes": 856213,
       "sha256": "8f28a70069a87d8563b62db7aaf822304a3f679ee8cdaba68e2097a31d16f12d",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/_CX4150a_ADVANCED_TOP VIEW-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150a-97fcf7530ab0",
@@ -444,7 +684,17 @@
       "size_bytes": 1099971,
       "sha256": "9a76006009c9b23f612d187e99e41400a3f5e2ad6896c65c295cb43dd3f9cd12",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "full_resolution_path": "_build/cleaned-renders/CX4150a/_CX4150a_rendering-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     }
   ]
 }
