@@ -48,7 +48,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing — top view",
+      "title": "Clearance drawing \u2014 top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -334,6 +334,21 @@
       ]
     },
     {
+      "id": "bay-blank-drives",
+      "title": "Mount drives on a filler blank",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "bay-blank-drives.md",
+      "images": [
+        "drive6.1.jpg.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ]
+      ]
+    },
+    {
       "id": "bay-bracket-installation",
       "title": "Reinstall the 5.25-inch bay bracket",
       "section": "03 / COMPONENT INSTALLATION",
@@ -438,14 +453,8 @@
       "needed": "Push-pull (240 mm radiator, four fans) installation renders; the push-pull page is text-only until supplied.",
       "section": "push-pull",
       "suggested_folder": "illustrations/4u/CX4150e/"
-    },
-    {
-      "id": "M03",
-      "needed": "Clarify unused renders drive6.1.jpg.jpg (green screws below a bracket) and SCREW INTERFERE.jpg before use.",
-      "section": "bay-devices",
-      "suggested_folder": "illustrations/4u/CX4150e/"
     }
   ],
-  "cover_description": "15\" DEEP 4U CHASSIS · 2 × 5.25\" BAYS",
+  "cover_description": "15\" DEEP 4U CHASSIS \u00b7 2 \u00d7 5.25\" BAYS",
   "cover_format": "landscape"
 }

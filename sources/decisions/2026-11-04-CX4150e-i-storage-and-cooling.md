@@ -21,3 +21,12 @@ totals replace the spec review's "3 × 2.5-inch, 1 × 3.5-inch" for both models.
 
 Confirmed supported: a 360 mm radiator with six 25 mm fans, maximum GPU length 270 mm. The
 import sheet's "not officially supported" disclaimer for this configuration does not apply.
+
+## CX4150e filler-blank HDD and 240 mm AIO screw clearance
+
+- `drive6.1.jpg.jpg` shows a 3.5-inch HDD installed through the bottom mounting holes of a
+  5.25-inch bay filler blank (green E screws, as rendered).
+- `SCREW INTERFERE.jpg` shows a 240 mm AIO touching one of the screws that retain a device
+  in the 5.25-inch bays. With a 240 mm AIO, use a countersunk (flat-head) screw in that
+  position instead of a hex-head screw. The render is not used; the requirement is stated
+  on the AIO and bay-device pages.

@@ -764,7 +764,7 @@
       "size_bytes": 2037505,
       "sha256": "c705fb086542d7974344bd1c9ecfefe331b7c5a7ec1d21865a1cf3080d83dfb8",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Shows a 240 mm AIO touching a hex-head 5.25-inch device screw; not used (unclear). The manual states the countersunk-screw requirement in text (confirmed 2026-11-04)."
     },
     {
       "id": "cx4150e-0e19f346f3a4",
@@ -869,7 +869,18 @@
       "size_bytes": 406594,
       "sha256": "c8e753709077b1b90842156966e9418363174ee844a6bfa52639bcd3ec9d4ab7",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "3.5-inch HDD mounted through the bottom holes of a 5.25-inch bay filler blank (confirmed 2026-11-04).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4150e/drive6.1-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     }
   ]
 }

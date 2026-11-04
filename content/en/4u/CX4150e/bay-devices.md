@@ -8,6 +8,8 @@ To use a bay for a 5.25-inch device, remove the {{ hw('A') }} securing that bay'
 
 Slide the device into the bracket from the front. Align its mounting holes with the bracket and secure it with {{ hw('D') }} on both sides. A 5.25-inch to 3.5-inch adapter is available separately.
 
+**With a 240 mm AIO:** the radiator can touch a hex-head screw retaining a 5.25-inch device. Use a countersunk (flat-head) screw in that position instead.
+
 ### 3. Keep the blanks in unused bays
 
-Leave the filler blank fitted in any bay without a device, secured with its {{ hw('A') }}. Mount 2.5-inch SSDs and a 3.5-inch HDD on a blank as needed.
+Leave the filler blank fitted in any bay without a device, secured with its {{ hw('A') }}. To mount drives on a blank, see {{ ref('bay-blank-drives', 'Mount drives on a filler blank') }}.
