@@ -6,13 +6,13 @@
 {% macro reference_image(img) %}{% if img.get('svg') %}{{ img.svg }}{% else %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endif %}{% endmacro %}
 {% macro hardware_chips(entries, page_number=None) %}{% if entries %}<div class="figure-hardware">{% for entry in entries %}<a href="#hardware-{{ entry.letter }}" data-hardware-color="{{ entry.color|default('neutral') }}"><b>{{ entry.letter }}</b>{% if entry.color is defined %} {{ t(entry.color|capitalize, 'hardware chip color; translate display text, keep internal color key', page_number) }}{% endif %}</a>{% endfor %}</div>{% endif %}{% endmacro %}
 {% for page in pages %}{% set page_number = loop.index %}
-<section class="page {{ page.layout }}{% if manual.family|default('') == 'sff' %} sff{% endif %}{% if page.get('illustration_size') == 'large' %} illustrations-large{% endif %}{% if page.layout == 'sff-cover' %} cover{% endif %}{% if page.layout in ('cover', 'sff-cover') %} cover-format-{{ manual.cover_format|default('landscape') }}{% endif %}" id="{{ page.id }}">
+<section class="page {{ page.layout }}{% if manual.family|default('') == 'sff' %} sff{% endif %}{% if page.get('illustration_size') == 'large' %} illustrations-large{% endif %}{% if page.get('layout_variant') %} {{ page.layout_variant }}{% endif %}{% if page.layout == 'sff-cover' %} cover{% endif %}{% if page.layout in ('cover', 'sff-cover') %} cover-format-{{ manual.cover_format|default('landscape') }}{% endif %}" id="{{ page.id }}">
 {% if page.layout in ('cover', 'sff-cover') %}
  <div class="cover-brand"><img class="brand-logo" src="{{ logo_src }}" alt="Sliger"></div>
  <div class="cover-edition">{{ manual.revision }} · {{ manual.status }}</div>
  {% if page.images %}<img class="cover-image" src="{{ page.images[0].src }}" alt="{{ page.images[0].alt }}">{% endif %}
  <div class="cover-banner" aria-hidden="true"></div>
- <div class="cover-copy"><h1>{{ manual.model }}</h1><p>{{ manual.cover_description }}{% if manual.get("cover_description_detail") %}<span class="cover-detail">{{ manual.cover_description_detail }}</span>{% endif %}</p></div>
+ <div class="cover-copy"><h1>{{ manual.model }}</h1><p>{{ manual.cover_description }}{% if manual.get("cover_description_detail") %}{% for line in ([manual.cover_description_detail] if manual.cover_description_detail is string else manual.cover_description_detail) %}<span class="cover-detail">{{ line }}</span>{% endfor %}{% endif %}</p></div>
  <div class="language-tag">{{ manual.language_label }}</div>
 {% else %}
  <header><div><div class="eyebrow">{{ page.section }}</div><h1>{{ page.title }}</h1></div><span class="model">{{ manual.model }}</span></header>

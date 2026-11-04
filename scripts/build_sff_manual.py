@@ -82,7 +82,9 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
         entry['quantity_display'] = quantity_display(entry.get('quantity'), L, f'hardware {entry["letter"]}: quantity', hardware_page)
     manual['language'] = L.language
     for field in ('cover_description', 'cover_description_detail', 'status', 'language_label'):
-        if field in manual:
+        if isinstance(manual.get(field), list):
+            manual[field] = [L.text(line, field, 1) for line in manual[field]]
+        elif field in manual:
             manual[field] = L.text(manual[field], field, 1)
     def read_markdown(path, layout=None, page=None):
         return L.markdown(path.resolve().relative_to(ROOT).as_posix(), path.read_text(encoding='utf-8'), layout, page)

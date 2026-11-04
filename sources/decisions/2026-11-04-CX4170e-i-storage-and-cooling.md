@@ -1,5 +1,8 @@
 # CX4170e / CX4170i storage and cooling — November 4, 2026
 
+> **Superseded in part:** filler-blank capacity and 2.5-inch totals are corrected in
+> `2026-11-04-bay-filler-blank-capacity.md` (four SSDs, or one HDD and two SSDs, per blank).
+
 ## Storage: total mounting locations
 
 Counted the same way as the CX4150e/i (`2026-11-04-CX4150e-i-storage-and-cooling.md`):

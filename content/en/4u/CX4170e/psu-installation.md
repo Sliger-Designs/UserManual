@@ -10,6 +10,4 @@ Install {{ hw('A') }} through the tray into the PSU. Tighten by hand and route c
 
 Maximum PSU length is **{{ facts.psu_length_max_mm }} mm including connectors**. Allow room for cables above the PSU if SSDs are installed on the tray; see {{ ref("front-clearance", "the front-view drawing") }}.
 
-### CRPS options
-
-CRPS mounting depends on the PSU format and adapter. This page illustrates ATX installation only; obtain instructions for the exact CRPS adapter before installation.
+<p class="info-note" role="note"><strong>CRPS options:</strong> CRPS mounting depends on the PSU format and adapter. This page illustrates ATX installation only; obtain instructions for the exact CRPS adapter before installation.</p>

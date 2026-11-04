@@ -10,7 +10,7 @@
 | Rear cooling | Optional 120 mm rear and PCIe-area fan brackets |
 | Expansion | Eight full-height PCIe slots; cards up to {{ facts.gpu_height_max_mm }} mm tall including power connectors |
 | Front bays | Two 5.25-inch bays with removable filler blanks |
-| Storage | {{ facts.ssd_2_5_max }} × 2.5-inch and {{ facts.hdd_3_5_max }} × 3.5-inch mounting locations: two 2.5-inch on the motherboard tray (7 mm, or one 15 mm), and two 2.5-inch plus one 3.5-inch on each bay filler blank. Not all locations can be used at once |
+| Storage | {{ facts.ssd_2_5_max }} × 2.5-inch and {{ facts.hdd_3_5_max }} × 3.5-inch mounting locations: two 2.5-inch on the motherboard tray (7 mm, or one 15 mm), and four 2.5-inch, or one 3.5-inch plus two 2.5-inch, on each bay filler blank. Not all locations can be used at once |
 
 ### GPU length by cooling configuration
 
@@ -21,4 +21,4 @@
 | Asetek 240 mm AIO with two 25 mm fans | {{ facts.gpu_length_fans_aio_mm }} mm |
 | Asetek 240 mm AIO with four 25 mm fans | {{ facts.gpu_length_max_cooling_mm }} mm |
 
-Radiator thickness, fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. The tray SSD positions are unavailable with the rear fan bracket, and a bay holding a 5.25-inch device has no filler blank.
+<p class="info-note" role="note">Radiator thickness, fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. The tray SSD positions are unavailable with the rear fan bracket, and a bay holding a 5.25-inch device has no filler blank.</p>

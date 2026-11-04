@@ -1,0 +1,1115 @@
+{
+  "schema_version": 1,
+  "model": "CX4713",
+  "items": [
+    {
+      "id": "cx4713-4c468b3b1699",
+      "original_filename": "1.jpg",
+      "local_path": "illustrations/4u/CX4713/1.jpg",
+      "width_px": 2882,
+      "height_px": 2059,
+      "format": "JPEG",
+      "size_bytes": 621684,
+      "sha256": "ebcbc6be691ef3c7bf58245d7e94bb8236565634d36038f2f46ee469f22827ad",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4713-39341454bdf0",
+      "original_filename": "10_CX4713_GPU.jpg",
+      "local_path": "illustrations/4u/CX4713/10_CX4713_GPU.jpg",
+      "width_px": 3195,
+      "height_px": 2282,
+      "format": "JPEG",
+      "size_bytes": 1169121,
+      "sha256": "5146748ba02df4a68e9df2ebf6af3e4d582a9c41f7b929a09878673d1b5556b7",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/10_CX4713_GPU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-266f6e1f2415",
+      "original_filename": "11a_CX4713_DRIVE BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/4u/CX4713/11a_CX4713_DRIVE BRACKET UNSCREW.jpg",
+      "width_px": 3195,
+      "height_px": 2282,
+      "format": "JPEG",
+      "size_bytes": 1430781,
+      "sha256": "5b7532293168ec3b0925aaf9747bb36d7900797392e07b6a01ecb950b16585a2",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/11a_CX4713_DRIVE BRACKET UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-73e6b46f4f6b",
+      "original_filename": "11b_CX4713_DRIVE BRACKET SLIDE BACK.jpg",
+      "local_path": "illustrations/4u/CX4713/11b_CX4713_DRIVE BRACKET SLIDE BACK.jpg",
+      "width_px": 4581,
+      "height_px": 3272,
+      "format": "JPEG",
+      "size_bytes": 1770654,
+      "sha256": "5f7c604dcfb1d028941047189e88ba3ef24fcb1443ad42c0c0d502f0687b4109",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/11b_CX4713_DRIVE BRACKET SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-ac58ef6bd08e",
+      "original_filename": "11c_CX4713_DRIVE BRACKET REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4713/11c_CX4713_DRIVE BRACKET REMOVE.jpg",
+      "width_px": 3542,
+      "height_px": 2530,
+      "format": "JPEG",
+      "size_bytes": 1343720,
+      "sha256": "67156122bcaad8eb64e90c1e07a70b875c9136aa329aadaadffa36cba1abd64a",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/11c_CX4713_DRIVE BRACKET REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-a285d29ab7c0",
+      "original_filename": "12a_CX4713_SLIDE TRAY.jpg",
+      "local_path": "illustrations/4u/CX4713/12a_CX4713_SLIDE TRAY.jpg",
+      "width_px": 4351,
+      "height_px": 3108,
+      "format": "JPEG",
+      "size_bytes": 2079277,
+      "sha256": "ac862bf58e890e666e5e481e27b3370cb7a686f196e357bc8c85d9b5a069303e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/12a_CX4713_SLIDE TRAY-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-7b788efcc4fb",
+      "original_filename": "12b_CX4713_HDD ASSEMBLE.jpg",
+      "local_path": "illustrations/4u/CX4713/12b_CX4713_HDD ASSEMBLE.jpg",
+      "width_px": 4448,
+      "height_px": 3177,
+      "format": "JPEG",
+      "size_bytes": 339779,
+      "sha256": "9b0272508f02066d97216ad17aa9c4fcefdc2c882ce3e762d761f21029fdba64",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/12b_CX4713_HDD ASSEMBLE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-ee18cdbe97cf",
+      "original_filename": "12c_CX4713_HDDs.jpg",
+      "local_path": "illustrations/4u/CX4713/12c_CX4713_HDDs.jpg",
+      "width_px": 3364,
+      "height_px": 2403,
+      "format": "JPEG",
+      "size_bytes": 1257460,
+      "sha256": "e05439764612160554233dc2ac03fd34ed49a8e2b9cb87e18f4429117bfa30a9",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/12c_CX4713_HDDs-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-5415c2be6662",
+      "original_filename": "12d_CX4713_HDD INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4713/12d_CX4713_HDD INSTALL.jpg",
+      "width_px": 4133,
+      "height_px": 2952,
+      "format": "JPEG",
+      "size_bytes": 1766713,
+      "sha256": "e9d294dade6738094901e07e8c327a4c408f67d9d58da276dcbfe7ce6c2d3044",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/12d_CX4713_HDD INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-52a8103dea3b",
+      "original_filename": "12e_CX4713_LOCKED HDD.jpg",
+      "local_path": "illustrations/4u/CX4713/12e_CX4713_LOCKED HDD.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1458835,
+      "sha256": "b3f9a3d2a9328eb85ffde69b802824515be2fc359757c1e862e697d5e61cd5eb",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/12e_CX4713_LOCKED HDD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-073e269e97ed",
+      "original_filename": "13a_CX4713_DRIVE BRACKET INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4713/13a_CX4713_DRIVE BRACKET INSTALL.jpg",
+      "width_px": 3926,
+      "height_px": 2804,
+      "format": "JPEG",
+      "size_bytes": 1101133,
+      "sha256": "f064b4f6d919fd31fdcad7c05f7e1c5c4b4ad5320ccb49a75f53840bfeeb3438",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/13a_CX4713_DRIVE BRACKET INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-92f79619ba5c",
+      "original_filename": "13b_CX4713_DRIVE BRACKET SCREW INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4713/13b_CX4713_DRIVE BRACKET SCREW INSTALL.jpg",
+      "width_px": 5077,
+      "height_px": 3627,
+      "format": "JPEG",
+      "size_bytes": 2457985,
+      "sha256": "37cb3a945761b17a47f9745058eba4dc8f27fd2e7533e2475931225abc5a0ac5",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/13b_CX4713_DRIVE BRACKET SCREW INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-13465b83b63c",
+      "original_filename": "13c_CX4712-A_DRIVE1.jpg",
+      "local_path": "illustrations/4u/CX4713/13c_CX4712-A_DRIVE1.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 876445,
+      "sha256": "b418a76e2386678201c25131e0c53cdde790b3ae0c39afd8c88599e3da1f8713",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/13c_CX4712-A_DRIVE1-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-2d5d43f80f83",
+      "original_filename": "13c_CX4712-A_DRIVE2.jpg",
+      "local_path": "illustrations/4u/CX4713/13c_CX4712-A_DRIVE2.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 843605,
+      "sha256": "77d6289098af48bfbf99409922b2e72b36ed4d8cad81ab6afa6cb22959b9b2d9",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/13c_CX4712-A_DRIVE2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-260019310413",
+      "original_filename": "13c_CX4712-A_DRIVE3.jpg",
+      "local_path": "illustrations/4u/CX4713/13c_CX4712-A_DRIVE3.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 809609,
+      "sha256": "c6ac8b8d6c247f56266666bfa0d63dd7120f94ba9497e9e344cf79ff998fad1e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/13c_CX4712-A_DRIVE3-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-26db751effc2",
+      "original_filename": "13c_CX4712-A_DRIVE5.jpg",
+      "local_path": "illustrations/4u/CX4713/13c_CX4712-A_DRIVE5.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 414749,
+      "sha256": "3c48cade86cf1fe7a6d90665a501f2453ed6e5f39539009c6d2b191599034c90",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4713-2c406f3ff513",
+      "original_filename": "14_CX4713_RACK EARS.jpg",
+      "local_path": "illustrations/4u/CX4713/14_CX4713_RACK EARS.jpg",
+      "width_px": 4133,
+      "height_px": 2952,
+      "format": "JPEG",
+      "size_bytes": 1073495,
+      "sha256": "9584b74e6be3a553c822117b5f961e9bc9721e56d0b6d392a3a46f9ab87a0cea",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/14_CX4713_RACK EARS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-d154b9575b21",
+      "original_filename": "1_CX4713_CORNER.jpg",
+      "local_path": "illustrations/4u/CX4713/1_CX4713_CORNER.jpg",
+      "width_px": 3160,
+      "height_px": 2257,
+      "format": "JPEG",
+      "size_bytes": 1273837,
+      "sha256": "c924fdd7462ff289bd4cb80a685d978ca20aca21f0a9c50ade98c141806a45d5",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4713-559bae613074",
+      "original_filename": "1a_CX4713_LID UNSCREW.jpg",
+      "local_path": "illustrations/4u/CX4713/1a_CX4713_LID UNSCREW.jpg",
+      "width_px": 4351,
+      "height_px": 3108,
+      "format": "JPEG",
+      "size_bytes": 881343,
+      "sha256": "ab2ff9a50325c8e9d48d5eabacbca3833391d1aa29c34f8e5d7085130bf95417",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/1a_CX4713_LID UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-4cd956ca009e",
+      "original_filename": "1b_CX4713_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/4u/CX4713/1b_CX4713_LID SLIDE BACK.jpg",
+      "width_px": 4823,
+      "height_px": 3445,
+      "format": "JPEG",
+      "size_bytes": 439080,
+      "sha256": "755195133c1c8f6ad0b08ce10e82390999ad518b76a43c3fe201f782cfafbe33",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/1b_CX4713_LID SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-5315637c3865",
+      "original_filename": "1cCX4713_LID REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4713/1cCX4713_LID REMOVE.jpg",
+      "width_px": 3925,
+      "height_px": 2804,
+      "format": "JPEG",
+      "size_bytes": 1332713,
+      "sha256": "84746364b3d6fb42c3ee83fda2af99225ab5eb0a30343150f412f0ba7bdf99b5",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/1cCX4713_LID REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-ae92013347f8",
+      "original_filename": "2_CX4713_CORNER 180.jpg",
+      "local_path": "illustrations/4u/CX4713/2_CX4713_CORNER 180.jpg",
+      "width_px": 3397,
+      "height_px": 2427,
+      "format": "JPEG",
+      "size_bytes": 1095684,
+      "sha256": "2af6d19a9781591688b94004e31b477b6d4066d869de29d6a07d126c4717d9db",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4713-612bcba39ec5",
+      "original_filename": "2_CX4713_FACEPLATE REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4713/2_CX4713_FACEPLATE REMOVE.jpg",
+      "width_px": 4351,
+      "height_px": 3108,
+      "format": "JPEG",
+      "size_bytes": 2098406,
+      "sha256": "124a4aba91ad14b940b6f6933ef7f360ab9cb6cf725873d30978794641ae9fd6",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/2_CX4713_FACEPLATE REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-87dcf2b1dfc2",
+      "original_filename": "3_CX4713_CORNER.jpg",
+      "local_path": "illustrations/4u/CX4713/3_CX4713_CORNER.jpg",
+      "width_px": 3448,
+      "height_px": 2463,
+      "format": "JPEG",
+      "size_bytes": 1308312,
+      "sha256": "102b884fd54376f1f0d864b1ebde129104ea25219cc2620a526f53b49e1e7109",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4713-e4fe6b540dfe",
+      "original_filename": "3a_CX4713_FAN BRACKET REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4713/3a_CX4713_FAN BRACKET REMOVE.jpg",
+      "width_px": 4133,
+      "height_px": 2952,
+      "format": "JPEG",
+      "size_bytes": 1173620,
+      "sha256": "a97fd7174ad1432326630c1cfd278c073237a120cd93e18912dde9461134f67f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/3a_CX4713_FAN BRACKET REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-83cafdd0a2be",
+      "original_filename": "3b_CX4713_FAN INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4713/3b_CX4713_FAN INSTALL.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1244910,
+      "sha256": "7f55d01b254f120ef59ac3cc11b55383de7f5823f243cda7063cc337681a858d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/3b_CX4713_FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-0ed8fa888ccd",
+      "original_filename": "3c_CX4713_FAN INSTALL PRECOOLER.jpg",
+      "local_path": "illustrations/4u/CX4713/3c_CX4713_FAN INSTALL PRECOOLER.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1230749,
+      "sha256": "5e7fe6365eaad30edfd55c7ae25ed067ae5b23314dbf6d1517d84390c61e073b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/3c_CX4713_FAN INSTALL PRECOOLER-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-7e03bd7fa078",
+      "original_filename": "3d_CX4713_FAN INSTALL + AIO.jpg",
+      "local_path": "illustrations/4u/CX4713/3d_CX4713_FAN INSTALL + AIO.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1260667,
+      "sha256": "61fca7ecb6fb16d728f3a770392196043028ea7dba84d7cf126c8a3687ab8b24",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/3d_CX4713_FAN INSTALL + AIO-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-3135f99c5ef7",
+      "original_filename": "3e_CX4713_FAN INSTALL PULL.jpg",
+      "local_path": "illustrations/4u/CX4713/3e_CX4713_FAN INSTALL PULL.jpg",
+      "width_px": 3987,
+      "height_px": 2847,
+      "format": "JPEG",
+      "size_bytes": 1492437,
+      "sha256": "1234f2be16f230b93e05cf6dba93c5f19b58f811ac916269789f1354095040ed",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/3e_CX4713_FAN INSTALL PULL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-d91a62e722ea",
+      "original_filename": "3f_CX4713_FAN INSTALL + AIO + PULL.jpg",
+      "local_path": "illustrations/4u/CX4713/3f_CX4713_FAN INSTALL + AIO + PULL.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1378561,
+      "sha256": "1f33c4f8212289c6670221e105ad9b52ef04f883c2f2f5f911df1acbe030b558",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/3f_CX4713_FAN INSTALL + AIO + PULL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-d37ffbf9228f",
+      "original_filename": "4_CX4713_CORNER 180.jpg",
+      "local_path": "illustrations/4u/CX4713/4_CX4713_CORNER 180.jpg",
+      "width_px": 3225,
+      "height_px": 2304,
+      "format": "JPEG",
+      "size_bytes": 1030489,
+      "sha256": "a4d45f1d257e005e28445e40e7d85a57164814b77ff980b5f7c3e55aa47d25ae",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4713-8c99e29baaaa",
+      "original_filename": "4a_CX4713_FAN BRACKET INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4713/4a_CX4713_FAN BRACKET INSTALL.jpg",
+      "width_px": 4823,
+      "height_px": 3445,
+      "format": "JPEG",
+      "size_bytes": 1663390,
+      "sha256": "d56663ad7fe03fd5b580397bd5b1fab5191979ad22b5f8d5e8abd8f54b2568c8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/4a_CX4713_FAN BRACKET INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-89cd894bd242",
+      "original_filename": "4b_CX4713_FAN BRACKET INSTALL 2.jpg",
+      "local_path": "illustrations/4u/CX4713/4b_CX4713_FAN BRACKET INSTALL 2.jpg",
+      "width_px": 5345,
+      "height_px": 3818,
+      "format": "JPEG",
+      "size_bytes": 2482768,
+      "sha256": "d00e39dc539565da03a04015452261ee7de286f8597a15bff9a7a01be2c44d18",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/4b_CX4713_FAN BRACKET INSTALL 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-8b7e3cc3b69d",
+      "original_filename": "4c_CX4713_FAN BRACKET INSTALL 3.jpg",
+      "local_path": "illustrations/4u/CX4713/4c_CX4713_FAN BRACKET INSTALL 3.jpg",
+      "width_px": 4823,
+      "height_px": 3445,
+      "format": "JPEG",
+      "size_bytes": 1947154,
+      "sha256": "c06f66ad7c83ccb2c5d14ac8b27f860f446e351687ae203a0925fad48032106f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/4c_CX4713_FAN BRACKET INSTALL 3-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-9f4533a4853d",
+      "original_filename": "5a_CX4713_TRAY UNSCREW.jpg",
+      "local_path": "illustrations/4u/CX4713/5a_CX4713_TRAY UNSCREW.jpg",
+      "width_px": 4581,
+      "height_px": 3272,
+      "format": "JPEG",
+      "size_bytes": 1233319,
+      "sha256": "dbd503a16103da0125f15f13333e12b9d7172edbc34a837b1f3a6e94034f96be",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/5a_CX4713_TRAY UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-7726af0d5312",
+      "original_filename": "5b_CX4713_TRAY SLIDE BACK.jpg",
+      "local_path": "illustrations/4u/CX4713/5b_CX4713_TRAY SLIDE BACK.jpg",
+      "width_px": 3926,
+      "height_px": 2804,
+      "format": "JPEG",
+      "size_bytes": 826708,
+      "sha256": "a1b1c9b984e9020e43297230bd11bede41d458b1d828ff0fa005dc76ba457160",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/5b_CX4713_TRAY SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-0d6a32131c54",
+      "original_filename": "5c_CX4713_TRAY SLIDE BACK 2.jpg",
+      "local_path": "illustrations/4u/CX4713/5c_CX4713_TRAY SLIDE BACK 2.jpg",
+      "width_px": 3542,
+      "height_px": 2530,
+      "format": "JPEG",
+      "size_bytes": 724557,
+      "sha256": "3752030506e8ab11c194e7f403174e709bded44ea37a46b3afdc14c0b690699e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/5c_CX4713_TRAY SLIDE BACK 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-8bdde0e6b809",
+      "original_filename": "5d_CX4713_TRAY INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4713/5d_CX4713_TRAY INSTALL.jpg",
+      "width_px": 4133,
+      "height_px": 2952,
+      "format": "JPEG",
+      "size_bytes": 1011799,
+      "sha256": "5ba7a892784959da1105199bf7c38cf0d1c6dd71dc6298372bd6efa1dad39705",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/5d_CX4713_TRAY INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-5bedc287c51a",
+      "original_filename": "5e_CX4713_TRAY INSTALL 2.jpg",
+      "local_path": "illustrations/4u/CX4713/5e_CX4713_TRAY INSTALL 2.jpg",
+      "width_px": 4133,
+      "height_px": 2952,
+      "format": "JPEG",
+      "size_bytes": 1493060,
+      "sha256": "73a962ad81b785c75c701d19b6d98147fb366cee85eacdae6268110632f959b3",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/5e_CX4713_TRAY INSTALL 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-bc4249cb30a2",
+      "original_filename": "5f_CX4713_TRAY INSTALL 3.jpg",
+      "local_path": "illustrations/4u/CX4713/5f_CX4713_TRAY INSTALL 3.jpg",
+      "width_px": 3729,
+      "height_px": 2663,
+      "format": "JPEG",
+      "size_bytes": 1017189,
+      "sha256": "671ab9cb646439eebb5fe8f5be280553133ba188c233eab25ec3fb79991a9e69",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/5f_CX4713_TRAY INSTALL 3-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-e0152e96b2f4",
+      "original_filename": "6a_CX4713_STANDOFF INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4713/6a_CX4713_STANDOFF INSTALL.jpg",
+      "width_px": 5077,
+      "height_px": 3627,
+      "format": "JPEG",
+      "size_bytes": 2036071,
+      "sha256": "16d9736287652130e6046c7d2f1ef7535dbe482b7b68340779f5c6807e464945",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/6a_CX4713_STANDOFF INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-2cb4d53825a0",
+      "original_filename": "6b_CX4713_STANDOFF INSTALL 180.jpg",
+      "local_path": "illustrations/4u/CX4713/6b_CX4713_STANDOFF INSTALL 180.jpg",
+      "width_px": 3729,
+      "height_px": 2664,
+      "format": "JPEG",
+      "size_bytes": 1363717,
+      "sha256": "f84772ddccc183e401efbc0bdb51e4978f03aab5c879000ca127d491e0e67e20",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4713-e6ee0ed26b76",
+      "original_filename": "6c_CX4713_STANDOFF INSTALLED.jpg",
+      "local_path": "illustrations/4u/CX4713/6c_CX4713_STANDOFF INSTALLED.jpg",
+      "width_px": 4581,
+      "height_px": 3272,
+      "format": "JPEG",
+      "size_bytes": 1198999,
+      "sha256": "33247f8528a18b2f016f17771620abb8be14bc2e243e40096375764d3b8b7f55",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4713-d33f91b873fb",
+      "original_filename": "7a_CX4713_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/4u/CX4713/7a_CX4713_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 4351,
+      "height_px": 3108,
+      "format": "JPEG",
+      "size_bytes": 1845161,
+      "sha256": "32c839843a38602f8b69681f3fc100b50f6d7d8707b310773de1d6e577c37e24",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/7a_CX4713_MOTHERBOARD IO SHIELD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-cef5bcbcf606",
+      "original_filename": "7b_CX4713_MOTHERBOARD.jpg",
+      "local_path": "illustrations/4u/CX4713/7b_CX4713_MOTHERBOARD.jpg",
+      "width_px": 4350,
+      "height_px": 3107,
+      "format": "JPEG",
+      "size_bytes": 1357314,
+      "sha256": "3a3951e1d6a4688742b98dcd9e9a6a3db679b4d4137612c25d1e4ff148643a16",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/7b_CX4713_MOTHERBOARD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-a3d2db69e29a",
+      "original_filename": "8_CX4713_PSU.jpg",
+      "local_path": "illustrations/4u/CX4713/8_CX4713_PSU.jpg",
+      "width_px": 5077,
+      "height_px": 3627,
+      "format": "JPEG",
+      "size_bytes": 2289927,
+      "sha256": "7b312596bc844b19e43598bc7f9c0e90d130dc5c633e2db1f8d063aa52b91d4f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/8_CX4713_PSU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-fc93fd124ada",
+      "original_filename": "9a_CX4713_SSD 1.jpg",
+      "local_path": "illustrations/4u/CX4713/9a_CX4713_SSD 1.jpg",
+      "width_px": 5345,
+      "height_px": 3818,
+      "format": "JPEG",
+      "size_bytes": 2606613,
+      "sha256": "9ba12e90145cd94834c747a81941992d831a3c07ca4aefa3edc893d21d2b7e26",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/9a_CX4713_SSD 1-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-716062080a29",
+      "original_filename": "9b_CX4713_SSD 2.jpg",
+      "local_path": "illustrations/4u/CX4713/9b_CX4713_SSD 2.jpg",
+      "width_px": 5345,
+      "height_px": 3818,
+      "format": "JPEG",
+      "size_bytes": 1901679,
+      "sha256": "d1987905c007848dc19c13a9a6335969eba0427545cb2f7c9494807c7b3f1286",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/9b_CX4713_SSD 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-947042ad050e",
+      "original_filename": "_CX4713_ADVANCED FRONT VIEW.jpg",
+      "local_path": "illustrations/4u/CX4713/_CX4713_ADVANCED FRONT VIEW.jpg",
+      "width_px": 4010,
+      "height_px": 2864,
+      "format": "JPEG",
+      "size_bytes": 827573,
+      "sha256": "a92385d089eafd1b106f4615ac902ab69bd03397463bfc36eeb7aae5ca645307",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/_CX4713_ADVANCED FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-4e2123fe35e3",
+      "original_filename": "_CX4713_ADVANCED TOP VIEW.jpg",
+      "local_path": "illustrations/4u/CX4713/_CX4713_ADVANCED TOP VIEW.jpg",
+      "width_px": 4415,
+      "height_px": 3154,
+      "format": "JPEG",
+      "size_bytes": 1059309,
+      "sha256": "749c6a8f7a92e90fff647e333d0f3946239f8992b21e4a97327bb1a17790d700",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/_CX4713_ADVANCED TOP VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-4dc46b20c8f7",
+      "original_filename": "_CX4713_FRONT.tif",
+      "local_path": "illustrations/4u/CX4713/_CX4713_FRONT.tif",
+      "width_px": 7606,
+      "height_px": 3803,
+      "format": "TIFF",
+      "size_bytes": 3583792,
+      "sha256": "c5a59961c4f7bb0365be4e1c6f504fb7cdc9786335108349eda4e60ffea3ab66",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/_CX4713_FRONT-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-8dbb6fc726d0",
+      "original_filename": "_CX4713_REAR.tif",
+      "local_path": "illustrations/4u/CX4713/_CX4713_REAR.tif",
+      "width_px": 6836,
+      "height_px": 3418,
+      "format": "TIFF",
+      "size_bytes": 4282846,
+      "sha256": "589e6af000454f083303012ee419dd961dd86c062a911b16c96c7980172756cb",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4713-4e69716b87b8",
+      "original_filename": "drive12.jpg.jpg",
+      "local_path": "illustrations/4u/CX4713/drive12.jpg.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 596391,
+      "sha256": "96097dee46fc3719a27d4200646873a8f7848d5dec333533d818ad5f132e1c20",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    }
+  ]
+}

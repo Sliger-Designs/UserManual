@@ -79,18 +79,18 @@
       "raw": "1x 5.25"
     },
     "ssd_2_5_max": {
-      "value": 4,
+      "value": 6,
       "configuration": {
         "motherboard_tray": 2,
-        "per_bay_filler_blank": 2,
+        "per_bay_filler_blank": 4,
         "bays": 1
       },
       "source": {
         "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/decisions/2026-11-04-CX4150e-i-storage-and-cooling.md"
+        "record": "sources/decisions/2026-11-04-bay-filler-blank-capacity.md"
       },
-      "note": "Total mounting locations; not all usable at once."
+      "note": "Total mounting locations; each filler blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs. Not all usable at once."
     },
     "hdd_3_5_max": {
       "value": 1,

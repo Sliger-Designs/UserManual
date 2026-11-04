@@ -1090,6 +1090,69 @@
         "full_resolution_path": "_build/cleaned-renders/common/4u-bay-bracket-4e_CX4150e_DRIVE BRACKET 2-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "common-96097dee46fc",
+      "asset_key": "common/4u-bay-blank/drive12.jpg.jpg",
+      "original_filename": "drive12.jpg.jpg",
+      "local_path": "illustrations/common/4u-bay-blank/drive12.jpg.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 596391,
+      "sha256": "96097dee46fc3719a27d4200646873a8f7848d5dec333533d818ad5f132e1c20",
+      "selection_status": "candidate",
+      "note": "Four 2.5-inch SSDs mounted on a 5.25-inch bay filler blank (red B screws). Supplied with the CX4712/CX4713; applies to every 4U bay filler blank (confirmed 2026-11-04).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/common/4u-bay-blank-drive12-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "common-29df453bbb25",
+      "asset_key": "common/hardware/sasConnectors_2x.jpg",
+      "original_filename": "sasConnectors_2x.jpg",
+      "local_path": "illustrations/common/hardware/sasConnectors_2x.jpg",
+      "width_px": 2057,
+      "height_px": 1200,
+      "format": "JPEG",
+      "size_bytes": 210378,
+      "sha256": "29df453bbb25897dccc9736d02fdd7b848a3aa3e61788a64fd2e2ec9a71c2e17",
+      "selection_status": "candidate",
+      "note": "Two SFF-8482 (SAS/SATA) to SATA adapters, CX-NAS-HWKIT item L. Supplied 2026-11-04."
+    },
+    {
+      "id": "common-b41ced001228",
+      "asset_key": "common/hardware/5-way_powerSplitter.jpg",
+      "original_filename": "5-way_powerSplitter.jpg",
+      "local_path": "illustrations/common/hardware/5-way_powerSplitter.jpg",
+      "width_px": 1114,
+      "height_px": 1120,
+      "format": "JPEG",
+      "size_bytes": 126858,
+      "sha256": "b41ced0012288b527373e6ff3debb4ed8a1e4f5d30e4c8fba0bb35736d5104bf",
+      "selection_status": "candidate",
+      "note": "SATA power splitter, one male to five female; CX-NAS-HWKIT item M. Supplied 2026-11-04."
+    },
+    {
+      "id": "common-73a85bf18574",
+      "asset_key": "common/hardware/J312-10_KeyPair.jpg",
+      "original_filename": "J312-10_KeyPair.jpg",
+      "local_path": "illustrations/common/hardware/J312-10_KeyPair.jpg",
+      "width_px": 576,
+      "height_px": 538,
+      "format": "JPEG",
+      "size_bytes": 58037,
+      "sha256": "73a85bf1857413722ccde486f6e0b7fe650dfa85108b6e1777c3b73e41f21386",
+      "selection_status": "candidate",
+      "note": "Drive-bay lock key pair; CX-NAS-HWKIT item N. Supplied 2026-11-04."
     }
   ],
   "removed_items": [

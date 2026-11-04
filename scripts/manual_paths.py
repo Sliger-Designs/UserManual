@@ -14,6 +14,8 @@ MODEL_CATEGORIES = {
     'CX4200e': '4u',
     'CX4200f': '4u',
     'CX4200i': '4u',
+    'CX4712': '4u',
+    'CX4713': '4u',
     'S630': 'desktop',
     'S640': 'desktop',
 }

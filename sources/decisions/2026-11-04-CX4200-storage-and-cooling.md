@@ -1,5 +1,8 @@
 # CX4200a / e / f / i storage and cooling — November 4, 2026
 
+> **Superseded in part:** filler-blank capacity and 2.5-inch totals are corrected in
+> `2026-11-04-bay-filler-blank-capacity.md` (four SSDs, or one HDD and two SSDs, per blank).
+
 ## Storage: total mounting locations
 
 Counted as for the CX4150 and CX4170 models: the rear motherboard-tray mounting (two 7 mm

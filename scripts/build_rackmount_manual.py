@@ -25,7 +25,10 @@ def load(model):
     facts = {key: value['value'] for key, value in product['facts'].items()}
     hardware = json.loads((content_directory(model) / 'hardware.json').read_text(encoding='utf-8'))
     screwbag = json.loads((ROOT / hardware['screwbag']).read_text(encoding='utf-8'))
-    hardware['items'] = screwbag['items'] + hardware['items']
+    # Additional packaged kits (e.g. CX-NAS-HWKIT) continue the lettering after the chassis items.
+    extra = [item for path in hardware.get('additional_kits', [])
+             for item in json.loads((ROOT / path).read_text(encoding='utf-8'))['items']]
+    hardware['items'] = screwbag['items'] + hardware['items'] + extra
     return manual, product, facts, hardware, screwbag
 
 
@@ -68,7 +71,9 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     if model == 'CX3150a':
         assert facts['aio_360_six_fan_push_pull_supported'] is False
     hardware_by_letter = {entry['letter']: entry for entry in hardware['items']}
-    assert set(hardware_by_letter) == set('ABCDEFGHI')  # J (packing paper) removed 2026-11-04
+    kit_letters = {item['letter'] for path in hardware.get('additional_kits', [])
+                   for item in json.loads((ROOT / path).read_text(encoding='utf-8'))['items']}
+    assert set(hardware_by_letter) == set('ABCDEFGHI') | kit_letters  # J (packing paper) removed 2026-11-04
     assert {item['letter']: int(item['quantity']) for item in screwbag['items']} == {
         'A': 45, 'B': 10, 'C': 20, 'D': 16, 'E': 10, 'F': 7}
     page_numbers = {entry['id']: index + 1 for index, entry in enumerate(manual['pages'])}
@@ -80,7 +85,9 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
         entry['quantity_display'] = quantity_display(entry.get('quantity'), L, f'hardware {entry["letter"]}: quantity', hardware_page)
     manual['language'] = L.language
     for field in ('cover_description', 'cover_description_detail', 'status', 'language_label'):
-        if field in manual:
+        if isinstance(manual.get(field), list):
+            manual[field] = [L.text(line, field, 1) for line in manual[field]]
+        elif field in manual:
             manual[field] = L.text(manual[field], field, 1)
     state = {'page': None}
     env, context = markdown_environment(model, L, state)
@@ -141,9 +148,10 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
                              for i, image in enumerate(card_images)]
         if item['layout'] == 'hardware-key':
             images_by_key = {image['key']: image for image in page['images']}
+            letters = item.get('hardware_letters')
             page['hardware_items'] = [{**entry, 'illustration': images_by_key.get(entry['image']),
                                        'details': [images_by_key[name] for name in entry.get('detail_images', [])]}
-                                      for entry in hardware['items']]
+                                      for entry in hardware['items'] if not letters or entry['letter'] in letters]
         if 'hardware_callouts' in item:
             assert len(item['hardware_callouts']) == len(page['images']), item['id']
             page['figure_keys'] = [[hardware_by_letter[letter] for letter in group] for group in item['hardware_callouts']]
@@ -209,14 +217,18 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     for rule in applied_rules:
         rule_text = normalize(rule['text'].replace('> ', '').replace('**', ''))
         assert rule_text in normalize(pdf[page_numbers[rule['page_id']] - 1].get_text()), rule['id']
-    key_page = pdf[page_numbers['hardware'] - 1].get_text()
+    key_page = ' '.join(pdf[index].get_text() for index, item in enumerate(pages) if item['layout'] == 'hardware-key')
     for entry in hardware['items']:
-        assert normalize(entry['name']) in normalize(key_page), entry['letter']
+        compact = lambda value: ''.join(value.split())  # names may wrap at hyphens, e.g. "217-735"
+        assert compact(entry['name']) in compact(key_page), entry['letter']
     for identifier, expected in {
             'lid-removal': ['(A)'], 'tray-removal': ['(E)'], 'rack-ears': ['(F)', '(H)', '(I)'],
             'motherboard-preparation': ['(C)'], 'motherboard-installation': ['(A)', '(C)'],
             'psu-installation': ['(A)'], 'gpu-installation': ['(A)', '(G)'],
             'ssd-installation': ['(B)', '5 mm long'], 'tray-installation': ['(E)']}.items():
+        if identifier not in page_numbers:
+            assert identifier in manual.get('omitted_pages', []), ('Required page missing', identifier)
+            continue
         content = normalize(pdf[page_numbers[identifier] - 1].get_text())
         for required in expected:
             if english or required.startswith('('):

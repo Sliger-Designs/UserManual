@@ -1,11 +1,11 @@
-Each 5.25-inch bay filler blank provides mounting for one 3.5-inch HDD and two 2.5-inch SSDs.
+Each 5.25-inch bay filler blank holds either four 2.5-inch SSDs, or one 3.5-inch HDD and two 2.5-inch SSDs.
 
-### 1. Position the HDD
+### 1. Mount 2.5-inch SSDs
 
-Place the 3.5-inch HDD on the filler blank and align the drive's bottom mounting holes with the holes in the blank.
+Place the SSDs on the blank, align their mounting holes with the holes in the blank, and secure each drive with {{ hw('B') }}.
 
-### 2. Secure the HDD
+### 2. Or mount a 3.5-inch HDD
 
-Install four {{ hw('E') }} through the blank into the bottom of the drive. Tighten by hand.
+Align the HDD's bottom mounting holes with the holes in the blank and install four {{ hw('E') }} through the blank into the drive. Two 2.5-inch SSDs can still be mounted alongside the HDD.
 
-Mount drives on the blank before fitting the blank in the bay bracket, and route their cables clear of the front cooling assembly.
+<p class="info-note" role="note">Mount drives on the blank before fitting the blank in the bay bracket, and route their cables clear of the front cooling assembly.</p>

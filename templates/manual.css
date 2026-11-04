@@ -133,6 +133,19 @@ h1 { font-weight:700; }
 .key-entry-details .key-gallery { width:2in; height:.7in; }
 .key-entry-details .key-gallery img { width:.6in; height:.7in; }
 .key-entry-details .key-gallery .key-color-view { width:.7in; height:.7in; }
+.key-large .key-entry-details .key-copy { padding-right:2.6in; }
+.key-large .key-entry-details .key-gallery { width:2.5in; height:.9in; }
+.key-large .key-entry-details .key-gallery img { width:.8in; height:.9in; }
+.key-large .key-entry-details .key-gallery .key-color-view { width:.9in; height:.9in; }
+.key-large .key-entry:not(.key-entry-details) .key-copy { padding-right:2.7in; }
+.key-large .key-entry .key-gallery-large { width:2.6in; height:1.2in; }
+.key-large .key-entry .key-gallery-large .key-color-view { width:2.5in; height:1.15in; }
+.procedure.stacked .page-body { grid-template-columns:1fr; grid-template-rows:auto minmax(0,1fr); gap:.2in; }
+.procedure.stacked article { order:-1; column-count:2; column-gap:.4in; }
+.procedure.stacked article h3 { break-after:avoid; }
+.procedure.stacked .visuals { height:auto; min-height:0; }
+.procedure.stacked .visuals.count-2 { grid-template-rows:1fr; grid-template-columns:1fr 1fr; }
+.procedure.stacked .visuals.count-3 { grid-template-rows:1fr; grid-template-columns:repeat(3, 1fr); }
 #revision-history th:nth-child(2), #revision-history td:nth-child(2) { white-space:nowrap; }
 
 /* Front I/O follows the original manual: chassis left, connectors and legend right. */
@@ -234,8 +247,8 @@ h1 { font-weight:700; }
 .sff.illustrations-large .paired-step-wide .paired-images :is(img, .annotated-image) { height:4.05in; max-height:4.05in; }
 
 /* Quiet markers for supporting notes, separate from numbered diagram badges. */
-.sff .info-note { position:relative; padding-left:23px; }
-.sff .info-note::before {
+.info-note { position:relative; padding-left:23px; }
+.info-note::before {
  content:"i";
  position:absolute;
  left:0;

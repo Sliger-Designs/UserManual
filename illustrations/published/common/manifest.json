@@ -846,5 +846,118 @@
       ],
       "full_resolution_sha256": "5d8926e964537fc11b612bec8bc77e9ec9cd1ba7e91fa39f5f569305fb92d2d2"
     }
+  },
+  "common/4u-bay-blank/drive12.jpg.jpg": {
+    "path": "illustrations/published/common/common-96097dee46fc.jpg",
+    "source_path": "illustrations/common/4u-bay-blank/drive12.jpg.jpg",
+    "source_sha256": "96097dee46fc3719a27d4200646873a8f7848d5dec333533d818ad5f132e1c20",
+    "sha256": "0b2d27c3a77d35b2ba0b17e4b62a7fefb3d366fe5e771f5a02d096cb35141eeb",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13647446,
+      "total_pixels": 16897536,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/common/4u-bay-blank-drive12-white.png",
+      "full_resolution_dimensions_px": [
+        4864,
+        3474
+      ],
+      "full_resolution_sha256": "3bfad880f690ea666da1dbd5682aa9f3c3fd07bae416db6103812a95c0e5068a"
+    }
+  },
+  "common/hardware/#6-32 THUMB SCREW (217-736)_side.jpg": {
+    "path": "illustrations/published/common/common-f8730766edc2.jpg",
+    "source_path": "illustrations/common/hardware/#6-32 THUMB SCREW (217-736)_side.jpg",
+    "source_sha256": "f8730766edc2ccb4161590420bb4c0a0180fc3d70cb3c784766636c4e367c51b",
+    "sha256": "dab99746c753c510c2dc311b586cfbafe687327e56ae5023fd9480eaaeb11498",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/#6-32 THUMB SCREW (217-736)_top.jpg": {
+    "path": "illustrations/published/common/common-bba2a8fc23b2.jpg",
+    "source_path": "illustrations/common/hardware/#6-32 THUMB SCREW (217-736)_top.jpg",
+    "source_sha256": "bba2a8fc23b235743f0c9dd1bebf0eb3af514985266afc5e66165eee1f69b652",
+    "sha256": "fa1b182639a3a1f91ae19ce62a07927c8a5e88695a0b1a0a6052381d4aaa2e37",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/5-way_powerSplitter.jpg": {
+    "path": "illustrations/published/common/common-b41ced001228.jpg",
+    "source_path": "illustrations/common/hardware/5-way_powerSplitter.jpg",
+    "source_sha256": "b41ced0012288b527373e6ff3debb4ed8a1e4f5d30e4c8fba0bb35736d5104bf",
+    "sha256": "d568c3f95a405dcbf0a84509d8614f4bdf96c76ff24402fc2b5aa8c3b885b732",
+    "dimensions_px": [
+      1114,
+      1120
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/HDD Shoulder Thumb Screw (217-735B)_side.jpg": {
+    "path": "illustrations/published/common/common-5f7272d00908.jpg",
+    "source_path": "illustrations/common/hardware/HDD Shoulder Thumb Screw (217-735B)_side.jpg",
+    "source_sha256": "5f7272d0090882524cd4035ef498ee20d369792b636fdb62760a14c1463749af",
+    "sha256": "5aeb5d29f058bc9aa6e654a0cee6f2f81a8c7e8f7eed112a5ca17a4e53ec5f11",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/HDD Shoulder Thumb Screw (217-735B)_top.jpg": {
+    "path": "illustrations/published/common/common-47f64fd88485.jpg",
+    "source_path": "illustrations/common/hardware/HDD Shoulder Thumb Screw (217-735B)_top.jpg",
+    "source_sha256": "47f64fd88485bab3592dbc10abc702293f31669ae124b9e12bbddc392ea0c2e6",
+    "sha256": "6c392e1ab58d68b0ea9f80ecc2a944f5b904c172be11e62044a0264844b6cade",
+    "dimensions_px": [
+      1800,
+      916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/J312-10_KeyPair.jpg": {
+    "path": "illustrations/published/common/common-73a85bf18574.jpg",
+    "source_path": "illustrations/common/hardware/J312-10_KeyPair.jpg",
+    "source_sha256": "73a85bf1857413722ccde486f6e0b7fe650dfa85108b6e1777c3b73e41f21386",
+    "sha256": "ff68ca68b3453e9d3cc0f59bbe3b7066e9514ae495acdaa27fba47f8e3889788",
+    "dimensions_px": [
+      576,
+      538
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/sasConnectors_2x.jpg": {
+    "path": "illustrations/published/common/common-29df453bbb25.jpg",
+    "source_path": "illustrations/common/hardware/sasConnectors_2x.jpg",
+    "source_sha256": "29df453bbb25897dccc9736d02fdd7b848a3aa3e61788a64fd2e2ec9a71c2e17",
+    "sha256": "9a2759fab35da3de32abf862852e99720b4cb325c2d2f2d6ca756db733b15002",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

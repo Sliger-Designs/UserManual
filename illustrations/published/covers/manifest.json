@@ -193,5 +193,35 @@
       1600,
       800
     ]
+  },
+  "CX4712": {
+    "path": "illustrations/published/covers/CX4712-95fb52150f71.jpg",
+    "sha256": "830d5438e4e55665678b5970d56ca0a34fc2664d978d02ec6d16c8ed82d5d939",
+    "source_path": "sources/web/covers/CX4712-95fb52150f71.webp",
+    "source_sha256": "95fb52150f7197099035d5cf4d8371d1c43ff75f93040a33eaab24d5f6fddf37",
+    "product_url": "https://sliger.com/products/cx4712",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/16.webp",
+    "retrieved_at": "2026-11-04T22:44:11.124668+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      870
+    ]
+  },
+  "CX4713": {
+    "path": "illustrations/published/covers/CX4713-95fb52150f71.jpg",
+    "sha256": "830d5438e4e55665678b5970d56ca0a34fc2664d978d02ec6d16c8ed82d5d939",
+    "source_path": "sources/web/covers/CX4713-95fb52150f71.webp",
+    "source_sha256": "95fb52150f7197099035d5cf4d8371d1c43ff75f93040a33eaab24d5f6fddf37",
+    "product_url": "https://sliger.com/products/cx4713",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/17.webp",
+    "retrieved_at": "2026-11-04T22:44:11.990856+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      870
+    ]
   }
 }

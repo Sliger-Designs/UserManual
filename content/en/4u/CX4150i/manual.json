@@ -46,7 +46,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing \u2014 top view",
+      "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -339,10 +339,14 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "bay-blank-drives.md",
       "images": [
+        "common/4u-bay-blank/drive12.jpg.jpg",
         "common/4u-bay-blank/drive6.1.jpg.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
+        [
+          "B"
+        ],
         [
           "E"
         ]
@@ -456,6 +460,6 @@
     }
   ],
   "cover_description": "15\" DEEP 4U CHASSIS",
-  "cover_description_detail": "1 \u00d7 5.25\" BAY",
+  "cover_description_detail": "1 × 5.25\" BAY",
   "cover_format": "landscape"
 }

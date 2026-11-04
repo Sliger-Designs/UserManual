@@ -1,0 +1,59 @@
+{
+  "asset_key": "_CX4713_FRONT.tif",
+  "source_sha256": "c5a59961c4f7bb0365be4e1c6f504fb7cdc9786335108349eda4e60ffea3ab66",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 2.0,
+  "view_box": [
+    0.84,
+    0.42,
+    0.14,
+    0.38
+  ],
+  "badge_radius_height_fraction": 0.009,
+  "font_size_height_fraction": 0.012,
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Power switch and status light",
+      "target": [
+        0.894,
+        0.494
+      ],
+      "badge": [
+        0.965,
+        0.494
+      ]
+    },
+    {
+      "number": 2,
+      "label": "USB Type-A ports",
+      "targets": [
+        [
+          0.894,
+          0.6236
+        ],
+        [
+          0.894,
+          0.6926
+        ]
+      ],
+      "badge": [
+        0.965,
+        0.658
+      ]
+    },
+    {
+      "number": 3,
+      "label": "USB Type-C",
+      "target": [
+        0.894,
+        0.7586
+      ],
+      "badge": [
+        0.965,
+        0.7586
+      ]
+    }
+  ],
+  "review_status": "Positions measured on the CX4713 front render; review preview before release."
+}
