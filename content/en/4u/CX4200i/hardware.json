@@ -1,0 +1,39 @@
+{
+  "source": "products/CX4200i.json (bulk-create \"G - Slot Covers\"); items H and I are the shared 4U rack ears and pull handles.",
+  "quantities_status": "Screwbag quantities are confirmed (SBAG-HWKIT). Slot-cover quantity 8 from the catalog; H\u2013I as on the CX4170a, pending review.",
+  "corrections": {
+    "B": "M3-.5 x 5, red; confirmed 2026-10-27."
+  },
+  "items": [
+    {
+      "letter": "G",
+      "name": "Slot covers",
+      "quantity": "8",
+      "description": "Cover unused PCIe slots.",
+      "image": "common/hardware/slot-covers-reference.png",
+      "reference": "slot covers",
+      "specification_status": "reference_table"
+    },
+    {
+      "letter": "H",
+      "name": "Rack ears",
+      "quantity": "1 pair",
+      "description": "Secure the chassis to the rack.",
+      "image": "common/hardware/4URackEars.jpg",
+      "reference": "rack ears",
+      "specification_status": "reference_table",
+      "note": "Supplied 4U render of the left and right rack ears; shared by every 4U chassis (2026-11-04)."
+    },
+    {
+      "letter": "I",
+      "name": "Pull handles",
+      "quantity": "1 pair",
+      "description": "Optional handles make pulling the chassis from the rack easier.",
+      "image": "common/hardware/4UPullHandles.jpg",
+      "reference": "pull handles",
+      "specification_status": "reference_table",
+      "note": "Supplied 4U render of the left and right pull handles; shared by every 4U chassis (2026-11-04)."
+    }
+  ],
+  "screwbag": "products/shared/SBAG-HWKIT.json"
+}

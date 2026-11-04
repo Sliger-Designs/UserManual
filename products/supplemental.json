@@ -302,5 +302,201 @@
         "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
       }
     }
+  },
+  "CX4200a": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 508,
+        "width": 431.8,
+        "height": 176.78
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4200a-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (20 \u00d7 17 \u00d7 6.96 inches); exact depth approved over the bulk-create 509 mm."
+    },
+    "psu_length_max_mm": {
+      "value": 268,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4200a-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Includes connectors (ATX PSU)."
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 4U chassis use the same rack ears."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    }
+  },
+  "CX4200e": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 508,
+        "width": 431.8,
+        "height": 176.78
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4200e-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (20 \u00d7 17 \u00d7 6.96 inches); exact depth approved over the bulk-create 509 mm."
+    },
+    "psu_length_max_mm": {
+      "value": 268,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4200e-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Includes connectors (ATX PSU)."
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 4U chassis use the same rack ears."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    }
+  },
+  "CX4200f": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 508,
+        "width": 431.8,
+        "height": 176.78
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4200f-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (20 \u00d7 17 \u00d7 6.96 inches); exact depth approved over the bulk-create 509 mm."
+    },
+    "psu_length_max_mm": {
+      "value": 268,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4200f-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Includes connectors (ATX PSU)."
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 4U chassis use the same rack ears."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    }
+  },
+  "CX4200i": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 508,
+        "width": 431.8,
+        "height": 176.78
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4200i-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (20 \u00d7 17 \u00d7 6.96 inches); exact depth approved over the bulk-create 509 mm."
+    },
+    "psu_length_max_mm": {
+      "value": 268,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4200i-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Includes connectors (ATX PSU)."
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 4U chassis use the same rack ears."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    }
   }
 }

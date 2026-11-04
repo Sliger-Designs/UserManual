@@ -1,0 +1,780 @@
+{
+  "schema_version": 1,
+  "model": "CX4200e",
+  "items": [
+    {
+      "id": "cx4200e-ad95dae94865",
+      "original_filename": "10a_CX4200e_DRIVE BRACKET INSTALL FRONT.jpg",
+      "local_path": "illustrations/4u/CX4200e/10a_CX4200e_DRIVE BRACKET INSTALL FRONT.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 2161962,
+      "sha256": "e2f4cf3c6b154660caa0d5f49b66f45639829c96e6bb3152e6402f6a186a6cb8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/10a_CX4200e_DRIVE BRACKET INSTALL FRONT-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-4e733193b231",
+      "original_filename": "10b_CX4200e_DRIVE BRACKET INSTALL SIDE.jpg",
+      "local_path": "illustrations/4u/CX4200e/10b_CX4200e_DRIVE BRACKET INSTALL SIDE.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 2111808,
+      "sha256": "e0e1eed1c36a82e84c74b005c503929a80b878295f10f1ff6376b65ad684acd4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/10b_CX4200e_DRIVE BRACKET INSTALL SIDE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-dde837db0890",
+      "original_filename": "11_CX4200e_RACK EARS.jpg",
+      "local_path": "illustrations/4u/CX4200e/11_CX4200e_RACK EARS.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 1460820,
+      "sha256": "2e31392f9f7a202a7b5518818784f06c75539e57ef50d713d69e82e89b949992",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/11_CX4200e_RACK EARS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-aba4a20d8b13",
+      "original_filename": "12a_CX4200e_TRAY UNSCREW.jpg",
+      "local_path": "illustrations/4u/CX4200e/12a_CX4200e_TRAY UNSCREW.jpg",
+      "width_px": 4767,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1265292,
+      "sha256": "dac6518a00568d06a8c6c0e9f67b0b52b9731afe907eb37225c03517502a5f73",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/12a_CX4200e_TRAY UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-73988cff9b8e",
+      "original_filename": "12b_CX4200e_TRAY SLIDE BACK.jpg",
+      "local_path": "illustrations/4u/CX4200e/12b_CX4200e_TRAY SLIDE BACK.jpg",
+      "width_px": 3729,
+      "height_px": 2663,
+      "format": "JPEG",
+      "size_bytes": 991358,
+      "sha256": "1ff01a70448d7327f3c5ee76386724d845cae5429724db5a63bdd8551afdb977",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/12b_CX4200e_TRAY SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-c53b635706bf",
+      "original_filename": "12c_CX4200e_TRAY SLIDE BACK 2.jpg",
+      "local_path": "illustrations/4u/CX4200e/12c_CX4200e_TRAY SLIDE BACK 2.jpg",
+      "width_px": 3663,
+      "height_px": 2617,
+      "format": "JPEG",
+      "size_bytes": 682029,
+      "sha256": "1bd0c642de97025af1a32ad32e0603679e706fbce96078afeaf597386ff248a6",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/12c_CX4200e_TRAY SLIDE BACK 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-5985466ccb69",
+      "original_filename": "12d_CX4200e_TRAY INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4200e/12d_CX4200e_TRAY INSTALL.jpg",
+      "width_px": 3497,
+      "height_px": 2498,
+      "format": "JPEG",
+      "size_bytes": 798897,
+      "sha256": "cfce5cb95d721c41d9cb77d39e03616a3dbb77256d3541f1a21c43a392fc7087",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/12d_CX4200e_TRAY INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-e6da823ee397",
+      "original_filename": "12e_CX4200e_TRAY INSTALL 2.jpg",
+      "local_path": "illustrations/4u/CX4200e/12e_CX4200e_TRAY INSTALL 2.jpg",
+      "width_px": 4581,
+      "height_px": 3272,
+      "format": "JPEG",
+      "size_bytes": 1089842,
+      "sha256": "0ea39090faf95c289353c890bff0ff4825d64a25c44ceed72d7706371c097725",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/12e_CX4200e_TRAY INSTALL 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-b63c7a138f7b",
+      "original_filename": "12f_CX4200e_TRAY INSTALL 3.jpg",
+      "local_path": "illustrations/4u/CX4200e/12f_CX4200e_TRAY INSTALL 3.jpg",
+      "width_px": 3195,
+      "height_px": 2282,
+      "format": "JPEG",
+      "size_bytes": 708656,
+      "sha256": "bcc634998721e1d272b7d6501ae286c6684376344f8b4ef448fefc3de04c92ef",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/12f_CX4200e_TRAY INSTALL 3-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-caf947602785",
+      "original_filename": "1_CX4200e_CORNER.jpg",
+      "local_path": "illustrations/4u/CX4200e/1_CX4200e_CORNER.jpg",
+      "width_px": 3923,
+      "height_px": 2802,
+      "format": "JPEG",
+      "size_bytes": 1147341,
+      "sha256": "9ddb132107c1d44c93b3367a0797dfef1956929b4295479f3b30a834adca0f54",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4200e-79b989a28bae",
+      "original_filename": "1a_CX4200e_LID UNSCREW.jpg",
+      "local_path": "illustrations/4u/CX4200e/1a_CX4200e_LID UNSCREW.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1246087,
+      "sha256": "9ec640def597d48847d33b66f185e7e1dc6fc5803b4e57c227397050279564c4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/1a_CX4200e_LID UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-5c4ed314e26b",
+      "original_filename": "1b_CX4200e_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/4u/CX4200e/1b_CX4200e_LID SLIDE BACK.jpg",
+      "width_px": 6236,
+      "height_px": 4454,
+      "format": "JPEG",
+      "size_bytes": 675546,
+      "sha256": "16c722360471591a2556a9b3350958b944c6430afcc8e3eed02ce1de1a164cb8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/1b_CX4200e_LID SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-56fa81997315",
+      "original_filename": "1c_CX4200e_LID REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4200e/1c_CX4200e_LID REMOVE.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 1710943,
+      "sha256": "050a6749ffa7fe878598a020c3da0df8714a4744b44bd21385124b7eeaa78857",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/1c_CX4200e_LID REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-8c32a1aa2cfa",
+      "original_filename": "2_CX4200e_CORNER 180.jpg",
+      "local_path": "illustrations/4u/CX4200e/2_CX4200e_CORNER 180.jpg",
+      "width_px": 3903,
+      "height_px": 2788,
+      "format": "JPEG",
+      "size_bytes": 1106959,
+      "sha256": "6df8b93dffa1441624638980c1de60270e889f51ac8bcae96873b8ed70dcb4f1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4200e-e3e3477a305a",
+      "original_filename": "2_CX4200e_FACEPLATE REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4200e/2_CX4200e_FACEPLATE REMOVE.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 2132289,
+      "sha256": "52b7a7034cfe54108a1d890d8bc936f1595dfae78f44db35ee0ea60fcb97aa4d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/2_CX4200e_FACEPLATE REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-504d60be6e5d",
+      "original_filename": "3_CX4200e_CORNER .jpg",
+      "local_path": "illustrations/4u/CX4200e/3_CX4200e_CORNER .jpg",
+      "width_px": 4036,
+      "height_px": 2883,
+      "format": "JPEG",
+      "size_bytes": 1242078,
+      "sha256": "695826678889246e3d31b6b42175c4b5834706c4788df5efa6069eeceeeee97f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4200e-46e14b49489c",
+      "original_filename": "3a_CX4200e_FAN INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4200e/3a_CX4200e_FAN INSTALL.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 1556495,
+      "sha256": "5502eb918b9f2fcf0a0f7b715f7c7c56e54e7a9c4fc722d12200366fe018e62f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/3a_CX4200e_FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-1a0b2adf22d4",
+      "original_filename": "3b_CX4200e_FAN INSTALL PRECOOLER.jpg",
+      "local_path": "illustrations/4u/CX4200e/3b_CX4200e_FAN INSTALL PRECOOLER.jpg",
+      "width_px": 6236,
+      "height_px": 4454,
+      "format": "JPEG",
+      "size_bytes": 1933302,
+      "sha256": "b5c66a84e51e1c0a54541d22884d12c844ab9135b1511e417a5abf47453e8797",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/3b_CX4200e_FAN INSTALL PRECOOLER-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-ea4571177333",
+      "original_filename": "3c_CX4200e_FAN INSTALL + AIO.jpg",
+      "local_path": "illustrations/4u/CX4200e/3c_CX4200e_FAN INSTALL + AIO.jpg",
+      "width_px": 6236,
+      "height_px": 4454,
+      "format": "JPEG",
+      "size_bytes": 2238166,
+      "sha256": "93804ea03f0d3d5b38c797ef485e1eaa776e370c30de3886659978caf1aa2d61",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/3c_CX4200e_FAN INSTALL + AIO-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-90f627af79aa",
+      "original_filename": "4_CX4200e_CORNER 180.jpg",
+      "local_path": "illustrations/4u/CX4200e/4_CX4200e_CORNER 180.jpg",
+      "width_px": 3239,
+      "height_px": 2314,
+      "format": "JPEG",
+      "size_bytes": 975461,
+      "sha256": "0794ddcf841403d3ac101fdb1b45ff8e6c9f35fd5783143dfbf935b967fa1b75",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4200e-0edf3017151b",
+      "original_filename": "4a1_CX4200e_DRIVE BRACKET SLIDE BACK.jpg",
+      "local_path": "illustrations/4u/CX4200e/4a1_CX4200e_DRIVE BRACKET SLIDE BACK.jpg",
+      "width_px": 4120,
+      "height_px": 2943,
+      "format": "JPEG",
+      "size_bytes": 992259,
+      "sha256": "7ca0be2dc14d2e01a2b1e9ae449e7cf24c64c90b7e61bced74541bbfdb814b4f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/4a1_CX4200e_DRIVE BRACKET SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-18d184192ffa",
+      "original_filename": "4a_CX4200e_DRIVE BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/4u/CX4200e/4a_CX4200e_DRIVE BRACKET UNSCREW.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1774401,
+      "sha256": "e25c1b1090c611fb55fb4bb029a1345059357941ff72c77fb8a9d17717e40118",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/4a_CX4200e_DRIVE BRACKET UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-0288115a6b82",
+      "original_filename": "4b_CX4200e_DRIVE BRACKET REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4200e/4b_CX4200e_DRIVE BRACKET REMOVE.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1060541,
+      "sha256": "363796320584bc9420c63db2d39c204bf95a4c94f5dc633f13775917d0006ab8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/4b_CX4200e_DRIVE BRACKET REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-bfa8d3633ba4",
+      "original_filename": "5a_CX4200e_STANDOFF INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4200e/5a_CX4200e_STANDOFF INSTALL.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1623714,
+      "sha256": "77a53db60a83627e69cfed26267bc2e90594d9733e7fefff31d178b07f983dbb",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/5a_CX4200e_STANDOFF INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-10de72038ac1",
+      "original_filename": "5b_CX4200e_STANDOFF INSTALL 180.jpg",
+      "local_path": "illustrations/4u/CX4200e/5b_CX4200e_STANDOFF INSTALL 180.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1658603,
+      "sha256": "a9a33957b5d7d01a1ace679b4dc09d59ec1d18110e6fe818573a4d6ca414665d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4200e-19a1487f4a40",
+      "original_filename": "5c_CX4200e_STANDOFF INSTALLED.jpg",
+      "local_path": "illustrations/4u/CX4200e/5c_CX4200e_STANDOFF INSTALLED.jpg",
+      "width_px": 5684,
+      "height_px": 4060,
+      "format": "JPEG",
+      "size_bytes": 1517915,
+      "sha256": "3d070acd32da16427a550164ae308c2a7de1b3155a29ef8c9b1b0bc928eba421",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4200e-b04ad0e2d392",
+      "original_filename": "6a_CX4200e_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/4u/CX4200e/6a_CX4200e_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 4360,
+      "height_px": 3114,
+      "format": "JPEG",
+      "size_bytes": 1365419,
+      "sha256": "a93e82005e72f3f1cefe0a5e8434cf8d02fd9b2c50a96c8fd485f027e9f2fa70",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/6a_CX4200e_MOTHERBOARD IO SHIELD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-a42f85a4f0bf",
+      "original_filename": "6b_CX4200e_MOTHERBOARD.jpg",
+      "local_path": "illustrations/4u/CX4200e/6b_CX4200e_MOTHERBOARD.jpg",
+      "width_px": 4753,
+      "height_px": 3395,
+      "format": "JPEG",
+      "size_bytes": 1343739,
+      "sha256": "157b2150ceedd089be657dd49df3f8fe03c6b8541d6b1d126a60ec73eb07e03e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/6b_CX4200e_MOTHERBOARD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-11240651e14c",
+      "original_filename": "7_CX4200e_PSU.jpg",
+      "local_path": "illustrations/4u/CX4200e/7_CX4200e_PSU.jpg",
+      "width_px": 4360,
+      "height_px": 3114,
+      "format": "JPEG",
+      "size_bytes": 1540440,
+      "sha256": "7305ed82fbe87bc6fed35f8eb5f033a263e7ef0516149ddca6b1f0773965ff9b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/7_CX4200e_PSU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-811e5881c0ae",
+      "original_filename": "8_CX4200e_SSD.jpg",
+      "local_path": "illustrations/4u/CX4200e/8_CX4200e_SSD.jpg",
+      "width_px": 4346,
+      "height_px": 3104,
+      "format": "JPEG",
+      "size_bytes": 1577978,
+      "sha256": "2de709283b8df2bea55f1be191f24b9639503d4d0de4fe421b5bd1413c102ad8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/8_CX4200e_SSD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-5472cdba3d6b",
+      "original_filename": "9_CX4200e_GPU.jpg",
+      "local_path": "illustrations/4u/CX4200e/9_CX4200e_GPU.jpg",
+      "width_px": 3749,
+      "height_px": 2678,
+      "format": "JPEG",
+      "size_bytes": 1081779,
+      "sha256": "b67b4b2873cf9c3f5eceacfffc2c751bb41a570f3c49f1a93919b5424f308056",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/9_CX4200e_GPU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-35f5a0a29e10",
+      "original_filename": "CX4200e.jpg",
+      "local_path": "illustrations/4u/CX4200e/CX4200e.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 274475,
+      "sha256": "ff9f9f4c69fcb217d6b483b8d66ff712de4555f36a7c2044504e09a16aee8cfd",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/CX4200e-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-7cf84961a726",
+      "original_filename": "_CX4200e_ADVANCED_FRONT VIEW.jpg",
+      "local_path": "illustrations/4u/CX4200e/_CX4200e_ADVANCED_FRONT VIEW.jpg",
+      "width_px": 4692,
+      "height_px": 3351,
+      "format": "JPEG",
+      "size_bytes": 1009662,
+      "sha256": "2db40b1ed3472a6251c0220a6b316ffadb0deb4a7e75a1be2bc1738c8294b815",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/_CX4200e_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-a1ba39d0970c",
+      "original_filename": "_CX4200e_ADVANCED_TOP VIEW.jpg",
+      "local_path": "illustrations/4u/CX4200e/_CX4200e_ADVANCED_TOP VIEW.jpg",
+      "width_px": 4604,
+      "height_px": 3288,
+      "format": "JPEG",
+      "size_bytes": 1053509,
+      "sha256": "d6faccf809987faa31eb41e99e0b923fca071c7e097fd2df4283dde91242b1ab",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/_CX4200e_ADVANCED_TOP VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-19a0259c5dda",
+      "original_filename": "_CX4200e_FRONT.tif",
+      "local_path": "illustrations/4u/CX4200e/_CX4200e_FRONT.tif",
+      "width_px": 6033,
+      "height_px": 3016,
+      "format": "TIFF",
+      "size_bytes": 4077182,
+      "sha256": "a20e86a9658340d3cace89c2e8c4b061de0accd3f024e2127b498304cfde4033",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/_CX4200e_FRONT-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-b71f97997829",
+      "original_filename": "_CX4200e_REAR.tif",
+      "local_path": "illustrations/4u/CX4200e/_CX4200e_REAR.tif",
+      "width_px": 6836,
+      "height_px": 3418,
+      "format": "TIFF",
+      "size_bytes": 4282846,
+      "sha256": "589e6af000454f083303012ee419dd961dd86c062a911b16c96c7980172756cb",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4200e-81ad4c02bb9c",
+      "original_filename": "_CX4200e_rendering.jpg",
+      "local_path": "illustrations/4u/CX4200e/_CX4200e_rendering.jpg",
+      "width_px": 4360,
+      "height_px": 3114,
+      "format": "JPEG",
+      "size_bytes": 781687,
+      "sha256": "2a1a437786c73c6fa9f2b6dd8b1ba087bf618c69bf8df8ca44c6eaea6b21fd56",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/_CX4200e_rendering-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    }
+  ]
+}
