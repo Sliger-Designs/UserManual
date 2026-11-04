@@ -1,9 +1,9 @@
 # S630 / S640 render backgrounds — November 2, 2026
 
-The owner asked to remove gray backgrounds from existing renders because the
+Gray backgrounds were to be removed from existing renders because the
 original CAD views were not saved. An image_gen trial removed the background but
 changed colors/detail and reduced resolution; it was not selected for publication.
-The owner explicitly authorized non-AI pixel-based cleanup instead.
+Non-AI pixel-based cleanup was explicitly authorized instead.
 
 Eight source renders per model use the same flat background RGB (249, 251, 250).
 Replace pixels within 4 levels per channel of that color with RGB white. Preserve

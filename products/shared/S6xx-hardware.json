@@ -6,13 +6,13 @@
     "S640"
   ],
   "source": {
-    "id": "owner_decision",
+    "id": "decision",
     "date": "2026-10-30",
-    "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+    "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
   },
   "release_ready": false,
   "notes": [
-    "Shared screw-bag counts and patch colors confirmed by owner. Red B screw and C standoff specifications confirmed on 2026-10-30. Each hardware kit includes one ATX PSU bracket G and one SFX PSU bracket H, confirmed by owner."
+    "Shared screw-bag counts and patch colors confirmed. Red B screw and C standoff specifications confirmed on 2026-10-30. Each hardware kit includes one ATX PSU bracket G and one SFX PSU bracket H, confirmed."
   ],
   "items": [
     {
@@ -20,15 +20,15 @@
       "name": "6-32 × 0.25-inch hex screws",
       "quantity": "20",
       "specification_status": "existing_draft_specification",
-      "count_status": "owner_confirmed",
+      "count_status": "confirmed",
       "color": "yellow"
     },
     {
       "letter": "B",
       "name": "M3.5 × 5 mm screws",
       "quantity": "16",
-      "specification_status": "owner_confirmed",
-      "count_status": "owner_confirmed",
+      "specification_status": "confirmed",
+      "count_status": "confirmed",
       "color": "red",
       "thread": "M3.5",
       "length_mm": 5
@@ -37,8 +37,8 @@
       "letter": "C",
       "name": "6-32 × 0.125-inch standoffs",
       "quantity": "20",
-      "specification_status": "owner_confirmed",
-      "count_status": "owner_confirmed",
+      "specification_status": "confirmed",
+      "count_status": "confirmed",
       "color": "teal",
       "color_label": "Teal drawing highlight; black hardware",
       "specification": "6-32 × 0.125-inch, 0.25-inch length",
@@ -48,55 +48,55 @@
       "letter": "D",
       "name": "6-32 × 0.25-inch flat-head screws",
       "quantity": "20",
-      "specification_status": "owner_confirmed",
-      "count_status": "owner_confirmed",
+      "specification_status": "confirmed",
+      "count_status": "confirmed",
       "color": "green",
-      "artwork_note": "Owner selected 217-019 (6-32 x .250-inch) for D. Replace top/side details only; retain existing green-marked illustration. Supersedes earlier .187-inch / 217-018A selection.",
+      "artwork_note": "Selected 217-019 (6-32 x .250-inch) for D. Replace top/side details only; retain existing green-marked illustration. Supersedes earlier .187-inch / 217-018A selection.",
       "part_number": "217-019",
       "thread": "6-32",
       "length_in": 0.25,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-02",
-        "record": "sources/owner/2026-11-02-S6xx-hardware-confirmations.md"
+        "record": "sources/decisions/2026-11-02-S6xx-hardware-confirmations.md"
       }
     },
     {
       "letter": "E",
       "name": "M3 screws (5 mm thread)",
       "quantity": "8",
-      "specification_status": "owner_measured",
-      "count_status": "owner_confirmed",
+      "specification_status": "measured",
+      "count_status": "confirmed",
       "color": "blue",
       "thread": "M3",
       "threaded_length_mm": 5,
       "overall_length_mm": 8,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-02",
-        "record": "sources/owner/2026-11-02-S6xx-hardware-confirmations.md"
+        "record": "sources/decisions/2026-11-02-S6xx-hardware-confirmations.md"
       },
-      "note": "MRP lists 6 mm and CAD filename lists 8 mm. Owner measured 5 mm of thread and 8 mm overall; do not confuse overall and threaded lengths."
+      "note": "MRP lists 6 mm and CAD filename lists 8 mm. Measured 5 mm of thread and 8 mm overall; do not confuse overall and threaded lengths."
     },
     {
       "letter": "F",
       "name": "Painted PCIe slot covers",
       "quantity": "5",
       "specification_status": "existing_draft_specification",
-      "count_status": "owner_confirmed"
+      "count_status": "confirmed"
     },
     {
       "letter": "G",
       "name": "ATX PSU bracket",
       "quantity": "1",
-      "count_status": "owner_confirmed",
+      "count_status": "confirmed",
       "inclusion_status": "included_in_hardware_kit"
     },
     {
       "letter": "H",
       "name": "SFX PSU bracket",
       "quantity": "1",
-      "count_status": "owner_confirmed",
+      "count_status": "confirmed",
       "inclusion_status": "included_in_hardware_kit"
     }
   ]

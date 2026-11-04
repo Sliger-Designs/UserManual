@@ -7,11 +7,11 @@
         10.5
       ],
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27",
         "evidence": "sources/web/cx3150a-specs.txt"
       },
-      "note": "Owner approved the website EATX definition of 12 × 10.5 inches. Separate 13-inch support flag does not apply to this definition."
+      "note": "Approved the website EATX definition of 12 × 10.5 inches. Separate 13-inch support flag does not apply to this definition."
     },
     "gpu_length_fans_only_mm": {
       "value": 324,
@@ -20,11 +20,11 @@
         "fan_thickness_mm": 25
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27",
         "evidence": "sources/web/cx3150a-specs.txt"
       },
-      "note": "Owner selected 324 mm over the compatibility sheet’s 325 mm."
+      "note": "Selected 324 mm over the compatibility sheet’s 325 mm."
     },
     "aio_360_six_fan_push_pull_supported": {
       "value": false,
@@ -34,7 +34,7 @@
         "arrangement": "push-pull"
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27"
       },
       "note": "Officially unsupported. Do not publish the 270 mm source candidate as a supported GPU clearance."
@@ -46,11 +46,11 @@
         "height": 132.59
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27",
         "evidence": "sources/web/cx3150a-specs.txt"
       },
-      "note": "Owner selected website outer dimensions. Nominal source dimensions remain separately preserved."
+      "note": "Selected website outer dimensions. Nominal source dimensions remain separately preserved."
     }
   },
   "CX4150a": {
@@ -60,11 +60,11 @@
         "front_fans": "3 × 120 mm, 25 mm thick"
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-04",
         "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
       },
-      "note": "Owner chose 324 mm (import CSV and website) over the compatibility CSV 325 mm."
+      "note": "Chose 324 mm (import CSV and website) over the compatibility CSV 325 mm."
     }
   },
   "CX4170a": {
@@ -77,45 +77,45 @@
         "motherboard_tray_alternative": "one SSD up to 15 mm thick"
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-04",
-        "record": "sources/owner/2026-11-04-CX4170a-ssd-capacity.md"
+        "record": "sources/decisions/2026-11-04-CX4170a-ssd-capacity.md"
       },
-      "note": "Official listed capacity: ten 7 mm 2.5-inch SSDs, eight in the drive cage plus two on the motherboard tray. Nine fit in the cage only with the drives interlocked (\"laced\") so that none sit flat; that layout (example 5) is shown as technically possible and is not counted. The tray positions follow the all-4U tray mounting (sources/owner/2026-11-04-4U-tray-ssd-mounting.md)."
+      "note": "Official listed capacity: ten 7 mm 2.5-inch SSDs, eight in the drive cage plus two on the motherboard tray. Nine fit in the cage only with the drives interlocked (\"laced\") so that none sit flat; that layout (example 5) is shown as technically possible and is not counted. The tray positions follow the all-4U tray mounting (sources/decisions/2026-11-04-4U-tray-ssd-mounting.md)."
     }
   },
   "S630": {
     "air_cooler_height_max_mm": {
       "value": 160,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "gpu_height_max_mm": {
       "value": 160,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
-      "note": "Owner confirmed CPU cooler and PCIe card height limits of 160 mm. Connector/cable allowance must be checked with installed components."
+      "note": "Confirmed CPU cooler and PCIe card height limits of 160 mm. Connector/cable allowance must be checked with installed components."
     },
     "psu_atx": {
       "value": true,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "hardware_bag_record": {
       "value": "products/shared/S6xx-hardware.json",
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
       "note": "S630 and S640 use the same screw bag; not the rackmount bag."
     },
@@ -126,9 +126,9 @@
         "power_switch": 1
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "cooling_mounts": {
@@ -150,9 +150,9 @@
         }
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
       "note": "360 mm or smaller on top, bottom and side; 240 mm on front, 120 mm on rear. Actual fit depends on installed components; these are alternative locations, not a simultaneous-fit claim."
     },
@@ -162,9 +162,9 @@
         "quantity": 4
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "storage_bracket_mounting": {
@@ -183,18 +183,18 @@
         }
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
-      "note": "Owner confirmation applies to bracket-to-case attachment. Drive-to-bracket A/E fasteners remain as shown in supplied art."
+      "note": "The confirmation applies to bracket-to-case attachment. Drive-to-bracket A/E fasteners remain as shown in supplied art."
     },
     "pcie_slots": {
       "value": 5,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "gpu_length_baseline_mm": {
@@ -203,9 +203,9 @@
         "front_fans": "none"
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "gpu_length_fans_only_mm": {
@@ -215,9 +215,9 @@
         "fan_thickness_mm": 25
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "shared_depth_and_width": {
@@ -226,11 +226,11 @@
         "S640"
       ],
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
-      "note": "Owner confirmed both chassis have the same depth and width; S640 is taller. Exact outer measurements remain unconfirmed."
+      "note": "Confirmed both chassis have the same depth and width; S640 is taller. Exact outer measurements remain unconfirmed."
     },
     "outer_dimensions_mm": {
       "value": {
@@ -239,12 +239,12 @@
         "height": 324.42
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md",
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md",
         "evidence": "sources/canva/2026-10-30/S630-dimensions-approved.json"
       },
-      "note": "Current Canva explicit dimension table approved by owner; older drawing labels and archived website values are superseded."
+      "note": "Current Canva explicit dimension table approved; older drawing labels and archived website values are superseded."
     },
     "internal_dimensions_mm": {
       "value": {
@@ -253,9 +253,9 @@
         "height": 310.82
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md",
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md",
         "evidence": "sources/canva/2026-10-30/S630-dimensions-approved.json"
       }
     }
@@ -264,34 +264,34 @@
     "air_cooler_height_max_mm": {
       "value": 160,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "gpu_height_max_mm": {
       "value": 160,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
-      "note": "Owner confirmed CPU cooler and PCIe card height limits of 160 mm. Connector/cable allowance must be checked with installed components."
+      "note": "Confirmed CPU cooler and PCIe card height limits of 160 mm. Connector/cable allowance must be checked with installed components."
     },
     "psu_atx": {
       "value": true,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "hardware_bag_record": {
       "value": "products/shared/S6xx-hardware.json",
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
       "note": "S630 and S640 use the same screw bag; not the rackmount bag."
     },
@@ -302,9 +302,9 @@
         "power_switch": 1
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "cooling_mounts": {
@@ -326,9 +326,9 @@
         }
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
       "note": "360 mm or smaller on top, bottom and side; 240 mm on front, 120 mm on rear. Actual fit depends on installed components; these are alternative locations, not a simultaneous-fit claim."
     },
@@ -338,9 +338,9 @@
         "quantity": 4
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "storage_bracket_mounting": {
@@ -359,18 +359,18 @@
         }
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
-      "note": "Owner confirmation applies to bracket-to-case attachment. Drive-to-bracket A/E fasteners remain as shown in supplied art."
+      "note": "The confirmation applies to bracket-to-case attachment. Drive-to-bracket A/E fasteners remain as shown in supplied art."
     },
     "motherboard_eatx": {
       "value": true,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
       "note": "Supported with PSU at front or on side fan bracket. Maximum physical EATX board dimensions not supplied; do not infer 13-inch support."
     },
@@ -380,18 +380,18 @@
         "front_or_side_fan_bracket_psu": "EATX supported"
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
-      "note": "Owner specified ATX motherboard limit with an ATX PSU at the rear; no new rule for rear SFX mounting was supplied."
+      "note": "Specified ATX motherboard limit with an ATX PSU at the rear; no new rule for rear SFX mounting was supplied."
     },
     "second_side_fan_bracket_supported": {
       "value": true,
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
       "note": "Second side fan bracket is purchased separately; actual fit depends on other components."
     },
@@ -401,9 +401,9 @@
         "front_fans": "none"
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "gpu_length_fans_only_mm": {
@@ -413,9 +413,9 @@
         "fan_thickness_mm": 25
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       }
     },
     "shared_depth_and_width": {
@@ -424,11 +424,11 @@
         "S640"
       ],
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md"
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md"
       },
-      "note": "Owner confirmed both chassis have the same depth and width; S640 is taller. Exact outer measurements remain unconfirmed."
+      "note": "Confirmed both chassis have the same depth and width; S640 is taller. Exact outer measurements remain unconfirmed."
     },
     "outer_dimensions_mm": {
       "value": {
@@ -437,12 +437,12 @@
         "height": 371.68
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md",
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md",
         "evidence": "sources/canva/2026-10-30/S640-dimensions-approved.json"
       },
-      "note": "Current Canva explicit dimension table approved by owner; older drawing labels and archived website values are superseded."
+      "note": "Current Canva explicit dimension table approved; older drawing labels and archived website values are superseded."
     },
     "internal_dimensions_mm": {
       "value": {
@@ -451,9 +451,9 @@
         "height": 359.08
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-30",
-        "record": "sources/owner/2026-10-30-S630-S640-confirmations.md",
+        "record": "sources/decisions/2026-10-30-S630-S640-confirmations.md",
         "evidence": "sources/canva/2026-10-30/S640-dimensions-approved.json"
       }
     }

@@ -12,7 +12,7 @@
       "size_bytes": 47120,
       "sha256": "3dc7ace88731be96be2813a256fcab9ef81dd2343de3217413ff44645d370e0a",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-ce2fed1bfec3",
@@ -25,7 +25,7 @@
       "size_bytes": 21946,
       "sha256": "cdd000df4c2741c52f52a254ba9c0abf0aca17a4392117a6e54ffcf5296734f8",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-9bd7da8de0ab",
@@ -38,7 +38,7 @@
       "size_bytes": 34430,
       "sha256": "96e56da31e55f860b457898da2ee58801596bf17b744effb7d1830f0082e9a05",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-1d1876399ab6",
@@ -51,7 +51,7 @@
       "size_bytes": 15828,
       "sha256": "9a209c7a989de15bd2a1bb327c85f088785fd0a1e8a4f6c8bf37d333654cef1b",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-3e82a821e1b5",
@@ -64,7 +64,7 @@
       "size_bytes": 54356,
       "sha256": "c25d84dfc38b996fc9e46875d99674f71ecf75a5bdba39bdde4730f6b09b424c",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-6e45acaf9070",
@@ -77,7 +77,7 @@
       "size_bytes": 22915,
       "sha256": "44c6b893931824830d5dcdbc3894ab524771570c94fbb0d3df88195ee181849e",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-c91d6fa96cbb",
@@ -90,7 +90,7 @@
       "size_bytes": 7455,
       "sha256": "c4823a3cc723c83f0956e4800c8b55a5689bc6b2588c7cd1c3bfb1fbdbbe72aa",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-56fda43430f6",
@@ -103,7 +103,7 @@
       "size_bytes": 30275,
       "sha256": "83d5268c4b461f5c3d9681a8298ec7b61144827ad1811d2106bde5e64b4f8f2b",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-9082a1a33a50",
@@ -116,7 +116,7 @@
       "size_bytes": 21419,
       "sha256": "810520747ebffaab5a2b7d3a22189bad60142af8b01fab16c7301731ca4ae78a",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-30c496cced2c",
@@ -129,7 +129,7 @@
       "size_bytes": 6706,
       "sha256": "37fbd77091252d200967291aee53c0950100df2b4320d7a353afe97cf91d1ef7",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-0724b5c4a652",
@@ -142,7 +142,7 @@
       "size_bytes": 18053,
       "sha256": "d66ea69740ad7a38ec256676447ec35fcc5085adc40a273dde0faef3bc71fe16",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-f850914df426",
@@ -155,7 +155,7 @@
       "size_bytes": 257797,
       "sha256": "fdb612f2fd19be794978ebd9953f17bd425c2caaac42866a1e1cec023070c4e9",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-2d113f664fd3",
@@ -168,7 +168,7 @@
       "size_bytes": 7367,
       "sha256": "da9d0886c495dcccd376b4e5d0fa5ff59f6781a1a98c6f7780e95bb763b31ebc",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-dbc67613b71f",
@@ -181,7 +181,7 @@
       "size_bytes": 56145,
       "sha256": "8c259a424a03d44e01765548398dc54a90a527130b29bfd5ba7d6e791696c9ae",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-21cb4d897886",
@@ -194,7 +194,7 @@
       "size_bytes": 41772,
       "sha256": "56b915682c9fa76fc3e64830a5393c01bfa38620ef222e945bc344023166375d",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-05c2bcb8317e",
@@ -207,7 +207,7 @@
       "size_bytes": 8566,
       "sha256": "07005f26a55fdf22cc65100775d0f5d2a1fb3f40b20544e961cd4799a35ba1dc",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-7966ac4a5ab5",
@@ -220,7 +220,7 @@
       "size_bytes": 75561,
       "sha256": "b88041b2d7217a1801fa0eb6d9c17b7e06049e0ad034d94028d1777aedc59e25",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-8798b6fbf7db",
@@ -233,7 +233,7 @@
       "size_bytes": 41772,
       "sha256": "56b915682c9fa76fc3e64830a5393c01bfa38620ef222e945bc344023166375d",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-3261b058f919",
@@ -246,7 +246,7 @@
       "size_bytes": 7408,
       "sha256": "61f0d3a61e1f68b9c4092e8e89b55ef24c25260743995b993c58cba086590d47",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-4a0bbbbdfe60",
@@ -259,7 +259,7 @@
       "size_bytes": 50370,
       "sha256": "a871255ee810c39cdf480f4a527ade68324a61ab5a8ea12aa3c30bc44f45ee5e",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-00285f3bd25c",
@@ -272,7 +272,7 @@
       "size_bytes": 41772,
       "sha256": "56b915682c9fa76fc3e64830a5393c01bfa38620ef222e945bc344023166375d",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-e920fc69d317",
@@ -285,7 +285,7 @@
       "size_bytes": 5027,
       "sha256": "29f4439b0bdfa3ad76d3bd5ec970ce6f6b44283a1a04f9615d01929c6d4ace3e",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-d9083bab6ce2",
@@ -298,7 +298,7 @@
       "size_bytes": 3705,
       "sha256": "d46bd5d0081ced1c249c870b697d9493ccabd008eef607eefa5e7ff805ffe853",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-7e58dc70c4c0",
@@ -311,7 +311,7 @@
       "size_bytes": 257797,
       "sha256": "fdb612f2fd19be794978ebd9953f17bd425c2caaac42866a1e1cec023070c4e9",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-ffa7fa91da90",
@@ -324,7 +324,7 @@
       "size_bytes": 73615,
       "sha256": "820ab0d309507b951ba6d6f4ce5b43328a09c8242118eef6d0f38e29d583aa26",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-548a0d70316f",
@@ -337,7 +337,7 @@
       "size_bytes": 184870,
       "sha256": "8248fd30fd26403e67f01a685ca8d0a5132a067d620ebed20ad75831bc284dd4",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-cdd856664503",
@@ -350,7 +350,7 @@
       "size_bytes": 42014,
       "sha256": "b9aa11683e14fea0c43684c8cc29cb08cc334976aeb60eb3e7109f77d304e9fc",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared image; model applicability and kit quantities require review."
+      "note": "Supplied shared image; model applicability and kit quantities require review."
     },
     {
       "id": "common-cff4b2ad4a18",
@@ -362,7 +362,7 @@
       "size_bytes": 115865,
       "sha256": "7972e7018993c7793290047a8efbaa3ac6fc19fc5bc8b9f2877c659092c7f28b",
       "selection_status": "candidate",
-      "note": "Owner-renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
+      "note": "Renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
       "asset_key": "common/4u-drive-cage/2xHDD_3xSSD.png",
       "previous_names": [
         {
@@ -381,7 +381,7 @@
       "size_bytes": 105230,
       "sha256": "47ec75079381b1887fad956a2f74d0ce1bb22a9fa9d13b406629bba6c0b638af",
       "selection_status": "candidate",
-      "note": "Owner-renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
+      "note": "Renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
       "asset_key": "common/4u-drive-cage/3xHDD.png",
       "previous_names": [
         {
@@ -400,7 +400,7 @@
       "size_bytes": 144167,
       "sha256": "81cff73e5a5c7f28318ee2e8f20cb6e37e5ff591ea2f01b529118aab5f412f52",
       "selection_status": "candidate",
-      "note": "Owner-renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
+      "note": "Renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
       "asset_key": "common/4u-drive-cage/3xHDD_1xSSD.png",
       "previous_names": [
         {
@@ -419,7 +419,7 @@
       "size_bytes": 159034,
       "sha256": "bab07f4cc6d9f08a0abe6815f3b06a86dc826b1ebbc294da63ecec881b26b1d0",
       "selection_status": "candidate",
-      "note": "Owner-renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
+      "note": "Renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
       "asset_key": "common/4u-drive-cage/8xSSD.png",
       "previous_names": [
         {
@@ -438,7 +438,7 @@
       "size_bytes": 151020,
       "sha256": "323bc300ce314e8a1695eb8429b2da0fdd35a0793bf14f53135f4e602ae1010f",
       "selection_status": "candidate",
-      "note": "Owner-renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
+      "note": "Renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
       "asset_key": "common/4u-drive-cage/9xSSD.png",
       "previous_names": [
         {
@@ -457,7 +457,7 @@
       "size_bytes": 142444,
       "sha256": "590575e5391a34e1fd2ac9da9802e9943e05ea58715926f50ef7b20240510572",
       "selection_status": "candidate",
-      "note": "Owner-renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
+      "note": "Renamed drive-cage asset; filename identifies the layout. Source bytes preserved.",
       "asset_key": "common/4u-drive-cage/Screenshot 2025-08-06 155336.png"
     },
     {
@@ -471,7 +471,7 @@
       "size_bytes": 58687,
       "sha256": "0f0b9830110255ca5b49cbfe9cc4b62c5bd3a7adfb581b4c466168794a14b631",
       "selection_status": "selected_needs_final_review",
-      "note": "Owner-supplied common 3U a front I/O render, 2026-10-28. Assigned to 3U a-family chassis; two USB-A ports and one USB-C port visible.",
+      "note": "Supplied common 3U a front I/O render, 2026-10-28. Assigned to 3U a-family chassis; two USB-A ports and one USB-C port visible.",
       "applies_to": "3U a-family chassis"
     },
     {
@@ -485,7 +485,7 @@
       "size_bytes": 75706,
       "sha256": "254a39b6e8fb1d4ef225a6fe4ad099b7de1020a88087a71cba4c0a52a8ba145f",
       "selection_status": "selected_needs_final_review",
-      "note": "Owner-supplied common 4U a front I/O render, 2026-10-28. Assigned to 4U a-family chassis; two USB-A ports and one USB-C port visible.",
+      "note": "Supplied common 4U a front I/O render, 2026-10-28. Assigned to 4U a-family chassis; two USB-A ports and one USB-C port visible.",
       "applies_to": "4U a-family chassis"
     },
     {
@@ -499,7 +499,7 @@
       "size_bytes": 2527925,
       "sha256": "b6ba06b391ac194d2a272b4a5aed8659ee50feda0d593c7ed59dd98e427c882d",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared S630/S640 storage-kit drive-to-bracket assembly. Case attachment and configuration coexistence remain under review."
+      "note": "Supplied shared S630/S640 storage-kit drive-to-bracket assembly. Case attachment and configuration coexistence remain under review."
     },
     {
       "id": "common-116146531752",
@@ -512,7 +512,7 @@
       "size_bytes": 2342907,
       "sha256": "116146531752f498abd5e28c52d1fb57ecce84633145ff9b1f90686d8686427d",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared S630/S640 storage-kit drive-to-bracket assembly. Case attachment and configuration coexistence remain under review."
+      "note": "Supplied shared S630/S640 storage-kit drive-to-bracket assembly. Case attachment and configuration coexistence remain under review."
     },
     {
       "id": "common-9c3d75a9506e",
@@ -525,7 +525,7 @@
       "size_bytes": 271354,
       "sha256": "9c3d75a9506e39c4442dfd5f6af4986a56511b704a1c182e47048471f89b20f4",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared S630/S640 storage-kit drive-to-bracket assembly. Case attachment and configuration coexistence remain under review."
+      "note": "Supplied shared S630/S640 storage-kit drive-to-bracket assembly. Case attachment and configuration coexistence remain under review."
     },
     {
       "id": "common-7a8c33158d48",
@@ -538,7 +538,7 @@
       "size_bytes": 2803395,
       "sha256": "7a8c33158d48ffa81274cabfe7738a3c6c37c8b9e10a56221bb12f74e759412b",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared S630/S640 storage-kit drive-to-bracket assembly. Case attachment and configuration coexistence remain under review."
+      "note": "Supplied shared S630/S640 storage-kit drive-to-bracket assembly. Case attachment and configuration coexistence remain under review."
     },
     {
       "id": "common-eee177189793",
@@ -551,7 +551,7 @@
       "size_bytes": 2294863,
       "sha256": "eee177189793119d3fc408055b932363584a748d82549ece9b0e61f4404afbed",
       "selection_status": "candidate",
-      "note": "Owner-supplied shared S630/S640 storage-kit drive-to-bracket assembly. Case attachment and configuration coexistence remain under review."
+      "note": "Supplied shared S630/S640 storage-kit drive-to-bracket assembly. Case attachment and configuration coexistence remain under review."
     },
     {
       "id": "common-b5f9c227fb82",
@@ -564,7 +564,7 @@
       "size_bytes": 23114,
       "sha256": "b5f9c227fb8274ef243a40cf80cfdba6c2d86abb2bf4d15447e1aae509429b1d",
       "selection_status": "candidate",
-      "note": "Owner-supplied isolated PSU bracket illustration for both S630 and S640 hardware keys; retain original dimensions without upscaling."
+      "note": "Supplied isolated PSU bracket illustration for both S630 and S640 hardware keys; retain original dimensions without upscaling."
     },
     {
       "id": "common-b5217b0332d6",
@@ -577,7 +577,7 @@
       "size_bytes": 13434,
       "sha256": "b5217b0332d60eb498da0a0a81b0b466566fea19d70e3e63328748920bcf76f0",
       "selection_status": "candidate",
-      "note": "Owner-supplied isolated PSU bracket illustration for both S630 and S640 hardware keys; retain original dimensions without upscaling."
+      "note": "Supplied isolated PSU bracket illustration for both S630 and S640 hardware keys; retain original dimensions without upscaling."
     },
     {
       "id": "common-fbaafcdabf3c",
@@ -590,7 +590,7 @@
       "size_bytes": 68202,
       "sha256": "fbaafcdabf3ce6cb8877c0f36f59b662d98c536f97959f43263d4ed92e0e9f3d",
       "selection_status": "candidate",
-      "note": "Owner confirmed this is a different .150-inch male-thread standoff but explicitly approved its use as illustrative C top/side artwork in S630/S640 manuals. Retain actual kit C specification (.125-inch male thread) and colored view. See sources/owner/2026-11-02-S6xx-hardware-confirmations.md."
+      "note": "Confirmed this is a different .150-inch male-thread standoff but explicitly approved its use as illustrative C top/side artwork in S630/S640 manuals. Retain actual kit C specification (.125-inch male thread) and colored view. See sources/decisions/2026-11-02-S6xx-hardware-confirmations.md."
     },
     {
       "id": "common-de9feca3792f",
@@ -603,7 +603,7 @@
       "size_bytes": 116176,
       "sha256": "de9feca3792f2246a1aceed450c0690ff6d9279e2551536bd26694b60ba4d727",
       "selection_status": "candidate",
-      "note": "Owner confirmed this is a different .150-inch male-thread standoff but explicitly approved its use as illustrative C top/side artwork in S630/S640 manuals. Retain actual kit C specification (.125-inch male thread) and colored view. See sources/owner/2026-11-02-S6xx-hardware-confirmations.md."
+      "note": "Confirmed this is a different .150-inch male-thread standoff but explicitly approved its use as illustrative C top/side artwork in S630/S640 manuals. Retain actual kit C specification (.125-inch male thread) and colored view. See sources/decisions/2026-11-02-S6xx-hardware-confirmations.md."
     },
     {
       "id": "common-f8730766edc2",
@@ -616,7 +616,7 @@
       "size_bytes": 134179,
       "sha256": "f8730766edc2ccb4161590420bb4c0a0180fc3d70cb3c784766636c4e367c51b",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-bba2a8fc23b2",
@@ -629,7 +629,7 @@
       "size_bytes": 144654,
       "sha256": "bba2a8fc23b235743f0c9dd1bebf0eb3af514985266afc5e66165eee1f69b652",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-3a1219cc1b87",
@@ -642,7 +642,7 @@
       "size_bytes": 67858,
       "sha256": "3a1219cc1b877a68c203e3933a1460f8db798f6fb9ecd9f92d9f3045b6cc7b39",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-5a5b81dfe219",
@@ -655,7 +655,7 @@
       "size_bytes": 86911,
       "sha256": "5a5b81dfe219e0b135147fce05eaea2c627cbf497c7ec3ef65f478d41c11dc99",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-5f7272d00908",
@@ -668,7 +668,7 @@
       "size_bytes": 207246,
       "sha256": "5f7272d0090882524cd4035ef498ee20d369792b636fdb62760a14c1463749af",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-47f64fd88485",
@@ -681,7 +681,7 @@
       "size_bytes": 190334,
       "sha256": "47f64fd88485bab3592dbc10abc702293f31669ae124b9e12bbddc392ea0c2e6",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-1906e361a44c",
@@ -694,7 +694,7 @@
       "size_bytes": 83144,
       "sha256": "1906e361a44ce7dcfb304026adfd759d8259d34b1175243249547ac6232adb47",
       "selection_status": "candidate",
-      "note": "Earlier .187-inch green D artwork selection superseded by owner-selected .250-inch 217-019 on 2026-11-02. Original retained; not selected for S630/S640 D."
+      "note": "Earlier .187-inch green D artwork selection superseded by selected .250-inch 217-019 on 2026-11-02. Original retained; not selected for S630/S640 D."
     },
     {
       "id": "common-6a012fc1bc30",
@@ -707,7 +707,7 @@
       "size_bytes": 88373,
       "sha256": "6a012fc1bc300d5cb501cf939a4c33084b9e29a16cb2ff032686bd5aaed3c961",
       "selection_status": "candidate",
-      "note": "Earlier .187-inch green D artwork selection superseded by owner-selected .250-inch 217-019 on 2026-11-02. Original retained; not selected for S630/S640 D."
+      "note": "Earlier .187-inch green D artwork selection superseded by selected .250-inch 217-019 on 2026-11-02. Original retained; not selected for S630/S640 D."
     },
     {
       "id": "common-c9489b3261bc",
@@ -720,7 +720,7 @@
       "size_bytes": 70274,
       "sha256": "c9489b3261bce531c3314517cb8455e767fe89ec45d2d254d36df8008824dcbf",
       "selection_status": "candidate",
-      "note": "Owner-confirmed 2026-11-02: replacement top/side details for green S630/S640 D screw, 6-32 x .250-inch (217-019). Keep colored view. Same correction applies to green rackmount E during their later manual update; see owner hardware record."
+      "note": "Confirmed 2026-11-02: replacement top/side details for green S630/S640 D screw, 6-32 x .250-inch (217-019). Keep colored view. Same correction applies to green rackmount E during their later manual update; see sources/decisions/2026-11-02-S6xx-hardware-confirmations.md."
     },
     {
       "id": "common-9b2a64a5728d",
@@ -733,7 +733,7 @@
       "size_bytes": 84242,
       "sha256": "9b2a64a5728d600c1b3e92057e50d428df24cfa62e74e4444c452242d2a9a433",
       "selection_status": "candidate",
-      "note": "Owner-confirmed 2026-11-02: replacement top/side details for green S630/S640 D screw, 6-32 x .250-inch (217-019). Keep colored view. Same correction applies to green rackmount E during their later manual update; see owner hardware record."
+      "note": "Confirmed 2026-11-02: replacement top/side details for green S630/S640 D screw, 6-32 x .250-inch (217-019). Keep colored view. Same correction applies to green rackmount E during their later manual update; see sources/decisions/2026-11-02-S6xx-hardware-confirmations.md."
     },
     {
       "id": "common-0288a0a6887e",
@@ -746,7 +746,7 @@
       "size_bytes": 85836,
       "sha256": "0288a0a6887e0d370a3303de2e3e97ca1b2875107386a9e77bad5a106ef1a042",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-481b9f05c62b",
@@ -759,7 +759,7 @@
       "size_bytes": 98781,
       "sha256": "481b9f05c62b943c7c5e9d125d732be42b267b69ac438637934ea2ed49245915",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-8d7121643659",
@@ -772,7 +772,7 @@
       "size_bytes": 90170,
       "sha256": "8d712164365932299f0e4c7d5c4d067d781fefa358caa0abb8eadd477c6f5277",
       "selection_status": "candidate",
-      "note": "Owner-supplied top/side render of yellow A 6-32 x 0.25-inch hex screw (217-499), matching shared S630/S640 hardware specification."
+      "note": "Supplied top/side render of yellow A 6-32 x 0.25-inch hex screw (217-499), matching shared S630/S640 hardware specification."
     },
     {
       "id": "common-6cda6df19184",
@@ -785,7 +785,7 @@
       "size_bytes": 133551,
       "sha256": "6cda6df191846a90d2d890d98414f71f3b3ac79b5a6db946c135a197a500b73f",
       "selection_status": "candidate",
-      "note": "Owner-supplied top/side render of yellow A 6-32 x 0.25-inch hex screw (217-499), matching shared S630/S640 hardware specification."
+      "note": "Supplied top/side render of yellow A 6-32 x 0.25-inch hex screw (217-499), matching shared S630/S640 hardware specification."
     },
     {
       "id": "common-2b762b10f855",
@@ -798,7 +798,7 @@
       "size_bytes": 86491,
       "sha256": "2b762b10f855567fbacc9a4aec8fd5fca9a9e85df0ed995f9df9825222cab2dd",
       "selection_status": "candidate",
-      "note": "Owner-supplied blue E screw render for both S630/S640 keys. CAD filename says 8 mm; owner measured 5 mm thread and 8 mm overall. See sources/owner/2026-11-02-S6xx-hardware-confirmations.md."
+      "note": "Supplied blue E screw render for both S630/S640 keys. CAD filename says 8 mm; measured 5 mm thread and 8 mm overall. See sources/decisions/2026-11-02-S6xx-hardware-confirmations.md."
     },
     {
       "id": "common-1d9028a99a72",
@@ -811,7 +811,7 @@
       "size_bytes": 123656,
       "sha256": "1d9028a99a7279bad03f9c77abb25dfe6cf2d25105abc75cd9acbc21cdbda19a",
       "selection_status": "candidate",
-      "note": "Owner-supplied blue E screw render for both S630/S640 keys. CAD filename says 8 mm; owner measured 5 mm thread and 8 mm overall. See sources/owner/2026-11-02-S6xx-hardware-confirmations.md."
+      "note": "Supplied blue E screw render for both S630/S640 keys. CAD filename says 8 mm; measured 5 mm thread and 8 mm overall. See sources/decisions/2026-11-02-S6xx-hardware-confirmations.md."
     },
     {
       "id": "common-9f0120ca09a3",
@@ -824,7 +824,7 @@
       "size_bytes": 131893,
       "sha256": "9f0120ca09a3915e839ef1a69860bd92c51138d4a981381074d2cb978e51caa9",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-beea7c3b1821",
@@ -837,7 +837,7 @@
       "size_bytes": 165426,
       "sha256": "beea7c3b1821ea7f85597fe923fe13baea92f416d54ada59034a05d9b63a5456",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-d47628abfe5a",
@@ -850,7 +850,7 @@
       "size_bytes": 25657,
       "sha256": "d47628abfe5acb1211edd8d5dcd329086b34592af628b3fa1f8b9c1598f60817",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-25be4c289bdd",
@@ -863,7 +863,7 @@
       "size_bytes": 26098,
       "sha256": "25be4c289bdd719656df731bcb8961a4deabdc8e8aa8e68ae81bcc428efc1eaa",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-59b3711abad6",
@@ -876,7 +876,7 @@
       "size_bytes": 14976,
       "sha256": "59b3711abad60742aa5c60e1d402d5567a3c831f7eb5b954c280250cc70a664a",
       "selection_status": "candidate",
-      "note": "Owner-supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
+      "note": "Supplied hardware render added 2026-11-02. Filename identifies the part; model/kit applicability must be established independently."
     },
     {
       "id": "common-33c575823fdd",
@@ -889,7 +889,7 @@
       "size_bytes": 1104460,
       "sha256": "33c575823fddc750d4c54b4b5b2945d784c70886473c0cdda79481948a2402e6",
       "selection_status": "candidate",
-      "note": "Owner-supplied painted PCIe slot cover render selected for shared S630/S640 hardware item F; quantity remains from owner-confirmed kit record."
+      "note": "Supplied painted PCIe slot cover render selected for shared S630/S640 hardware item F; quantity remains from confirmed kit record."
     },
     {
       "id": "common-98850e89e851",
@@ -902,7 +902,7 @@
       "size_bytes": 85347,
       "sha256": "98850e89e851f6966984106f7c49b0ec8ab91b16e793f56717a771c522111b48",
       "selection_status": "candidate",
-      "note": "Owner identified the newly supplied 217-621 renders as replacement top/side artwork for red B in S630/S640. Retain confirmed M3.5 x 5 mm text and colored screw view; filename retained unchanged."
+      "note": "Identified the newly supplied 217-621 renders as replacement top/side artwork for red B in S630/S640. Retain confirmed M3.5 x 5 mm text and colored screw view; filename retained unchanged."
     },
     {
       "id": "common-eab0a27840c0",
@@ -915,7 +915,7 @@
       "size_bytes": 82778,
       "sha256": "eab0a27840c0334c9506b838407916a73233f86b3d60b9f6593c967b90dff0d4",
       "selection_status": "candidate",
-      "note": "Owner identified the newly supplied 217-621 renders as replacement top/side artwork for red B in S630/S640. Retain confirmed M3.5 x 5 mm text and colored screw view; filename retained unchanged."
+      "note": "Identified the newly supplied 217-621 renders as replacement top/side artwork for red B in S630/S640. Retain confirmed M3.5 x 5 mm text and colored screw view; filename retained unchanged."
     },
     {
       "id": "common-0a0cb8fa2fec",
@@ -928,7 +928,7 @@
       "size_bytes": 1193718,
       "sha256": "0a0cb8fa2fece5a67418a411ed7b2ecb5ef82ef20092b98b01d4a64242cdc4a9",
       "selection_status": "candidate",
-      "note": "Owner-supplied 2U rack ears render (left and right), 2026-11-04. Shared by every 2U chassis."
+      "note": "Supplied 2U rack ears render (left and right), 2026-11-04. Shared by every 2U chassis."
     },
     {
       "id": "common-3b388716e656",
@@ -941,7 +941,7 @@
       "size_bytes": 1003821,
       "sha256": "3b388716e656659429d900a3c5aead81d4bcc03097887e6ffb78e9ec977aaad9",
       "selection_status": "candidate",
-      "note": "Owner-supplied 2U pull handles render (left and right), 2026-11-04. Shared by every 2U chassis."
+      "note": "Supplied 2U pull handles render (left and right), 2026-11-04. Shared by every 2U chassis."
     },
     {
       "id": "common-92243fa87171",
@@ -954,7 +954,7 @@
       "size_bytes": 1379467,
       "sha256": "92243fa8717124b3426e23f66199e94892bf334dbf5592acfbc43084ebd56d70",
       "selection_status": "candidate",
-      "note": "Owner-supplied 3U rack ears render (left and right), 2026-11-04. Shared by every 3U chassis."
+      "note": "Supplied 3U rack ears render (left and right), 2026-11-04. Shared by every 3U chassis."
     },
     {
       "id": "common-e7e71baad52f",
@@ -967,7 +967,7 @@
       "size_bytes": 1252095,
       "sha256": "e7e71baad52f9841a50d2ab4c516d5101e45d2cc90720109eef3ee61eca2e9c3",
       "selection_status": "candidate",
-      "note": "Owner-supplied 3U pull handles render (left and right), 2026-11-04. Shared by every 3U chassis."
+      "note": "Supplied 3U pull handles render (left and right), 2026-11-04. Shared by every 3U chassis."
     },
     {
       "id": "common-235efc0c5ac0",
@@ -980,7 +980,7 @@
       "size_bytes": 1271336,
       "sha256": "235efc0c5ac036aa7e4d183be4f54c25fc248ca628d5fd4f64bba5e95a66ee73",
       "selection_status": "candidate",
-      "note": "Owner-supplied 4U rack ears render (left and right), 2026-11-04. Shared by every 4U chassis."
+      "note": "Supplied 4U rack ears render (left and right), 2026-11-04. Shared by every 4U chassis."
     },
     {
       "id": "common-7b3316ac0902",
@@ -993,7 +993,7 @@
       "size_bytes": 1254815,
       "sha256": "7b3316ac09029273ddb0f682061728f4a2b374c3065de6c54a508a6c6372384d",
       "selection_status": "candidate",
-      "note": "Owner-supplied 4U pull handles render (left and right), 2026-11-04. Shared by every 4U chassis."
+      "note": "Supplied 4U pull handles render (left and right), 2026-11-04. Shared by every 4U chassis."
     }
   ],
   "removed_items": [
@@ -1007,10 +1007,10 @@
       "size_bytes": 130524,
       "sha256": "14181815b6c7ba4eb6337a357b70dfe2879ddf5e6e57efbae90b9a6d29c27230",
       "selection_status": "candidate",
-      "note": "No current source file after owner renamed/selected the five layouts. Historical entry retained; not an active asset.",
+      "note": "No current source file after the five layouts were renamed and selected. Historical entry retained; not an active asset.",
       "asset_key": "common/4u-drive-cage/Screenshot 2025-08-06 161141.png",
-      "cx4170a_gallery_note": "Owner confirmed eight drives in this orientation. Supplied artwork depicts an unmountable ninth drive; withheld pending a corrected CAD render.",
-      "status": "removed_by_owner"
+      "cx4170a_gallery_note": "Confirmed eight drives in this orientation. Supplied artwork depicts an unmountable ninth drive; withheld pending a corrected CAD render.",
+      "status": "removed"
     },
     {
       "id": "common-2cae12d9749c",
@@ -1022,10 +1022,10 @@
       "size_bytes": 175879,
       "sha256": "0e1e336726eceaafc05043ebdca91ac9a1567c4e754dde4f119b1a44567bb7b8",
       "selection_status": "candidate",
-      "note": "No current source file after owner renamed/selected the five layouts. Historical entry retained; not an active asset.",
+      "note": "No current source file after the five layouts were renamed and selected. Historical entry retained; not an active asset.",
       "asset_key": "common/4u-drive-cage/Screenshot 2025-08-06 164010.png",
-      "cx4170a_gallery_note": "Different perspective; omitted from CX4170a gallery by owner.",
-      "status": "removed_by_owner"
+      "cx4170a_gallery_note": "Different perspective; omitted from CX4170a gallery.",
+      "status": "removed"
     },
     {
       "id": "common-b9a354b68a57",
@@ -1037,10 +1037,10 @@
       "size_bytes": 303262,
       "sha256": "904fcd7b16bd4023be9454d1c60a13289303ca5570dc2e7b8018d4e6488ce34f",
       "selection_status": "candidate",
-      "note": "No current source file after owner renamed/selected the five layouts. Historical entry retained; not an active asset.",
+      "note": "No current source file after the five layouts were renamed and selected. Historical entry retained; not an active asset.",
       "asset_key": "common/4u-drive-cage/Screenshot 2025-08-06 164707.png",
       "cx4170a_gallery_note": "Duplicate of original example 4; omitted from CX4170a gallery.",
-      "status": "removed_by_owner"
+      "status": "removed"
     }
   ]
 }

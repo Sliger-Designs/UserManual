@@ -1,6 +1,6 @@
 # SFF bracket clarifications — November 2, 2026
 
-The owner requested these corrections during manual review:
+These corrections were requested during manual review:
 
 - Pages 18 and 19 of both S630/S640 manuals must state that the SSD and HDD
   mounting brackets are sold separately.
@@ -10,6 +10,6 @@ The owner requested these corrections during manual review:
   model. The S630 bracket/cooling pages and specification table now describe
   one bracket with two mounting positions.
 
-The earlier owner-confirmed S640 support for a second side fan bracket, sold
+The earlier confirmed S640 support for a second side fan bracket, sold
 separately, remains applicable to S640. Shared procedure templates now render
 the appropriate model-specific wording.

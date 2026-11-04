@@ -4,7 +4,7 @@
   "status": "draft",
   "release_ready": false,
   "review_issues": [],
-  "authority": "Explicit owner decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.",
+  "authority": "Explicit decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.",
   "facts": {
     "product_type": {
       "value": "Rackmount",
@@ -364,11 +364,11 @@
         "fan_thickness_mm": 25
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27",
         "evidence": "sources/web/cx3150a-specs.txt"
       },
-      "note": "Owner selected 324 mm over the compatibility sheet’s 325 mm."
+      "note": "Selected 324 mm over the compatibility sheet’s 325 mm."
     },
     "gpu_length_fans_aio_mm": {
       "value": 296,
@@ -411,11 +411,11 @@
         10.5
       ],
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27",
         "evidence": "sources/web/cx3150a-specs.txt"
       },
-      "note": "Owner approved the website EATX definition of 12 × 10.5 inches. Separate 13-inch support flag does not apply to this definition."
+      "note": "Approved the website EATX definition of 12 × 10.5 inches. Separate 13-inch support flag does not apply to this definition."
     },
     "aio_360_six_fan_push_pull_supported": {
       "value": false,
@@ -425,7 +425,7 @@
         "arrangement": "push-pull"
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27"
       },
       "note": "Officially unsupported. Do not publish the 270 mm source candidate as a supported GPU clearance."
@@ -437,20 +437,20 @@
         "height": 132.59
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27",
         "evidence": "sources/web/cx3150a-specs.txt"
       },
-      "note": "Owner selected website outer dimensions. Nominal source dimensions remain separately preserved."
+      "note": "Selected website outer dimensions. Nominal source dimensions remain separately preserved."
     },
     "hardware_bag_part_number": {
       "value": "SBAG-HWKIT",
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27",
         "record": "products/shared/SBAG-HWKIT.json"
       },
-      "note": "All rackmount chassis share this screwbag per owner confirmation."
+      "note": "All rackmount chassis share this screwbag as confirmed."
     }
   },
   "manual_copy_candidates": {
@@ -579,7 +579,7 @@
         "column": "Max Length with AIO push-pull"
       },
       "status": "excluded_unsupported_configuration",
-      "reason": "Owner confirmed this configuration is officially unsupported."
+      "reason": "Confirmed this configuration is officially unsupported."
     },
     "AIO Disclaimer": {
       "text": null,

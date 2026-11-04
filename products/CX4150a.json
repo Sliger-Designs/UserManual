@@ -4,7 +4,7 @@
   "status": "draft",
   "release_ready": false,
   "review_issues": [],
-  "authority": "Explicit owner decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.",
+  "authority": "Explicit decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.",
   "facts": {
     "product_type": {
       "value": "Rackmount",
@@ -363,11 +363,11 @@
         "front_fans": "3 × 120 mm, 25 mm thick"
       },
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-04",
         "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
       },
-      "note": "Owner chose 324 mm (import CSV and website) over the compatibility CSV 325 mm."
+      "note": "Chose 324 mm (import CSV and website) over the compatibility CSV 325 mm."
     },
     "gpu_length_fans_aio_mm": {
       "value": 296,
@@ -398,11 +398,11 @@
         "path": "sources/web/cx4150a-specs.txt"
       },
       "approval": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-04",
         "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
       },
-      "note": "Website dimensions (15 × 17 × 6.96 inches). Owner approved the exact website depth over the bulk-create 382 mm."
+      "note": "Website dimensions (15 × 17 × 6.96 inches). Approved the exact website depth over the bulk-create 382 mm."
     },
     "psu_length_max_mm": {
       "value": 268,
@@ -411,7 +411,7 @@
         "path": "sources/web/cx4150a-specs.txt"
       },
       "approval": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-11-04",
         "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
       },
@@ -420,28 +420,29 @@
     "rack_ear_screw_count": {
       "value": 4,
       "source": {
-        "id": "illustration",
-        "path": "illustrations/4u/CX4150a/9_CX4150a_RACK EARS.jpg"
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
       },
-      "status": "draft_review",
-      "note": "Two screws per side shown in the CX4150a rack-ear render; same rack ears and count as the CX4170a."
+      "note": "All 4U chassis use the same rack ears; count as on the CX4170a, and as shown in the CX4150a rack-ear render."
     },
     "rack_ear_screws_per_side": {
       "value": 2,
       "source": {
-        "id": "illustration",
-        "path": "illustrations/4u/CX4150a/9_CX4150a_RACK EARS.jpg"
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
       },
-      "status": "draft_review"
+      "note": "All 4U chassis use the same rack ears; count as on the CX4170a, and as shown in the CX4150a rack-ear render."
     },
     "hardware_bag_part_number": {
       "value": "SBAG-HWKIT",
       "source": {
-        "id": "owner_decision",
+        "id": "decision",
         "date": "2026-10-27",
         "record": "products/shared/SBAG-HWKIT.json"
       },
-      "note": "All rackmount chassis share this screwbag per owner confirmation."
+      "note": "All rackmount chassis share this screwbag as confirmed."
     }
   },
   "manual_copy_candidates": {

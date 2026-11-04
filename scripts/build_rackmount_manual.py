@@ -68,7 +68,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     if model == 'CX3150a':
         assert facts['aio_360_six_fan_push_pull_supported'] is False
     hardware_by_letter = {entry['letter']: entry for entry in hardware['items']}
-    assert set(hardware_by_letter) == set('ABCDEFGHI')  # J (packing paper) removed by owner 2026-11-04
+    assert set(hardware_by_letter) == set('ABCDEFGHI')  # J (packing paper) removed 2026-11-04
     assert {item['letter']: int(item['quantity']) for item in screwbag['items']} == {
         'A': 45, 'B': 10, 'C': 20, 'D': 16, 'E': 10, 'F': 7}
     page_numbers = {entry['id']: index + 1 for index, entry in enumerate(manual['pages'])}
@@ -237,7 +237,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
                          'reference sections 4.1–4.3 body wording and repeated contact details match verbatim (whitespace normalized)' if english else 'translated text from ' + L.describe()],
               'applied_compatibility_rules': [{'id': rule['id'], 'page_id': rule['page_id']} for rule in applied_rules],
               'screwbag': screwbag['part_number'],
-              'hardware_key': 'A–I; B corrected by owner to red M3 × 0.5, 5 mm long',
+              'hardware_key': 'A–I; B corrected to red M3 × 0.5, 5 mm long',
               'missing_assets': manual.get('missing_assets', []),
               'release_ready': False}
     report_prefix = model if english else f'{model}-{L.language}'

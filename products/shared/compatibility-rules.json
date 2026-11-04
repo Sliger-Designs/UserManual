@@ -11,10 +11,10 @@
       },
       "content": "content/en/shared/rackmount/4u-rear-fan-ssd.md",
       "source": {
-        "id": "owner_confirmation",
+        "id": "confirmation",
         "date": "2026-10-27",
         "updated": "2026-11-04",
-        "record": "sources/owner/2026-11-04-4U-tray-ssd-mounting.md"
+        "record": "sources/decisions/2026-11-04-4U-tray-ssd-mounting.md"
       },
       "note": "The optional rear fan bracket excludes both tray SSD mounting-hole pairs (two 7 mm SSDs or one 15 mm SSD), on every 4U chassis. This does not exclude a separate drive cage."
     }
