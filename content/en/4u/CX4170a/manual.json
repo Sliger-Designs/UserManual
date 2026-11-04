@@ -47,7 +47,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing \u2014 drive cage installed",
+      "title": "Clearance drawing — drive cage installed",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -57,7 +57,7 @@
     },
     {
       "id": "clearance-without-cage",
-      "title": "Clearance drawing \u2014 cage removed",
+      "title": "Clearance drawing — cage removed",
       "section": "01 / PRODUCT INFORMATION",
       "source": "clearance-without-cage.md",
       "images": [
@@ -96,7 +96,6 @@
         "common/hardware/GREEN PATCHED SCREWS.jpg",
         "common/hardware/M4 THREAD SCREWS.jpg",
         "common/hardware/slot-covers-reference.png",
-        "_CX4170a_RACK_EAR.jpg",
         "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg",
         "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg",
         "common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg",
@@ -108,7 +107,9 @@
         "common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg",
         "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg",
         "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
-        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg"
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
+        "common/hardware/4URackEars.jpg",
+        "common/hardware/4UPullHandles.jpg"
       ],
       "layout": "hardware-key"
     },
@@ -461,22 +462,10 @@
       "suggested_folder": "illustrations/4u/CX4170a/"
     },
     {
-      "id": "M04",
-      "needed": "Standalone matching pull-handle image (I), or confirmation that an existing shared handle image is correct. The CX4170a rack-ear image (H) is now supplied.",
-      "section": "hardware",
-      "suggested_folder": "illustrations/common/rack-mounting/"
-    },
-    {
       "id": "M07",
       "needed": "CRPS adapter installation illustrations, only if the manual should cover the optional CRPS configurations",
       "section": "psu-installation",
       "suggested_folder": "illustrations/common/psu/ or model-specific folder"
-    },
-    {
-      "id": "M05",
-      "needed": "Separate renders of the left and right rack ears and the left and right pull handles for this form factor (owner to supply). The current rack-ear image shows an ear with a handle attached.",
-      "section": "hardware",
-      "suggested_folder": "illustrations/common/"
     }
   ],
   "cover_description": "17\" DEEP 4U CHASSIS",

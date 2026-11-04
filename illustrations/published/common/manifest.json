@@ -659,35 +659,6 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "common/4u-rack-ear/_CX4170a_RACK_EAR.jpg": {
-    "path": "illustrations/published/common/common-40fdb5912087.jpg",
-    "source_path": "illustrations/common/4u-rack-ear/_CX4170a_RACK_EAR.jpg",
-    "source_sha256": "40fdb59120873f5552f7627f4e7ca2dee8a644c305f769c57fb720f3c5025ba0",
-    "sha256": "828f4d13e6219f78be945a79534e2a8a5ddf83a5dd2662946044239764a85ddb",
-    "dimensions_px": [
-      1800,
-      872
-    ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 2750843,
-      "total_pixels": 3032424,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/common/4u-rack-ear-white.png",
-      "full_resolution_dimensions_px": [
-        2502,
-        1212
-      ],
-      "full_resolution_sha256": "7db837521577f5012f41e38d20b9ecc234e78afe5042ff3fbaa229d4f1ff07c4"
-    }
-  },
   "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg": {
     "path": "illustrations/published/common/common-0288a0a6887e.jpg",
     "source_path": "illustrations/common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
@@ -708,6 +679,54 @@
     "dimensions_px": [
       1800,
       916
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/3UPullHandles.jpg": {
+    "path": "illustrations/published/common/common-e7e71baad52f.jpg",
+    "source_path": "illustrations/common/hardware/3UPullHandles.jpg",
+    "source_sha256": "e7e71baad52f9841a50d2ab4c516d5101e45d2cc90720109eef3ee61eca2e9c3",
+    "sha256": "c3a980d89585867350b986ddfcd20ce4ebb4505d8d1fb64b4890126b83c84bd2",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/3URackEars.jpg": {
+    "path": "illustrations/published/common/common-92243fa87171.jpg",
+    "source_path": "illustrations/common/hardware/3URackEars.jpg",
+    "source_sha256": "92243fa8717124b3426e23f66199e94892bf334dbf5592acfbc43084ebd56d70",
+    "sha256": "3d5b2dca66bb0201459b959a894964716bd8397f35a3ea4ed7a9734cd1acb2b0",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/4UPullHandles.jpg": {
+    "path": "illustrations/published/common/common-7b3316ac0902.jpg",
+    "source_path": "illustrations/common/hardware/4UPullHandles.jpg",
+    "source_sha256": "7b3316ac09029273ddb0f682061728f4a2b374c3065de6c54a508a6c6372384d",
+    "sha256": "3a08340f92ac5fe10b10bd4602c76e8be7110fbf6e7cc98d9d3b2f4ff29d1b9c",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/4URackEars.jpg": {
+    "path": "illustrations/published/common/common-235efc0c5ac0.jpg",
+    "source_path": "illustrations/common/hardware/4URackEars.jpg",
+    "source_sha256": "235efc0c5ac036aa7e4d183be4f54c25fc248ca628d5fd4f64bba5e95a66ee73",
+    "sha256": "496e287d0104c3526f7987cd86ff34a40d3a5b064fa0a417f617ce8ac3f1fad3",
+    "dimensions_px": [
+      1800,
+      1027
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"

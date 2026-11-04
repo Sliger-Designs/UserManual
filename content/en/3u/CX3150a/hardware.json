@@ -20,18 +20,20 @@
       "name": "Rack ears",
       "quantity": "1 pair",
       "description": "Secure the chassis to the rack.",
-      "image": "common/hardware/rack-ears-reference.png",
+      "image": "common/hardware/3URackEars.jpg",
       "reference": "rack ears",
-      "specification_status": "reference_table"
+      "specification_status": "reference_table",
+      "note": "Owner-supplied 3U render of the left and right rack ears; shared by every 3U chassis (2026-11-04)."
     },
     {
       "letter": "I",
       "name": "Pull handles",
       "quantity": "1 pair",
       "description": "Optional handles make pulling the chassis from the rack easier.",
-      "image": "common/hardware/pull-handles-reference.png",
+      "image": "common/hardware/3UPullHandles.jpg",
       "reference": "pull handles",
-      "specification_status": "reference_table"
+      "specification_status": "reference_table",
+      "note": "Owner-supplied 3U render of the left and right pull handles; shared by every 3U chassis (2026-11-04)."
     },
     {
       "letter": "J",

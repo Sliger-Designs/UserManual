@@ -1,14 +1,15 @@
-# Rackmount rack ears — November 4, 2026
+# Rackmount rack ears and pull handles — November 4, 2026
 
 The owner confirmed that rack ears are shared within each rackmount height: all 2U chassis
 use the same rack ears, all 3U chassis use the same rack ears, and all 4U chassis use the
 same rack ears.
 
-Applied:
+The owner then supplied one render of the left and right rack ears and one of the left and
+right pull handles for each height, in `illustrations/common/hardware/`:
+`2URackEars.jpg`, `2UPullHandles.jpg`, `3URackEars.jpg`, `3UPullHandles.jpg`,
+`4URackEars.jpg`, `4UPullHandles.jpg`. They replace the earlier images, which showed an ear
+with a handle attached (CX4170a) or thumbnails from the original CX3150a manual.
 
-- The owner-supplied CX4170a rack-ear render is shared as hardware H for every 4U manual
-  (`illustrations/common/4u-rack-ear/`, asset key `common/4u-rack-ear/_CX4170a_RACK_EAR.jpg`).
-- The CX4150a rack-ear screw count follows the CX4170a: four in total, two per side
-  (`products/supplemental.json`). It matches the CX4150a rack-ear render.
-
-3U and 2U manuals should likewise use one rack-ear illustration and screw count per height.
+Every manual of a height uses that height's pair for hardware H (rack ears) and I (pull
+handles). The CX4150a rack-ear screw count follows the CX4170a: four in total, two per side
+(`products/supplemental.json`), matching the CX4150a rack-ear render.

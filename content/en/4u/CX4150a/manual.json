@@ -45,7 +45,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing \u2014 top view",
+      "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -96,7 +96,8 @@
         "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg",
         "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
         "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
-        "common/4u-rack-ear/_CX4170a_RACK_EAR.jpg"
+        "common/hardware/4URackEars.jpg",
+        "common/hardware/4UPullHandles.jpg"
       ],
       "layout": "hardware-key"
     },
@@ -372,18 +373,6 @@
       "needed": "Exploded view of the CX4150a assemblies (the CX4170a manual has one); the exploded-view page is omitted until supplied.",
       "section": "exploded-view",
       "suggested_folder": "illustrations/4u/CX4150a/"
-    },
-    {
-      "id": "M03",
-      "needed": "Standalone 4U pull-handle illustration (I).",
-      "section": "hardware",
-      "suggested_folder": "illustrations/common/hardware/"
-    },
-    {
-      "id": "M05",
-      "needed": "Separate renders of the left and right rack ears and the left and right pull handles for this form factor (owner to supply). The current rack-ear image shows an ear with a handle attached.",
-      "section": "hardware",
-      "suggested_folder": "illustrations/common/"
     }
   ],
   "cover_description": "15\" DEEP 4U CHASSIS",

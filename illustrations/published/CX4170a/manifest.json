@@ -956,35 +956,6 @@
       "full_resolution_sha256": "3faa0ddb2176d4d6ff97447c48b101f2c539c224e30f390573a3fa93dae9201d"
     }
   },
-  "_CX4170a_RACK_EAR.jpg": {
-    "path": "illustrations/published/CX4170a/cx4170a-e846e1ac1b91.jpg",
-    "source_path": "illustrations/4u/CX4170a/_CX4170a_RACK_EAR.jpg",
-    "source_sha256": "40fdb59120873f5552f7627f4e7ca2dee8a644c305f769c57fb720f3c5025ba0",
-    "sha256": "828f4d13e6219f78be945a79534e2a8a5ddf83a5dd2662946044239764a85ddb",
-    "dimensions_px": [
-      1800,
-      872
-    ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 2750843,
-      "total_pixels": 3032424,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX4170a/_CX4170a_RACK_EAR-white.png",
-      "full_resolution_dimensions_px": [
-        2502,
-        1212
-      ],
-      "full_resolution_sha256": "7db837521577f5012f41e38d20b9ecc234e78afe5042ff3fbaa229d4f1ff07c4"
-    }
-  },
   "_CX4170a_rendering.jpg": {
     "path": "illustrations/published/CX4170a/cx4170a-2fdafe15b697.jpg",
     "source_path": "illustrations/4u/CX4170a/_CX4170a_rendering.jpg",

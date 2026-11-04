@@ -19,20 +19,20 @@
       "name": "Rack ears",
       "quantity": "1 pair",
       "description": "Secure the chassis to the rack.",
-      "image": "common/4u-rack-ear/_CX4170a_RACK_EAR.jpg",
+      "image": "common/hardware/4URackEars.jpg",
       "reference": "rack ears",
       "specification_status": "reference_table",
-      "note": "Shared 4U rack-ear render; all 4U chassis use the same rack ears (owner, 2026-11-04)."
+      "note": "Owner-supplied 4U render of the left and right rack ears; shared by every 4U chassis (2026-11-04)."
     },
     {
       "letter": "I",
       "name": "Pull handles",
       "quantity": "1 pair",
       "description": "Optional handles make pulling the chassis from the rack easier.",
-      "image": null,
+      "image": "common/hardware/4UPullHandles.jpg",
       "reference": "pull handles",
       "specification_status": "reference_table",
-      "note": "4U-specific isolated part illustration pending; CX3150a thumbnail not reused."
+      "note": "Owner-supplied 4U render of the left and right pull handles; shared by every 4U chassis (2026-11-04)."
     },
     {
       "letter": "J",

@@ -76,8 +76,6 @@
         "common/hardware/GREEN PATCHED SCREWS.jpg",
         "common/hardware/M4 THREAD SCREWS.jpg",
         "common/hardware/slot-covers-reference.png",
-        "common/hardware/rack-ears-reference.png",
-        "common/hardware/pull-handles-reference.png",
         "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg",
         "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg",
         "common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg",
@@ -89,7 +87,9 @@
         "common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg",
         "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg",
         "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
-        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg"
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
+        "common/hardware/3URackEars.jpg",
+        "common/hardware/3UPullHandles.jpg"
       ],
       "layout": "hardware-key"
     },
@@ -356,12 +356,5 @@
   },
   "cover_description": "15\" DEEP 3U CHASSIS",
   "cover_format": "landscape",
-  "missing_assets": [
-    {
-      "id": "M05",
-      "needed": "Separate renders of the left and right rack ears and the left and right pull handles for this form factor (owner to supply). The current rack-ear image shows an ear with a handle attached.",
-      "section": "hardware",
-      "suggested_folder": "illustrations/common/"
-    }
-  ]
+  "missing_assets": []
 }

@@ -39,6 +39,5 @@ the repository small, as the owner approved. S630/S640 copies remain lossless PN
 
 ## Rack ears and pull handles
 
-The current rack-ear image shows an ear with a pull handle attached. The owner will supply
-separate left/right rack-ear and left/right pull-handle renders for each form factor;
-until then each rackmount manual lists them as missing artwork (M05).
+Replaced by separate per-height renders supplied by the owner; see
+`2026-11-04-rackmount-rack-ears.md`.
