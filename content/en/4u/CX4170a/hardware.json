@@ -1,7 +1,7 @@
 {
   "source": "sources/canva/CX4170a-content.json",
   "source_page": 5,
-  "quantities_status": "Screwbag quantities are owner-confirmed. Chassis/accessory quantities G\u2013J are copied from the reference manual.",
+  "quantities_status": "Screwbag quantities are owner-confirmed. Chassis/accessory quantities G\u2013I are copied from the reference manual.",
   "owner_corrections": {
     "B": "M3-.5 x 5, red; confirmed 2026-10-27."
   },
@@ -34,15 +34,6 @@
       "reference": "pull handles",
       "specification_status": "reference_table",
       "note": "Owner-supplied 4U render of the left and right pull handles; shared by every 4U chassis (2026-11-04)."
-    },
-    {
-      "letter": "J",
-      "name": "Crumpled brown paper",
-      "quantity": null,
-      "description": "Used to fill the void in the box.",
-      "image": null,
-      "reference": "packing paper",
-      "specification_status": "reference_table"
     }
   ],
   "screwbag": "products/shared/SBAG-HWKIT.json"

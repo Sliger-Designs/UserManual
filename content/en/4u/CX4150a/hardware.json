@@ -1,6 +1,6 @@
 {
   "source": "products/CX4150a.json (bulk-create \"G - Slot Covers\"); items H\u2013J follow the CX4170a 4U definition.",
-  "quantities_status": "Screwbag quantities are owner-confirmed (SBAG-HWKIT). Slot-cover quantity 8 from the catalog; H\u2013J as on the CX4170a, pending review.",
+  "quantities_status": "Screwbag quantities are owner-confirmed (SBAG-HWKIT). Slot-cover quantity 8 from the catalog; H\u2013I as on the CX4170a, pending review.",
   "owner_corrections": {
     "B": "M3-.5 x 5, red; confirmed 2026-10-27."
   },
@@ -33,15 +33,6 @@
       "reference": "pull handles",
       "specification_status": "reference_table",
       "note": "Owner-supplied 4U render of the left and right pull handles; shared by every 4U chassis (2026-11-04)."
-    },
-    {
-      "letter": "J",
-      "name": "Crumpled brown paper",
-      "quantity": null,
-      "description": "Used to fill the void in the box.",
-      "image": null,
-      "reference": "packing paper",
-      "specification_status": "reference_table"
     }
   ],
   "screwbag": "products/shared/SBAG-HWKIT.json"

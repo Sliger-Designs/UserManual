@@ -41,3 +41,8 @@ the repository small, as the owner approved. S630/S640 copies remain lossless PN
 
 Replaced by separate per-height renders supplied by the owner; see
 `2026-11-04-rackmount-rack-ears.md`.
+
+## Item J removed
+
+The owner removed hardware item J (crumpled brown packing paper) from all rackmount manuals:
+Sliger no longer ships it. The hardware key is now A–I.
