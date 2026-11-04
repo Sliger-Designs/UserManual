@@ -173,7 +173,7 @@ def site(output, browser=None):
         package = ROOT / 'translation-packages' / name
         manifest = json.loads((package / 'manifest.json').read_text(encoding='utf-8'))
         try:
-            build_editor(package, browser, output / 'editors' / name / 'index.html')
+            build_editor(package, browser, output / 'editors' / name / 'index.html', home_url='../../index.html')
             editor = f'editors/{name}/index.html'
         except ValueError as error:  # English changed since the package was exported.
             print(f'No editor for {name}: {str(error).splitlines()[0]}')
@@ -191,7 +191,8 @@ def site(output, browser=None):
         released.setdefault(model, []).append((language, revision, f'manuals/released/{relative.as_posix()}'))
 
     manuals = []
-    for model in sorted(MODEL_CATEGORIES, key=lambda sku: (MODEL_CATEGORIES[sku], sku)):
+    order = list(FORM_FACTORS)
+    for model in sorted(MODEL_CATEGORIES, key=lambda sku: (order.index(MODEL_CATEGORIES[sku]), sku)):
         manual = manual_build.manual(model)
         pdfs = [{'label': f'{language} · {revision}', 'note': 'Released', 'href': href}
                 for language, revision, href in sorted(released.get(model, []))]
