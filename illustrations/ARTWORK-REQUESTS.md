@@ -30,12 +30,13 @@ Confirmed 2026-11-04:
 | CX4150e | Exploded view; push-pull renders (240 mm radiator, four fans) | Exploded view omitted; push-pull page is text only |
 | CX4150i | Exploded view; push-pull renders (360 mm radiator, six fans) | Exploded view omitted; push-pull page is text only |
 | CX4170a | Optional: external side/front dimension profiles; CRPS adapter steps, if the manual should cover CRPS | None (optional) |
+| CX4170e | Push-pull renders (240 mm radiator, four fans); CX4170e renders of devices and filler blanks in the bay bracket | Push-pull page is text only; bay-device steps reuse the CX4150e bracket renders |
+| CX4170i | Push-pull renders (360 mm radiator, six fans); radiator/drive-cage clearance renders (as CX4170a 4c1/4c2); a 5.25-inch device in the bay bracket | Push-pull and clearance pages are text only |
 
 ## 4U: not yet built
 
 | Model | Needed | Notes |
 |---|---|---|
-| CX4170e, CX4170i | Push-pull renders | Otherwise complete |
 | CX4200a | Exploded view | Otherwise complete |
 | CX4200e, CX4200f, CX4200i | Push-pull renders; exploded view | Otherwise complete |
 | CX4712 | Exploded view | Otherwise complete |

@@ -542,5 +542,63 @@
       },
       "note": "Confirmed supported; maximum GPU length 270 mm."
     }
+  },
+  "CX4170e": {
+    "ssd_2_5_max": {
+      "value": 6,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 2,
+        "bays": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4170e-i-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "bays": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4170e-i-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    }
+  },
+  "CX4170i": {
+    "ssd_2_5_max": {
+      "value": 12,
+      "configuration": {
+        "motherboard_tray": 2,
+        "drive_cage": 8,
+        "bay_filler_blank": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4170e-i-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 4,
+      "configuration": {
+        "drive_cage": 3,
+        "bay_filler_blank": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4170e-i-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    }
   }
 }

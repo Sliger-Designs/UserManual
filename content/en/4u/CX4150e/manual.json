@@ -48,7 +48,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing \u2014 top view",
+      "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -318,9 +318,9 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "bay-devices.md",
       "images": [
-        "4c_CX4150e_DRIVE BRACKET 1.jpg",
-        "4d_CX4150e_DRIVE BRACKET 2.jpg",
-        "4e_CX4150e_DRIVE BRACKET 2.jpg"
+        "common/4u-bay-bracket/4c_CX4150e_DRIVE BRACKET 1.jpg",
+        "common/4u-bay-bracket/4d_CX4150e_DRIVE BRACKET 2.jpg",
+        "common/4u-bay-bracket/4e_CX4150e_DRIVE BRACKET 2.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -455,6 +455,6 @@
       "suggested_folder": "illustrations/4u/CX4150e/"
     }
   ],
-  "cover_description": "15\" DEEP 4U CHASSIS \u00b7 2 \u00d7 5.25\" BAYS",
+  "cover_description": "15\" DEEP 4U CHASSIS · 2 × 5.25\" BAYS",
   "cover_format": "landscape"
 }

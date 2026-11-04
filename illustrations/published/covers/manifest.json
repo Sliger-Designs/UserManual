@@ -103,5 +103,35 @@
       1600,
       798
     ]
+  },
+  "CX4170e": {
+    "path": "illustrations/published/covers/CX4170e-5416221a6164.jpg",
+    "sha256": "143eeb5576e45a3d2a3d82c4620d1c9869383016422472ef3f7e37e3504af236",
+    "source_path": "sources/web/covers/CX4170e-5416221a6164.webp",
+    "source_sha256": "5416221a61643c73cec39c92d02d239e3248040250adfb81593fe0c6a6e52e72",
+    "product_url": "https://sliger.com/products/cx4170e",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/503.webp",
+    "retrieved_at": "2026-11-04T21:18:39.539968+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      828
+    ]
+  },
+  "CX4170i": {
+    "path": "illustrations/published/covers/CX4170i-9697285855df.jpg",
+    "sha256": "ef4bdb64fddd33f8eb5cf15c95251177b90388f2ea347b123f7cec8ad032569d",
+    "source_path": "sources/web/covers/CX4170i-9697285855df.webp",
+    "source_sha256": "9697285855df05c78001146632e4e44241fa8fe3d12d893f2bd15fd7e8fae939",
+    "product_url": "https://sliger.com/products/cx4170i",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/488.webp",
+    "retrieved_at": "2026-11-04T21:18:40.380927+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      847
+    ]
   }
 }
