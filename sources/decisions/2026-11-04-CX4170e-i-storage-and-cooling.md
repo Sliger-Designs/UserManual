@@ -23,3 +23,8 @@ be used at the same time.
 - CX4170e takes up to a 240 mm AIO; as on the CX4150e, a hex-head screw retaining a
   5.25-inch device can touch the radiator, so a countersunk screw (B for M3 threads, E for
   6-32) is used in that position.
+
+## Shared bay bracket
+
+The CX4150e and CX4170e use the same 5.25-inch bay bracket. The CX4170e bay-device steps
+therefore use the CX4150e bracket renders, shared in `illustrations/common/4u-bay-bracket/`.

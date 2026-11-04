@@ -457,12 +457,6 @@
       "needed": "Push-pull (240 mm radiator, four fans) installation renders; the push-pull page is text-only until supplied.",
       "section": "push-pull",
       "suggested_folder": "illustrations/4u/CX4170e/"
-    },
-    {
-      "id": "M03",
-      "needed": "CX4170e renders of 5.25-inch devices and filler blanks in the bay bracket; the CX4150e renders of the same bracket are reused until supplied.",
-      "section": "bay-devices",
-      "suggested_folder": "illustrations/4u/CX4170e/"
     }
   ],
   "cover_description": "17\" DEEP 4U CHASSIS",
