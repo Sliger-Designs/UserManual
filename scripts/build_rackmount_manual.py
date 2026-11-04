@@ -85,7 +85,9 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
         entry['quantity_display'] = quantity_display(entry.get('quantity'), L, f'hardware {entry["letter"]}: quantity', hardware_page)
     manual['language'] = L.language
     for field in ('cover_description', 'cover_description_detail', 'status', 'language_label'):
-        if field in manual:
+        if isinstance(manual.get(field), list):
+            manual[field] = [L.text(line, field, 1) for line in manual[field]]
+        elif field in manual:
             manual[field] = L.text(manual[field], field, 1)
     state = {'page': None}
     env, context = markdown_environment(model, L, state)
@@ -217,7 +219,8 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
         assert rule_text in normalize(pdf[page_numbers[rule['page_id']] - 1].get_text()), rule['id']
     key_page = ' '.join(pdf[index].get_text() for index, item in enumerate(pages) if item['layout'] == 'hardware-key')
     for entry in hardware['items']:
-        assert normalize(entry['name']) in normalize(key_page), entry['letter']
+        compact = lambda value: ''.join(value.split())  # names may wrap at hyphens, e.g. "217-735"
+        assert compact(entry['name']) in compact(key_page), entry['letter']
     for identifier, expected in {
             'lid-removal': ['(A)'], 'tray-removal': ['(E)'], 'rack-ears': ['(F)', '(H)', '(I)'],
             'motherboard-preparation': ['(C)'], 'motherboard-installation': ['(A)', '(C)'],

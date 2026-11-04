@@ -1,1 +1,1 @@
-Hot-swap drive hardware is supplied in a separate kit, **CX-NAS-HWKIT** (items J–N), in addition to SBAG-HWKIT. Ten SAS/SATA adapters come preinstalled in the drive bays; SATA data cables are not included.
+Hot-swap drive hardware is supplied in a separate kit, **CX-NAS-HWKIT** (items J–N), in addition to the chassis hardware kit (items A–I). Ten SAS/SATA adapters come preinstalled in the drive bays; SATA data cables are not included.

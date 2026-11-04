@@ -43,7 +43,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing — top view",
+      "title": "Clearance drawing \u2014 top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -131,7 +131,8 @@
         "L",
         "M",
         "N"
-      ]
+      ],
+      "layout_variant": "key-large"
     },
     {
       "id": "front-ports",
@@ -176,7 +177,8 @@
       "images": [
         "2_CX4713_FACEPLATE REMOVE.jpg"
       ],
-      "layout": "procedure"
+      "layout": "procedure",
+      "layout_variant": "stacked"
     },
     {
       "id": "tray-removal",
@@ -195,7 +197,8 @@
         ],
         [],
         []
-      ]
+      ],
+      "layout_variant": "stacked"
     },
     {
       "id": "rack-ears",
@@ -244,7 +247,8 @@
       "layout": "procedure",
       "hardware_callouts": [
         []
-      ]
+      ],
+      "layout_variant": "stacked"
     },
     {
       "id": "fan-installation",
@@ -586,7 +590,10 @@
       "suggested_folder": "illustrations/4u/CX4713/"
     }
   ],
-  "cover_description": "28\" DEEP 4U NAS CHASSIS",
-  "cover_description_detail": "10 × 3.5\" HOT-SWAP · 2 × 5.25\" BAYS",
+  "cover_description": "28\" DEEP 4U CHASSIS",
+  "cover_description_detail": [
+    "2 \u00d7 5.25\" BAYS",
+    "10 \u00d7 3.5\" HOT-SWAP BAYS"
+  ],
   "cover_format": "landscape"
 }

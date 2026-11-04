@@ -45,7 +45,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing — top view",
+      "title": "Clearance drawing \u2014 top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -133,7 +133,8 @@
         "L",
         "M",
         "N"
-      ]
+      ],
+      "layout_variant": "key-large"
     },
     {
       "id": "front-ports",
@@ -178,7 +179,8 @@
       "images": [
         "2_CX4712-A_FACEPLATE REMOVE.jpg"
       ],
-      "layout": "procedure"
+      "layout": "procedure",
+      "layout_variant": "stacked"
     },
     {
       "id": "rack-ears",
@@ -231,7 +233,8 @@
           "E"
         ],
         []
-      ]
+      ],
+      "layout_variant": "stacked"
     },
     {
       "id": "fan-installation",
@@ -549,12 +552,15 @@
     },
     {
       "id": "M02",
-      "needed": "Motherboard tray removal and reinstallation renders (as CX4713 5a–5f), if the CX4712 tray is removable; the tray pages are omitted until supplied.",
+      "needed": "Motherboard tray removal and reinstallation renders (as CX4713 5a\u20135f); the CX4712 tray is removable. The tray pages are omitted until supplied.",
       "section": "tray-removal",
       "suggested_folder": "illustrations/4u/CX4712/"
     }
   ],
-  "cover_description": "25\" DEEP 4U NAS CHASSIS",
-  "cover_description_detail": "10 × 3.5\" HOT-SWAP · 2 × 5.25\" BAYS",
+  "cover_description": "25\" DEEP 4U CHASSIS",
+  "cover_description_detail": [
+    "2 \u00d7 5.25\" BAYS",
+    "10 \u00d7 3.5\" HOT-SWAP BAYS"
+  ],
   "cover_format": "landscape"
 }

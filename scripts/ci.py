@@ -215,7 +215,7 @@ def site(output, browser=None):
             model_languages[language] = {'name': Memory(language).language_name, 'done': done, 'total': total,
                                          'preview': preview_links.get(language)}
         manuals.append({'model': model, 'revision': manual['revision'], 'released': bool(manual.get('release_ready')),
-                        'description': ' · '.join(filter(None, (manual.get('cover_description', ''), manual.get('cover_description_detail')))), 'form_factor': FORM_FACTORS.get(MODEL_CATEGORIES[model], ''),
+                        'description': ' · '.join(filter(None, [manual.get('cover_description', ''), *([manual['cover_description_detail']] if isinstance(manual.get('cover_description_detail'), str) else manual.get('cover_description_detail', []))])), 'form_factor': FORM_FACTORS.get(MODEL_CATEGORIES[model], ''),
                         'pdfs': pdfs, 'package': candidates[-1] if candidates else None, 'languages': model_languages})
 
     data = {'manuals': manuals, 'packages': site_packages, 'language_codes': LANGUAGE_CODES,
