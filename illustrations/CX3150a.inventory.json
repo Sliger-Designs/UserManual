@@ -120,7 +120,18 @@
       "sha256": "55e990c4205756513a3e721503190e6fae832b9a34a7369ce5ea4a4112afac0b",
       "selection_status": "candidate",
       "proposed_section": "lid-removal",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/1a_CX3150a_LID UNSCREW 2-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-e0b6d5cf3bab",
@@ -133,7 +144,18 @@
       "sha256": "9f545856ef41bf28b4c14cef7a2627397803700bef8d9714c4759e0993e1614f",
       "selection_status": "candidate",
       "proposed_section": "lid-removal",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/1b_CX3150a_LID SLIDE BACK-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-6fbd3c352c1e",
@@ -172,7 +194,18 @@
       "sha256": "edc90920920fe4c69fcfeae779210b262d52b801673d5ecfb277975b815af12c",
       "selection_status": "candidate",
       "proposed_section": "lid-removal",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/1c_CX3150a_LID REMOVE-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-c2533d79218c",
@@ -198,7 +231,18 @@
       "sha256": "71e76b40501d99febb411d0cb3ba031c92c705ee07749a26b26cc5ffcb884c29",
       "selection_status": "candidate",
       "proposed_section": "faceplate-removal",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/2_CX3150a_FACEPLATE (EXPLODED)-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-196aa88aab98",
@@ -276,7 +320,18 @@
       "sha256": "781d2e8bc806ab473db2763a58fc49c8da5279e6ad68e02128577c4d099dc315",
       "selection_status": "candidate",
       "proposed_section": "fan-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/3a_CX3150a_FAN INSTALL-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-cbf69cd11f5c",
@@ -289,7 +344,18 @@
       "sha256": "3a0121677635937f4b70b60e66fa9e552186d9aa403263811478c0a63023940a",
       "selection_status": "candidate",
       "proposed_section": "aio-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/3b1_CX3150a_FAN INSTALL PRECOOLER-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-07b97a13ff0c",
@@ -302,7 +368,18 @@
       "sha256": "f7b8fdc6198685428d902e10ca60974c050d7476d3029dd0cb871216c311b940",
       "selection_status": "candidate",
       "proposed_section": "aio-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/3b2_CX3150a_AIO + FAN INSTALL-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-537d97898c29",
@@ -341,7 +418,18 @@
       "sha256": "a477280a1039352cacc0a7ca7cd8930d75c1b4eb69aad3187b2134cdee9a306a",
       "selection_status": "candidate",
       "proposed_section": "motherboard-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/4a_CX3150a_STAND OFF INSTALL-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-228545f5a52c",
@@ -393,7 +481,18 @@
       "sha256": "6acd6f2c14c2df4c0405bfe75ee639508bea2c53d81e55b14b30852b29197bac",
       "selection_status": "candidate",
       "proposed_section": "motherboard-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/5_CX3150a_MOTHERBOARD (EXPLODED) 4 (cropped)-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-01d08944c34a",
@@ -419,7 +518,18 @@
       "sha256": "ca122239432eee3e7cca23581d2d9f72f68def3ece54b5cf0bc461704ccfdd81",
       "selection_status": "candidate",
       "proposed_section": "motherboard-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/5_CX3150a_MOTHERBOARD IO SHIELD (cropped)-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-4a27b9627432",
@@ -445,7 +555,18 @@
       "sha256": "e4b64ba681c497cd9906c901364fe12d201cbb8f2033ffd85b7bbf39b9e044e5",
       "selection_status": "candidate",
       "proposed_section": "psu-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/5_CX3150a_PSU (EXPLODED)-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-8eb9dd8e191e",
@@ -471,7 +592,18 @@
       "sha256": "93ea51dd4522c3a0bf920c5df28e1fd52eddd2d00cf4a673e4a2036c75dc6460",
       "selection_status": "candidate",
       "proposed_section": "ssd-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/6_CX3150a_SSD (EXPLODED)-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-70752fe27fdd",
@@ -497,7 +629,18 @@
       "sha256": "add0d186ae3b696e5d938648f7c0c0160ba154b593ad52561a862ce97f7138f5",
       "selection_status": "candidate",
       "proposed_section": "gpu-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/7_CX3150a_GPU (EXPLODED)-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-664945143555",
@@ -523,7 +666,18 @@
       "sha256": "cc4a0399baa1f4e895189382230817a5a79f854446264ca88081cf0c178bb774",
       "selection_status": "candidate",
       "proposed_section": "rack-ears-handles",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/8_CX3150a-RACK EARS (EXPLODED)2-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-64436aa7be5d",
@@ -536,7 +690,18 @@
       "sha256": "8906e735b21566530828418d8946fad1c356a1bfeb48393ceb74a604fa0c14b0",
       "selection_status": "candidate",
       "proposed_section": "rack-ears-handles",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/8_CX3150a-RACK EARS CLOSE-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-1ab0096e15f7",
@@ -627,7 +792,18 @@
       "sha256": "41edbcfdd58602c83848df61c11b91d7fc3088bd44a54ceea8a0eeafcef0cec3",
       "selection_status": "candidate",
       "proposed_section": "tray-removal",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/9a_CX3150a_TRAY UNSCREW-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-b7898741f718",
@@ -640,7 +816,18 @@
       "sha256": "7d6b98eb61a0d09b8c178d3b739358230828f29acf4fd9aeb94b2c08f4265124",
       "selection_status": "candidate",
       "proposed_section": "tray-removal",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/9b_CX3150a_TRAY SLIDE BACK-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-0cb8f0a85375",
@@ -653,7 +840,18 @@
       "sha256": "d4e26c474dae31afb1816fa6ac1f2a6a31f683b48647dcef6c0b48a4bcdf3428",
       "selection_status": "candidate",
       "proposed_section": "tray-removal",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/9c_CX3150a_TRAY REMOVE (cropped + detail view)-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-e9298d0f63b8",
@@ -679,7 +877,18 @@
       "sha256": "4a931660efef3a37d929d73aa3af5565574870f89b0ea8a9b1afdc33329f5b99",
       "selection_status": "candidate",
       "proposed_section": "tray-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/9d_CX3150a_TRAY INSTALL (cropped + detail view)-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-8efe6f70521d",
@@ -705,7 +914,18 @@
       "sha256": "d1eae53fbd42f98f2aa3616a9f36a317c3870e5471844f577bfc18037e3d3412",
       "selection_status": "candidate",
       "proposed_section": "tray-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/9e_CX3150a_TRAY INSTALL 2-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-16a7b58034a3",
@@ -718,7 +938,18 @@
       "sha256": "7c292db36e410c9e418bae1c53e93cafde0bacf370ee7edef789329f7b6ba278",
       "selection_status": "candidate",
       "proposed_section": "tray-installation",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/9f_CX3150a_TRAY INSTALL 3-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-e7d975449cfe",
@@ -731,7 +962,18 @@
       "sha256": "ce8c713f09f452ed2922793cc73647c439f8ed0038afbe21a42ab537b70459c4",
       "selection_status": "candidate",
       "proposed_section": "cable-management",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/CABLE_MANAGEMENT_BAR_HIGHLIGHT-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx3150a-d622b75dcb19",
@@ -783,7 +1025,18 @@
       "sha256": "f8b04f88e4336534cf3ad782b004b872da2243aa2a533da1bc4f11c46aa8baac",
       "selection_status": "candidate",
       "proposed_section": "cover",
-      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication."
+      "note": "Proposed from visual inspection; not yet matched against the published manual or approved for publication.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150a/_CX3150a_rendering-white.png",
+        "authorization": "Owner requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     }
   ]
 }

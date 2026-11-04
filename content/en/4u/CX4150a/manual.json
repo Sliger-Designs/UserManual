@@ -45,7 +45,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing — top view",
+      "title": "Clearance drawing \u2014 top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -378,6 +378,12 @@
       "needed": "Standalone 4U pull-handle illustration (I).",
       "section": "hardware",
       "suggested_folder": "illustrations/common/hardware/"
+    },
+    {
+      "id": "M05",
+      "needed": "Separate renders of the left and right rack ears and the left and right pull handles for this form factor (owner to supply). The current rack-ear image shows an ear with a handle attached.",
+      "section": "hardware",
+      "suggested_folder": "illustrations/common/"
     }
   ],
   "cover_description": "15\" DEEP 4U CHASSIS",

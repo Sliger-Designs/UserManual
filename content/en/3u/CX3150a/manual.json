@@ -355,5 +355,13 @@
     "height": 5.22
   },
   "cover_description": "15\" DEEP 3U CHASSIS",
-  "cover_format": "landscape"
+  "cover_format": "landscape",
+  "missing_assets": [
+    {
+      "id": "M05",
+      "needed": "Separate renders of the left and right rack ears and the left and right pull handles for this form factor (owner to supply). The current rack-ear image shows an ear with a handle attached.",
+      "section": "hardware",
+      "suggested_folder": "illustrations/common/"
+    }
+  ]
 }

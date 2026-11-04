@@ -1,14 +1,14 @@
 {
   "10a_CX4150a_TRAY UNSCREW.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-eeb0da406593.png",
+    "path": "illustrations/published/CX4150a/cx4150a-eeb0da406593.jpg",
     "source_path": "illustrations/4u/CX4150a/10a_CX4150a_TRAY UNSCREW.jpg",
     "source_sha256": "0dce3fe6bae224bc8bd1adfcb0efd0def49fa5812b1e84899d230765ca3ad511",
-    "sha256": "a8f26d2f625427b4b50ca012cb4a9c41a47ae245676aa21058d890ccbf255552",
+    "sha256": "cfcc63e1b6546ba6801733da8a191b055122a207b3e287744fc1c6399c7c5303",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -29,15 +29,15 @@
     }
   },
   "10b_CX4150a_TRAY SLIDE BACK.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-2fe02bfafad5.png",
+    "path": "illustrations/published/CX4150a/cx4150a-2fe02bfafad5.jpg",
     "source_path": "illustrations/4u/CX4150a/10b_CX4150a_TRAY SLIDE BACK.jpg",
     "source_sha256": "b756ba959f40da49ee602566cf18fa37e706b0f6c1104bae021f94fd2604ec8c",
-    "sha256": "8bbc01ae5279d4e7079029478e71aba93917c9ea60ed894d37d870c44825bc0b",
+    "sha256": "52f1be073fd978a93532740aa3a7bba028eb9010e77acc60bb59e6531ba7ac9a",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -58,15 +58,15 @@
     }
   },
   "10c_CX4150a_TRAY SLIDE BACK 2.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-ce33d6e73019.png",
+    "path": "illustrations/published/CX4150a/cx4150a-ce33d6e73019.jpg",
     "source_path": "illustrations/4u/CX4150a/10c_CX4150a_TRAY SLIDE BACK 2.jpg",
     "source_sha256": "bc629c6a42fa4be1277365001f3c5a1ddb7b82dfe22c6d6f1cd2f18a948de18a",
-    "sha256": "b88ab80617ee9e075e5e4a96b72f2422887213b571bed454cd34b842f318bb64",
+    "sha256": "303345be749e5056d365055d7c123c6688095172034967311f83f1dffe6557ad",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -87,15 +87,15 @@
     }
   },
   "10d_CX4150a_TRAY INSTALL.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-9de085df2ee7.png",
+    "path": "illustrations/published/CX4150a/cx4150a-9de085df2ee7.jpg",
     "source_path": "illustrations/4u/CX4150a/10d_CX4150a_TRAY INSTALL.jpg",
     "source_sha256": "01cfd6c73a01345238e88cb4b9bf8ab878d569433e4fa9c13928f6df2e8ae7ef",
-    "sha256": "4f190cd644430d1ab0290dfeb2612e95318c484dbcbee25fcfe9213091af9021",
+    "sha256": "a6819a1cdeb4adfe2af418b9aa8ace1dc96976fd84ab95f25ec26cf570e4075b",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -116,15 +116,15 @@
     }
   },
   "10e_CX4150a_TRAY INSTALL 2.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-cd39b30a0481.png",
+    "path": "illustrations/published/CX4150a/cx4150a-cd39b30a0481.jpg",
     "source_path": "illustrations/4u/CX4150a/10e_CX4150a_TRAY INSTALL 2.jpg",
     "source_sha256": "9d1d8fdae5a11b8f9d71b4d33105c74dd964eb47af59ae96a7eae639ab28de18",
-    "sha256": "10ce0c91d3f6ea152e8600ab99406f39fd9472d3d29243e4d3958c5d2a0a4526",
+    "sha256": "937cee7031b0b6b7f09086012d12df817ec84c5337643f9cc4c73622d4fac841",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -145,15 +145,15 @@
     }
   },
   "10f_CX4150a_TRAY SCREW INSTALL.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-b4892ccdedf1.png",
+    "path": "illustrations/published/CX4150a/cx4150a-b4892ccdedf1.jpg",
     "source_path": "illustrations/4u/CX4150a/10f_CX4150a_TRAY SCREW INSTALL.jpg",
     "source_sha256": "c931265948f83b01478e7f6027350c5d745b702bf1ca3f7a23b036d49ed6f2a8",
-    "sha256": "0ff92a96b89be6a92671b91d9537e115b0f90979d86e9428ce9b74e80c21f69a",
+    "sha256": "b29359d24f28efbd63e3f3c85109901b6d88ad7c8477afe2c34bdf8c051e2cbc",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -174,15 +174,15 @@
     }
   },
   "1a_CX4150a_LID UNSCREW.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-afcd655bc959.png",
+    "path": "illustrations/published/CX4150a/cx4150a-afcd655bc959.jpg",
     "source_path": "illustrations/4u/CX4150a/1a_CX4150a_LID UNSCREW.jpg",
     "source_sha256": "e83155d71ab7d6168a456bb1b1b0cfdc60c8db9dff172043a2d577a4adec4564",
-    "sha256": "fab46e5a50271593583979dd9293dbcf828042f84217dd7f56f5daa12eb0b34b",
+    "sha256": "52d78815d2a811945cfa4479bbb539d38500395acab6ff9597a4ff1809402ccf",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -203,15 +203,15 @@
     }
   },
   "1b_CX4150a_LID SLIDE BACK.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-701576a4f76e.png",
+    "path": "illustrations/published/CX4150a/cx4150a-701576a4f76e.jpg",
     "source_path": "illustrations/4u/CX4150a/1b_CX4150a_LID SLIDE BACK.jpg",
     "source_sha256": "5cbdf56284db6850587b49f0b626ebba13f2426da320d939a51bbdb13cdf561e",
-    "sha256": "98fbcd236119be4c197a74ea96237f6c7344b63430e2935321ff020893787e24",
+    "sha256": "6845a00b905d485c93a33490ddd352e9d94e3a238f96cf6f3d7d984e157e630b",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -232,15 +232,15 @@
     }
   },
   "1c_CX4150a_LID REMOVE.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-af8ed68e4b26.png",
+    "path": "illustrations/published/CX4150a/cx4150a-af8ed68e4b26.jpg",
     "source_path": "illustrations/4u/CX4150a/1c_CX4150a_LID REMOVE.jpg",
     "source_sha256": "7acc4316340627d1784a33d4a1a7befc734b07b49e71620c49b7f9bf650b90d7",
-    "sha256": "8ce9312cf1fbd6ef4d8aa7f0d498ec8d3e9176a46d1f4b7ef1bc0ce44c835e82",
+    "sha256": "863fbb774923ad5d27e6f776a2a8108ca3f445c222a441c251d6349934337af7",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -261,15 +261,15 @@
     }
   },
   "2_CX4150a_FACEPLATE REMOVE.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-d43de10d43ae.png",
+    "path": "illustrations/published/CX4150a/cx4150a-d43de10d43ae.jpg",
     "source_path": "illustrations/4u/CX4150a/2_CX4150a_FACEPLATE REMOVE.jpg",
     "source_sha256": "b2212e35435d3645b128bc96e36c4402a39b08e20e66b0de24fc23beb0ec4bf1",
-    "sha256": "4e7f7497a38ab716bfa475ca9f791fb9ccbf1ed606c60b8b18a00e82df4bae4d",
+    "sha256": "8281d9d14478817f17b9f76471cc03b0ad03cd21505b1f42c8d111d268d657a2",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -290,15 +290,15 @@
     }
   },
   "3a_CX4150a_FAN INSTALL.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-b448c970e4cb.png",
+    "path": "illustrations/published/CX4150a/cx4150a-b448c970e4cb.jpg",
     "source_path": "illustrations/4u/CX4150a/3a_CX4150a_FAN INSTALL.jpg",
     "source_sha256": "ca4478159e3c6b05d99182f78ebc58d20df9d281e515b0288069d80d51b90118",
-    "sha256": "28617b0768953ba0fb459976f2e6e09f37535edb80b828682dcea6ea1bbe952c",
+    "sha256": "cbdeab6b6ae2e4b1b53bca08a3eb87a2160c5b21433044aa613993e024457d82",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -319,15 +319,15 @@
     }
   },
   "3b_CX4150a_FAN INSTALL PRECOOLER.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-35b533073f75.png",
+    "path": "illustrations/published/CX4150a/cx4150a-35b533073f75.jpg",
     "source_path": "illustrations/4u/CX4150a/3b_CX4150a_FAN INSTALL PRECOOLER.jpg",
     "source_sha256": "ed982e722521d7699830107827a7643ababbf789cb71a0ac5bf5f55bf25774a6",
-    "sha256": "39051b5ae2ce35e879ded3e855cc7c40f3fe5f3f0086987a887bc4bc3eaf5b26",
+    "sha256": "6732606085e3890282b2a491f487b1b1acde8e0503a15fed008846d3a21ec380",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -348,15 +348,15 @@
     }
   },
   "3c_CX4150a_FAN INSTALL + AIO.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-961b44fd5723.png",
+    "path": "illustrations/published/CX4150a/cx4150a-961b44fd5723.jpg",
     "source_path": "illustrations/4u/CX4150a/3c_CX4150a_FAN INSTALL + AIO.jpg",
     "source_sha256": "0dab091f376e3802ca2c09f73646ea55b83ad6c19bf3bb1b247d68f92d476edc",
-    "sha256": "2a04664cd4554b76bc98062b0a04c180b879c237ccc8a1666129f55a5c060131",
+    "sha256": "d1469c8a25228341bbbe5fc59b0987983cb62be8e3260fe00afa576d5d1b2cc4",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -377,15 +377,15 @@
     }
   },
   "3d_CX4150a_FAN INSTALL PULL.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-9fa259a0a138.png",
+    "path": "illustrations/published/CX4150a/cx4150a-9fa259a0a138.jpg",
     "source_path": "illustrations/4u/CX4150a/3d_CX4150a_FAN INSTALL PULL.jpg",
     "source_sha256": "1234f2be16f230b93e05cf6dba93c5f19b58f811ac916269789f1354095040ed",
-    "sha256": "db3a6fc4764bded01b964960c034a0c4e858252e9654722f020636b35d6164bf",
+    "sha256": "f7b6f1260d7ae18423e6bd132cd7601851673bcbad1b6fa70122c8a63cbdc21d",
     "dimensions_px": [
       1800,
       1285
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -406,15 +406,15 @@
     }
   },
   "3e_CX4150a_FAN INSTALL + AIO + PULL.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-a8204389a739.png",
+    "path": "illustrations/published/CX4150a/cx4150a-a8204389a739.jpg",
     "source_path": "illustrations/4u/CX4150a/3e_CX4150a_FAN INSTALL + AIO + PULL.jpg",
     "source_sha256": "3e7e7e0a97ba0b832433e4b0b506c315ea375297e17458f04c5a2cd9ee16267b",
-    "sha256": "1914f6316ae1c3119876007e53ae14474c1220eea5fd4700dcfd7eeed4b7cefb",
+    "sha256": "258e31ae620c4c4296fb3ee3d2064ea989dc040292134b5492b1fdea3e8334da",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -435,15 +435,15 @@
     }
   },
   "4a_CX4150a_STANDOFF INSTALL.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-b98d7fbe0b77.png",
+    "path": "illustrations/published/CX4150a/cx4150a-b98d7fbe0b77.jpg",
     "source_path": "illustrations/4u/CX4150a/4a_CX4150a_STANDOFF INSTALL.jpg",
     "source_sha256": "29e82c5436bb4d37d2d9050bb7d853fcdb419cf1f9b8c9924f1ba40b1516d6e7",
-    "sha256": "d09d83c579e6b9055071f8ea2ad9f5572c3dd10a7ba846bce9211e9699edb325",
+    "sha256": "354d00cb9f7644baad806901613486468f46902aaa8d829e19721432d7cb8153",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -464,15 +464,15 @@
     }
   },
   "5a_CX4150a_MOTHERBOARD IO SHIELD.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-03787d872e92.png",
+    "path": "illustrations/published/CX4150a/cx4150a-03787d872e92.jpg",
     "source_path": "illustrations/4u/CX4150a/5a_CX4150a_MOTHERBOARD IO SHIELD.jpg",
     "source_sha256": "98c6a4cabea6f8a8c7071d8a81b6f441d9798d345c3d4d43192ba26aec13ea15",
-    "sha256": "f862be02a91dbfbc9bab802bbda85e2dd98423ed9c16b4764e24d388b2826912",
+    "sha256": "5a437f0ac788476f924d9e9c5ca17b17e0c6232225c19aacc710308a3e601e15",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -493,15 +493,15 @@
     }
   },
   "5b_CX4150a_MOTHERBOARD.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-038177070cd2.png",
+    "path": "illustrations/published/CX4150a/cx4150a-038177070cd2.jpg",
     "source_path": "illustrations/4u/CX4150a/5b_CX4150a_MOTHERBOARD.jpg",
     "source_sha256": "02e9db41244b28ff283463a1b9053adbd40ab55f829841e78d144c5651c9fc92",
-    "sha256": "cfafe959d7703f1c0513867c1117bf5a1a834c0057a008924f4e817272d7784f",
+    "sha256": "7ba0d331a5d65d3390fd3bb41d1789de17d0e9d38dc819b2d8ca9af3a4bfedc4",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -522,15 +522,15 @@
     }
   },
   "6_CX4150a_PSU.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-f5deb788fd51.png",
+    "path": "illustrations/published/CX4150a/cx4150a-f5deb788fd51.jpg",
     "source_path": "illustrations/4u/CX4150a/6_CX4150a_PSU.jpg",
     "source_sha256": "c3f5c10b3c725c3a1460afb49044f77f80b6891ef79f9615e657ea59c68117c8",
-    "sha256": "c036abea3c4985b522cddb7ac8280b384a881c750069a3b9ba1cc42ab04ab935",
+    "sha256": "0ff76b807ff6c65de947d8346068bd755f37beb5ea59790723595a3bb91dd853",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -551,15 +551,15 @@
     }
   },
   "7_CX4150a_SSD.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-e30236d28f55.png",
+    "path": "illustrations/published/CX4150a/cx4150a-e30236d28f55.jpg",
     "source_path": "illustrations/4u/CX4150a/7_CX4150a_SSD.jpg",
     "source_sha256": "d0cdea7f419f508232ed1a857386009fc4bd8fb56bfd0be336e325dd428f07ee",
-    "sha256": "0d892c64262d7d839f7448925945b03e7e9b0f833992fd036e5247d8ea058148",
+    "sha256": "ce3f70a66f6fd96338809d609391ed4a85e79c6acf8b65e1a31cb430efddb7f0",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -580,15 +580,15 @@
     }
   },
   "8_CX4150a_GPU.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-d20ae4c996f3.png",
+    "path": "illustrations/published/CX4150a/cx4150a-d20ae4c996f3.jpg",
     "source_path": "illustrations/4u/CX4150a/8_CX4150a_GPU.jpg",
     "source_sha256": "940e8b56baf0fca6240e6ff628a2d97641a96dc243e9c388063eb65c1fbc63c8",
-    "sha256": "035d28518e93ed131af363decbe5e4d61b5d69df55c1a9b5ef01b21b7ba4ac72",
+    "sha256": "97a586ede56f71aac2fe9bfa65f991978c0101704c8a3c1a502d9c946e135535",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -609,15 +609,15 @@
     }
   },
   "9_CX4150a_RACK EARS.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-cd3366dd7029.png",
+    "path": "illustrations/published/CX4150a/cx4150a-cd3366dd7029.jpg",
     "source_path": "illustrations/4u/CX4150a/9_CX4150a_RACK EARS.jpg",
     "source_sha256": "5c0674dd374fc6a0068005e771d3d5fef804e4090ef33f6ccecec9f2dbac913c",
-    "sha256": "31d090ddc232f2ea3fbb4df0e504d87cd4ed1c6a2d01c0e614590e5a991640d3",
+    "sha256": "b6609cc3b506a6f6bc59fa9f5629e13c52d1b93d42eb870d52a2306b588b0dff",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -638,15 +638,15 @@
     }
   },
   "_CX4150a_ADVANCED_FRONT VIEW.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-bd0965b30a9c.png",
+    "path": "illustrations/published/CX4150a/cx4150a-bd0965b30a9c.jpg",
     "source_path": "illustrations/4u/CX4150a/_CX4150a_ADVANCED_FRONT VIEW.jpg",
     "source_sha256": "0d01c44f4560523fce1fe3e985fe478035b120efce469511f8f46b712f635e69",
-    "sha256": "1f05b8fea08db07fa3eac021fd3486681cc7d44df5904f8c077ad6dd4b845438",
+    "sha256": "942f01745929097bdd220041cf3aa917cdc6899e3451b39bcc716e50658387c6",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -667,15 +667,15 @@
     }
   },
   "_CX4150a_ADVANCED_TOP VIEW.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-edfa8b449892.png",
+    "path": "illustrations/published/CX4150a/cx4150a-edfa8b449892.jpg",
     "source_path": "illustrations/4u/CX4150a/_CX4150a_ADVANCED_TOP VIEW.jpg",
     "source_sha256": "8f28a70069a87d8563b62db7aaf822304a3f679ee8cdaba68e2097a31d16f12d",
-    "sha256": "02f57869060b018fe10c42b6072bd7fac7f62d53daace49b304a4fd5daaac10e",
+    "sha256": "5d1e14cc73133b06fa689c3fc02cca247f88ac7fe47ea5eee33503e78eb6d74e",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [
@@ -696,15 +696,15 @@
     }
   },
   "_CX4150a_rendering.jpg": {
-    "path": "illustrations/published/CX4150a/cx4150a-d108bd202293.png",
+    "path": "illustrations/published/CX4150a/cx4150a-d108bd202293.jpg",
     "source_path": "illustrations/4u/CX4150a/_CX4150a_rendering.jpg",
     "source_sha256": "9a76006009c9b23f612d187e99e41400a3f5e2ad6896c65c295cb43dd3f9cd12",
-    "sha256": "4e2c37fa3c0068abcd576d8641a468c63160d71bf48333fb0597740d803eea79",
+    "sha256": "f2601398294ab6b5a785b0de190d6fb861deadc13a1b267c007ef6a83bf2b74e",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [

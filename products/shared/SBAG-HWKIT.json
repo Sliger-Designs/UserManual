@@ -74,13 +74,13 @@
     },
     {
       "letter": "D",
-      "name": "M3 \u00d7 6 mm screws",
+      "name": "M3 screws (5 mm thread)",
       "color": "blue",
       "quantity": "16",
       "description": "2.5-inch SSDs and some 3.5-inch accessories.",
       "image": "common/hardware/BLUE PATCHED SCREWS.jpg",
-      "reference": "blue-patched M3 \u00d7 6 mm screws",
-      "specification_status": "reference_table",
+      "reference": "blue-patched M3 screws",
+      "specification_status": "owner_measured",
       "quantity_source": "Owner confirmation, 2026-10-27; shared rackmount screwbag SBAG-HWKIT.",
       "detail_images": [
         "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_top.jpg",
@@ -90,7 +90,12 @@
         "id": "owner_decision",
         "date": "2026-11-04",
         "record": "sources/owner/2026-11-04-rackmount-hardware-artwork.md"
-      }
+      },
+      "thread": "M3",
+      "threaded_length_mm": 5,
+      "overall_length_mm": 8,
+      "part_number": "217-477P",
+      "note": "Same blue-patched screw as S630/S640 E. Owner measured 5 mm of thread and 8 mm overall; the reference table's M3 x 6 mm is the MRP value. Applied to rackmount kits 2026-11-04."
     },
     {
       "letter": "E",

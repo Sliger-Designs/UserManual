@@ -660,15 +660,15 @@
     "status": "prototype_selection_needs_review"
   },
   "common/4u-rack-ear/_CX4170a_RACK_EAR.jpg": {
-    "path": "illustrations/published/common/common-40fdb5912087.png",
+    "path": "illustrations/published/common/common-40fdb5912087.jpg",
     "source_path": "illustrations/common/4u-rack-ear/_CX4170a_RACK_EAR.jpg",
     "source_sha256": "40fdb59120873f5552f7627f4e7ca2dee8a644c305f769c57fb720f3c5025ba0",
-    "sha256": "5538b2aa50661dde93de740908d16e9a99493c1067571bd9d3a711fd7371b5de",
+    "sha256": "828f4d13e6219f78be945a79534e2a8a5ddf83a5dd2662946044239764a85ddb",
     "dimensions_px": [
       1800,
       872
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
     "background_cleanup": {
       "reference_rgb": [

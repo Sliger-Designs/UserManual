@@ -47,7 +47,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing — drive cage installed",
+      "title": "Clearance drawing \u2014 drive cage installed",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -57,7 +57,7 @@
     },
     {
       "id": "clearance-without-cage",
-      "title": "Clearance drawing — cage removed",
+      "title": "Clearance drawing \u2014 cage removed",
       "section": "01 / PRODUCT INFORMATION",
       "source": "clearance-without-cage.md",
       "images": [
@@ -471,6 +471,12 @@
       "needed": "CRPS adapter installation illustrations, only if the manual should cover the optional CRPS configurations",
       "section": "psu-installation",
       "suggested_folder": "illustrations/common/psu/ or model-specific folder"
+    },
+    {
+      "id": "M05",
+      "needed": "Separate renders of the left and right rack ears and the left and right pull handles for this form factor (owner to supply). The current rack-ear image shows an ear with a handle attached.",
+      "section": "hardware",
+      "suggested_folder": "illustrations/common/"
     }
   ],
   "cover_description": "17\" DEEP 4U CHASSIS",

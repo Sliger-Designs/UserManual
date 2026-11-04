@@ -19,16 +19,26 @@ with the part-numbered renders already used by the S630/S640 (see
 | F pink M4 × 7 mm | 217-720K | Black flat-head, matching the existing F artwork |
 
 E is renamed **6-32 × 0.25-inch flat-head screws (217-019)**, as the owner specified on
-2026-11-02 for all rackmount kits; quantities are unchanged. D keeps its reference-table
-label (M3 × 6 mm) pending the owner's decision on whether the S6xx measurement of the
-same screw (5 mm thread, 8 mm overall) applies.
+2026-11-02 for all rackmount kits; quantities are unchanged. D is relabelled **M3 screws
+(5 mm thread)**: the owner confirmed that the S6xx measurement of the same screw (5 mm of
+thread, 8 mm overall) applies to rackmount kits; the reference table's M3 × 6 mm is the MRP
+value.
 
 The hardware page uses the S630/S640 sizes for screws with top/side views.
 
 ## Background cleanup
 
-The CX4150a renders and the shared 4U rack ear use a flat background of RGB
+The CX4150a, CX4170a and CX3150a renders and the shared 4U rack ear use a flat background of RGB
 (250, 252, 251). Pixels within 4 levels per channel of that color are replaced with white;
 every other pixel, the dimensions and the framing are preserved. This is the non-AI method
 the owner authorized for the S630/S640 (`2026-11-02-SFF-render-cleanup.md`). Originals and
 their inventory hashes are unchanged; settings are recorded in each inventory entry.
+
+Rackmount publication copies of cleaned renders are JPEG (quality 90, subsampling 0) to keep
+the repository small, as the owner approved. S630/S640 copies remain lossless PNG.
+
+## Rack ears and pull handles
+
+The current rack-ear image shows an ear with a pull handle attached. The owner will supply
+separate left/right rack-ear and left/right pull-handle renders for each form factor;
+until then each rackmount manual lists them as missing artwork (M05).
