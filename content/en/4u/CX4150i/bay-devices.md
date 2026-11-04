@@ -10,4 +10,4 @@ Slide the device into the bracket. Align its mounting holes with the bracket and
 
 ### 3. Or keep the filler blank
 
-Without a 5.25-inch device, refit the filler blank to the bracket with {{ hw('A') }}. Mount 2.5-inch SSDs and a 3.5-inch HDD on the blank as needed.
+Without a 5.25-inch device, refit the filler blank to the bracket with {{ hw('A') }}. To mount drives on the blank, see {{ ref('bay-blank-drives', 'Mount drives on a filler blank') }}.

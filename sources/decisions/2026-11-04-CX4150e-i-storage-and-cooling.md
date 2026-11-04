@@ -27,6 +27,10 @@ import sheet's "not officially supported" disclaimer for this configuration does
 - `drive6.1.jpg.jpg` shows a 3.5-inch HDD installed through the bottom mounting holes of a
   5.25-inch bay filler blank (green E screws, as rendered).
 - `SCREW INTERFERE.jpg` shows a 240 mm AIO touching one of the screws that retain a device
-  in the 5.25-inch bays. With a 240 mm AIO, use a countersunk (flat-head) screw in that
-  position instead of a hex-head screw. The render is not used; the requirement is stated
+  in the 5.25-inch bays. With a 240 mm AIO, use a countersunk screw in that position instead
+  of a hex-head screw: 217-621 (B, M3) or 217-019 (E, 6-32), to match the device's thread. The render is not used; the requirement is stated
   on the AIO and bay-device pages.
+
+The CX4150i needs no such note: its bay is above the AIO and fans. Its filler blank takes a
+3.5-inch HDD in the same bottom-hole position as the CX4150e, so both manuals use the
+shared render `common/4u-bay-blank/drive6.1.jpg.jpg`.

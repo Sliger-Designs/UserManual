@@ -8,7 +8,7 @@ To use a bay for a 5.25-inch device, remove the {{ hw('A') }} securing that bay'
 
 Slide the device into the bracket from the front. Align its mounting holes with the bracket and secure it with {{ hw('D') }} on both sides. A 5.25-inch to 3.5-inch adapter is available separately.
 
-**With a 240 mm AIO:** the radiator can touch a hex-head screw retaining a 5.25-inch device. Use a countersunk (flat-head) screw in that position instead.
+**With a 240 mm AIO:** the radiator can touch a hex-head screw retaining a 5.25-inch device. Use a countersunk (flat-head) screw in that position instead: {{ hw('B') }} for M3-threaded devices, or {{ hw('E') }} for 6-32-threaded devices.
 
 ### 3. Keep the blanks in unused bays
 

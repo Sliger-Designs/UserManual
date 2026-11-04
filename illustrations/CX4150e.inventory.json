@@ -869,18 +869,7 @@
       "size_bytes": 406594,
       "sha256": "c8e753709077b1b90842156966e9418363174ee844a6bfa52639bcd3ec9d4ab7",
       "selection_status": "candidate",
-      "note": "3.5-inch HDD mounted through the bottom holes of a 5.25-inch bay filler blank (confirmed 2026-11-04).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX4150e/drive6.1-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
+      "note": "Shared as common/4u-bay-blank/drive6.1.jpg.jpg (CX4150e and CX4150i filler-blank HDD mounting)."
     }
   ]
 }

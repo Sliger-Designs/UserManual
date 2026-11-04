@@ -897,34 +897,5 @@
       ],
       "full_resolution_sha256": "1156d8a9a7001814de722a36db7cf798e50f00fd762e645f53b25f1172fe6a8e"
     }
-  },
-  "drive6.1.jpg.jpg": {
-    "path": "illustrations/published/CX4150e/cx4150e-fee39afaa5af.jpg",
-    "source_path": "illustrations/4u/CX4150e/drive6.1.jpg.jpg",
-    "source_sha256": "c8e753709077b1b90842156966e9418363174ee844a6bfa52639bcd3ec9d4ab7",
-    "sha256": "92192a2723e26e910ffbddf1d8273571219b0a10224de69baeb390aca974fffd",
-    "dimensions_px": [
-      1800,
-      1286
-    ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 11350186,
-      "total_pixels": 13577040,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX4150e/drive6.1-white.png",
-      "full_resolution_dimensions_px": [
-        4360,
-        3114
-      ],
-      "full_resolution_sha256": "aacf96292d84eeb370e78f1adc018d4725680c6fc7abf916de3caad5719d624f"
-    }
   }
 }
