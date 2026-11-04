@@ -1,0 +1,5 @@
+| Document | Revision | Date | Notes |
+| --- | --- | --- | --- |
+| Templated CX4200i prototype | 0.1 | 2026/11/04 | First assembly from shared 4U rackmount procedures, SBAG-HWKIT, approved specification values, CX4200i illustrations and clearance drawings, the CX4170a drive-cage pages, and one 5.25-inch bay. |
+
+This is a technical review draft. Missing artwork is listed in the manual's build report.

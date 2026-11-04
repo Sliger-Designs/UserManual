@@ -1,0 +1,556 @@
+{
+  "model": "CX4200i",
+  "language": "en",
+  "language_label": "ENGLISH",
+  "revision": "Prototype 0.1",
+  "status": "Technical review draft",
+  "text_checks": {
+    "required": [
+      "508",
+      "431.8",
+      "176.78",
+      "475 mm",
+      "450 mm",
+      "422 mm",
+      "398 mm",
+      "268 mm",
+      "153",
+      "158 mm",
+      "One 5.25-inch bay",
+      "8 × 7 mm",
+      "9 × 7 mm"
+    ],
+    "forbidden": [
+      "509",
+      "SFX or SFX-L"
+    ]
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "title": "CX4200i",
+      "section": "USER GUIDE",
+      "source": "cover.md",
+      "images": [
+        "_CX4200i_rendering.jpg"
+      ],
+      "layout": "cover"
+    },
+    {
+      "id": "contents",
+      "title": "In this guide",
+      "section": "START HERE",
+      "source": "contents.md",
+      "images": [],
+      "layout": "contents"
+    },
+    {
+      "id": "exploded-view",
+      "title": "Exploded view",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "CX4200i.jpg"
+      ],
+      "layout": "exploded"
+    },
+    {
+      "id": "dimensions",
+      "title": "Clearance drawing — drive cage installed",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "dimensions.md",
+      "images": [
+        "_CX4200i_ADVANCED_TOP VIEW.jpg"
+      ],
+      "layout": "reference-drawing"
+    },
+    {
+      "id": "clearance-without-cage",
+      "title": "Clearance drawing — cage removed",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "clearance-without-cage.md",
+      "images": [
+        "_CX4200i_ADVANCED_TOP VIEW 2.jpg"
+      ],
+      "layout": "reference-drawing"
+    },
+    {
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "front-clearance.md",
+      "images": [
+        "_CX4200i_ADVANCED_FRONT VIEW.jpg"
+      ],
+      "layout": "reference-drawing"
+    },
+    {
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "specifications.md",
+      "images": [],
+      "layout": "specifications"
+    },
+    {
+      "id": "hardware",
+      "title": "Hardware kit",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/hardware.md",
+      "images": [
+        "common/hardware/YELLOW PATCHED SCREWS.jpg",
+        "common/hardware/RED PATCHED SCREWS.jpg",
+        "common/hardware/BLACK HEX STANDOFFS.jpg",
+        "common/hardware/BLUE PATCHED SCREWS.jpg",
+        "common/hardware/GREEN PATCHED SCREWS.jpg",
+        "common/hardware/M4 THREAD SCREWS.jpg",
+        "common/hardware/slot-covers-reference.png",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_side.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Top.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Side.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_top.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_side.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
+        "common/hardware/4URackEars.jpg",
+        "common/hardware/4UPullHandles.jpg"
+      ],
+      "layout": "hardware-key"
+    },
+    {
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/front-ports.md",
+      "images": [
+        "_CX4200i_FRONT.tif",
+        "common/front-io/PowerAndLED_greyscale.png",
+        "common/front-io/20pinUSB3_greyscale.png",
+        "common/front-io/TypeEUSBC_greyscale.png"
+      ],
+      "layout": "front-io",
+      "image_annotations": {
+        "_CX4200i_FRONT.tif": "fpio-callouts.json"
+      }
+    },
+    {
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/lid-removal.md",
+      "images": [
+        "1a_CX4200i_LID UNSCREW.jpg",
+        "1b_CX4200i_LID SLIDE BACK.jpg",
+        "1c_CX4200i_LID REMOVE.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/faceplate-removal.md",
+      "images": [
+        "2_CX4200i_FACEPLATE REMOVE.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/tray-removal.md",
+      "images": [
+        "12a_CX4200i_TRAY UNSCREW.jpg",
+        "12b_CX4200i_TRAY SLIDE BACK.jpg",
+        "12c_CX4200i_TRAY SLIDE BACK 2.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/rack-ears.md",
+      "images": [
+        "11_CX4200i_RACK EARS.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "F",
+          "H",
+          "I"
+        ]
+      ]
+    },
+    {
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "bay-bracket-removal.md",
+      "images": [
+        "3a_CX4200i_DRIVE BRACKET UNSCREW.jpg",
+        "3a1_CX4200i_DRIVE BRACKET SLIDE BACK.jpg",
+        "3b_CX4200i_DRIVE BRACKET REMOVE.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "E"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "drive-cage-removal",
+      "title": "Remove the internal drive cage",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "drive-cage-removal.md",
+      "images": [
+        "3c_CX4200i_DRIVE BRACKET 2 UNSCREW.jpg",
+        "3d_CX4200i_DRIVE BRACKET 2 REMOVE.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/fan-installation.md",
+      "images": [
+        "4a_CX4200i_FAN INSTALL.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "aio-installation.md",
+      "images": [
+        "4b_CX4200i_FAN INSTALL PRECOOLER.jpg",
+        "4c_CX4200i_AIO + FAN INSTALL.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "cooling-clearance",
+      "title": "Radiator & drive-cage clearance",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "cooling-clearance.md",
+      "images": [],
+      "layout": "text",
+      "illustration_pending": "Radiator and drive-cage clearance illustrations pending"
+    },
+    {
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "push-pull.md",
+      "images": [],
+      "layout": "text",
+      "illustration_pending": "Push-pull installation illustration pending"
+    },
+    {
+      "id": "drive-cage-drives",
+      "title": "Install drives in the cage",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "drive-cage-drives.md",
+      "images": [
+        "3c_CX4200i_DRIVES INSTALL.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "D"
+        ]
+      ]
+    },
+    {
+      "id": "drive-cage-layouts-1",
+      "title": "Drive-cage layout examples",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "drive-cage-layouts-1.md",
+      "images": [
+        "common/4u-drive-cage/3xHDD.png",
+        "common/4u-drive-cage/3xHDD_1xSSD.png",
+        "common/4u-drive-cage/2xHDD_3xSSD.png",
+        "common/4u-drive-cage/8xSSD.png",
+        "common/4u-drive-cage/9xSSD.png"
+      ],
+      "layout": "illustrated-cards"
+    },
+    {
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/motherboard-preparation.md",
+      "images": [
+        "5a_CX4200i_STANDOFF INSTALL.jpg",
+        "6a_CX4200i_MOTHERBOARD IO SHIELD.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "C"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/motherboard-installation.md",
+      "images": [
+        "6b_CX4200i_MOTHERBOARD.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "C"
+        ]
+      ]
+    },
+    {
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "psu-installation.md",
+      "images": [
+        "7_CX4200i_PSU.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ]
+      ]
+    },
+    {
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/gpu-installation.md",
+      "images": [
+        "9_CX4200i_GPU.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "G"
+        ]
+      ]
+    },
+    {
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/4u-ssd-installation.md",
+      "images": [
+        "8_CX4200i_SSD.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "B"
+        ]
+      ]
+    },
+    {
+      "id": "drive-cage-installation",
+      "title": "Reinstall the drive cage",
+      "section": "04 / REASSEMBLY",
+      "source": "drive-cage-installation.md",
+      "images": [
+        "10a_CX4200i_DRIVE BRACKET 2 INSTALL.jpg",
+        "10b_CX4200i_DRIVE BRACKET 2 SCREW.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [],
+        [
+          "E"
+        ]
+      ]
+    },
+    {
+      "id": "bay-devices",
+      "title": "Fit a 5.25-inch device or filler blank",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "bay-devices.md",
+      "images": [
+        "3e_CX4200i_BAY FILLER REMOVE.jpg",
+        "drive4.jpg.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "bay-blank-drives",
+      "title": "Mount drives on a filler blank",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "bay-blank-drives.md",
+      "images": [
+        "common/4u-bay-blank/drive6.1.jpg.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ]
+      ]
+    },
+    {
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "bay-bracket-installation.md",
+      "images": [
+        "10c_CX4200i_DRIVE BRACKET 2 FRONT SCREW INSTALL.jpg",
+        "10d_CX4200i_DRIVE BRACKET 2 SIDE SCREW INSTALL.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [
+          "E"
+        ]
+      ]
+    },
+    {
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "section": "04 / REASSEMBLY",
+      "source": "../../shared/rackmount/tray-installation.md",
+      "images": [
+        "12d_CX4200i_TRAY INSTALL.jpg",
+        "12e_CX4200i_TRAY INSTALL 2.jpg",
+        "12f_CX4200i_TRAY INSTALL 3.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        [],
+        [
+          "E"
+        ]
+      ]
+    },
+    {
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "section": "04 / REASSEMBLY",
+      "source": "cable-management.md",
+      "images": [],
+      "layout": "text"
+    },
+    {
+      "id": "support",
+      "title": "Warranty & support",
+      "section": "05 / REFERENCE",
+      "source": [
+        "../../shared/warranty.md",
+        "../../shared/support.md"
+      ],
+      "images": [],
+      "layout": "reference-columns",
+      "reference_sections": [
+        "4.1",
+        "4.2"
+      ]
+    },
+    {
+      "id": "regulations",
+      "title": "Regulations",
+      "section": "05 / REFERENCE",
+      "source": "../../shared/regulations.md",
+      "images": [
+        "common/icons/RoHScompliant.png",
+        "common/icons/REACHcompliant.png",
+        "common/icons/ResponsibleMineralsInitive.png",
+        "common/icons/MadeInUSA-reference.png"
+      ],
+      "layout": "regulations",
+      "reference_sections": [
+        "4.3"
+      ]
+    },
+    {
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "section": "05 / REFERENCE",
+      "source": "revision-history.md",
+      "images": [],
+      "layout": "text"
+    }
+  ],
+  "nominal_dimensions_in": {
+    "depth": 20,
+    "width": 17,
+    "height": 6.96
+  },
+  "missing_assets": [
+    {
+      "id": "M02",
+      "needed": "Push-pull (360 mm radiator, six fans) installation renders; the push-pull page is text only until supplied.",
+      "section": "push-pull",
+      "suggested_folder": "illustrations/4u/CX4200i/"
+    },
+    {
+      "id": "M03",
+      "needed": "Radiator and drive-cage clearance renders (as CX4170a 4c1/4c2); the clearance page is text only until supplied.",
+      "section": "cooling-clearance",
+      "suggested_folder": "illustrations/4u/CX4200i/"
+    },
+    {
+      "id": "M04",
+      "needed": "Render of a 5.25-inch device installed in the bay bracket.",
+      "section": "bay-devices",
+      "suggested_folder": "illustrations/4u/CX4200i/"
+    }
+  ],
+  "cover_description": "20\" DEEP 4U CHASSIS",
+  "cover_description_detail": "1 × 5.25\" BAY",
+  "cover_format": "landscape"
+}

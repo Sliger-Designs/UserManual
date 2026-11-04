@@ -600,5 +600,155 @@
       },
       "note": "Total mounting locations; not all usable at once."
     }
+  },
+  "CX4200a": {
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "drive_cage": 8
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 3,
+      "configuration": {
+        "drive_cage": 3
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    }
+  },
+  "CX4200e": {
+    "ssd_2_5_max": {
+      "value": 6,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 2,
+        "bays": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "bays": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    }
+  },
+  "CX4200f": {
+    "ssd_2_5_max": {
+      "value": 8,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 2,
+        "bays": 3
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 3,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "bays": 3
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "gpu_length_baseline_mm": {
+      "value": 424,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import sheet and website value; the compatibility CSV value is 51 mm higher, apparently copied from the CX4200a."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 398,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import sheet and website value; the compatibility CSV value is 51 mm higher, apparently copied from the CX4200a."
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": 371,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import sheet and website value; the compatibility CSV value is 51 mm higher, apparently copied from the CX4200a."
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": 347,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import sheet and website value; the compatibility CSV value is 51 mm higher, apparently copied from the CX4200a."
+    }
+  },
+  "CX4200i": {
+    "ssd_2_5_max": {
+      "value": 12,
+      "configuration": {
+        "motherboard_tray": 2,
+        "drive_cage": 8,
+        "bay_filler_blank": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 4,
+      "configuration": {
+        "drive_cage": 3,
+        "bay_filler_blank": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-CX4200-storage-and-cooling.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    }
   }
 }
