@@ -217,7 +217,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
             'motherboard-preparation': ['(C)'], 'motherboard-installation': ['(A)', '(C)'],
             'psu-installation': ['(A)'], 'gpu-installation': ['(A)', '(G)'],
             'ssd-installation': ['(B)', '5 mm long'], 'tray-installation': ['(E)']}.items():
-        content = pdf[page_numbers[identifier] - 1].get_text()
+        content = normalize(pdf[page_numbers[identifier] - 1].get_text())
         for required in expected:
             if english or required.startswith('('):
                 assert required in content, (identifier, required)

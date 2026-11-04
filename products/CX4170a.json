@@ -84,18 +84,19 @@
       "raw": ""
     },
     "ssd_2_5_max": {
-      "value": 9,
+      "value": 10,
       "configuration": {
-        "mount": "internal drive cage",
         "drive_thickness_mm": 7,
-        "layout_example": 5
+        "drive_cage": 8,
+        "motherboard_tray": 2,
+        "motherboard_tray_alternative": "one SSD up to 15 mm thick"
       },
       "source": {
         "id": "owner_decision",
-        "date": "2026-10-27",
-        "record": "products/CX4170a-drive-layouts.json"
+        "date": "2026-11-04",
+        "record": "sources/owner/2026-11-04-CX4170a-ssd-capacity.md"
       },
-      "note": "Highest confirmed cage count is nine 7 mm SSDs in the 9xSSD.png orientation (current example 5). The other all-SSD orientation supports eight. Do not infer an additional tray+cage total."
+      "note": "Official listed capacity: ten 7 mm 2.5-inch SSDs, eight in the drive cage plus two on the motherboard tray. Nine fit in the cage only with the drives interlocked (\"laced\") so that none sit flat; that layout (example 5) is shown as technically possible and is not counted. The tray positions follow the all-4U tray mounting (sources/owner/2026-11-04-4U-tray-ssd-mounting.md)."
     },
     "hdd_3_5_max": {
       "value": 3,

@@ -7,7 +7,7 @@
   "pages": [
     {
       "id": "cover",
-      "title": "CX3150a",
+      "title": "CX4170a",
       "section": "USER GUIDE",
       "source": "cover.md",
       "images": [
@@ -339,7 +339,7 @@
       "id": "ssd-installation",
       "title": "Install a 2.5-inch SSD",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "ssd-installation.md",
+      "source": "../../shared/rackmount/4u-ssd-installation.md",
       "images": [
         "8_CX4170a_SSD.jpg"
       ],

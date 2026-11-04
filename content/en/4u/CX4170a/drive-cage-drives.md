@@ -1,6 +1,6 @@
 ### 1. Choose the drive layout
 
-The illustration is one populated example, not a promise that every drive mount can be used at the same time. Confirmed cage layouts include **{{ facts.hdd_3_5_max }} 3.5-inch HDDs**, **three HDDs + one 7 mm SSD**, **two HDDs + three 7 mm SSDs**, and **eight or nine 7 mm SSDs**, depending on orientation.
+The illustration is one populated example, not a promise that every drive mount can be used at the same time. Confirmed cage layouts include **{{ facts.hdd_3_5_max }} 3.5-inch HDDs**, **three HDDs + one 7 mm SSD**, **two HDDs + three 7 mm SSDs**, and **eight 7 mm SSDs**. Nine SSDs fit only when interlocked so that none sit flat.
 
 ### 2. Align the drive mounting holes
 

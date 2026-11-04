@@ -4,7 +4,7 @@
     "id": "owner_confirmation_and_renamed_images",
     "date": "2026-10-27"
   },
-  "scope": "Drive cage only; additional tray positions must not be added without validation.",
+  "scope": "Drive cage only. Official cage capacity is eight 7 mm SSDs (example 4); the motherboard tray adds two for the listed ten (owner decision 2026-11-04).",
   "layouts": [
     {
       "example": 1,
@@ -32,14 +32,22 @@
       "hdd_3_5": 0,
       "ssd_2_5": 8,
       "ssd_thickness_mm": 7,
-      "image": "common/4u-drive-cage/8xSSD.png"
+      "image": "common/4u-drive-cage/8xSSD.png",
+      "status": "official_cage_capacity"
     },
     {
       "example": 5,
       "hdd_3_5": 0,
       "ssd_2_5": 9,
       "ssd_thickness_mm": 7,
-      "image": "common/4u-drive-cage/9xSSD.png"
+      "image": "common/4u-drive-cage/9xSSD.png",
+      "status": "technically_possible_not_counted",
+      "note": "Drives interlock (\"lace\") and none sit flat. Shown because it can be installed; not part of the listed capacity.",
+      "source": {
+        "id": "owner_decision",
+        "date": "2026-11-04",
+        "record": "sources/owner/2026-11-04-CX4170a-ssd-capacity.md"
+      }
     }
   ]
 }

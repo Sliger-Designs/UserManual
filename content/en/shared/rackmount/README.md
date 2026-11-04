@@ -7,3 +7,5 @@ Each model selects its own illustrations and hardware callout placements. Produc
 Front connectors default to the supplied grayscale drawings. The front-panel location cutout remains model-specific until the owner confirms a common drawing.
 
 `4u-rear-fan-ssd.md` is an owner-confirmed compatibility restriction for all 4U chassis. The build applies it automatically on the `ssd-installation` page when the product height is 4U, using `products/shared/compatibility-rules.json`. It does not apply to 3U manuals or rule out the separate drive cage.
+
+`4u-ssd-installation.md` is the SSD page for every 4U chassis: all 4U trays share the same rear mounting (two 7 mm SSDs or one 15 mm SSD), owner-confirmed 2026-11-04.
