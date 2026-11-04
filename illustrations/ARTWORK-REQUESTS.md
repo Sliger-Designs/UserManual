@@ -18,7 +18,8 @@ Confirmed 2026-11-04:
   (`illustrations/common/hardware/{2U,3U,4U}{RackEars,PullHandles}.jpg`).
 - 2U chassis have no motherboard tray, so they need no tray renders. 2U AIO renders may be
   supplied later; until then 2U manuals describe AIO installation in text.
-- The CX3701 and CX3702 do not use motherboard standoffs.
+- The CX3701 and CX3702 do not use motherboard standoffs. Of their successors (website concepts),
+  the CX3150n (CX3701 "v2") uses no standoffs and the CX3180n (CX3702 "v2") uses standoffs.
 - The CX3151i I/O-shield step uses the CX3151a or CX3151x render.
 
 ## Published manuals: open items
@@ -62,6 +63,12 @@ sibling to borrow shared steps from; each reuse is confirmed when that family is
 | CX3172i XL | 8 | Installation steps; cover render | CX3172a XL |
 | CX3701 | 42 | AIO renders; front-panel render | No standoffs |
 | CX3702 | 44 | Front-panel render | No standoffs |
+
+## Concept models
+
+The CX3150n, CX3180n, CX4250n and CX4280n are listed on the website as concepts ahead of
+preorder. Their manuals are built once renders and specifications are available; none are
+requested yet.
 
 ## 2U: not yet built
 
