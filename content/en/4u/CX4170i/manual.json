@@ -16,8 +16,8 @@
       "153",
       "158 mm",
       "One 5.25-inch bay",
-      "8 × 7 mm",
-      "9 × 7 mm"
+      "8 \u00d7 7 mm",
+      "9 \u00d7 7 mm"
     ],
     "forbidden": [
       "433",
@@ -55,7 +55,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing — drive cage installed",
+      "title": "Clearance drawing \u2014 drive cage installed",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -65,7 +65,7 @@
     },
     {
       "id": "clearance-without-cage",
-      "title": "Clearance drawing — cage removed",
+      "title": "Clearance drawing \u2014 cage removed",
       "section": "01 / PRODUCT INFORMATION",
       "source": "clearance-without-cage.md",
       "images": [
@@ -547,6 +547,7 @@
       "suggested_folder": "illustrations/4u/CX4170i/"
     }
   ],
-  "cover_description": "17\" DEEP 4U CHASSIS · 5.25\" BAY",
+  "cover_description": "17\" DEEP 4U CHASSIS",
+  "cover_description_detail": "1 \u00d7 5.25\" BAY",
   "cover_format": "landscape"
 }

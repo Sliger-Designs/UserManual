@@ -48,7 +48,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing — top view",
+      "title": "Clearance drawing \u2014 top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -455,6 +455,7 @@
       "suggested_folder": "illustrations/4u/CX4150e/"
     }
   ],
-  "cover_description": "15\" DEEP 4U CHASSIS · 2 × 5.25\" BAYS",
+  "cover_description": "15\" DEEP 4U CHASSIS",
+  "cover_description_detail": "2 \u00d7 5.25\" BAYS",
   "cover_format": "landscape"
 }
