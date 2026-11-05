@@ -13,3 +13,5 @@ Front connectors default to the supplied grayscale drawings. The front-panel loc
 `3u-ssd-installation.md` is the SSD page for the 15-inch 3U chassis (CX3150a, CX3150i, CX3150x): their trays take two 7 mm SSDs or one 15 mm SSD, confirmed 2026-11-05. `two-fan-installation.md` replaces `fan-installation.md` on chassis with two front fans.
 
 `bay-blank-drives.md` is the filler-blank page for every chassis with a 5.25-inch bay. The filler blank is one part shared across all of them (confirmed 2026-11-05), so every manual uses this page with the shared renders in `illustrations/common/4u-bay-blank/`.
+
+`riser-rear-cover-removal.md`, `riser-gpu-brace.md`, `riser-gpu-installation.md` and `hardware-gpukit.md` cover the horizontal riser GPU of the CX3151a, CX3151i and CX3151x, with the CX3151-GPUKIT braces and screws (confirmed 2026-11-05).

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "part_number": "CX3151-GPUKIT",
+  "applies_to": "CX3151a, CX3151i and CX3151x (separately packaged kit, in addition to SBAG-HWKIT).",
+  "quantity_source": {
+    "id": "decision",
+    "date": "2026-11-05",
+    "record": "sources/decisions/2026-11-05-CX3151-family.md"
+  },
+  "items": [
+    {
+      "letter": "J",
+      "name": "GPU support braces",
+      "quantity": "2",
+      "description": "3D printed. Short brace for GPUs with a backplate, tall brace for GPUs without one.",
+      "image": null,
+      "artwork_pending": "Artwork pending",
+      "reference": "GPU support brace"
+    },
+    {
+      "letter": "K",
+      "name": "6-32 × 1-inch screws (217-349)",
+      "quantity": "2",
+      "description": "Secure the GPU support brace to the motherboard tray.",
+      "image": null,
+      "artwork_pending": "Artwork pending",
+      "reference": "brace screws",
+      "part_number": "217-349",
+      "color_label": "Teal in drawings"
+    }
+  ]
+}
