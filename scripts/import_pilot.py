@@ -46,6 +46,8 @@ NUMBERS = {'depth_in', 'width_in', 'volume_l', 'ssd_2_5_max', 'hdd_3_5_max',
            'gpu_length_fans_only_mm', 'gpu_length_fans_aio_mm', 'gpu_length_max_cooling_mm'}
 ISSUES = {
     'CX3150a': [],
+    'CX3150i': [],
+    'CX3150x': [],
     'CX4150a': [],
     'CX4150e': [],
     'CX4150i': [],
@@ -145,7 +147,8 @@ def main():
                 for name, (number, row) in matches.items()
             },
         }
-        if facts.get('aio_360_six_fan_push_pull_supported', {}).get('value') is False:
+        if any(facts.get(key, {}).get('value') is False for key in (
+                'aio_360_six_fan_push_pull_supported', 'aio_240_four_fan_push_pull_supported')):
             candidate = record['manual_copy_candidates']['Max Length with AIO push-pull']
             candidate['status'] = 'excluded_unsupported_configuration'
             candidate['reason'] = 'Confirmed this configuration is officially unsupported.'

@@ -8,7 +8,9 @@ tools used to translate them.
 |---|---|---|---|
 | S630 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S630/v1.0/S630-en-v1.0.pdf) |
 | S640 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S640/v1.0/S640-en-v1.0.pdf) |
-| CX3150a | 3U rackmount | Review draft (Prototype 0.2) | built by CI and on the site |
+| CX3150a | 3U rackmount | Review draft (Prototype 0.3) | built by CI and on the site |
+| CX3150i | 3U rackmount, one 5.25" bay | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3150x | 3U rackmount, internal drive bracket | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX4150a | 4U rackmount | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX4150e | 4U rackmount, two 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX4150i | 4U rackmount, one 5.25" bay | Review draft (Prototype 0.1) | built by CI and on the site |
@@ -57,7 +59,7 @@ python3 -m venv .venv
 .venv/bin/python scripts/build_manual.py --model S630
 ```
 
-Every model builds the same way (`--model S640`, `CX3150a`, `CX4150a`, `CX4150e`, `CX4150i`, `CX4170a`, `CX4170e`, `CX4170i`, `CX4200a`, `CX4200e`, `CX4200f`, `CX4200i`, `CX4712`, `CX4713`). A build writes
+Every model builds the same way (`--model S640`, `CX3150a`, `CX3150i`, `CX3150x`, `CX4150a`, `CX4150e`, `CX4150i`, `CX4170a`, `CX4170e`, `CX4170i`, `CX4200a`, `CX4200e`, `CX4200f`, `CX4200i`, `CX4712`, `CX4713`). A build writes
 standalone HTML, a landscape Letter PDF, a page overview and a validation report under
 `_build/`, and fails if text overflows a page, a link breaks, an image is missing, or
 approved values or wording differ. Released SFF manuals build into

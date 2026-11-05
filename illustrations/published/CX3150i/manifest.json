@@ -1,0 +1,1017 @@
+{
+  "10a_CX3150i_DRIVE BRACKET INSTALL.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-c7713efb1d31.jpg",
+    "source_path": "illustrations/3u/CX3150i/10a_CX3150i_DRIVE BRACKET INSTALL.jpg",
+    "source_sha256": "f256a35f4ecfa6c8a7389a08ce8590df2dca8aec0ad3e1d5bf3aea6ed41d7f91",
+    "sha256": "1c40020a5360d31e3b7d918429051a7b29592aa3d4a1b7c4144b450f5724e4ef",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8020491,
+      "total_pixels": 23981366,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/10a_CX3150i_DRIVE BRACKET INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        5794,
+        4139
+      ],
+      "full_resolution_sha256": "d1e27ed8a217ebfcc0f43bc49b874b3485310cc38b6f94e849fac0ea3d2c56f1"
+    }
+  },
+  "10b_CX3150i_DRIVE BRACKET INSTALL 018A.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-44783e7e060d.jpg",
+    "source_path": "illustrations/3u/CX3150i/10b_CX3150i_DRIVE BRACKET INSTALL 018A.jpg",
+    "source_sha256": "253d9990d24fa7beaeae59d3f2f288fa00d2230710ac0ed66a59f5ce493b6f2f",
+    "sha256": "a07580dd6286feef5b11afb99f76a1c990011dfb972b0023702888397b3f29f3",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12607552,
+      "total_pixels": 24169635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/10b_CX3150i_DRIVE BRACKET INSTALL 018A-white.png",
+      "full_resolution_dimensions_px": [
+        5817,
+        4155
+      ],
+      "full_resolution_sha256": "861b438f01f3c776cc0fbb378151074c1fa284451890930627ddc5489cb2c0b7"
+    }
+  },
+  "11a_CX3150i_RACK EARS.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-7e5301a47e95.jpg",
+    "source_path": "illustrations/3u/CX3150i/11a_CX3150i_RACK EARS.jpg",
+    "source_sha256": "29fa09736afff7d1f95afdbf4618f6766e2cb74f28674daf2ca335a9642f1aec",
+    "sha256": "1b1a9503f2380365c9bccc83e9ef07103210308ad8fa3185adc4b9246712a130",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 19225724,
+      "total_pixels": 24169635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/11a_CX3150i_RACK EARS-white.png",
+      "full_resolution_dimensions_px": [
+        5817,
+        4155
+      ],
+      "full_resolution_sha256": "6ebd1fdea2a9e59e11f19426527b3da50240de3609077af4d12d01dd6cb9dd73"
+    }
+  },
+  "13a_CX3150i_TRAY UNSCREW.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-c685a49af29b.jpg",
+    "source_path": "illustrations/3u/CX3150i/13a_CX3150i_TRAY UNSCREW.jpg",
+    "source_sha256": "30c7d5209822e4bd7ba90595d4a4e7d46b499e37532af15f5de7b3944417fc12",
+    "sha256": "c9fb3c00a1568a229f476996ed0b2278d073abba4849984e9cf2760ed7ab00c5",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9185353,
+      "total_pixels": 16231635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/13a_CX3150i_TRAY UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        4767,
+        3405
+      ],
+      "full_resolution_sha256": "016d3cc7ae31385f3c89915abd5a1e71d4c3724c26cc404048c72f0c8227669d"
+    }
+  },
+  "13b_CX3150i_TRAY SLIDE BACK.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-13977b98b88a.jpg",
+    "source_path": "illustrations/3u/CX3150i/13b_CX3150i_TRAY SLIDE BACK.jpg",
+    "source_sha256": "50b8e56fb3bf6809f11caf476566f00fc3906da09ca6ec3664725a81b652b2a8",
+    "sha256": "cf83a90c44ccc69ed7b23bacb3f7f1f001cb4f4f1e1e5afef1ceba4b9c5cb16a",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8432534,
+      "total_pixels": 16231635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/13b_CX3150i_TRAY SLIDE BACK-white.png",
+      "full_resolution_dimensions_px": [
+        4767,
+        3405
+      ],
+      "full_resolution_sha256": "8e4ef25aa649acf7ac7035e6ef30b5d42408cafd15e5bd018dcfc846fba5b59b"
+    }
+  },
+  "13c_CX3150i_TRAY REMOVE.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-f7b1f8eb8d40.jpg",
+    "source_path": "illustrations/3u/CX3150i/13c_CX3150i_TRAY REMOVE.jpg",
+    "source_sha256": "7f282c0f4684e71ad9f622990278ea8c1d0f8fa0eecfd495042268b902fbd38f",
+    "sha256": "ab2a8bd79d874ec5024094fc2964425c3464d83604e1724bc50a8e35da122443",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12974313,
+      "total_pixels": 19499700,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/13c_CX3150i_TRAY REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        5225,
+        3732
+      ],
+      "full_resolution_sha256": "3fec41dc70c8d99ee294f4878cd193c5195b79edf6007be2d09437096783aa85"
+    }
+  },
+  "13d_CX3150i_TRAY REINSTALL.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-21399c3c6341.jpg",
+    "source_path": "illustrations/3u/CX3150i/13d_CX3150i_TRAY REINSTALL.jpg",
+    "source_sha256": "0040e422be423f549821fb4692def895464249dcb4e9493ebe446603106f704b",
+    "sha256": "4e74d4e712f03939d27a731975da7188264fdf7607201950feb57bbd33533bff",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7196746,
+      "total_pixels": 13595108,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/13d_CX3150i_TRAY REINSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4363,
+        3116
+      ],
+      "full_resolution_sha256": "ff4a5190edf58420666e5739eccc51cffcd4889b92273220a822910170c5902b"
+    }
+  },
+  "13e_CX3150i_TRAY REINSTALL 2.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-53cdac1b5e85.jpg",
+    "source_path": "illustrations/3u/CX3150i/13e_CX3150i_TRAY REINSTALL 2.jpg",
+    "source_sha256": "abb1971e1513608da2289bc47dbe9b0771da33a4200a6806283303deb2af7b23",
+    "sha256": "bd5c8bbd913475a0ce3a0b8f0b56494def4ad7d9c9967679dc584490d56617f9",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8877238,
+      "total_pixels": 14989032,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/13e_CX3150i_TRAY REINSTALL 2-white.png",
+      "full_resolution_dimensions_px": [
+        4581,
+        3272
+      ],
+      "full_resolution_sha256": "3d65d3d81d9caa5898d2895c366bcb703a93165e57f81c5f5e3ad36e8249034b"
+    }
+  },
+  "13f_CX3150i_TRAY REINSTALL 3.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-b2b4a777a787.jpg",
+    "source_path": "illustrations/3u/CX3150i/13f_CX3150i_TRAY REINSTALL 3.jpg",
+    "source_sha256": "126b74b598a3828bc6f84d7bc3d13b220807969cc2652ad0deea448fafa6b713",
+    "sha256": "a77914dfeb9d1fd80bd4676c5a252d58c2f01d1689b4355fbec0e9fd1ca64840",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 5229037,
+      "total_pixels": 9930327,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/13f_CX3150i_TRAY REINSTALL 3-white.png",
+      "full_resolution_dimensions_px": [
+        3729,
+        2663
+      ],
+      "full_resolution_sha256": "cd78d3e8cc3aa41ab3845a24dcb3f2eb3aeded9414424dd092a6f6443bdd6ddc"
+    }
+  },
+  "1C_CX3150i_LID REMOVE.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-960681a36531.jpg",
+    "source_path": "illustrations/3u/CX3150i/1C_CX3150i_LID REMOVE.jpg",
+    "source_sha256": "bd263afbbd9f330b12aba08e4007d2ecaabdde760a5b425935e08772a32ee81f",
+    "sha256": "cb403f068489fba38fef5b051d371cea268310efa169b0aea8bbcf59f3139fdb",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9431042,
+      "total_pixels": 13577040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/1C_CX3150i_LID REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        4360,
+        3114
+      ],
+      "full_resolution_sha256": "d817cef682a5636fe92a5d63242ae85d247d07935c6875227f77cec3d3f69782"
+    }
+  },
+  "1a_CX3150i_LID UNSCREW.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-01b2e9cd9b12.jpg",
+    "source_path": "illustrations/3u/CX3150i/1a_CX3150i_LID UNSCREW.jpg",
+    "source_sha256": "10b27eb4a10e922664958f707f998acb39bda503b42372499dcd5580ac510872",
+    "sha256": "59aa775c574ad04e698e1227e04aef89e821653769b3e35e3e3576d63f49fedb",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 15204456,
+      "total_pixels": 24169635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/1a_CX3150i_LID UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        5817,
+        4155
+      ],
+      "full_resolution_sha256": "da653d0dc7084c4db54b3f5b8287c1f513a2094e0b056b8db6b4f11925d6f854"
+    }
+  },
+  "1b_CX3150i_LID SLIDE BACK.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-29dd3821f629.jpg",
+    "source_path": "illustrations/3u/CX3150i/1b_CX3150i_LID SLIDE BACK.jpg",
+    "source_sha256": "6412134a31d55e999c39e998f543a1235a0e047edf2d1eea6faae1f11553c1de",
+    "sha256": "b4b325f52d5933a9192ffe2ec4bae86277b436658aa59d007531bb2b4d4e5ac0",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11830859,
+      "total_pixels": 24169635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/1b_CX3150i_LID SLIDE BACK-white.png",
+      "full_resolution_dimensions_px": [
+        5817,
+        4155
+      ],
+      "full_resolution_sha256": "0522ae789da95cddc3f1e7e0ca8f8d3e39720f4de4f65f1867c08e9b841d66a2"
+    }
+  },
+  "2a_CX3150i_FACEPLATE REMOVE.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-2865c504315b.jpg",
+    "source_path": "illustrations/3u/CX3150i/2a_CX3150i_FACEPLATE REMOVE.jpg",
+    "source_sha256": "5e74e1690f76118afa1809f92a03f3ce1ebe78fae7cfa8de36ef7b315c406fa3",
+    "sha256": "496c7ce4832a53998bc6dc4f0d31ada08bbac217c4c701a29629aa54a94de5d5",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13072086,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/2a_CX3150i_FACEPLATE REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "5d5f713b049d13bcd4d2732a2e0ce592322a1223df04ca2ffde8489f4829e72f"
+    }
+  },
+  "3a_CX3150i_FAN INSTALL.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-9461e4933dea.jpg",
+    "source_path": "illustrations/3u/CX3150i/3a_CX3150i_FAN INSTALL.jpg",
+    "source_sha256": "b716540ecc4e8bd873a168abc658b4551fe2fe354861e0db6e309b5501480d09",
+    "sha256": "d3d51255402f80dccfb79df467bd429fd07261bd7039118c43e37d329af5a938",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13729535,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/3a_CX3150i_FAN INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "27f5178f0d44abe6c18ce4fcde23ea933a7580517e0b2834e6f0224f340d9723"
+    }
+  },
+  "3b_CX3150i_FAN INSTALL PRECOOLER.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-457600ffc125.jpg",
+    "source_path": "illustrations/3u/CX3150i/3b_CX3150i_FAN INSTALL PRECOOLER.jpg",
+    "source_sha256": "df96dbdc493540f8348e3f71d4f7725753cf6b651fca83c58744cd53c7290141",
+    "sha256": "eaf6810abfb97092d5a0fed68cb72fa274f08f16ee32408cbb592bb5f486de5e",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 14221374,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/3b_CX3150i_FAN INSTALL PRECOOLER-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "4d7b269836fad5ae3390b2d9d53a017650e4bdfdec454e26f04d0f2bdd366ef5"
+    }
+  },
+  "3c_CX3150i_AIO + FAN INSTALL.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-fcd95473a203.jpg",
+    "source_path": "illustrations/3u/CX3150i/3c_CX3150i_AIO + FAN INSTALL.jpg",
+    "source_sha256": "660f362704e41c3d421553b9a310de81d027d16227da6aa48f0b97f5b41b32f3",
+    "sha256": "df912971157db52c4a38591cf14d5eb0951a831c9f6bbd9e61ae4ccd590d614e",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11130032,
+      "total_pixels": 16897536,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/3c_CX3150i_AIO + FAN INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4864,
+        3474
+      ],
+      "full_resolution_sha256": "9244433a28e2a0d47f9f415e64a4f815fa3eab6b82efade5365a7b1419f2e41b"
+    }
+  },
+  "4a1_CX3150i_DRIVE BRACKET UNSCREW.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-3163309cb367.jpg",
+    "source_path": "illustrations/3u/CX3150i/4a1_CX3150i_DRIVE BRACKET UNSCREW.jpg",
+    "source_sha256": "c12f67f032559cc5cdb87e9d4912ecd3e41a9159e500a9c9f4c8057d187c1306",
+    "sha256": "eec5267997c8b6840b187d59078b1a66135b809559eed4217cb49df63272653a",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8326697,
+      "total_pixels": 16335312,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/4a1_CX3150i_DRIVE BRACKET UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        4782,
+        3416
+      ],
+      "full_resolution_sha256": "dc924a399b4f30f18b770db6624dfb26790331d94acd4243c24f31c36ae69b7d"
+    }
+  },
+  "4a_CX3150i_DRIVE BRACKET UNSCREW.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-016cf6cdf987.jpg",
+    "source_path": "illustrations/3u/CX3150i/4a_CX3150i_DRIVE BRACKET UNSCREW.jpg",
+    "source_sha256": "dc14b28116d1f2d29a64854e576ed31947fbc31d8ff32c41fb7237f836d495e9",
+    "sha256": "2deb1c81e68494540c2c26d2b602e25686102dc4e65c304378c18d8dc355ce10",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11373633,
+      "total_pixels": 23224246,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/4a_CX3150i_DRIVE BRACKET UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        5702,
+        4073
+      ],
+      "full_resolution_sha256": "66194738d16a8b2b552406b365c0d358ffcb038193f72d3cd4d7e7cafb4c9901"
+    }
+  },
+  "4b_CX3150i_DRIVE BRACKET REMOVE.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-91d3c45fb437.jpg",
+    "source_path": "illustrations/3u/CX3150i/4b_CX3150i_DRIVE BRACKET REMOVE.jpg",
+    "source_sha256": "f38dd5bbfd01ada1d0ad2a1105fd772d8449a95f235335f463c833c0d1607dd6",
+    "sha256": "5ae604488a08db35ec22b4991b8516c07e55761e020aa988481997dd2fb0f1cf",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10168468,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/4b_CX3150i_DRIVE BRACKET REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "9b5c9affd874456205afd6c8d8847dd7fd5769c10bb522424dfd6d675fc73ff0"
+    }
+  },
+  "4c_CX3150i_BAY FILLER UNSCREW.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-79887ad5ecf4.jpg",
+    "source_path": "illustrations/3u/CX3150i/4c_CX3150i_BAY FILLER UNSCREW.jpg",
+    "source_sha256": "ce9632e0a630d33f2072314e1cc1aaead15e284db7332aacba590282c19f3b94",
+    "sha256": "cbbfc1b28eabe7d73de08543dce8ba72ee92bc053d0d5fc1c4ad162a45b4f9bf",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10983770,
+      "total_pixels": 13577040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/4c_CX3150i_BAY FILLER UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        4360,
+        3114
+      ],
+      "full_resolution_sha256": "52d86dc5c794b7752467299fd82d91902a38285f0144fb3e92c27183cedcca6d"
+    }
+  },
+  "4d_CX3150i_BAY FILLER REMOVE.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-c19f16dafb96.jpg",
+    "source_path": "illustrations/3u/CX3150i/4d_CX3150i_BAY FILLER REMOVE.jpg",
+    "source_sha256": "e0f0382492963c0667b8512ae69cb6185728d13f24c4704100c6880f465d54e1",
+    "sha256": "bf499061b6d3dc930e9c1a9685c2f415ac9ac6c33b334145b14633642dbf96b0",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 5800751,
+      "total_pixels": 8961260,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/4d_CX3150i_BAY FILLER REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        3542,
+        2530
+      ],
+      "full_resolution_sha256": "88617d92cdc965b4e86f6fd7d0805569a453ec7ee3776cedee8607a3826abc14"
+    }
+  },
+  "4h_CX3150i_BAY FILLER (4 SLOT BAY DEVICE + SSD).jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-47889c8d5a2d.jpg",
+    "source_path": "illustrations/3u/CX3150i/4h_CX3150i_BAY FILLER (4 SLOT BAY DEVICE + SSD).jpg",
+    "source_sha256": "739a856f5984417935fac83244d60a525304dbfdca0d019416617a0e0257ea26",
+    "sha256": "0a5ba5b5a7dff82526dd13231507dc827457b499186dd5b0eb348cee9086be5c",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 14557500,
+      "total_pixels": 16897536,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/4h_CX3150i_BAY FILLER (4 SLOT BAY DEVICE + SSD)-white.png",
+      "full_resolution_dimensions_px": [
+        4864,
+        3474
+      ],
+      "full_resolution_sha256": "a9d43900aaa14adf8e5ff94d9f2d61e6700da38d8a751dd2178d525a998b399c"
+    }
+  },
+  "4i_CX3150i_BAY FILLER (DVD ROM).jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-d87fad842fc2.jpg",
+    "source_path": "illustrations/3u/CX3150i/4i_CX3150i_BAY FILLER (DVD ROM).jpg",
+    "source_sha256": "b66c929077c2f71cacfbdee11bd35e06726c1a14cbf5d80cc17bddefb4fde7c0",
+    "sha256": "efa5510a4a4b8023658f3927a8866a1aa82c5f09a8fbb99fd19a3ee6ffd3e385",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 16149695,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/4i_CX3150i_BAY FILLER (DVD ROM)-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "4ad6b5c1b0dd984cb142900e2a3fad01e71bd25a3b23e94821d3bf28feeee8eb"
+    }
+  },
+  "4j_CX3150i_BAY FILLER (2 TOP SSD).jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-36573944d3ed.jpg",
+    "source_path": "illustrations/3u/CX3150i/4j_CX3150i_BAY FILLER (2 TOP SSD).jpg",
+    "source_sha256": "8a07199197d0e02e8e6b79ecfdb762b2e760227552f85bf32f2f594e6391b653",
+    "sha256": "9f6848706fd31f82e6bb85c954a558385f93ea4c2a8ba52bc11ac2c04d3451d5",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 16889893,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/4j_CX3150i_BAY FILLER (2 TOP SSD)-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "1b25090df1d45abd45c5ccef41c81fcf5395553358f1084133a8974a91bdcfcc"
+    }
+  },
+  "4k_CX3150i_BAY FILLER (TOP 3.5 HDD).jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-02f293ba3627.jpg",
+    "source_path": "illustrations/3u/CX3150i/4k_CX3150i_BAY FILLER (TOP 3.5 HDD).jpg",
+    "source_sha256": "73fdee4d01960f846e48e8da31bfc5a1394670e596e09e64e5fe9757d3bd7edf",
+    "sha256": "9450fab5be057b563b490205183681e7d6a26d1937f7d02abac98c24d2e4b771",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 17308349,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/4k_CX3150i_BAY FILLER (TOP 3.5 HDD)-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "7e5f5f501f68446d1b28237fb62f20961e9095022e74813fa3a0f5b45fca188d"
+    }
+  },
+  "5a_CX3150i_STANDOFF INSTALL.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-5717fd3164da.jpg",
+    "source_path": "illustrations/3u/CX3150i/5a_CX3150i_STANDOFF INSTALL.jpg",
+    "source_sha256": "18b0bf3f21566e8d81f6584e3458b93f7e1a80f8e87bb621f667cca88d0dd8a8",
+    "sha256": "8887ed64e70149797f0c6ea914a2fe835970980ef7494e89bf5c9525a4c9753b",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13896649,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/5a_CX3150i_STANDOFF INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "8230b94ba36a61f11e3989850667287e7e06aa78934a1b3c82ab25ff6aa5286b"
+    }
+  },
+  "6a_CX3150i_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-8b1d4574dab5.jpg",
+    "source_path": "illustrations/3u/CX3150i/6a_CX3150i_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "7b150c4fd917b160f9c068b34d3019897cc426ff46d5adb81614ff4fe8247d08",
+    "sha256": "48a9618c7ae35db43783ee0c2894c23cda4d0e8697ce62bcdb638885de1a90f2",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9291952,
+      "total_pixels": 24169635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/6a_CX3150i_MOTHERBOARD IO SHIELD-white.png",
+      "full_resolution_dimensions_px": [
+        5817,
+        4155
+      ],
+      "full_resolution_sha256": "2522f6fb0f0917830ee89f2c1e12b37069636abbabe964b045fe7d0013084066"
+    }
+  },
+  "6b_CX3150i_MOTHERBOARD.bmp": {
+    "path": "illustrations/published/CX3150i/cx3150i-1663eb7f5f1e.jpg",
+    "source_path": "illustrations/3u/CX3150i/6b_CX3150i_MOTHERBOARD.bmp",
+    "source_sha256": "3555d68f5205687d6e7f579a079714d38db29a82dec63d6ac1b7fdb21d204e14",
+    "sha256": "8f396e035171f38bf3f5cf5fc80cf590a9d8016a0ec90534d10187d19660ca83",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8494857,
+      "total_pixels": 24169635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/6b_CX3150i_MOTHERBOARD-white.png",
+      "full_resolution_dimensions_px": [
+        5817,
+        4155
+      ],
+      "full_resolution_sha256": "9d128dee2639c07de51d52bcc1360ef6c06865d2b051443bd4ab7edd5f22cddf"
+    }
+  },
+  "7_CX3150i_PSU.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-ccf267495bc4.jpg",
+    "source_path": "illustrations/3u/CX3150i/7_CX3150i_PSU.jpg",
+    "source_sha256": "1450e60f95d73c0198a37a8474249b3e9c9e483f42338596deab412b95b7e456",
+    "sha256": "01b74f7f74c252a47078b67753abc341c9335aa5aa6856db89779f750bb19384",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11948995,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/7_CX3150i_PSU-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "2e8b6e8b55b65ff76efb23ac2b7e895d737ed13698afc062f2850220f4b3b294"
+    }
+  },
+  "8_CX3150i_SSD.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-6d7703f33c05.jpg",
+    "source_path": "illustrations/3u/CX3150i/8_CX3150i_SSD.jpg",
+    "source_sha256": "de30210d73984d8c1fafbc58b2b36e54d2e2e468db72a141e10049f39e0e5e48",
+    "sha256": "d5a001f6d6f88f509f0c15b3621ffd8cf2ec3fa626ea4c03a989d3c1c8471fda",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 6870946,
+      "total_pixels": 14131296,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/8_CX3150i_SSD-white.png",
+      "full_resolution_dimensions_px": [
+        4448,
+        3177
+      ],
+      "full_resolution_sha256": "197f46eadda98f6a9cca5534fc112696bb8b631e8315c3cb57fba21a5e881fc5"
+    }
+  },
+  "9_CX3150i_GPU.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-d4eb3fddd42f.jpg",
+    "source_path": "illustrations/3u/CX3150i/9_CX3150i_GPU.jpg",
+    "source_sha256": "dd8d0a5aa2fbf2b9f510a52d7f9f32813c67286eb769cbe5450af6014bc9b3c4",
+    "sha256": "457afbf7ba428cad19bcf73b0905ec95a44c0851061b762c38428cbd8db9dd07",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8206620,
+      "total_pixels": 16335312,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/9_CX3150i_GPU-white.png",
+      "full_resolution_dimensions_px": [
+        4782,
+        3416
+      ],
+      "full_resolution_sha256": "3989c3b59e587602af540d77208058cedd3f3737b749ad89ddb87d066d50c609"
+    }
+  },
+  "_CX3150i_ADVANCED_FRONT VIEW.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-f03a4dc01a3b.jpg",
+    "source_path": "illustrations/3u/CX3150i/_CX3150i_ADVANCED_FRONT VIEW.jpg",
+    "source_sha256": "8e85fc41c0b3cc8ee4ed34900c80ac9876f125512067d4f91678645e1d22b4ef",
+    "sha256": "8ca2b77d7fbbe24a46e9fdac70b3cfdb6060694e72962f7cac926ae247113000",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11252272,
+      "total_pixels": 15930679,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/_CX3150i_ADVANCED_FRONT VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        4723,
+        3373
+      ],
+      "full_resolution_sha256": "32c40429fa9cd4a3b2df0cec52ecceb91b5c86f074e375a8445a6ebbbbfba42a"
+    }
+  },
+  "_CX3150i_ADVANCED_TOP VIEW.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-ad6acf558919.jpg",
+    "source_path": "illustrations/3u/CX3150i/_CX3150i_ADVANCED_TOP VIEW.jpg",
+    "source_sha256": "ec227ae1792345b1e12f362f7c875ad05efaf85a229aefe30477d0fca4d4654d",
+    "sha256": "dc22a4f57f3a105297fab95e62c740584a5a1382316d4e50fc8d55ad31474bf7",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7069949,
+      "total_pixels": 10303974,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/_CX3150i_ADVANCED_TOP VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        3798,
+        2713
+      ],
+      "full_resolution_sha256": "8aec32be6ffa951cf79f343fcd492e31c558cb922147452bf70b19978aabbca2"
+    }
+  },
+  "_CX3150i_FRONT.tif": {
+    "path": "illustrations/published/CX3150i/cx3150i-61db20f82d7b.jpg",
+    "source_path": "illustrations/3u/CX3150i/_CX3150i_FRONT.tif",
+    "source_sha256": "1dc5aaa3b9fdf5fb25c8ae452d79617acae53f29b98b2f2ea779b7670f5b1bf4",
+    "sha256": "e814508dbaf1f6fd8b02ad40cd1a7cd51966b6b600d3b2ba87b1ae32fddbf5cd",
+    "dimensions_px": [
+      1800,
+      900
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 16372555,
+      "total_pixels": 35259003,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/_CX3150i_FRONT-white.png",
+      "full_resolution_dimensions_px": [
+        8397,
+        4199
+      ],
+      "full_resolution_sha256": "5060cbfce8c2e99a36e214a8427cbabeffa7325ad48938203ac8f2b244873d4d"
+    }
+  },
+  "_CX3150i_rendering.jpg": {
+    "path": "illustrations/published/CX3150i/cx3150i-9a3ec05fd23d.jpg",
+    "source_path": "illustrations/3u/CX3150i/_CX3150i_rendering.jpg",
+    "source_sha256": "d4d0d9a921746352fc619ed75535aac431866b8c9e9e626db759ccf966fcada1",
+    "sha256": "e2d27877b051c397868812565aaf9f4cf8cc7ad7df24a5b8f5f9874002691792",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8712791,
+      "total_pixels": 13577040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/_CX3150i_rendering-white.png",
+      "full_resolution_dimensions_px": [
+        4360,
+        3114
+      ],
+      "full_resolution_sha256": "c0b604fa2de011277e9248a7a735f93b8e73652502bacc08a883f423a7e5f38f"
+    }
+  }
+}

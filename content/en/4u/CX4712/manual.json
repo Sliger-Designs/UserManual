@@ -45,7 +45,7 @@
     },
     {
       "id": "dimensions",
-      "title": "Clearance drawing \u2014 top view",
+      "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
@@ -415,13 +415,17 @@
       "id": "bay-blank-drives",
       "title": "Mount drives on a filler blank",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "bay-blank-drives.md",
+      "source": "../../shared/rackmount/bay-blank-drives.md",
       "images": [
         "common/4u-bay-blank/drive12.jpg.jpg",
+        "common/4u-bay-blank/4f_CX3150i_BAY FILLER (2x 15mm SSD).jpg",
         "common/4u-bay-blank/drive6.1.jpg.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
+        [
+          "B"
+        ],
         [
           "B"
         ],
@@ -552,15 +556,15 @@
     },
     {
       "id": "M02",
-      "needed": "Motherboard tray removal and reinstallation renders (as CX4713 5a\u20135f); the CX4712 tray is removable. The tray pages are omitted until supplied.",
+      "needed": "Motherboard tray removal and reinstallation renders (as CX4713 5a–5f); the CX4712 tray is removable. The tray pages are omitted until supplied.",
       "section": "tray-removal",
       "suggested_folder": "illustrations/4u/CX4712/"
     }
   ],
   "cover_description": "25\" DEEP 4U CHASSIS",
   "cover_description_detail": [
-    "2 \u00d7 5.25\" BAYS",
-    "10 \u00d7 3.5\" HOT-SWAP BAYS"
+    "2 × 5.25\" BAYS",
+    "10 × 3.5\" HOT-SWAP BAYS"
   ],
   "cover_format": "landscape"
 }

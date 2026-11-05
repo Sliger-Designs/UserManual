@@ -426,13 +426,17 @@
       "id": "bay-blank-drives",
       "title": "Mount drives on a filler blank",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "bay-blank-drives.md",
+      "source": "../../shared/rackmount/bay-blank-drives.md",
       "images": [
         "common/4u-bay-blank/drive12.jpg.jpg",
+        "common/4u-bay-blank/4f_CX3150i_BAY FILLER (2x 15mm SSD).jpg",
         "common/4u-bay-blank/drive6.1.jpg.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
+        [
+          "B"
+        ],
         [
           "B"
         ],

@@ -1116,6 +1116,30 @@
       }
     },
     {
+      "id": "common-4868090e4df8",
+      "asset_key": "common/4u-bay-blank/4f_CX3150i_BAY FILLER (2x 15mm SSD).jpg",
+      "original_filename": "4f_CX3150i_BAY FILLER (2x 15mm SSD).jpg",
+      "local_path": "illustrations/common/4u-bay-blank/4f_CX3150i_BAY FILLER (2x 15mm SSD).jpg",
+      "width_px": 4448,
+      "height_px": 3177,
+      "format": "JPEG",
+      "size_bytes": 389117,
+      "sha256": "d23a1e6507af4b7f2699e9cd4f66238d900dca6cdd964e370cc111989ea17165",
+      "selection_status": "candidate",
+      "note": "Two 2.5-inch SSDs up to 15 mm thick on the underside of a 5.25-inch bay filler blank (red B screws). Supplied with the CX3150i (4f); the blank is one part shared by every chassis with a 5.25-inch bay (confirmed 2026-11-05).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/common/4u-bay-blank-2x15mm-ssd-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "common-29df453bbb25",
       "asset_key": "common/hardware/sasConnectors_2x.jpg",
       "original_filename": "sasConnectors_2x.jpg",

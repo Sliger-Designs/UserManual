@@ -2,17 +2,26 @@
   "model": "CX3150a",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "Prototype 0.2",
+  "revision": "Prototype 0.3",
   "status": "Technical review draft",
   "text_checks": {
     "required": [
-      "324 mm",
       "381",
-      "132.59"
+      "431.8",
+      "132.59",
+      "349 mm",
+      "324 mm",
+      "296 mm",
+      "110 mm",
+      "115 mm",
+      "2 × 2.5-inch"
     ],
     "forbidden": [
       "270 mm",
-      "325 mm"
+      "325 mm",
+      "382",
+      "One 2.5-inch SSD",
+      "drive cage"
     ]
   },
   "pages": [
@@ -265,9 +274,9 @@
     },
     {
       "id": "ssd-installation",
-      "title": "Install a 2.5-inch SSD",
+      "title": "Install 2.5-inch SSDs",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "ssd-installation.md",
+      "source": "../../shared/rackmount/3u-ssd-installation.md",
       "images": [
         "6_CX3150a_SSD (EXPLODED).jpg"
       ],
