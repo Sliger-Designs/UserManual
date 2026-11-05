@@ -27,6 +27,8 @@ Confirmed 2026-11-04:
   the CX3150n (CX3701 "v2") uses no standoffs and the CX3180n (CX3702 "v2") uses standoffs.
 - The CX3151i standoff, I/O-shield, motherboard, PSU and SSD steps use the CX3151x renders
   (same riser tray and rear); its bay-bracket drive steps use the CX3150i renders.
+- Every 3U "i" chassis has the same 5.25-inch bay bracket; bracket steps a model lacks use the
+  CX3150i renders (confirmed 2026-11-05).
 - The 5.25-inch bay filler blank is one part shared by every chassis with a 5.25-inch bay; all
   manuals use the same filler-blank page and renders (`illustrations/common/4u-bay-blank/`).
 - Push-pull is not officially supported on the CX3150a (360 mm, six fans) or the CX3150i and
@@ -43,6 +45,8 @@ Confirmed 2026-11-04:
 |  | CX3151a | Exploded view. Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3151a folder) | Exploded view omitted |
 |  | CX3151i | Exploded view. Optional: CX3151i renders for the standoff, I/O-shield, motherboard, PSU and SSD steps (the CX3151x ones are used; the CX3150i-named copies show the wrong rear) | Exploded view omitted |
 |  | CX3151x | Exploded view | Exploded view omitted |
+|  | CX3152a | Exploded view | Exploded view omitted |
+|  | CX3152i | Exploded view | Exploded view omitted |
 |  | CX4150a | Exploded view | Exploded-view page omitted |
 |  | CX4150e | Exploded view; push-pull renders (240 mm radiator, four fans) | Exploded view omitted; push-pull page is text only |
 |  | CX4150i | Exploded view; push-pull renders (360 mm radiator, six fans) | Exploded view omitted; push-pull page is text only |
@@ -67,6 +71,7 @@ highlighted in green on the motherboard tray); the others need an equivalent vie
 |---|---|---|
 |  | CX3150i, CX3150x | Cable-management bar highlighted on the tray (the CX3150a view may apply if the tray and view match; to confirm) |
 |  | CX3151a, CX3151i, CX3151x | Cable-management bar highlighted on the tray |
+|  | CX3152a, CX3152i | Cable-management bar highlighted on the tray |
 |  | CX4150a, CX4150e, CX4150i | Cable-management bar highlighted on the tray |
 |  | CX4170a, CX4170e, CX4170i | Cable-management bar highlighted on the tray |
 |  | CX4200a, CX4200e, CX4200f, CX4200i | Cable-management bar highlighted on the tray |
@@ -81,8 +86,6 @@ sibling to borrow shared steps from; each reuse is confirmed when that family is
 
 | Done | Model | Have | Needed | Possible source for shared steps |
 |---|---|---|---|---|
-|  | CX3152a | 34 (28 of them were supplied in the CX3151x folder and moved, 2026-11-05) | To confirm when the family is built | CX3152i |
-|  | CX3152i | 40 | Push-pull renders; exploded view | |
 |  | CX3170a | 11 | Installation steps; cover render | CX3170a XL |
 |  | CX3170a XL | 48 | Push-pull renders; cover render | |
 |  | CX3170i XL | 7 | Installation steps; cover render | CX3170a XL |

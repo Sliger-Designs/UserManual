@@ -1167,5 +1167,184 @@
       },
       "note": "Total mounting locations; not all usable at once. Replaces the spec review's 8."
     }
+  },
+  "CX3152a": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches; the ATX PSU limits SSI-CEB, EATX and ATX boards to five PCIe slots."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 324,
+      "configuration": {
+        "front_fan_count": 3,
+        "fan_thickness_mm": 25
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "324 mm (import CSV and website) chosen over the compatibility CSV 325 mm."
+    },
+    "psu_atx": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import CSV and website: one ATX power supply."
+    },
+    "pcie_slots": {
+      "value": "5x Full Height",
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3152-family.md"
+      },
+      "note": "Website, import sheet and rear render; replaces the compatibility CSV's \"5x Half Height\"."
+    },
+    "aio_120": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import CSV and website list this radiator size."
+    },
+    "aio_240": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import CSV and website list this radiator size."
+    },
+    "aio_360_six_fan_push_pull_supported": {
+      "value": false,
+      "configuration": {
+        "radiator_size_mm": 360,
+        "fan_count": 6,
+        "arrangement": "push-pull"
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3152-family.md"
+      },
+      "note": "Not officially supported, as on the CX3150a and CX3151a."
+    },
+    "ssd_2_5_max": {
+      "value": 2,
+      "configuration": {
+        "under_psu": 1,
+        "beside_motherboard": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3152-family.md"
+      },
+      "note": "Two tray mounting locations."
+    }
+  },
+  "CX3152i": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches; the ATX PSU limits SSI-CEB, EATX and ATX boards to five PCIe slots."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 324,
+      "configuration": {
+        "front_fan_count": 2,
+        "fan_thickness_mm": 25
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "324 mm (import CSV and website) chosen over the compatibility CSV 325 mm."
+    },
+    "psu_atx": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import CSV and website: one ATX power supply."
+    },
+    "pcie_slots": {
+      "value": "5x Full Height",
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3152-family.md"
+      },
+      "note": "Website, import sheet and rear render; replaces the compatibility CSV's \"5x Half Height\"."
+    },
+    "aio_240_four_fan_push_pull_supported": {
+      "value": false,
+      "configuration": {
+        "radiator_size_mm": 240,
+        "fan_count": 4,
+        "arrangement": "push-pull"
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-05-CX3150-storage-and-cooling.md"
+      },
+      "note": "Officially unsupported."
+    },
+    "ssd_2_5_max": {
+      "value": 9,
+      "configuration": {
+        "motherboard_tray": 2,
+        "bay_filler_blank": 4,
+        "bay_bracket_top": 2,
+        "under_bay_bracket": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3152-family.md"
+      },
+      "note": "Total mounting locations; not all usable at once. Replaces the spec review's 2."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "bay_filler_blank": 1,
+        "bay_bracket_top": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3152-family.md"
+      },
+      "note": "Total mounting locations."
+    }
   }
 }

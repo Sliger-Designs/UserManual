@@ -1,0 +1,774 @@
+{
+  "schema_version": 1,
+  "sku": "CX3152i",
+  "status": "draft",
+  "release_ready": false,
+  "review_issues": [],
+  "authority": "Explicit decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.",
+  "facts": {
+    "product_type": {
+      "value": "Rackmount",
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Product Type"
+      },
+      "raw": "Rackmount"
+    },
+    "height_description": {
+      "value": "3U (5.22\")",
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Height"
+      },
+      "raw": "3U (5.22\")"
+    },
+    "depth_in": {
+      "value": 15,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Depth(in.)"
+      },
+      "raw": "15"
+    },
+    "width_in": {
+      "value": 17,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Width(in.)"
+      },
+      "raw": "17"
+    },
+    "volume_l": {
+      "value": 21.9,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Volume(L)"
+      },
+      "raw": "21.9"
+    },
+    "material": {
+      "value": "Galvanized steel",
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Material"
+      },
+      "raw": "Galvanized steel"
+    },
+    "feature": {
+      "value": "5.25in bay",
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Main feature"
+      },
+      "raw": "5.25in bay"
+    },
+    "front_bays": {
+      "value": "1x 5.25",
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Front Bay(s)"
+      },
+      "raw": "1x 5.25"
+    },
+    "ssd_2_5_max": {
+      "value": 9,
+      "configuration": {
+        "motherboard_tray": 2,
+        "bay_filler_blank": 4,
+        "bay_bracket_top": 2,
+        "under_bay_bracket": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3152-family.md"
+      },
+      "note": "Total mounting locations; not all usable at once. Replaces the spec review's 2."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "bay_filler_blank": 1,
+        "bay_bracket_top": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3152-family.md"
+      },
+      "note": "Total mounting locations."
+    },
+    "fans_max_description": {
+      "value": "2x 120mm",
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Max Supported Fans"
+      },
+      "raw": "2x 120mm"
+    },
+    "front_fans_default": {
+      "value": "2x 120mm",
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Front Fan Support(default)"
+      },
+      "raw": "2x 120mm"
+    },
+    "front_fans_max": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Front Fan Support(Max)"
+      },
+      "raw": ""
+    },
+    "mid_fans_default": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Mid Chassis Fan Support"
+      },
+      "raw": ""
+    },
+    "mid_fans_max": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Mid-Chassis Fans(Max)"
+      },
+      "raw": ""
+    },
+    "exhaust_fans": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Exhaust Fan Support"
+      },
+      "raw": ""
+    },
+    "rear_fan_kit": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "KIT-REARFAN Support"
+      },
+      "raw": "FALSE"
+    },
+    "top_fan_kit": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "KIT-TOPFAN Support"
+      },
+      "raw": "FALSE"
+    },
+    "air_cooler_height_max_mm": {
+      "value": 110,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Max Air Cooler Height (mm)"
+      },
+      "raw": "110"
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "2U AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_92": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "92mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_120": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "120mm AIO"
+      },
+      "raw": "TRUE"
+    },
+    "aio_140": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "140mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_240": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "240mm AIO"
+      },
+      "raw": "TRUE"
+    },
+    "aio_280": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "280mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_360": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "360mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "psu_flex_atx": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "FlexATX PSU"
+      },
+      "raw": "FALSE"
+    },
+    "psu_sfx_sfx_l": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "SFX/SFX-L PSU"
+      },
+      "raw": "TRUE"
+    },
+    "psu_crps": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "CRPS PSU"
+      },
+      "raw": "FALSE"
+    },
+    "psu_atx": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import CSV and website: one ATX power supply."
+    },
+    "motherboard_mini_itx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Mini-ITX MoBo"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_micro_atx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "MicroATX MoBo"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_atx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "ATX MoBo(10.5\" deep max)"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_eatx_13in": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "EATX MoBo(13\" deep max)"
+      },
+      "raw": "FALSE"
+    },
+    "riser_pcie_5": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "5.0 Riser"
+      },
+      "raw": "FALSE"
+    },
+    "riser_bifurcation": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Bifurcation Riser"
+      },
+      "raw": ""
+    },
+    "pcie_slots": {
+      "value": "5x Full Height",
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3152-family.md"
+      },
+      "note": "Website, import sheet and rear render; replaces the compatibility CSV's \"5x Half Height\"."
+    },
+    "gpu_height_max_mm": {
+      "value": 115,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Max GPU Height (mm)"
+      },
+      "raw": "115"
+    },
+    "gpu_length_baseline_mm": {
+      "value": 349,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Max GPU Length Baseline(mm)"
+      },
+      "raw": "349"
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 324,
+      "configuration": {
+        "front_fan_count": 2,
+        "fan_thickness_mm": 25
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "324 mm (import CSV and website) chosen over the compatibility CSV 325 mm."
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": 296,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "Max GPU Length(fans+AIO)(mm)"
+      },
+      "raw": "296"
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": 296,
+      "source": {
+        "id": "compatibility",
+        "record": 53,
+        "column": "MAX GPU Length (Max cooling)"
+      },
+      "raw": "296"
+    },
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 381,
+        "width": 431.8,
+        "height": 132.59
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3152i-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (15 × 17 × 5.22 inches); exact depth and height approved over the bulk-create 382 × 132.5 mm."
+    },
+    "psu_length_max_mm": {
+      "value": 268,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3152i-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Includes connectors (ATX PSU)."
+    },
+    "rack_ear_screw_count": {
+      "value": 6,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 3U chassis use the same rack ears (CX3150a: six screws)."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 3,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    },
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches; the ATX PSU limits SSI-CEB, EATX and ATX boards to five PCIe slots."
+    },
+    "aio_240_four_fan_push_pull_supported": {
+      "value": false,
+      "configuration": {
+        "radiator_size_mm": 240,
+        "fan_count": 4,
+        "arrangement": "push-pull"
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-05-CX3150-storage-and-cooling.md"
+      },
+      "note": "Officially unsupported."
+    },
+    "hardware_bag_part_number": {
+      "value": "SBAG-HWKIT",
+      "source": {
+        "id": "decision",
+        "date": "2026-10-27",
+        "record": "products/shared/SBAG-HWKIT.json"
+      },
+      "note": "All rackmount chassis share this screwbag as confirmed."
+    }
+  },
+  "manual_copy_candidates": {
+    "Slug": {
+      "text": "15\" DEEP 3U CHASSIS WITH 1x 5.25\" BAY",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Slug"
+      },
+      "status": "needs_review"
+    },
+    "Chassis Depth": {
+      "text": "15.04in / 382mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Chassis Depth"
+      },
+      "status": "needs_review"
+    },
+    "Chassis Width": {
+      "text": "17in / 431.8mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Chassis Width"
+      },
+      "status": "needs_review"
+    },
+    "Chassis Height": {
+      "text": "5.2in / 132.5mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Chassis Height"
+      },
+      "status": "needs_review"
+    },
+    "Mobo Support": {
+      "text": "EATX, SSI-CEB, ATX, Deep MicroATX, Deep MiniITX, MicroATX, MiniITX",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Mobo Support"
+      },
+      "status": "needs_review"
+    },
+    "PSU Support": {
+      "text": "ATX form factor",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "PSU Support"
+      },
+      "status": "needs_review"
+    },
+    "Storage Support": {
+      "text": "Mounting locations for: 2x 2.5\" SSD",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Storage Support"
+      },
+      "status": "needs_review"
+    },
+    "Storage Disclaimer": {
+      "text": null,
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Storage Disclaimer"
+      },
+      "status": "needs_review"
+    },
+    "Front Bays": {
+      "text": "1x 5.25\"",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Front Bays"
+      },
+      "status": "needs_review"
+    },
+    "GPU / PCIe Card Support": {
+      "text": "5x Full Height Slots",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "GPU / PCIe Card Support"
+      },
+      "status": "needs_review"
+    },
+    "Max Card Height": {
+      "text": "115mm - including power connectors",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Max Card Height"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with x Fans": {
+      "text": "3x 25mm thick front fans: 324mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Max Length with x Fans"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with AIO push": {
+      "text": "360mm AIO and 3x 25mm thick front fans: 296mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Max Length with AIO push"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with AIO push-pull": {
+      "text": null,
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Max Length with AIO push-pull"
+      },
+      "status": "excluded_unsupported_configuration",
+      "reason": "Confirmed this configuration is officially unsupported."
+    },
+    "AIO Disclaimer": {
+      "text": null,
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "AIO Disclaimer"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with no AIO/Fans": {
+      "text": "349mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Max Length with no AIO/Fans"
+      },
+      "status": "needs_review"
+    },
+    "CPU Air Compatibility": {
+      "text": "110mm tall",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "CPU Air Compatibility"
+      },
+      "status": "needs_review"
+    },
+    "AIO Compatibility": {
+      "text": "1x 120mm or 1x 240mm Liquid Cooler",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "AIO Compatibility"
+      },
+      "status": "needs_review"
+    },
+    "Front Fans": {
+      "text": "2x 120mm fans up to 38mm thick",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Front Fans"
+      },
+      "status": "needs_review"
+    },
+    "Rear Fans": {
+      "text": "Optional PCIe fan adapters",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Rear Fans"
+      },
+      "status": "needs_review"
+    },
+    "Front IO": {
+      "text": "1x USB 3.2 Type C 10Gbps, 2x USB 3.0 Type A",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "Front IO"
+      },
+      "status": "needs_review"
+    },
+    "G - Slot Covers": {
+      "text": "8",
+      "source": {
+        "id": "bulk_create",
+        "record": 24,
+        "column": "G - Slot Covers"
+      },
+      "status": "needs_review"
+    }
+  },
+  "source_records": {
+    "compatibility": {
+      "record": 53,
+      "fields": {
+        "SKU": "CX3152i",
+        "Name": "Sliger CX3152i, 3U 15in Rackmount Server Case - ATX PSU and 240mm AIO Support, 5.25\" Bay",
+        "Product Type": "Rackmount",
+        "Height": "3U (5.22\")",
+        "Depth(in.)": "15",
+        "Width(in.)": "17",
+        "Volume(L)": "21.9",
+        "Material": "Galvanized steel",
+        "Main feature": "5.25in bay",
+        "Front Bay(s)": "1x 5.25",
+        "Internal 2.5 SSD (Max)": "2",
+        "Internal 3.5 HDD (Max)": "",
+        "Max Supported Fans": "2x 120mm",
+        "Front Fan Support(default)": "2x 120mm",
+        "Front Fan Support(Max)": "",
+        "Mid Chassis Fan Support": "",
+        "Mid-Chassis Fans(Max)": "",
+        "Exhaust Fan Support": "",
+        "KIT-REARFAN Support": "FALSE",
+        "KIT-TOPFAN Support": "FALSE",
+        "Max Air Cooler Height (mm)": "110",
+        "2U AIO": "FALSE",
+        "92mm AIO": "FALSE",
+        "120mm AIO": "TRUE",
+        "140mm AIO": "FALSE",
+        "240mm AIO": "TRUE",
+        "280mm AIO": "FALSE",
+        "360mm AIO": "FALSE",
+        "FlexATX PSU": "FALSE",
+        "SFX/SFX-L PSU": "TRUE",
+        "CRPS PSU": "FALSE",
+        "ATX PSU": "FALSE",
+        "Mini-ITX MoBo": "TRUE",
+        "MicroATX MoBo": "TRUE",
+        "ATX MoBo(10.5\" deep max)": "TRUE",
+        "EATX MoBo(13\" deep max)": "FALSE",
+        "5.0 Riser": "FALSE",
+        "Bifurcation Riser": "",
+        "PCIe Slots": "5x Half Height",
+        "Max GPU Height (mm)": "115",
+        "Max GPU Length Baseline(mm)": "349",
+        "Max GPU Length(Only Fans)(mm)": "325",
+        "Max GPU Length(fans+AIO)(mm)": "296",
+        "MAX GPU Length (Max cooling)": "296",
+        "Chassis Weight": "14.75",
+        "Shipped Weight": "18",
+        "Item Package Length": "",
+        "Item Package Width": "",
+        "Item Package Height": "",
+        "User Manual": "FALSE",
+        "Data Sheet": "FALSE",
+        "Dimension Dwg": "FALSE",
+        "NC CAD Model": "FALSE"
+      }
+    },
+    "bulk_create": {
+      "record": 24,
+      "fields": {
+        "Chassis Model": "CX3152i",
+        "Slug": "15\" DEEP 3U CHASSIS WITH 1x 5.25\" BAY",
+        "Chassis Depth": "15.04in / 382mm",
+        "Chassis Width": "17in / 431.8mm",
+        "Chassis Height": "5.2in / 132.5mm",
+        "Mobo Support": "EATX, SSI-CEB, ATX, Deep MicroATX, Deep MiniITX, MicroATX, MiniITX\n",
+        "PSU Support": "ATX form factor",
+        "Storage Support": "Mounting locations for: 2x 2.5\" SSD\n",
+        "Storage Disclaimer": "",
+        "Front Bays": "1x 5.25\"",
+        "GPU / PCIe Card Support": "5x Full Height Slots",
+        "Max Card Height": "115mm - including power connectors",
+        "Max Length with x Fans": "3x 25mm thick front fans: 324mm",
+        "Max Length with AIO push": "360mm AIO and 3x 25mm thick front fans: 296mm",
+        "Max Length with AIO push-pull": "",
+        "AIO Disclaimer": "",
+        "Max Length with no AIO/Fans": "349mm",
+        "CPU Air Compatibility": "110mm tall",
+        "AIO Compatibility": "1x 120mm or 1x 240mm Liquid Cooler",
+        "Front Fans": "2x 120mm fans up to 38mm thick",
+        "Rear Fans": "Optional PCIe fan adapters",
+        "Front IO": "1x USB 3.2 Type C 10Gbps, 2x USB 3.0 Type A",
+        "G - Slot Covers": "8"
+      }
+    }
+  }
+}

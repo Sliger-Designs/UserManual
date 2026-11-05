@@ -9,6 +9,8 @@ MODEL_CATEGORIES = {
     'CX3151a': '3u',
     'CX3151i': '3u',
     'CX3151x': '3u',
+    'CX3152a': '3u',
+    'CX3152i': '3u',
     'CX4150a': '4u',
     'CX4150e': '4u',
     'CX4150i': '4u',
