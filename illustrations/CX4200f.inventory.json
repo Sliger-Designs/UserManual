@@ -848,6 +848,41 @@
       }
     },
     {
+      "id": "cx4200f-6a8b27436b03",
+      "original_filename": "CX4200f_explode.jpg",
+      "local_path": "illustrations/4u/CX4200f/CX4200f_explode.jpg",
+      "width_px": 3382,
+      "height_px": 1186,
+      "format": "JPEG",
+      "size_bytes": 328539,
+      "sha256": "87509aafce3c4ec244462019d9b3c5e0026884080d49bf2912653287f2a025e6",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4200f-d643011afb85",
+      "original_filename": "_CX4150e_PUSH_PULL2.jpg",
+      "local_path": "illustrations/4u/CX4200f/_CX4150e_PUSH_PULL2.jpg",
+      "width_px": 2502,
+      "height_px": 1178,
+      "format": "JPEG",
+      "size_bytes": 689452,
+      "sha256": "7318db8a3bf78790601d3bc63ad3f7382cf9f8316c7af916650b43d63fb2f49a",
+      "selection_status": "candidate",
+      "note": "Copied from the CX4150e folder: the 240 mm radiator and four-fan assembly, shown without the chassis (2026-11-05).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200f/_CX4150e_PUSH_PULL2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx4200f-3a4b68cc3fae",
       "original_filename": "_CX4200f_ADVANCED_FRONT VIEW.jpg",
       "local_path": "illustrations/4u/CX4200f/_CX4200f_ADVANCED_FRONT VIEW.jpg",

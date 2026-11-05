@@ -782,6 +782,64 @@
       "full_resolution_sha256": "2452212c8b34ff3941733265ad11bd3eb1cb5a8e8f83727a51aa6d1d57cd4ca7"
     }
   },
+  "_CX4170i_CORRECT_WAY.jpg": {
+    "path": "illustrations/published/CX4200a/cx4200a-d3507cdac397.jpg",
+    "source_path": "illustrations/4u/CX4200a/_CX4170i_CORRECT_WAY.jpg",
+    "source_sha256": "4676ddf9b83367bc781a6426242bafdb72a60361a179f3c8d4e09a1edb78573e",
+    "sha256": "3b7f8e4cb8ac6325adc98a92966f2cecb4de10d819a64e605d69e6d7882fc6d8",
+    "dimensions_px": [
+      1800,
+      847
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1047085,
+      "total_pixels": 2947356,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/_CX4170i_CORRECT_WAY-white.png",
+      "full_resolution_dimensions_px": [
+        2502,
+        1178
+      ],
+      "full_resolution_sha256": "21ebfe3ef524cc4aa82e65465168477a25a43834187953c79c5ac640704c386e"
+    }
+  },
+  "_CX4170i_WRONG_WAY.jpg": {
+    "path": "illustrations/published/CX4200a/cx4200a-7194c9a22cea.jpg",
+    "source_path": "illustrations/4u/CX4200a/_CX4170i_WRONG_WAY.jpg",
+    "source_sha256": "8fa705d1b67ae52b00a66b34b616f6d4d56a2a01de0afd373afc4fe1e6c9426c",
+    "sha256": "e7cdc40986d071a6fee2ed479bbe5106118cf69729a6054b818f682c22cd4f03",
+    "dimensions_px": [
+      1800,
+      847
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1719125,
+      "total_pixels": 2947356,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/_CX4170i_WRONG_WAY-white.png",
+      "full_resolution_dimensions_px": [
+        2502,
+        1178
+      ],
+      "full_resolution_sha256": "e62968aeced736cb937f19cc675923f1704df283b8b18c7d16fc90d31ac59e21"
+    }
+  },
   "_CX4200a_ADVANCED_FRONT VIEW.jpg": {
     "path": "illustrations/published/CX4200a/cx4200a-016e9043a6e7.jpg",
     "source_path": "illustrations/4u/CX4200a/_CX4200a_ADVANCED_FRONT VIEW.jpg",
@@ -867,6 +925,35 @@
         3087
       ],
       "full_resolution_sha256": "04a71b6535adddf8740a0c52c0d839c91ddeaf0a6b5ffe9fd48990eac2945686"
+    }
+  },
+  "_CX4200a_CHASSIS_EXPLODE.jpg": {
+    "path": "illustrations/published/CX4200a/cx4200a-5d1f626c0a75.jpg",
+    "source_path": "illustrations/4u/CX4200a/_CX4200a_CHASSIS_EXPLODE.jpg",
+    "source_sha256": "9e449ecf7c9f1c953d8cd52762d38ece43b4c7cf4be08c1ed572ac5e2d9f0b54",
+    "sha256": "8ff0b997c1d5296d0d87fc72e002c051a01c458801997245220c9063745e0014",
+    "dimensions_px": [
+      1800,
+      847
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 2036151,
+      "total_pixels": 2947356,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/_CX4200a_CHASSIS_EXPLODE-white.png",
+      "full_resolution_dimensions_px": [
+        2502,
+        1178
+      ],
+      "full_resolution_sha256": "11c3051c3407dd9b6662ff5fd48619f138fdaab99639ac954708f4b5fbd5a3a2"
     }
   },
   "_CX4200a_rendering.jpg": {

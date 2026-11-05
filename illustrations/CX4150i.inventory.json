@@ -754,6 +754,29 @@
       }
     },
     {
+      "id": "cx4150i-adceca62e0b7",
+      "original_filename": "_CX4150i_CHASSIS_EXPLODE.jpg",
+      "local_path": "illustrations/4u/CX4150i/_CX4150i_CHASSIS_EXPLODE.jpg",
+      "width_px": 2502,
+      "height_px": 1178,
+      "format": "JPEG",
+      "size_bytes": 448561,
+      "sha256": "329351e380c5a48e757134b771a23b89187b14874a1286e663f1505cd90a7dfa",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4150i/_CX4150i_CHASSIS_EXPLODE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx4150i-101a7d4e7e1e",
       "original_filename": "_CX4150i_DRIVE POPULATION.jpg",
       "local_path": "illustrations/4u/CX4150i/_CX4150i_DRIVE POPULATION.jpg",
@@ -787,6 +810,29 @@
       "sha256": "5322867d545e31f0131b80efdbc26ae4757cbc51d51562c6f223b5cc9c685b2e",
       "selection_status": "candidate",
       "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4150i-1282251a5c7c",
+      "original_filename": "_CX4150i_PUSH_PULL.jpg",
+      "local_path": "illustrations/4u/CX4150i/_CX4150i_PUSH_PULL.jpg",
+      "width_px": 2502,
+      "height_px": 1178,
+      "format": "JPEG",
+      "size_bytes": 693805,
+      "sha256": "c50c272bfaa827ff4c45d6b0f7ab15a6823b4c955efaf9a09fb6b4a13050be1e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4150i/_CX4150i_PUSH_PULL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4150i-15eb3630e450",

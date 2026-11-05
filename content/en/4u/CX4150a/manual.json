@@ -44,6 +44,16 @@
       "layout": "contents"
     },
     {
+      "id": "exploded-view",
+      "title": "Exploded view",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "_CX4150a_CHASSIS_EXPLODE.jpg"
+      ],
+      "layout": "reference-drawing"
+    },
+    {
       "id": "dimensions",
       "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
@@ -367,14 +377,7 @@
     "width": 17,
     "height": 6.96
   },
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX4150a assemblies (the CX4170a manual has one); the exploded-view page is omitted until supplied.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/4u/CX4150a/"
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "15\" DEEP 4U CHASSIS",
   "cover_format": "landscape"
 }

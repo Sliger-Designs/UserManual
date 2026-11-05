@@ -45,6 +45,16 @@
       "layout": "contents"
     },
     {
+      "id": "exploded-view",
+      "title": "Exploded view",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "_CX4150i_CHASSIS_EXPLODE.jpg"
+      ],
+      "layout": "reference-drawing"
+    },
+    {
       "id": "dimensions",
       "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
@@ -229,9 +239,10 @@
       "title": "Install push-pull cooling",
       "section": "03 / COMPONENT INSTALLATION",
       "source": "push-pull.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "Push-pull installation illustration pending"
+      "images": [
+        "_CX4150i_PUSH_PULL.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "motherboard-preparation",
@@ -449,20 +460,7 @@
     "width": 17,
     "height": 6.96
   },
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX4150i assemblies; the exploded-view page is omitted until supplied.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/4u/CX4150i/"
-    },
-    {
-      "id": "M02",
-      "needed": "Push-pull (360 mm radiator, six fans) installation renders; the push-pull page is text-only until supplied.",
-      "section": "push-pull",
-      "suggested_folder": "illustrations/4u/CX4150i/"
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "15\" DEEP 4U CHASSIS",
   "cover_description_detail": "1 × 5.25\" BAY",
   "cover_format": "landscape"

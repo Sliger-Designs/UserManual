@@ -673,6 +673,52 @@
       }
     },
     {
+      "id": "cx4200e-d643011afb85",
+      "original_filename": "_CX4150e_PUSH_PULL2.jpg",
+      "local_path": "illustrations/4u/CX4200e/_CX4150e_PUSH_PULL2.jpg",
+      "width_px": 2502,
+      "height_px": 1178,
+      "format": "JPEG",
+      "size_bytes": 689452,
+      "sha256": "7318db8a3bf78790601d3bc63ad3f7382cf9f8316c7af916650b43d63fb2f49a",
+      "selection_status": "candidate",
+      "note": "Copied from the CX4150e folder: the 240 mm radiator and four-fan assembly, shown without the chassis (2026-11-05).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/_CX4150e_PUSH_PULL2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200e-112cd0431dc4",
+      "original_filename": "_CX4170e_PUSH_PULL.jpg",
+      "local_path": "illustrations/4u/CX4200e/_CX4170e_PUSH_PULL.jpg",
+      "width_px": 2502,
+      "height_px": 1178,
+      "format": "JPEG",
+      "size_bytes": 667372,
+      "sha256": "3bd346aea5fe85c94f13adda2d458cc0423d064f7fe79b99774116e6d9b739e3",
+      "selection_status": "candidate",
+      "note": "Copied from the CX4170e folder (same two-bay front; reuse requested 2026-11-05).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200e/_CX4170e_PUSH_PULL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx4200e-7cf84961a726",
       "original_filename": "_CX4200e_ADVANCED_FRONT VIEW.jpg",
       "local_path": "illustrations/4u/CX4200e/_CX4200e_ADVANCED_FRONT VIEW.jpg",

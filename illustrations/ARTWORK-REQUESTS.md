@@ -55,16 +55,8 @@ Confirmed 2026-11-04:
 |  | CX3171i XL | Exploded view. Optional: 17-inch i and XL riser-tray renders (CX3150i, CX3151i and CX3151x ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
 |  | CX3172a XL | Exploded view | Exploded view omitted |
 |  | CX3172i XL | Exploded view. Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and bay steps (the CX3152i/CX3150i ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
-|  | CX4150a | Exploded view | Exploded-view page omitted |
-|  | CX4150e | Exploded view; push-pull renders (240 mm radiator, four fans) | Exploded view omitted; push-pull page is text only |
-|  | CX4150i | Exploded view; push-pull renders (360 mm radiator, six fans) | Exploded view omitted; push-pull page is text only |
-|  | CX4170a | Optional: external side/front dimension profiles; CRPS adapter steps, if the manual should cover CRPS | None (optional) |
-|  | CX4170e | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
-|  | CX4170i | Push-pull renders (360 mm radiator, six fans); radiator/drive-cage clearance renders (as CX4170a 4c1/4c2); a 5.25-inch device in the bay bracket | Push-pull and clearance pages are text only |
-|  | CX4200a | Exploded view; radiator/drive-cage clearance renders | Exploded view omitted; clearance page is text only |
-|  | CX4200e | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
-|  | CX4200f | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
-|  | CX4200i | Push-pull renders (360 mm radiator, six fans); radiator/drive-cage clearance renders; a 5.25-inch device in the bay bracket | Push-pull and clearance pages are text only |
+|  | CX4170a | Optional: external side/front dimension profiles. CRPS installation will be covered in a separate manual | None (optional) |
+|  | CX4200f | Optional: the push-pull assembly installed in the three-bay CX4200f (the page shows the radiator-and-fan assembly only, CX4150e render) | None (optional) |
 |  | CX4712 | Exploded view; motherboard-tray removal and reinstallation renders (as CX4713 5a–5f; the tray is removable) | Exploded view and tray pages omitted |
 |  | CX4713 | Exploded view; product render | Exploded view omitted |
 
