@@ -29,6 +29,8 @@ Confirmed 2026-11-04:
   (same riser tray and rear); its bay-bracket drive steps use the CX3150i renders.
 - Each 17-inch model and its XL version are identical apart from the motherboard tray (the XL
   tray is deeper; the CX3170a XL and CX3171a XL trays carry a drive cage). Confirmed 2026-11-05.
+- The 17-inch non-XL trays are the same parts as the 15-inch trays (CX3150a, CX3151a, CX3152a);
+  the CX3171a and CX3172a tray steps use those renders (confirmed 2026-11-05).
 - Every 3U "i" chassis has the same 5.25-inch bay bracket; bracket steps a model lacks use the
   CX3150i renders (confirmed 2026-11-05).
 - The 5.25-inch bay filler blank is one part shared by every chassis with a 5.25-inch bay; all
@@ -55,6 +57,9 @@ Confirmed 2026-11-04:
 |  | CX3171i XL | Exploded view. Optional: 17-inch i and XL riser-tray renders (CX3150i, CX3151i and CX3151x ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
 |  | CX3172a XL | Exploded view | Exploded view omitted |
 |  | CX3172i XL | Exploded view. Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and bay steps (the CX3152i/CX3150i ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
+|  | CX3170a | Exploded view | Exploded view omitted |
+|  | CX3171a | Exploded view. Optional: 17-inch renders for the tray, riser and GPU steps (the CX3151a ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
+|  | CX3172a | Exploded view. Optional: 17-inch renders for the tray, PSU, SSD and GPU steps (the CX3152a ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
 |  | CX4170a | Optional: external side/front dimension profiles. CRPS installation will be covered in a separate manual | None (optional) |
 |  | CX4200f | Optional: the push-pull assembly installed in the three-bay CX4200f (the page shows the radiator-and-fan assembly only, CX4150e render) | None (optional) |
 |  | CX4712 | Exploded view; motherboard-tray removal and reinstallation renders (as CX4713 5a–5f; the tray is removable) | Exploded view and tray pages omitted |
@@ -73,6 +78,7 @@ highlighted in green on the motherboard tray); the others need an equivalent vie
 |  | CX3151a, CX3151i, CX3151x | Cable-management bar highlighted on the tray |
 |  | CX3152a, CX3152i | Cable-management bar highlighted on the tray |
 |  | CX3170a XL, CX3170i XL, CX3171a XL, CX3171i XL, CX3172a XL, CX3172i XL | Cable-management bar highlighted on the XL tray |
+|  | CX3170a, CX3171a, CX3172a | Cable-management bar highlighted on the tray |
 |  | CX4150a, CX4150e, CX4150i | Cable-management bar highlighted on the tray |
 |  | CX4170a, CX4170e, CX4170i | Cable-management bar highlighted on the tray |
 |  | CX4200a, CX4200e, CX4200f, CX4200i | Cable-management bar highlighted on the tray |
@@ -87,9 +93,6 @@ sibling to borrow shared steps from; each reuse is confirmed when that family is
 
 | Done | Model | Have | Needed | Possible source for shared steps |
 |---|---|---|---|---|
-|  | CX3170a | 11 | Installation steps; cover render | CX3170a XL |
-|  | CX3171a | 16 | Installation steps; cover render | CX3170a XL (lid confirmed as an example) |
-|  | CX3172a | 8 | Installation steps; cover render | CX3172a XL |
 |  | CX3701 | 42 | AIO renders; front-panel render | No standoffs |
 |  | CX3702 | 44 | Front-panel render | No standoffs |
 
