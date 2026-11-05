@@ -15,3 +15,5 @@ Front connectors default to the supplied grayscale drawings. The front-panel loc
 `bay-blank-drives.md` is the filler-blank page for every chassis with a 5.25-inch bay. The filler blank is one part shared across all of them (confirmed 2026-11-05), so every manual uses this page with the shared renders in `illustrations/common/4u-bay-blank/`.
 
 `riser-rear-cover-removal.md`, `riser-gpu-brace.md`, `riser-gpu-installation.md` and `hardware-gpukit.md` cover the horizontal riser GPU of the CX3151a, CX3151i and CX3151x, with the CX3151-GPUKIT braces and screws (confirmed 2026-11-05).
+
+`xl-drive-cage-removal.md`, `xl-drive-cage-drives.md` and `xl-drive-cage-installation.md` cover the drive cage on the CX3170a XL and CX3171a XL motherboard trays (confirmed 2026-11-05).

@@ -1,0 +1,59 @@
+{
+  "asset_key": "_CX3171i_XL_FRONT.tif",
+  "source_sha256": "1dc5aaa3b9fdf5fb25c8ae452d79617acae53f29b98b2f2ea779b7670f5b1bf4",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.9997618480590618,
+  "view_box": [
+    0.69,
+    0.585,
+    0.2,
+    0.16
+  ],
+  "badge_radius_height_fraction": 0.012,
+  "font_size_height_fraction": 0.016,
+  "review_status": "Positions measured on the CX3150i front render, which is the same file as the CX3171i XL front; review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Power switch and status light",
+      "target": [
+        0.8595,
+        0.647
+      ],
+      "badge": [
+        0.86,
+        0.722
+      ]
+    },
+    {
+      "number": 2,
+      "label": "USB Type-A ports",
+      "targets": [
+        [
+          0.7549,
+          0.647
+        ],
+        [
+          0.7866,
+          0.647
+        ]
+      ],
+      "badge": [
+        0.771,
+        0.722
+      ]
+    },
+    {
+      "number": 3,
+      "label": "USB Type-C",
+      "target": [
+        0.7232,
+        0.647
+      ],
+      "badge": [
+        0.723,
+        0.722
+      ]
+    }
+  ]
+}

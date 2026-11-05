@@ -27,6 +27,8 @@ Confirmed 2026-11-04:
   the CX3150n (CX3701 "v2") uses no standoffs and the CX3180n (CX3702 "v2") uses standoffs.
 - The CX3151i standoff, I/O-shield, motherboard, PSU and SSD steps use the CX3151x renders
   (same riser tray and rear); its bay-bracket drive steps use the CX3150i renders.
+- Each 17-inch model and its XL version are identical apart from the motherboard tray (the XL
+  tray is deeper; the CX3170a XL and CX3171a XL trays carry a drive cage). Confirmed 2026-11-05.
 - Every 3U "i" chassis has the same 5.25-inch bay bracket; bracket steps a model lacks use the
   CX3150i renders (confirmed 2026-11-05).
 - The 5.25-inch bay filler blank is one part shared by every chassis with a 5.25-inch bay; all
@@ -47,12 +49,18 @@ Confirmed 2026-11-04:
 |  | CX3151x | Exploded view | Exploded view omitted |
 |  | CX3152a | Exploded view | Exploded view omitted |
 |  | CX3152i | Exploded view | Exploded view omitted |
+|  | CX3170a XL | Exploded view. Optional: AIO + fans render (the CX3172a XL 3c is used) | Exploded view omitted |
+|  | CX3170i XL | Exploded view. Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and 5.25-inch bay steps (the CX3150i ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
+|  | CX3171a XL | Exploded view. Optional: XL riser-tray renders for the I/O shield, motherboard, PSU, SSD, rear cover, brace and GPU steps (the CX3151a ones are used) | Exploded view omitted; those steps show the 15-inch tray |
+|  | CX3171i XL | Exploded view. Optional: 17-inch i and XL riser-tray renders (CX3150i, CX3151i and CX3151x ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
+|  | CX3172a XL | Exploded view | Exploded view omitted |
+|  | CX3172i XL | Exploded view. Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and bay steps (the CX3152i/CX3150i ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
 |  | CX4150a | Exploded view | Exploded-view page omitted |
-|  | CX4150e | Exploded view; push-pull renders (240 mm radiator, four fans) | Exploded view omitted; push-pull page is text only |
-|  | CX4150i | Exploded view; push-pull renders (360 mm radiator, six fans) | Exploded view omitted; push-pull page is text only |
-|  | CX4170a | Optional: external side/front dimension profiles; CRPS adapter steps, if the manual should cover CRPS | None (optional) |
-|  | CX4170e | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
-|  | CX4170i | Push-pull renders (360 mm radiator, six fans); radiator/drive-cage clearance renders (as CX4170a 4c1/4c2); a 5.25-inch device in the bay bracket | Push-pull and clearance pages are text only |
+| added | CX4150e | Exploded view; push-pull renders (240 mm radiator, four fans) | Exploded view omitted; push-pull page is text only |
+| added | CX4150i | Exploded view; push-pull renders (360 mm radiator, six fans) | Exploded view omitted; push-pull page is text only |
+| crps will be separate manual | CX4170a | Optional: external side/front dimension profiles; CRPS adapter steps, if the manual should cover CRPS | None (optional) |
+| added | CX4170e | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
+| added | CX4170i | Push-pull renders (360 mm radiator, six fans); radiator/drive-cage clearance renders (as CX4170a 4c1/4c2); a 5.25-inch device in the bay bracket | Push-pull and clearance pages are text only |
 |  | CX4200a | Exploded view; radiator/drive-cage clearance renders | Exploded view omitted; clearance page is text only |
 |  | CX4200e | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
 |  | CX4200f | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
@@ -72,6 +80,7 @@ highlighted in green on the motherboard tray); the others need an equivalent vie
 |  | CX3150i, CX3150x | Cable-management bar highlighted on the tray (the CX3150a view may apply if the tray and view match; to confirm) |
 |  | CX3151a, CX3151i, CX3151x | Cable-management bar highlighted on the tray |
 |  | CX3152a, CX3152i | Cable-management bar highlighted on the tray |
+|  | CX3170a XL, CX3170i XL, CX3171a XL, CX3171i XL, CX3172a XL, CX3172i XL | Cable-management bar highlighted on the XL tray |
 |  | CX4150a, CX4150e, CX4150i | Cable-management bar highlighted on the tray |
 |  | CX4170a, CX4170e, CX4170i | Cable-management bar highlighted on the tray |
 |  | CX4200a, CX4200e, CX4200f, CX4200i | Cable-management bar highlighted on the tray |

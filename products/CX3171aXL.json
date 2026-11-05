@@ -1,0 +1,749 @@
+{
+  "schema_version": 1,
+  "sku": "CX3171aXL",
+  "catalog_sku": "CX3171a XL",
+  "status": "draft",
+  "release_ready": false,
+  "review_issues": [],
+  "authority": "Explicit decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.",
+  "facts": {
+    "product_type": {
+      "value": "Rackmount",
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Product Type"
+      },
+      "raw": "Rackmount"
+    },
+    "height_description": {
+      "value": "3U (5.22\")",
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Height"
+      },
+      "raw": "3U (5.22\")"
+    },
+    "depth_in": {
+      "value": 17,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Depth(in.)"
+      },
+      "raw": "17"
+    },
+    "width_in": {
+      "value": 17,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Width(in.)"
+      },
+      "raw": "17"
+    },
+    "volume_l": {
+      "value": 24.8,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Volume(L)"
+      },
+      "raw": "24.8"
+    },
+    "material": {
+      "value": "Galvanized steel",
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Material"
+      },
+      "raw": "Galvanized steel"
+    },
+    "feature": {
+      "value": "riser cable",
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Main feature"
+      },
+      "raw": "riser cable"
+    },
+    "front_bays": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Front Bay(s)"
+      },
+      "raw": ""
+    },
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "drive_cage": 8
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 3,
+      "configuration": {
+        "drive_cage": 3
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Drive cage."
+    },
+    "fans_max_description": {
+      "value": "6x 120mm",
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Max Supported Fans"
+      },
+      "raw": "6x 120mm"
+    },
+    "front_fans_default": {
+      "value": "3x 120mm",
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Front Fan Support(default)"
+      },
+      "raw": "3x 120mm"
+    },
+    "front_fans_max": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Front Fan Support(Max)"
+      },
+      "raw": ""
+    },
+    "mid_fans_default": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Mid Chassis Fan Support"
+      },
+      "raw": ""
+    },
+    "mid_fans_max": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Mid-Chassis Fans(Max)"
+      },
+      "raw": ""
+    },
+    "exhaust_fans": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Exhaust Fan Support"
+      },
+      "raw": ""
+    },
+    "rear_fan_kit": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "KIT-REARFAN Support"
+      },
+      "raw": "FALSE"
+    },
+    "top_fan_kit": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "KIT-TOPFAN Support"
+      },
+      "raw": "FALSE"
+    },
+    "air_cooler_height_max_mm": {
+      "value": 110,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Max Air Cooler Height (mm)"
+      },
+      "raw": "110"
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "2U AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_92": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "92mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_120": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "120mm AIO"
+      },
+      "raw": "TRUE"
+    },
+    "aio_140": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "140mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_240": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "240mm AIO"
+      },
+      "raw": "TRUE"
+    },
+    "aio_280": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "280mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_360": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "360mm AIO"
+      },
+      "raw": "TRUE"
+    },
+    "psu_flex_atx": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "FlexATX PSU"
+      },
+      "raw": "FALSE"
+    },
+    "psu_sfx_sfx_l": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "SFX/SFX-L PSU"
+      },
+      "raw": "TRUE"
+    },
+    "psu_crps": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "CRPS PSU"
+      },
+      "raw": "FALSE"
+    },
+    "psu_atx": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "ATX PSU"
+      },
+      "raw": "FALSE"
+    },
+    "motherboard_mini_itx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Mini-ITX MoBo"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_micro_atx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "MicroATX MoBo"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_atx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "ATX MoBo(10.5\" deep max)"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_eatx_13in": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "EATX MoBo(13\" deep max)"
+      },
+      "raw": "TRUE"
+    },
+    "riser_pcie_5": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "5.0 Riser"
+      },
+      "raw": "TRUE"
+    },
+    "riser_bifurcation": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Bifurcation Riser"
+      },
+      "raw": ""
+    },
+    "pcie_slots": {
+      "value": "3x Full Height",
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "PCIe Slots"
+      },
+      "raw": "3x Full Height"
+    },
+    "gpu_height_max_mm": {
+      "value": 150,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Max GPU Height (mm)"
+      },
+      "raw": "150"
+    },
+    "gpu_length_baseline_mm": {
+      "value": 395,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Max GPU Length Baseline(mm)"
+      },
+      "raw": "395"
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 375,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Max GPU Length(Only Fans)(mm)"
+      },
+      "raw": "375"
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": 347,
+      "source": {
+        "id": "compatibility",
+        "record": 59,
+        "column": "Max GPU Length(fans+AIO)(mm)"
+      },
+      "raw": "347"
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": 347,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Push-pull is not officially supported on any XL model; the spec review's 322 mm six-fan value is not published."
+    },
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 431.8,
+        "width": 431.8,
+        "height": 132.59
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3171axl-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (17 × 17 × 5.22 inches); exact depth and height approved over the bulk-create 433 × 132.5 mm."
+    },
+    "rack_ear_screw_count": {
+      "value": 6,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 3U chassis use the same rack ears (CX3150a: six screws)."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 3,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    },
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12.8,
+        13
+      ],
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3171axl-specs.txt"
+      },
+      "note": "XL tray: SSI-EEB 12 × 13 inches and XL-ATX/EATX 12.8 × 13 inches (website)."
+    },
+    "aio_360_six_fan_push_pull_supported": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Not officially supported (2026-11-05)."
+    },
+    "hardware_bag_part_number": {
+      "value": "SBAG-HWKIT",
+      "source": {
+        "id": "decision",
+        "date": "2026-10-27",
+        "record": "products/shared/SBAG-HWKIT.json"
+      },
+      "note": "All rackmount chassis share this screwbag as confirmed."
+    }
+  },
+  "manual_copy_candidates": {
+    "Slug": {
+      "text": "17\" DEEP 3U CHASSIS",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Slug"
+      },
+      "status": "needs_review"
+    },
+    "Chassis Depth": {
+      "text": "17.04in / 433mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Chassis Depth"
+      },
+      "status": "needs_review"
+    },
+    "Chassis Width": {
+      "text": "17in / 431.8mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Chassis Width"
+      },
+      "status": "needs_review"
+    },
+    "Chassis Height": {
+      "text": "5.2in / 132.5mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Chassis Height"
+      },
+      "status": "needs_review"
+    },
+    "Mobo Support": {
+      "text": "EATX, SSI-CEB, SSI-EEB, XL-ATX, ATX, Deep MicroATX, Deep MiniITX, MicroATX, MiniITX",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Mobo Support"
+      },
+      "status": "needs_review"
+    },
+    "PSU Support": {
+      "text": "SFX or SFX-L form factor",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "PSU Support"
+      },
+      "status": "needs_review"
+    },
+    "Storage Support": {
+      "text": "Mounting locations for: 8x 2.5\" SSD, 3x 3.5\" HDD",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Storage Support"
+      },
+      "status": "needs_review"
+    },
+    "Storage Disclaimer": {
+      "text": "*The above lists mounting locations. Not every mounting location can be use simultaneously.",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Storage Disclaimer"
+      },
+      "status": "needs_review"
+    },
+    "Front Bays": {
+      "text": "none",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Front Bays"
+      },
+      "status": "needs_review"
+    },
+    "GPU / PCIe Card Support": {
+      "text": "3x Full Height Slots",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "GPU / PCIe Card Support"
+      },
+      "status": "needs_review"
+    },
+    "Max Card Height": {
+      "text": "150mm - including power connectors",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Max Card Height"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with x Fans": {
+      "text": "3x 25mm thick front fans: 375mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Max Length with x Fans"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with AIO push": {
+      "text": "360mm AIO and 3x 25mm thick front fans: 346mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Max Length with AIO push"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with AIO push-pull": {
+      "text": null,
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Max Length with AIO push-pull"
+      },
+      "status": "excluded_unsupported_configuration",
+      "reason": "Confirmed this configuration is officially unsupported."
+    },
+    "AIO Disclaimer": {
+      "text": null,
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "AIO Disclaimer"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with no AIO/Fans": {
+      "text": "395mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Max Length with no AIO/Fans"
+      },
+      "status": "needs_review"
+    },
+    "CPU Air Compatibility": {
+      "text": "110mm tall",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "CPU Air Compatibility"
+      },
+      "status": "needs_review"
+    },
+    "AIO Compatibility": {
+      "text": "2x 120mm or 1x 240mm or 1x 360mm Liquid Cooler",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "AIO Compatibility"
+      },
+      "status": "needs_review"
+    },
+    "Front Fans": {
+      "text": "3x 120mm fans up to 38mm thick",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Front Fans"
+      },
+      "status": "needs_review"
+    },
+    "Rear Fans": {
+      "text": "Optional PCIe fan adapters",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Rear Fans"
+      },
+      "status": "needs_review"
+    },
+    "Front IO": {
+      "text": "1x USB 3.2 Type C 10Gbps, 2x USB 3.0 Type A",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "Front IO"
+      },
+      "status": "needs_review"
+    },
+    "G - Slot Covers": {
+      "text": "8",
+      "source": {
+        "id": "bulk_create",
+        "record": 26,
+        "column": "G - Slot Covers"
+      },
+      "status": "needs_review"
+    }
+  },
+  "source_records": {
+    "compatibility": {
+      "record": 59,
+      "fields": {
+        "SKU": "CX3171a XL",
+        "Name": "Sliger CX3171a XL, 3U 17in Rackmount Server Case - Large GPU, eATX and 360mm AIO Support",
+        "Product Type": "Rackmount",
+        "Height": "3U (5.22\")",
+        "Depth(in.)": "17",
+        "Width(in.)": "17",
+        "Volume(L)": "24.8",
+        "Material": "Galvanized steel",
+        "Main feature": "riser cable",
+        "Front Bay(s)": "",
+        "Internal 2.5 SSD (Max)": "8",
+        "Internal 3.5 HDD (Max)": "3",
+        "Max Supported Fans": "6x 120mm",
+        "Front Fan Support(default)": "3x 120mm",
+        "Front Fan Support(Max)": "",
+        "Mid Chassis Fan Support": "",
+        "Mid-Chassis Fans(Max)": "",
+        "Exhaust Fan Support": "",
+        "KIT-REARFAN Support": "FALSE",
+        "KIT-TOPFAN Support": "FALSE",
+        "Max Air Cooler Height (mm)": "110",
+        "2U AIO": "FALSE",
+        "92mm AIO": "FALSE",
+        "120mm AIO": "TRUE",
+        "140mm AIO": "FALSE",
+        "240mm AIO": "TRUE",
+        "280mm AIO": "FALSE",
+        "360mm AIO": "TRUE",
+        "FlexATX PSU": "FALSE",
+        "SFX/SFX-L PSU": "TRUE",
+        "CRPS PSU": "FALSE",
+        "ATX PSU": "FALSE",
+        "Mini-ITX MoBo": "TRUE",
+        "MicroATX MoBo": "TRUE",
+        "ATX MoBo(10.5\" deep max)": "TRUE",
+        "EATX MoBo(13\" deep max)": "TRUE",
+        "5.0 Riser": "TRUE",
+        "Bifurcation Riser": "",
+        "PCIe Slots": "3x Full Height",
+        "Max GPU Height (mm)": "150",
+        "Max GPU Length Baseline(mm)": "395",
+        "Max GPU Length(Only Fans)(mm)": "375",
+        "Max GPU Length(fans+AIO)(mm)": "347",
+        "MAX GPU Length (Max cooling)": "347",
+        "Chassis Weight": "16.75",
+        "Shipped Weight": "20",
+        "Item Package Length": "",
+        "Item Package Width": "",
+        "Item Package Height": "",
+        "User Manual": "FALSE",
+        "Data Sheet": "FALSE",
+        "Dimension Dwg": "FALSE",
+        "NC CAD Model": "FALSE"
+      }
+    },
+    "bulk_create": {
+      "record": 26,
+      "fields": {
+        "Chassis Model": "CX3171a XL ",
+        "Slug": "17\" DEEP 3U CHASSIS \n",
+        "Chassis Depth": "17.04in / 433mm",
+        "Chassis Width": "17in / 431.8mm",
+        "Chassis Height": "5.2in / 132.5mm",
+        "Mobo Support": "EATX, SSI-CEB, SSI-EEB, XL-ATX, ATX, Deep MicroATX, Deep MiniITX, MicroATX, MiniITX\n",
+        "PSU Support": "SFX or SFX-L form factor",
+        "Storage Support": "Mounting locations for: 8x 2.5\" SSD, 3x 3.5\" HDD\n",
+        "Storage Disclaimer": "*The above lists mounting locations. Not every mounting location can be use simultaneously.",
+        "Front Bays": "none",
+        "GPU / PCIe Card Support": "3x Full Height Slots\n",
+        "Max Card Height": "150mm - including power connectors",
+        "Max Length with x Fans": "3x 25mm thick front fans: 375mm",
+        "Max Length with AIO push": "360mm AIO and 3x 25mm thick front fans: 346mm",
+        "Max Length with AIO push-pull": "",
+        "AIO Disclaimer": "",
+        "Max Length with no AIO/Fans": "395mm",
+        "CPU Air Compatibility": "110mm tall",
+        "AIO Compatibility": "2x 120mm or 1x 240mm or 1x 360mm Liquid Cooler",
+        "Front Fans": "3x 120mm fans up to 38mm thick",
+        "Rear Fans": "Optional PCIe fan adapters",
+        "Front IO": "1x USB 3.2 Type C 10Gbps, 2x USB 3.0 Type A\n",
+        "G - Slot Covers": "8"
+      }
+    }
+  }
+}

@@ -11,6 +11,12 @@ MODEL_CATEGORIES = {
     'CX3151x': '3u',
     'CX3152a': '3u',
     'CX3152i': '3u',
+    'CX3170aXL': '3u',
+    'CX3170iXL': '3u',
+    'CX3171aXL': '3u',
+    'CX3171iXL': '3u',
+    'CX3172aXL': '3u',
+    'CX3172iXL': '3u',
     'CX4150a': '4u',
     'CX4150e': '4u',
     'CX4150i': '4u',
@@ -26,6 +32,23 @@ MODEL_CATEGORIES = {
     'S630': 'desktop',
     'S640': 'desktop',
 }
+
+
+# Repo model IDs have no spaces. Where the catalog SKU (and the supplied render folder) differs,
+# e.g. "CX3170a XL", it is listed here; the website slug follows it ("cx3170a_xl").
+CATALOG_NAMES = {'CX3170aXL': 'CX3170a XL', 'CX3170iXL': 'CX3170i XL', 'CX3171aXL': 'CX3171a XL', 'CX3171iXL': 'CX3171i XL', 'CX3172aXL': 'CX3172a XL', 'CX3172iXL': 'CX3172i XL'}
+
+
+def catalog_name(model):
+    return CATALOG_NAMES.get(model, model)
+
+
+def web_slug(model):
+    return catalog_name(model).lower().replace(' ', '_')
+
+
+def originals_directory(model):
+    return ROOT / 'illustrations' / MODEL_CATEGORIES[model] / catalog_name(model)
 
 
 def content_directory(model, language='en'):

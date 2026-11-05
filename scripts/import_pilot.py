@@ -10,6 +10,8 @@ import hashlib
 import json
 from pathlib import Path
 
+from manual_paths import catalog_name
+
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = {
     'compatibility': ('sources/original/compatibility-list.csv', 'SKU'),
@@ -53,6 +55,12 @@ ISSUES = {
     'CX3151x': [],
     'CX3152a': [],
     'CX3152i': [],
+    'CX3170aXL': [],
+    'CX3170iXL': [],
+    'CX3171aXL': [],
+    'CX3171iXL': [],
+    'CX3172aXL': [],
+    'CX3172iXL': [],
     'CX4150a': [],
     'CX4150e': [],
     'CX4150i': [],
@@ -111,7 +119,7 @@ def main():
     for sku in ISSUES:
         matches = {}
         for name, (_, key) in SOURCES.items():
-            found = [(n, r) for n, r in data[name] if r[key].strip() == sku]
+            found = [(n, r) for n, r in data[name] if r[key].strip() == catalog_name(sku)]
             if not found and name == 'bulk_create' and sku in ('S630', 'S640'):
                 continue  # These models are absent from the supplied bulk-create export.
             assert len(found) == 1, (sku, name, 'Expected exactly one source record')
@@ -135,7 +143,7 @@ def main():
                 'source': {'id': 'decision', 'date': '2026-10-27', 'record': 'products/shared/SBAG-HWKIT.json'},
                 'note': 'All rackmount chassis share this screwbag as confirmed.'}
         record = {
-            'schema_version': 1, 'sku': sku, 'status': 'draft',
+            'schema_version': 1, 'sku': sku, **({'catalog_sku': catalog_name(sku)} if catalog_name(sku) != sku else {}), 'status': 'draft',
             'release_ready': False, 'review_issues': ISSUES[sku],
             'authority': 'Explicit decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.',
             'facts': facts,
