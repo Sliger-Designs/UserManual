@@ -17,3 +17,5 @@ Front connectors default to the supplied grayscale drawings. The front-panel loc
 `riser-rear-cover-removal.md`, `riser-gpu-brace.md`, `riser-gpu-installation.md` and `hardware-gpukit.md` cover the horizontal riser GPU of the CX3151a, CX3151i and CX3151x, with the CX3151-GPUKIT braces and screws (confirmed 2026-11-05).
 
 `xl-drive-cage-removal.md`, `xl-drive-cage-drives.md` and `xl-drive-cage-installation.md` cover the drive cage on the CX3170a XL and CX3171a XL motherboard trays (confirmed 2026-11-05).
+
+`motherboard-preparation-no-standoffs.md` and `motherboard-installation-no-standoffs.md` are for chassis whose boards mount without standoffs (CX3701, CX3702; confirmed 2026-11-04).

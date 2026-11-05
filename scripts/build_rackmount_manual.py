@@ -221,9 +221,10 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     for entry in hardware['items']:
         compact = lambda value: ''.join(value.split())  # names may wrap at hyphens, e.g. "217-735"
         assert compact(entry['name']) in compact(key_page), entry['letter']
+    standoffs = [] if manual.get('no_standoffs') else ['(C)']  # e.g. CX3701/CX3702 boards mount without standoffs
     for identifier, expected in {
             'lid-removal': ['(A)'], 'tray-removal': ['(E)'], 'rack-ears': ['(F)', '(H)', '(I)'],
-            'motherboard-preparation': ['(C)'], 'motherboard-installation': ['(A)', '(C)'],
+            'motherboard-preparation': standoffs, 'motherboard-installation': ['(A)'] + standoffs,
             'psu-installation': ['(A)'], 'gpu-installation': ['(A)', '(G)'],
             'ssd-installation': ['(B)', '5 mm long'], 'tray-installation': ['(E)']}.items():
         if identifier not in page_numbers:

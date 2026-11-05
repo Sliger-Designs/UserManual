@@ -60,6 +60,8 @@ Confirmed 2026-11-04:
 |  | CX3170a | Exploded view | Exploded view omitted |
 |  | CX3171a | Exploded view. Optional: 17-inch renders for the tray, riser and GPU steps (the CX3151a ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
 |  | CX3172a | Exploded view. Optional: 17-inch renders for the tray, PSU, SSD and GPU steps (the CX3152a ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
+|  | CX3701 | Exploded view; 92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket. Optional: NAS front-panel render (the shared 3U "a" front drawing is used) | Exploded view omitted; the AIO page is text only |
+|  | CX3702 | Exploded view. Optional: NAS front-panel render (the shared 3U "a" front drawing is used); locked-HDD render (the CX3701 one is used) | Exploded view omitted |
 |  | CX4170a | Optional: external side/front dimension profiles. CRPS installation will be covered in a separate manual | None (optional) |
 |  | CX4200f | Optional: the push-pull assembly installed in the three-bay CX4200f (the page shows the radiator-and-fan assembly only, CX4150e render) | None (optional) |
 |  | CX4712 | Exploded view; motherboard-tray removal and reinstallation renders (as CX4713 5a–5f; the tray is removable) | Exploded view and tray pages omitted |
@@ -79,6 +81,7 @@ highlighted in green on the motherboard tray); the others need an equivalent vie
 |  | CX3152a, CX3152i | Cable-management bar highlighted on the tray |
 |  | CX3170a XL, CX3170i XL, CX3171a XL, CX3171i XL, CX3172a XL, CX3172i XL | Cable-management bar highlighted on the XL tray |
 |  | CX3170a, CX3171a, CX3172a | Cable-management bar highlighted on the tray |
+|  | CX3701, CX3702 | Cable-management bar highlighted on the tray |
 |  | CX4150a, CX4150e, CX4150i | Cable-management bar highlighted on the tray |
 |  | CX4170a, CX4170e, CX4170i | Cable-management bar highlighted on the tray |
 |  | CX4200a, CX4200e, CX4200f, CX4200i | Cable-management bar highlighted on the tray |
@@ -86,15 +89,9 @@ highlighted in green on the motherboard tray); the others need an equivalent vie
 
 Every 3U and 2U manual built later joins this list unless its render set includes the view.
 
-## 3U: not yet built
+## 3U
 
-Several 3U variants have only a few renders. The column on the right lists the most likely
-sibling to borrow shared steps from; each reuse is confirmed when that family is built.
-
-| Done | Model | Have | Needed | Possible source for shared steps |
-|---|---|---|---|---|
-|  | CX3701 | 42 | AIO renders; front-panel render | No standoffs |
-|  | CX3702 | 44 | Front-panel render | No standoffs |
+Every released 3U manual is built (November 5, 2026); open items are in the tables above.
 
 ## Concept models
 

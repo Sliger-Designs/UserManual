@@ -1,0 +1,828 @@
+{
+  "schema_version": 1,
+  "model": "CX3701",
+  "items": [
+    {
+      "id": "cx3701-3d24e96a91b6",
+      "original_filename": "10a_CX3701_TRAY UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3701/10a_CX3701_TRAY UNSCREW.jpg",
+      "width_px": 4351,
+      "height_px": 3108,
+      "format": "JPEG",
+      "size_bytes": 1800336,
+      "sha256": "efe29b7ed2552327f99da5627a2a0547597ed36d595bc664ca3d1886594813b3",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/10a_CX3701_TRAY UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-ba2dd820042a",
+      "original_filename": "10b_CX3701_TRAY SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3701/10b_CX3701_TRAY SLIDE BACK.jpg",
+      "width_px": 3926,
+      "height_px": 2804,
+      "format": "JPEG",
+      "size_bytes": 1039153,
+      "sha256": "83fbe8423e70b34fd5188e954398b7defccadb07fbce3a5eae079ea57657aa5e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/10b_CX3701_TRAY SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-e2ea726aeb0b",
+      "original_filename": "10c_CX3701_TRAY SLIDE BACK 2.jpg",
+      "local_path": "illustrations/3u/CX3701/10c_CX3701_TRAY SLIDE BACK 2.jpg",
+      "width_px": 3542,
+      "height_px": 2530,
+      "format": "JPEG",
+      "size_bytes": 1320715,
+      "sha256": "c3ef894f079585a997f4e8b150220c50caf72174e4a9336b6fee4246c13f2e01",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/10c_CX3701_TRAY SLIDE BACK 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-377c975947c7",
+      "original_filename": "10d_CX3701_TRAY INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3701/10d_CX3701_TRAY INSTALL.jpg",
+      "width_px": 4581,
+      "height_px": 3272,
+      "format": "JPEG",
+      "size_bytes": 1732066,
+      "sha256": "685c83ad1b2deb4ef2eff84f4886cf669df8cb3405411caf2846f501fc881b26",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/10d_CX3701_TRAY INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-73ab55fade5a",
+      "original_filename": "10e_CX3701_TRAY INSTALL 2.jpg",
+      "local_path": "illustrations/3u/CX3701/10e_CX3701_TRAY INSTALL 2.jpg",
+      "width_px": 3926,
+      "height_px": 2804,
+      "format": "JPEG",
+      "size_bytes": 1394887,
+      "sha256": "9ea6ff90cbedc63eb867075c771815c68e20698970be10fdc6a33feb7389a71e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/10e_CX3701_TRAY INSTALL 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-ece03987c443",
+      "original_filename": "10f_CX3701_TRAY INSTALL 3.jpg",
+      "local_path": "illustrations/3u/CX3701/10f_CX3701_TRAY INSTALL 3.jpg",
+      "width_px": 4133,
+      "height_px": 2952,
+      "format": "JPEG",
+      "size_bytes": 1458411,
+      "sha256": "772fefc30b41eb957bc4a52abc07ce3d0be18592b5514006a21712acf1e919f7",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/10f_CX3701_TRAY INSTALL 3-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-197c8a82f6b5",
+      "original_filename": "11.JPG",
+      "local_path": "illustrations/3u/CX3701/11.JPG",
+      "width_px": 1600,
+      "height_px": 923,
+      "format": "JPEG",
+      "size_bytes": 661871,
+      "sha256": "f7f1436e17c275d73a5312fba0f75743aaa49c2e085ca6091884b0ce7a62ec1b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-b8966cfa33ef",
+      "original_filename": "12.jpg",
+      "local_path": "illustrations/3u/CX3701/12.jpg",
+      "width_px": 1600,
+      "height_px": 884,
+      "format": "JPEG",
+      "size_bytes": 583399,
+      "sha256": "fad878f1df297db2cc6fcbe2d96ed254859f32217f996bc4c6cf0cadc81feecc",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-f73122a5d9fc",
+      "original_filename": "13.jpg",
+      "local_path": "illustrations/3u/CX3701/13.jpg",
+      "width_px": 1600,
+      "height_px": 1056,
+      "format": "JPEG",
+      "size_bytes": 620742,
+      "sha256": "f4ed0289c43ad5b6949ff844bc6941efea354162191517158485b8dbf0cb81fd",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-4b587d1335ad",
+      "original_filename": "1a_CX3701_LID UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3701/1a_CX3701_LID UNSCREW.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 866047,
+      "sha256": "5a2ef58bde38f1c9473e1f819a62eee7129de1ad55d60f48728124985881e8a8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/1a_CX3701_LID UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-103f048e4e57",
+      "original_filename": "1b_CX3701_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3701/1b_CX3701_LID SLIDE BACK.jpg",
+      "width_px": 5817,
+      "height_px": 4155,
+      "format": "JPEG",
+      "size_bytes": 687499,
+      "sha256": "983e4d2ee7509cbca9f62ab7a1c49696b6ea609440bcf54482f05271ff336fcd",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/1b_CX3701_LID SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-3a7e5067940a",
+      "original_filename": "1c_CX3701_LID REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3701/1c_CX3701_LID REMOVE.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1672190,
+      "sha256": "9b5e32498688d9b400e496e81c08c32845b1b0dd027d13f5ec17bbf2b0de2b6e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/1c_CX3701_LID REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-6f91acda0a37",
+      "original_filename": "2_CX3701_FACEPLATE REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3701/2_CX3701_FACEPLATE REMOVE.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1949518,
+      "sha256": "5dabc9f6d31dcb5eadaa82fabd9e055da1d99ec55d2e6862761dedf974ad5049",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/2_CX3701_FACEPLATE REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-3295a3669f33",
+      "original_filename": "3a_CX3701_SIDE FAN BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3701/3a_CX3701_SIDE FAN BRACKET UNSCREW.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1552986,
+      "sha256": "23071efd244f5d60a3517962c1f4f848a2f8d7d5d6b01563c1e201e0a37a3ab1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/3a_CX3701_SIDE FAN BRACKET UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-6a84ea318b22",
+      "original_filename": "3b_CX3701_SIDE FAN BRACKET REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3701/3b_CX3701_SIDE FAN BRACKET REMOVE.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1418490,
+      "sha256": "8e80392f5a71bd77483b183e08a104f8559f19869c095c3bd16db592d0c6a257",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-40b8d76e0df7",
+      "original_filename": "3c_CX3701_SIDE FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3701/3c_CX3701_SIDE FAN INSTALL.jpg",
+      "width_px": 4067,
+      "height_px": 2905,
+      "format": "JPEG",
+      "size_bytes": 558392,
+      "sha256": "49e8272a49560469eca37ba587b2b03f7cfab861f9b36a98a0c95f007426000c",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/3c_CX3701_SIDE FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-af7cf1e9f631",
+      "original_filename": "3d_CX3701_SIDE FAN BRACKET INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3701/3d_CX3701_SIDE FAN BRACKET INSTALL.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1285342,
+      "sha256": "ac9e252795ddbfb08da419ebac5e6f344a5a2b1ad3913b40e9d60eab5a62a0a0",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/3d_CX3701_SIDE FAN BRACKET INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-80c4ba6373dd",
+      "original_filename": "3e_CX3701_REAR FAN BRACKET REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3701/3e_CX3701_REAR FAN BRACKET REMOVE.jpg",
+      "width_px": 5817,
+      "height_px": 4155,
+      "format": "JPEG",
+      "size_bytes": 2419504,
+      "sha256": "1e2771af524192ad94ad8838510aa289cd612e54d4a80d653703a1321dba4bce",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/3e_CX3701_REAR FAN BRACKET REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-efa5e68b05b9",
+      "original_filename": "3f_CX3701_REAR FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3701/3f_CX3701_REAR FAN INSTALL.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 873698,
+      "sha256": "2af23c0ad75b94f5f53ae7aef9fe79a88ed591ec3c0f88ca7fc83f8bc36ac8e2",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/3f_CX3701_REAR FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-31555d333ebe",
+      "original_filename": "3g_CX3701_REAR FAN BRACKET INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3701/3g_CX3701_REAR FAN BRACKET INSTALL.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 2164899,
+      "sha256": "b6b4dcab0429643c67a54e71eac188dc1868971c49d655674106cabd0e3330b4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/3g_CX3701_REAR FAN BRACKET INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-f674dbded226",
+      "original_filename": "4a_CX3701_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/3u/CX3701/4a_CX3701_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1951303,
+      "sha256": "a84d3de168565a3a35f10cd1852a8fff983c8b14cd62ad5f82b90a3b7a143642",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/4a_CX3701_MOTHERBOARD IO SHIELD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-db62edb78f26",
+      "original_filename": "4b_CX3701_MOTHERBOARD.jpg",
+      "local_path": "illustrations/3u/CX3701/4b_CX3701_MOTHERBOARD.jpg",
+      "width_px": 4448,
+      "height_px": 3177,
+      "format": "JPEG",
+      "size_bytes": 994847,
+      "sha256": "38328d472c8821d3a34b71790f0beffe772e73491bb1111f15b7223e25758701",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/4b_CX3701_MOTHERBOARD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-3fd572d0b363",
+      "original_filename": "5.jpg",
+      "local_path": "illustrations/3u/CX3701/5.jpg",
+      "width_px": 2560,
+      "height_px": 1440,
+      "format": "JPEG",
+      "size_bytes": 270429,
+      "sha256": "1a4c7b87d8f42266e3c504a98aee0f3cf5e50625b36b2a25ade9dd78ca6d13b7",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-9ea00975f9be",
+      "original_filename": "5_CX3701_SSD.jpg",
+      "local_path": "illustrations/3u/CX3701/5_CX3701_SSD.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1408599,
+      "sha256": "f04b3b0d0dfc85d7bf17c028ef6093919a455da2e4cbaf89a372f4647f394a48",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/5_CX3701_SSD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-c3ed3505bb29",
+      "original_filename": "6_CX3701_PSU.jpg",
+      "local_path": "illustrations/3u/CX3701/6_CX3701_PSU.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 2132629,
+      "sha256": "ee552b83fb0a66db5614cea57495bbd6c1f6976b2b4347586a6f0f57242925ec",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/6_CX3701_PSU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-1ecf78731fe1",
+      "original_filename": "7_CX3701_GPU.jpg",
+      "local_path": "illustrations/3u/CX3701/7_CX3701_GPU.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1533222,
+      "sha256": "df96e0c523a7b5f8f0b8d4d10e66ad894b69a028beaff95b191846a1d7618055",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/7_CX3701_GPU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-269784b7cec6",
+      "original_filename": "8a_CX3701_SLIDE TRAY.jpg",
+      "local_path": "illustrations/3u/CX3701/8a_CX3701_SLIDE TRAY.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 2060388,
+      "sha256": "69c5a240811580473b8793b2e05ea0fb3ee261e163d4e5d27d538ded9dbf26ab",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/8a_CX3701_SLIDE TRAY-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-3266fbd9ea14",
+      "original_filename": "8b_CX3701_HDD ASSEMBLE.jpg",
+      "local_path": "illustrations/3u/CX3701/8b_CX3701_HDD ASSEMBLE.jpg",
+      "width_px": 4448,
+      "height_px": 3177,
+      "format": "JPEG",
+      "size_bytes": 339779,
+      "sha256": "9b0272508f02066d97216ad17aa9c4fcefdc2c882ce3e762d761f21029fdba64",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/8b_CX3701_HDD ASSEMBLE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-8142d770992c",
+      "original_filename": "8c_CX3701_HDD INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3701/8c_CX3701_HDD INSTALL.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1942047,
+      "sha256": "cd8c7ea5d76c0e4dc5403b786623e89a077695100c98a1917bc104b3090b99ef",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/8c_CX3701_HDD INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-5d10bb386267",
+      "original_filename": "8d_CX3701_HDD INSTALLED.jpg",
+      "local_path": "illustrations/3u/CX3701/8d_CX3701_HDD INSTALLED.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 2064713,
+      "sha256": "5120c31a19ce363507d6a6bdb2493d98484cb98a2932b0a760a3e56fb4e35da5",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/8d_CX3701_HDD INSTALLED-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-364537aa2eac",
+      "original_filename": "8e_CX3701_LOCKED HDD.jpg",
+      "local_path": "illustrations/3u/CX3701/8e_CX3701_LOCKED HDD.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1135393,
+      "sha256": "5a713cd3be3fd8a304bc39762ca701335c7f8f50fc4f1be89785a999558abe48",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/8e_CX3701_LOCKED HDD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-9743e296bbb3",
+      "original_filename": "9_CX3701_RACK EARS.jpg",
+      "local_path": "illustrations/3u/CX3701/9_CX3701_RACK EARS.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1257857,
+      "sha256": "c974dea638477b7f6673f51f8e90b63ed45cf341c79e576fd6886b50a3b613b8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/9_CX3701_RACK EARS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-89b5025a5ac7",
+      "original_filename": "Sliger HDD Shoulder Screw (217-735).jpg",
+      "local_path": "illustrations/3u/CX3701/Sliger HDD Shoulder Screw (217-735).jpg",
+      "width_px": 4351,
+      "height_px": 3108,
+      "format": "JPEG",
+      "size_bytes": 358889,
+      "sha256": "8a05cd89318aa6387414c05e21431d0f26fadd51d3a3180e115169ec9e7a5c75",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-441cf5278a6d",
+      "original_filename": "_CX3701.jpg",
+      "local_path": "illustrations/3u/CX3701/_CX3701.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 263886,
+      "sha256": "8943767eeadd8de845f1945acac009254dc5c6f41ae9a728dd6623519658e1cf",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-c45cac68046b",
+      "original_filename": "_CX3701_ADVANCED_FRONT VIEW.jpg",
+      "local_path": "illustrations/3u/CX3701/_CX3701_ADVANCED_FRONT VIEW.jpg",
+      "width_px": 4937,
+      "height_px": 3527,
+      "format": "JPEG",
+      "size_bytes": 1116645,
+      "sha256": "fd723a4f48a8ceeb83595107820b5ffdbcf99e68bedaf13e90b5a9bff57b8e88",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/_CX3701_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-0c13a3886c6f",
+      "original_filename": "_CX3701_ADVANCED_TOP VIEW.jpg",
+      "local_path": "illustrations/3u/CX3701/_CX3701_ADVANCED_TOP VIEW.jpg",
+      "width_px": 5330,
+      "height_px": 3807,
+      "format": "JPEG",
+      "size_bytes": 1289106,
+      "sha256": "d529966e2e79519b775d8a1ba2165ad0ea38e204f665108eadec4989114bcc79",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/_CX3701_ADVANCED_TOP VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3701-0fdafd7a5bc6",
+      "original_filename": "_CX3701_CORNER 180.jpg",
+      "local_path": "illustrations/3u/CX3701/_CX3701_CORNER 180.jpg",
+      "width_px": 3491,
+      "height_px": 2494,
+      "format": "JPEG",
+      "size_bytes": 1087629,
+      "sha256": "528adcba7633a53896e0181c94f1b041196af44d8370cb93777ac14647b52253",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-5ddedfa330ab",
+      "original_filename": "_CX3701_CORNER.jpg",
+      "local_path": "illustrations/3u/CX3701/_CX3701_CORNER.jpg",
+      "width_px": 3542,
+      "height_px": 2530,
+      "format": "JPEG",
+      "size_bytes": 1141970,
+      "sha256": "cd31e836be5c7f27f4fc16d38787e4d69681610e6c9e8da770e386b2452d5612",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-26f8e86b2b93",
+      "original_filename": "_CX3701_motherboard install 2.jpg",
+      "local_path": "illustrations/3u/CX3701/_CX3701_motherboard install 2.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 428575,
+      "sha256": "5c3f15acf99be1fcd6eb0a8b38d543aa5135c0dd343e40971f92ebf1320f9b7f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-5f5952c0e3e2",
+      "original_filename": "_CX3701_motherboard installation.jpg",
+      "local_path": "illustrations/3u/CX3701/_CX3701_motherboard installation.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 440955,
+      "sha256": "6711555c072f27b3d6276d7dd98f9f33e125d494183f798223a584ea167f2a35",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3701-c000e26046b1",
+      "original_filename": "_CX3701_rendering.jpg",
+      "local_path": "illustrations/3u/CX3701/_CX3701_rendering.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1053872,
+      "sha256": "73e9acdc20b28591375605e8194afd40915f74fd069d6b4a26acc3c0dbd8678d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3701/_CX3701_rendering-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    }
+  ]
+}
