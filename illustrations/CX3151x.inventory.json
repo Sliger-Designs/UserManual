@@ -15,18 +15,6 @@
       "note": "Supplied original; configuration applicability requires reference review."
     },
     {
-      "id": "cx3151x-38745fa7a283",
-      "original_filename": "10_CX3152a-RACK EARS.jpg",
-      "local_path": "illustrations/3u/CX3151x/10_CX3152a-RACK EARS.jpg",
-      "width_px": 5817,
-      "height_px": 4155,
-      "format": "JPEG",
-      "size_bytes": 1880317,
-      "sha256": "d6855a0129ffdb161be8e49088e59893edf7b04f75b7e7b8de84f5c4fa55e187",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-5a48ccad156a",
       "original_filename": "10a_CX3151x_GPU SUPPORT SCREW REMOVAL V1.jpg",
       "local_path": "illustrations/3u/CX3151x/10a_CX3151x_GPU SUPPORT SCREW REMOVAL V1.jpg",
@@ -119,18 +107,6 @@
       }
     },
     {
-      "id": "cx3151x-3bc52ad6aeff",
-      "original_filename": "11_CX3152a-FULL ASSEMBLY.jpg",
-      "local_path": "illustrations/3u/CX3151x/11_CX3152a-FULL ASSEMBLY.jpg",
-      "width_px": 5652,
-      "height_px": 4038,
-      "format": "JPEG",
-      "size_bytes": 1297577,
-      "sha256": "0258c9e89a4c5a07e5c705240289fe5bee0be769a40bf7f63958c8ed32a2ad42",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-bbd1027da912",
       "original_filename": "11a_CX3151x_GPU INSTALL.jpg",
       "local_path": "illustrations/3u/CX3151x/11a_CX3151x_GPU INSTALL.jpg",
@@ -212,18 +188,6 @@
       "note": "Supplied original; configuration applicability requires reference review."
     },
     {
-      "id": "cx3151x-46f18a52e4b8",
-      "original_filename": "12D_CX3152a_TRAY INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3151x/12D_CX3152a_TRAY INSTALL.jpg",
-      "width_px": 4377,
-      "height_px": 3126,
-      "format": "JPEG",
-      "size_bytes": 1208105,
-      "sha256": "1cad6c5b3de73c4e8e4423fe6e84845beedff79541fe9ebb94375ae799c800e3",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-a87a75155de0",
       "original_filename": "12a_CX3151x_DRIVE BRACKET INSTALL.jpg",
       "local_path": "illustrations/3u/CX3151x/12a_CX3151x_DRIVE BRACKET INSTALL.jpg",
@@ -245,18 +209,6 @@
         "full_resolution_path": "_build/cleaned-renders/CX3151x/12a_CX3151x_DRIVE BRACKET INSTALL-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
-    },
-    {
-      "id": "cx3151x-b3d000a46ce2",
-      "original_filename": "12a_CX3152a_TRAY UNSCREW.jpg",
-      "local_path": "illustrations/3u/CX3151x/12a_CX3152a_TRAY UNSCREW.jpg",
-      "width_px": 4363,
-      "height_px": 3117,
-      "format": "JPEG",
-      "size_bytes": 951829,
-      "sha256": "87f0b4726afd0a18c68dc090bdb0b36618c0798e9d9eb4354be37525b778f973",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
     },
     {
       "id": "cx3151x-7a8c5fe7d3b8",
@@ -282,18 +234,6 @@
       }
     },
     {
-      "id": "cx3151x-2b53681300d0",
-      "original_filename": "12b_CX3152a_TRAY SLIDE BACK.jpg",
-      "local_path": "illustrations/3u/CX3151x/12b_CX3152a_TRAY SLIDE BACK.jpg",
-      "width_px": 5708,
-      "height_px": 4077,
-      "format": "JPEG",
-      "size_bytes": 1673590,
-      "sha256": "35a21f63b13fd4336575dc37d60a00910bf28083c6fbca67ba6aeca162de2b10",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-58f850959b2e",
       "original_filename": "12c_CX3151x_DRIVE BRACKET SIDE SCREW.jpg",
       "local_path": "illustrations/3u/CX3151x/12c_CX3151x_DRIVE BRACKET SIDE SCREW.jpg",
@@ -315,42 +255,6 @@
         "full_resolution_path": "_build/cleaned-renders/CX3151x/12c_CX3151x_DRIVE BRACKET SIDE SCREW-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
-    },
-    {
-      "id": "cx3151x-13b2c372f49b",
-      "original_filename": "12c_CX3152a_TRAY SLIDE BACK 2.jpg",
-      "local_path": "illustrations/3u/CX3151x/12c_CX3152a_TRAY SLIDE BACK 2.jpg",
-      "width_px": 5209,
-      "height_px": 3721,
-      "format": "JPEG",
-      "size_bytes": 1411291,
-      "sha256": "9b19966f8852f54e6dced0e73ce4dcf7ef32c8f508e25164f012ea99ad1bd32f",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
-      "id": "cx3151x-d2d9fb8d2cae",
-      "original_filename": "12e_CX3152a_TRAY INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3151x/12e_CX3152a_TRAY INSTALL.jpg",
-      "width_px": 4377,
-      "height_px": 3126,
-      "format": "JPEG",
-      "size_bytes": 1500461,
-      "sha256": "c82a23d068a45b3ebfcc3f3f7445946e657ced253d31bfcba2854408bd64f28f",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
-      "id": "cx3151x-87429a2b5909",
-      "original_filename": "12f_CX3152a_TRAY SCREW INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3151x/12f_CX3152a_TRAY SCREW INSTALL.jpg",
-      "width_px": 4006,
-      "height_px": 2861,
-      "format": "JPEG",
-      "size_bytes": 1128647,
-      "sha256": "a8ecbbe2823dd6485ea8ef2691632c877f8e3c9fd376a281a28f504ffb97ca73",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
     },
     {
       "id": "cx3151x-f73122a5d9fc",
@@ -561,18 +465,6 @@
       }
     },
     {
-      "id": "cx3151x-05f15cbc86f8",
-      "original_filename": "1a_CX3152a_LID UNSCREW.jpg",
-      "local_path": "illustrations/3u/CX3151x/1a_CX3152a_LID UNSCREW.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 845417,
-      "sha256": "8c05498ce7145ef12db4db14e1c2609fa3085b1fb01c8d31ef3945f37cb9b486",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-15d8d61b8ac6",
       "original_filename": "1b_CX3151x_LID SLIDE BACK.jpg",
       "local_path": "illustrations/3u/CX3151x/1b_CX3151x_LID SLIDE BACK.jpg",
@@ -594,18 +486,6 @@
         "full_resolution_path": "_build/cleaned-renders/CX3151x/1b_CX3151x_LID SLIDE BACK-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
-    },
-    {
-      "id": "cx3151x-b7945bc45bc3",
-      "original_filename": "1b_CX3152a_LID SLIDE BACK.jpg",
-      "local_path": "illustrations/3u/CX3151x/1b_CX3152a_LID SLIDE BACK.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 569635,
-      "sha256": "1f58ea69e1b42e01249839804ff91e820bba3fcc07bdc6f8b60488f4aea541a4",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
     },
     {
       "id": "cx3151x-f00b8495e3b1",
@@ -631,18 +511,6 @@
       }
     },
     {
-      "id": "cx3151x-95becf8e7610",
-      "original_filename": "1c_CX3152a_LID REMOVE.jpg",
-      "local_path": "illustrations/3u/CX3151x/1c_CX3152a_LID REMOVE.jpg",
-      "width_px": 4448,
-      "height_px": 3177,
-      "format": "JPEG",
-      "size_bytes": 835252,
-      "sha256": "7c76d210d31122557b77066e1d73c7b1538a1991f3ac408f9e8749d393554c41",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-564d7be81778",
       "original_filename": "2_CX3151x_FACEPLATE REMOVE.jpg",
       "local_path": "illustrations/3u/CX3151x/2_CX3151x_FACEPLATE REMOVE.jpg",
@@ -664,18 +532,6 @@
         "full_resolution_path": "_build/cleaned-renders/CX3151x/2_CX3151x_FACEPLATE REMOVE-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
-    },
-    {
-      "id": "cx3151x-87bba90003f5",
-      "original_filename": "2a_CX3152a_FACEPLATE REMOVE.jpg",
-      "local_path": "illustrations/3u/CX3151x/2a_CX3152a_FACEPLATE REMOVE.jpg",
-      "width_px": 5214,
-      "height_px": 3724,
-      "format": "JPEG",
-      "size_bytes": 2014614,
-      "sha256": "38ef30fe63f6bd7ef37e19f56feb1df6b32fb76ef0a46217d9c2538aaf1d9dc8",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
     },
     {
       "id": "cx3151x-415ad20ed46e",
@@ -701,18 +557,6 @@
       }
     },
     {
-      "id": "cx3151x-c4a1fe2f4bec",
-      "original_filename": "3a_CX3152a_FAN INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3151x/3a_CX3152a_FAN INSTALL.jpg",
-      "width_px": 4849,
-      "height_px": 3464,
-      "format": "JPEG",
-      "size_bytes": 1096528,
-      "sha256": "688809c4d0a357903319fab2cfca0cd0ab9f5845567ef011ba1c9e8276603f77",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-8c5c05856b84",
       "original_filename": "3b_CX3151x_FAN INSTALL PRECOOLER.jpg",
       "local_path": "illustrations/3u/CX3151x/3b_CX3151x_FAN INSTALL PRECOOLER.jpg",
@@ -734,18 +578,6 @@
         "full_resolution_path": "_build/cleaned-renders/CX3151x/3b_CX3151x_FAN INSTALL PRECOOLER-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
-    },
-    {
-      "id": "cx3151x-d29b60b8c422",
-      "original_filename": "3b_CX3152a_FAN INSTALL PRECOOLER.jpg",
-      "local_path": "illustrations/3u/CX3151x/3b_CX3152a_FAN INSTALL PRECOOLER.jpg",
-      "width_px": 5817,
-      "height_px": 4155,
-      "format": "JPEG",
-      "size_bytes": 1355087,
-      "sha256": "66792b718fb4b1b12c56caa0d41b4381106eac951d8e86bb4e0168b59bcdb920",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
     },
     {
       "id": "cx3151x-cc1fdde42f6a",
@@ -771,42 +603,6 @@
       }
     },
     {
-      "id": "cx3151x-c9868a02a007",
-      "original_filename": "3c_CX3152a_FAN INSTALL + AIO.jpg",
-      "local_path": "illustrations/3u/CX3151x/3c_CX3152a_FAN INSTALL + AIO.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1345058,
-      "sha256": "b3cb70d3451481d5430cfffb9b9a262629fb58561f39b9ad3d5a0d82b26b877b",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
-      "id": "cx3151x-46d4c9cef293",
-      "original_filename": "3d_CX3152a_FAN INSTALL PULL.jpg",
-      "local_path": "illustrations/3u/CX3151x/3d_CX3152a_FAN INSTALL PULL.jpg",
-      "width_px": 3987,
-      "height_px": 2847,
-      "format": "JPEG",
-      "size_bytes": 1492437,
-      "sha256": "1234f2be16f230b93e05cf6dba93c5f19b58f811ac916269789f1354095040ed",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
-      "id": "cx3151x-03a18616c351",
-      "original_filename": "3e_CX3152a_PUSH PULL FANS.jpg",
-      "local_path": "illustrations/3u/CX3151x/3e_CX3152a_PUSH PULL FANS.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1485299,
-      "sha256": "bc862ab8f3fa56534b58f4832c8b0e0973983a88583e9bde08f8a8087e13791e",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-5e8d0fed3f09",
       "original_filename": "4a_CX3151x_DRIVE BRACKET UNSCREW.jpg",
       "local_path": "illustrations/3u/CX3151x/4a_CX3151x_DRIVE BRACKET UNSCREW.jpg",
@@ -828,18 +624,6 @@
         "full_resolution_path": "_build/cleaned-renders/CX3151x/4a_CX3151x_DRIVE BRACKET UNSCREW-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
-    },
-    {
-      "id": "cx3151x-fd7759c87352",
-      "original_filename": "4a_CX3152a_STANDOFF INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3151x/4a_CX3152a_STANDOFF INSTALL.jpg",
-      "width_px": 5302,
-      "height_px": 3787,
-      "format": "JPEG",
-      "size_bytes": 1269301,
-      "sha256": "64991f51dece21626fd80bb8e0c608cd484dbb532221711b84468da5caec0d19",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
     },
     {
       "id": "cx3151x-a64ec1764bbf",
@@ -865,18 +649,6 @@
       }
     },
     {
-      "id": "cx3151x-d211bdc64a36",
-      "original_filename": "4b_CX3152a_STANDOFF INSTALL 180.jpg",
-      "local_path": "illustrations/3u/CX3151x/4b_CX3152a_STANDOFF INSTALL 180.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1326363,
-      "sha256": "0216a9d3eb43b8f7a14a484c8fb132548a2e8365a864cb291ee14476eb8fd8d1",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-2460aa6715c4",
       "original_filename": "4c_CX3151x_DRIVE BRACKET (3x 3.5 HDD).jpg",
       "local_path": "illustrations/3u/CX3151x/4c_CX3151x_DRIVE BRACKET (3x 3.5 HDD).jpg",
@@ -898,18 +670,6 @@
         "full_resolution_path": "_build/cleaned-renders/CX3151x/4c_CX3151x_DRIVE BRACKET (3x 3.5 HDD)-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
-    },
-    {
-      "id": "cx3151x-8b3e3f05af37",
-      "original_filename": "4c_CX3152a_STANDOFF INSTALLED.jpg",
-      "local_path": "illustrations/3u/CX3151x/4c_CX3152a_STANDOFF INSTALLED.jpg",
-      "width_px": 5817,
-      "height_px": 4155,
-      "format": "JPEG",
-      "size_bytes": 1477405,
-      "sha256": "32e30670124c7085d0a826b71d852793d437abd1fadf85a09d27ab8049bb6ba5",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
     },
     {
       "id": "cx3151x-05112a4ace0e",
@@ -1005,30 +765,6 @@
       }
     },
     {
-      "id": "cx3151x-4fa44769a14b",
-      "original_filename": "6a_CX3152a_MOTHERBOARD IO SHIELD.jpg",
-      "local_path": "illustrations/3u/CX3151x/6a_CX3152a_MOTHERBOARD IO SHIELD.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1604759,
-      "sha256": "4d9b7c3f90ce1b6f1015b671b085e92ad373c08636584c7277484b1c1a89cad1",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
-      "id": "cx3151x-1032ac9f716f",
-      "original_filename": "6a_CX3152a_MOTHERBOARD.jpg",
-      "local_path": "illustrations/3u/CX3151x/6a_CX3152a_MOTHERBOARD.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 1819925,
-      "sha256": "0ef7f3e4bcbabbea56bb34716f19d6b44bbd3646ebf4ce41b1c7a983b1494149",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-35ca3d311bac",
       "original_filename": "6b_CX3151x_MOTHERBOARD.jpg",
       "local_path": "illustrations/3u/CX3151x/6b_CX3151x_MOTHERBOARD.jpg",
@@ -1087,30 +823,6 @@
       }
     },
     {
-      "id": "cx3151x-07d836c37319",
-      "original_filename": "7a_CX3152a_SSD 1.jpg",
-      "local_path": "illustrations/3u/CX3151x/7a_CX3152a_SSD 1.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 1846090,
-      "sha256": "7ad6d955d111022e3e1f4d32d35139ea0951ca49f3149bc04e7616465df844ec",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
-      "id": "cx3151x-f696a2d41ed2",
-      "original_filename": "7b_CX3152a_SSD 2.jpg",
-      "local_path": "illustrations/3u/CX3151x/7b_CX3152a_SSD 2.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 1330469,
-      "sha256": "f946058ce4a8ab10b2e6c691dbe523586e4988722240d8bfd43c10ca0277a2ed",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-b481b705659e",
       "original_filename": "8.jpg",
       "local_path": "illustrations/3u/CX3151x/8.jpg",
@@ -1146,30 +858,6 @@
       }
     },
     {
-      "id": "cx3151x-aae6589f169a",
-      "original_filename": "8a_CX3152a_PSU 1.jpg",
-      "local_path": "illustrations/3u/CX3151x/8a_CX3152a_PSU 1.jpg",
-      "width_px": 4448,
-      "height_px": 3177,
-      "format": "JPEG",
-      "size_bytes": 1371843,
-      "sha256": "f8b13e09775ed7d30b67b76dc9658d12dac14521268d8a6de3c2d0fa2bcd1b5d",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
-      "id": "cx3151x-c03d6e7ac346",
-      "original_filename": "8b_CX3152a_PSU 2.jpg",
-      "local_path": "illustrations/3u/CX3151x/8b_CX3152a_PSU 2.jpg",
-      "width_px": 5817,
-      "height_px": 4155,
-      "format": "JPEG",
-      "size_bytes": 2395831,
-      "sha256": "9ea336e692868d73e857bb17e4c0520bee358b96a4f52205df783b7942549d70",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
-    },
-    {
       "id": "cx3151x-b62c91d2ac6c",
       "original_filename": "9.jpg",
       "local_path": "illustrations/3u/CX3151x/9.jpg",
@@ -1180,18 +868,6 @@
       "sha256": "963f4c2dc21f1539097928bc7e2c26dc2e349d491e62339c76f9f8b5344cddb0",
       "selection_status": "candidate",
       "note": "Supplied original; configuration applicability requires reference review."
-    },
-    {
-      "id": "cx3151x-a7d6b1b5d6d9",
-      "original_filename": "9_CX3152a_GPU.jpg",
-      "local_path": "illustrations/3u/CX3151x/9_CX3152a_GPU.jpg",
-      "width_px": 3926,
-      "height_px": 2804,
-      "format": "JPEG",
-      "size_bytes": 1022361,
-      "sha256": "7251177554fac91482f842e723e8978a0266c48d062f916b0076400bb6edd0f1",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
     },
     {
       "id": "cx3151x-a5a93fbc16de",
@@ -1461,18 +1137,6 @@
         "full_resolution_path": "_build/cleaned-renders/CX3151x/_CX3151x_rendering-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
-    },
-    {
-      "id": "cx3151x-963e4c300899",
-      "original_filename": "_CX3152a_rendering.jpg",
-      "local_path": "illustrations/3u/CX3151x/_CX3152a_rendering.jpg",
-      "width_px": 3987,
-      "height_px": 2847,
-      "format": "JPEG",
-      "size_bytes": 610420,
-      "sha256": "95f1953430d6953f6f6f3aa3135df9823009143b192140ddd20d1986c9b1e728",
-      "selection_status": "candidate",
-      "note": "CX3152a render supplied in the CX3151x folder; for the CX3152 family manuals."
     }
   ]
 }

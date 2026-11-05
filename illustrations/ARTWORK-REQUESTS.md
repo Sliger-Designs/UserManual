@@ -82,7 +82,7 @@ sibling to borrow shared steps from; each reuse is confirmed when that family is
 
 | Done | Model | Have | Needed | Possible source for shared steps |
 |---|---|---|---|---|
-|  | CX3152a | 6 (plus about 20 CX3152a renders supplied in the CX3151x folder) | To confirm against those renders | CX3152i |
+|  | CX3152a | 34 (28 of them were supplied in the CX3151x folder and moved, 2026-11-05) | To confirm when the family is built | CX3152i |
 |  | CX3152i | 40 | Push-pull renders; exploded view | |
 |  | CX3170a | 11 | Installation steps; cover render | CX3170a XL |
 |  | CX3170a XL | 48 | Push-pull renders; cover render | |
