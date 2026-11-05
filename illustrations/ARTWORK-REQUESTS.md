@@ -21,8 +21,8 @@ Confirmed 2026-11-04:
 - The CX3701 and CX3702 do not use motherboard standoffs. Of their successors (website concepts),
   the CX3150n (CX3701 "v2") uses no standoffs and the CX3180n (CX3702 "v2") uses standoffs.
 - The CX3151i I/O-shield step uses the CX3151a or CX3151x render.
-- The 3U and 4U 5.25-inch bay filler blanks are the same part; their drive renders are shared
-  (`illustrations/common/4u-bay-blank/`).
+- The 5.25-inch bay filler blank is one part shared by every chassis with a 5.25-inch bay; all
+  manuals use the same filler-blank page and renders (`illustrations/common/4u-bay-blank/`).
 - Push-pull is not officially supported on the CX3150a (360 mm, six fans) or the CX3150i and
   CX3150x (240 mm, four fans), so no push-pull renders are requested for them.
 - The CX4150e, CX4170e and CX4200e use the same 5.25-inch bay bracket; their bay-device steps

@@ -495,18 +495,7 @@
       "size_bytes": 596391,
       "sha256": "96097dee46fc3719a27d4200646873a8f7848d5dec333533d818ad5f132e1c20",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review.",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150i/4e_CX3150i_BAY FILLER (4 SSD)-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
+      "note": "Not used directly: the manual uses the shared copy in illustrations/common/4u-bay-blank/ (drive12.jpg.jpg, byte-identical), as every chassis shares the 5.25-inch bay filler blank (2026-11-05)."
     },
     {
       "id": "cx3150i-2f6c7c604ef9",
@@ -518,18 +507,7 @@
       "size_bytes": 389117,
       "sha256": "d23a1e6507af4b7f2699e9cd4f66238d900dca6cdd964e370cc111989ea17165",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review.",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150i/4f_CX3150i_BAY FILLER (2x 15mm SSD)-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
+      "note": "Not used directly: the manual uses the shared copy in illustrations/common/4u-bay-blank/ (4f_CX3150i_BAY FILLER (2x 15mm SSD).jpg), as every chassis shares the 5.25-inch bay filler blank (2026-11-05)."
     },
     {
       "id": "cx3150i-c60f770babae",
