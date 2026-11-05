@@ -13,20 +13,23 @@
       "name": "GPU support braces",
       "quantity": "2",
       "description": "3D printed. Short brace for GPUs with a backplate, tall brace for GPUs without one.",
-      "image": null,
-      "artwork_pending": "Artwork pending",
-      "reference": "GPU support brace"
+      "image": "common/hardware/CX3151_GPUBraces.jpg",
+      "reference": "GPU support brace",
+      "large_image": true
     },
     {
       "letter": "K",
       "name": "6-32 × 1-inch screws (217-349)",
       "quantity": "2",
       "description": "Secure the GPU support brace to the motherboard tray.",
-      "image": null,
-      "artwork_pending": "Artwork pending",
+      "image": "common/hardware/MS PPH 632 x 1 (217-349)_TEAL.jpg",
       "reference": "brace screws",
       "part_number": "217-349",
-      "color_label": "Teal in drawings"
+      "color_label": "Teal in drawings",
+      "detail_images": [
+        "common/hardware/MS PPH 632 x 1 (217-349)_TOP.jpg",
+        "common/hardware/MS PPH 632 x 1 (217-349)_SIDE.jpg"
+      ]
     }
   ]
 }

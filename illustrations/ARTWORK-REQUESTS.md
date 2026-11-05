@@ -40,7 +40,6 @@ Confirmed 2026-11-04:
 |---|---|---|---|
 |  | CX3150i | Exploded view. Optional: bay-bracket-top HDD render (as 4k) with green E screws; 4k shows blue D, while the text specifies E (2026-11-05) | Exploded view omitted; the bracket-top HDD step shows blue screws |
 |  | CX3150x | Exploded view. Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3150x folder) | Exploded view omitted |
-|  | CX3151a, CX3151i, CX3151x | CX3151-GPUKIT renders for the hardware key: the short and tall GPU support braces, and the 217-349 screw (6-32 × 1 inch), in `illustrations/common/hardware/` | The GPU support kit page shows "Artwork pending" |
 |  | CX3151a | Exploded view. Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3151a folder) | Exploded view omitted |
 |  | CX3151i | Exploded view. Optional: CX3151i renders for the standoff, I/O-shield, motherboard, PSU and SSD steps (the CX3151x ones are used; the CX3150i-named copies show the wrong rear) | Exploded view omitted |
 |  | CX3151x | Exploded view | Exploded view omitted |

@@ -1177,6 +1177,58 @@
       "sha256": "73a85bf1857413722ccde486f6e0b7fe650dfa85108b6e1777c3b73e41f21386",
       "selection_status": "candidate",
       "note": "Drive-bay lock key pair; CX-NAS-HWKIT item N. Supplied 2026-11-04."
+    },
+    {
+      "id": "common-09ec17f7c576",
+      "asset_key": "common/hardware/CX3151_GPUBraces.jpg",
+      "original_filename": "CX3151_GPUBraces.jpg",
+      "local_path": "illustrations/common/hardware/CX3151_GPUBraces.jpg",
+      "width_px": 9000,
+      "height_px": 5250,
+      "format": "JPEG",
+      "size_bytes": 1580746,
+      "sha256": "cfc69e2a98759c0a10fc7e23a1380d55e45a08bff6c0bfad8069c643e4d4eb87",
+      "selection_status": "candidate",
+      "note": "CX3151-GPUKIT item J: the short (GPU WITH BACKPLATE) and tall (GPU WITHOUT BACKPLATE) GPU support braces, 3D printed. Supplied 2026-11-05."
+    },
+    {
+      "id": "common-ee97bb82a4ab",
+      "asset_key": "common/hardware/MS PPH 632 x 1 (217-349)_TEAL.jpg",
+      "original_filename": "MS PPH 632 x 1 (217-349)_TEAL.jpg",
+      "local_path": "illustrations/common/hardware/MS PPH 632 x 1 (217-349)_TEAL.jpg",
+      "width_px": 2057,
+      "height_px": 1200,
+      "format": "JPEG",
+      "size_bytes": 124152,
+      "sha256": "3a2a65534079b73a1c1c6b78b11c243c86bdcb28422712b78d5bd403db6a1b18",
+      "selection_status": "candidate",
+      "note": "CX3151-GPUKIT item K: 217-349 screw (6-32 x 1 inch), teal key view as in the renders. Supplied 2026-11-05."
+    },
+    {
+      "id": "common-ccf27eeae00c",
+      "asset_key": "common/hardware/MS PPH 632 x 1 (217-349)_TOP.jpg",
+      "original_filename": "MS PPH 632 x 1 (217-349)_TOP.jpg",
+      "local_path": "illustrations/common/hardware/MS PPH 632 x 1 (217-349)_TOP.jpg",
+      "width_px": 9000,
+      "height_px": 5250,
+      "format": "JPEG",
+      "size_bytes": 1596327,
+      "sha256": "2c5d5177ef436f82f8186d5fc2e8cd2eb876d27d2f8c9452f518b686427c5f89",
+      "selection_status": "candidate",
+      "note": "CX3151-GPUKIT item K: 217-349 screw, top detail. Supplied 2026-11-05."
+    },
+    {
+      "id": "common-a37e1c71ea66",
+      "asset_key": "common/hardware/MS PPH 632 x 1 (217-349)_SIDE.jpg",
+      "original_filename": "MS PPH 632 x 1 (217-349)_SIDE.jpg",
+      "local_path": "illustrations/common/hardware/MS PPH 632 x 1 (217-349)_SIDE.jpg",
+      "width_px": 2057,
+      "height_px": 1200,
+      "format": "JPEG",
+      "size_bytes": 67861,
+      "sha256": "04e9e84f26a0962b2edb8f97a79b153c9d1759c19da2363a20378393074c0b57",
+      "selection_status": "candidate",
+      "note": "CX3151-GPUKIT item K: 217-349 screw, side detail. Supplied 2026-11-05."
     }
   ],
   "removed_items": [

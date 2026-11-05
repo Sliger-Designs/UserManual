@@ -125,12 +125,18 @@
       "title": "GPU support kit",
       "section": "01 / PRODUCT INFORMATION",
       "source": "../../shared/rackmount/hardware-gpukit.md",
-      "images": [],
+      "images": [
+        "common/hardware/CX3151_GPUBraces.jpg",
+        "common/hardware/MS PPH 632 x 1 (217-349)_TEAL.jpg",
+        "common/hardware/MS PPH 632 x 1 (217-349)_TOP.jpg",
+        "common/hardware/MS PPH 632 x 1 (217-349)_SIDE.jpg"
+      ],
       "layout": "hardware-key",
       "hardware_letters": [
         "J",
         "K"
-      ]
+      ],
+      "layout_variant": "key-large"
     },
     {
       "id": "front-ports",
@@ -450,12 +456,6 @@
       "needed": "Exploded view of the CX3151a assemblies; the exploded-view page is omitted until supplied.",
       "section": "exploded-view",
       "suggested_folder": "illustrations/3u/CX3151a/"
-    },
-    {
-      "id": "M02",
-      "needed": "Renders of the CX3151-GPUKIT short and tall GPU support braces and the 217-349 screw (6-32 × 1 inch) for the hardware key.",
-      "section": "hardware-gpukit",
-      "suggested_folder": "illustrations/common/hardware/"
     }
   ]
 }
