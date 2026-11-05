@@ -328,5 +328,95 @@
       1600,
       552
     ]
+  },
+  "CX3170aXL": {
+    "path": "illustrations/published/covers/CX3170aXL-705bca3af48d.jpg",
+    "sha256": "ad80d71d4776e5274bdeef1e77191142f551abfd2a0330e57b1e473c2a9068be",
+    "source_path": "sources/web/covers/CX3170aXL-705bca3af48d.webp",
+    "source_sha256": "705bca3af48dfa6a02dc72b4a5e4ecc2f81ff834c5786ca62cc248a493801e3c",
+    "product_url": "https://sliger.com/products/cx3170a_xl",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/8.webp",
+    "retrieved_at": "2026-11-05T20:21:16.325166+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      698
+    ]
+  },
+  "CX3170iXL": {
+    "path": "illustrations/published/covers/CX3170iXL-a4a88198c3b1.jpg",
+    "sha256": "48a35b0ca31e1c2c7ed6eeb4489b61684f02e03bfb8dbf810aebda2958945a20",
+    "source_path": "sources/web/covers/CX3170iXL-a4a88198c3b1.webp",
+    "source_sha256": "a4a88198c3b1510f8f5ce205b570d9f9355c52481ffbd60a7690790d479615a3",
+    "product_url": "https://sliger.com/products/cx3170i_xl",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/247.webp",
+    "retrieved_at": "2026-11-05T20:21:17.041246+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      620
+    ]
+  },
+  "CX3171aXL": {
+    "path": "illustrations/published/covers/CX3171aXL-705bca3af48d.jpg",
+    "sha256": "ad80d71d4776e5274bdeef1e77191142f551abfd2a0330e57b1e473c2a9068be",
+    "source_path": "sources/web/covers/CX3171aXL-705bca3af48d.webp",
+    "source_sha256": "705bca3af48dfa6a02dc72b4a5e4ecc2f81ff834c5786ca62cc248a493801e3c",
+    "product_url": "https://sliger.com/products/cx3171a_xl",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/329.webp",
+    "retrieved_at": "2026-11-05T20:21:17.821408+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      698
+    ]
+  },
+  "CX3171iXL": {
+    "path": "illustrations/published/covers/CX3171iXL-a4a88198c3b1.jpg",
+    "sha256": "48a35b0ca31e1c2c7ed6eeb4489b61684f02e03bfb8dbf810aebda2958945a20",
+    "source_path": "sources/web/covers/CX3171iXL-a4a88198c3b1.webp",
+    "source_sha256": "a4a88198c3b1510f8f5ce205b570d9f9355c52481ffbd60a7690790d479615a3",
+    "product_url": "https://sliger.com/products/cx3171i_xl",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/13.webp",
+    "retrieved_at": "2026-11-05T20:21:18.610222+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      620
+    ]
+  },
+  "CX3172aXL": {
+    "path": "illustrations/published/covers/CX3172aXL-705bca3af48d.jpg",
+    "sha256": "ad80d71d4776e5274bdeef1e77191142f551abfd2a0330e57b1e473c2a9068be",
+    "source_path": "sources/web/covers/CX3172aXL-705bca3af48d.webp",
+    "source_sha256": "705bca3af48dfa6a02dc72b4a5e4ecc2f81ff834c5786ca62cc248a493801e3c",
+    "product_url": "https://sliger.com/products/cx3172a_xl",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/394.webp",
+    "retrieved_at": "2026-11-05T20:21:19.373973+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      698
+    ]
+  },
+  "CX3172iXL": {
+    "path": "illustrations/published/covers/CX3172iXL-a4a88198c3b1.jpg",
+    "sha256": "48a35b0ca31e1c2c7ed6eeb4489b61684f02e03bfb8dbf810aebda2958945a20",
+    "source_path": "sources/web/covers/CX3172iXL-a4a88198c3b1.webp",
+    "source_sha256": "a4a88198c3b1510f8f5ce205b570d9f9355c52481ffbd60a7690790d479615a3",
+    "product_url": "https://sliger.com/products/cx3172i_xl",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/409.webp",
+    "retrieved_at": "2026-11-05T20:21:20.074510+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      620
+    ]
   }
 }

@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="{{ manual.language }}">
-<head><meta charset="utf-8"><title>{{ manual.model }} · {{ t('User guide', 'browser document title') }} · {{ manual.revision }}</title>
+<head><meta charset="utf-8"><title>{{ manual.get('display_name', manual.model) }} · {{ t('User guide', 'browser document title') }} · {{ manual.revision }}</title>
 <style>{{ css }}</style></head>
 <body>
 {% macro reference_image(img) %}{% if img.get('svg') %}{{ img.svg }}{% else %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endif %}{% endmacro %}
@@ -12,10 +12,10 @@
  <div class="cover-edition">{{ manual.revision }} · {{ manual.status }}</div>
  {% if page.images %}<img class="cover-image" src="{{ page.images[0].src }}" alt="{{ page.images[0].alt }}">{% endif %}
  <div class="cover-banner" aria-hidden="true"></div>
- <div class="cover-copy"><h1>{{ manual.model }}</h1><p>{{ manual.cover_description }}{% if manual.get("cover_description_detail") %}{% for line in ([manual.cover_description_detail] if manual.cover_description_detail is string else manual.cover_description_detail) %}<span class="cover-detail">{{ line }}</span>{% endfor %}{% endif %}</p></div>
+ <div class="cover-copy"><h1>{{ manual.get('display_name', manual.model) }}</h1><p>{{ manual.cover_description }}{% if manual.get("cover_description_detail") %}{% for line in ([manual.cover_description_detail] if manual.cover_description_detail is string else manual.cover_description_detail) %}<span class="cover-detail">{{ line }}</span>{% endfor %}{% endif %}</p></div>
  <div class="language-tag">{{ manual.language_label }}</div>
 {% else %}
- <header><div><div class="eyebrow">{{ page.section }}</div><h1>{{ page.title }}</h1></div><span class="model">{{ manual.model }}</span></header>
+ <header><div><div class="eyebrow">{{ page.section }}</div><h1>{{ page.title }}</h1></div><span class="model">{{ manual.get('display_name', manual.model) }}</span></header>
  <div class="page-body">
  {% if page.layout == 'paired-procedure' %}
  {% if page.get('intro_html') %}<div class="paired-intro">{{ page.intro_html }}</div>{% endif %}
@@ -77,7 +77,7 @@
  {% else %}<article>{{ page.html }}</article>{% if page.get("illustration_pending") %}<div class="asset-gap text-gap">{{ page.illustration_pending }}</div>{% endif %}{% endif %}
  </div>
 {% endif %}
-<footer><span class="footer-brand"><img src="{{ logo_src }}" alt="Sliger"> <i>/</i> {{ manual.model }} <i>/</i> {{ manual.language_label }}</span><span>{{ manual.revision }} · {{ manual.status }}</span><b>{{ loop.index|string|zfill(2) }}</b></footer>
+<footer><span class="footer-brand"><img src="{{ logo_src }}" alt="Sliger"> <i>/</i> {{ manual.get('display_name', manual.model) }} <i>/</i> {{ manual.language_label }}</span><span>{{ manual.revision }} · {{ manual.status }}</span><b>{{ loop.index|string|zfill(2) }}</b></footer>
 </section>
 {% endfor %}
 </body></html>

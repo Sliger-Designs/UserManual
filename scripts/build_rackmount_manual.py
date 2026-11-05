@@ -197,7 +197,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
         assert normalize(forbidden) not in normalize(text), ('Superseded or unsupported value in PDF', forbidden)
     assert 'SBAG-HWKIT' in text
     for i, spec in enumerate(pages):
-        title = model if i == 0 else spec['title']
+        title = manual.get('display_name', model) if i == 0 else spec['title']
         assert normalize(title) in normalize(pdf[i].get_text()), (i, title)
         assert pdf[i].rect.width == 792 and pdf[i].rect.height == 612
     appendix_text = normalize(' '.join(pdf[index].get_text() for index, item in enumerate(pages) if item.get('reference_sections')))

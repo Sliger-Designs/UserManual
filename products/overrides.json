@@ -1346,5 +1346,362 @@
       },
       "note": "Total mounting locations."
     }
+  },
+  "CX3170aXL": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12.8,
+        13
+      ],
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3170axl-specs.txt"
+      },
+      "note": "XL tray: SSI-EEB 12 × 13 inches and XL-ATX/EATX 12.8 × 13 inches (website)."
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": 347,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Push-pull is not officially supported on any XL model; the spec review's 322 mm six-fan value is not published."
+    },
+    "aio_360_six_fan_push_pull_supported": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Not officially supported (2026-11-05)."
+    },
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "drive_cage": 8
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 3,
+      "configuration": {
+        "drive_cage": 3
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Drive cage."
+    }
+  },
+  "CX3170iXL": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12.8,
+        13
+      ],
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3170ixl-specs.txt"
+      },
+      "note": "XL tray: SSI-EEB 12 × 13 inches and XL-ATX/EATX 12.8 × 13 inches (website)."
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": 347,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Push-pull is not officially supported on any XL model; the spec review's 322 mm six-fan value is not published."
+    },
+    "aio_240_four_fan_push_pull_supported": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Not officially supported (2026-11-05)."
+    },
+    "ssd_2_5_max": {
+      "value": 9,
+      "configuration": {
+        "motherboard_tray": 2,
+        "bay_filler_blank": 4,
+        "bay_bracket_top": 2,
+        "under_bay_bracket": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "bay_filler_blank": 1,
+        "bay_bracket_top": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Total mounting locations."
+    }
+  },
+  "CX3171aXL": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12.8,
+        13
+      ],
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3171axl-specs.txt"
+      },
+      "note": "XL tray: SSI-EEB 12 × 13 inches and XL-ATX/EATX 12.8 × 13 inches (website)."
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": 347,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Push-pull is not officially supported on any XL model; the spec review's 322 mm six-fan value is not published."
+    },
+    "aio_360_six_fan_push_pull_supported": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Not officially supported (2026-11-05)."
+    },
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "drive_cage": 8
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 3,
+      "configuration": {
+        "drive_cage": 3
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Drive cage."
+    }
+  },
+  "CX3171iXL": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12.8,
+        13
+      ],
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3171ixl-specs.txt"
+      },
+      "note": "XL tray: SSI-EEB 12 × 13 inches and XL-ATX/EATX 12.8 × 13 inches (website)."
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": 347,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Push-pull is not officially supported on any XL model; the spec review's 322 mm six-fan value is not published."
+    },
+    "aio_240_four_fan_push_pull_supported": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Not officially supported (2026-11-05)."
+    },
+    "ssd_2_5_max": {
+      "value": 9,
+      "configuration": {
+        "motherboard_tray": 2,
+        "bay_filler_blank": 4,
+        "bay_bracket_top": 2,
+        "under_bay_bracket": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "bay_filler_blank": 1,
+        "bay_bracket_top": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Total mounting locations."
+    }
+  },
+  "CX3172aXL": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12.8,
+        13
+      ],
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3172axl-specs.txt"
+      },
+      "note": "XL tray: SSI-EEB 12 × 13 inches and XL-ATX/EATX 12.8 × 13 inches (website)."
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": 347,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Push-pull is not officially supported on any XL model; the spec review's 322 mm six-fan value is not published."
+    },
+    "aio_360_six_fan_push_pull_supported": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Not officially supported (2026-11-05)."
+    },
+    "pcie_slots": {
+      "value": "5x Full Height",
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Website; replaces the compatibility CSV's \"5x Half Height\", as for the CX3152."
+    },
+    "ssd_2_5_max": {
+      "value": 2,
+      "configuration": {
+        "under_psu": 1,
+        "beside_motherboard": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Two tray mounting locations."
+    }
+  },
+  "CX3172iXL": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12.8,
+        13
+      ],
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3172ixl-specs.txt"
+      },
+      "note": "XL tray: SSI-EEB 12 × 13 inches and XL-ATX/EATX 12.8 × 13 inches (website)."
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": 347,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Push-pull is not officially supported on any XL model; the spec review's 322 mm six-fan value is not published."
+    },
+    "aio_240_four_fan_push_pull_supported": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Not officially supported (2026-11-05)."
+    },
+    "pcie_slots": {
+      "value": "5x Full Height",
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Website; replaces the compatibility CSV's \"5x Half Height\", as for the CX3152."
+    },
+    "ssd_2_5_max": {
+      "value": 9,
+      "configuration": {
+        "motherboard_tray": 2,
+        "bay_filler_blank": 4,
+        "bay_bracket_top": 2,
+        "under_bay_bracket": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Total mounting locations; not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "bay_filler_blank": 1,
+        "bay_bracket_top": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX317x-XL-family.md"
+      },
+      "note": "Total mounting locations."
+    }
   }
 }

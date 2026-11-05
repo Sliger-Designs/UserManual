@@ -1,0 +1,905 @@
+{
+  "schema_version": 1,
+  "model": "CX3172iXL",
+  "items": [
+    {
+      "id": "cx3172ixl-f6aa5551a38c",
+      "original_filename": "10a_CX3152i_DRIVE BRACKET INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/10a_CX3152i_DRIVE BRACKET INSTALL.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1527535,
+      "sha256": "169e1d6ff80f237f7034357d9e37ebf72a255c3298e3e31ba6e0a89801aa2ae7",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/10a_CX3152i_DRIVE BRACKET INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-fb3c52f9ac56",
+      "original_filename": "10a_CX3172a_XL_TRAY UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/10a_CX3172a_XL_TRAY UNSCREW.jpg",
+      "width_px": 4377,
+      "height_px": 3126,
+      "format": "JPEG",
+      "size_bytes": 1012343,
+      "sha256": "ae1b54866fe6f22846a2c242f1cfde5baee69f34c3dd1d094c848609bccc038e",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/10a_CX3172a_XL_TRAY UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-4a11063eba3b",
+      "original_filename": "10b_CX3152i_DRIVE BRACKET FRONT SCREWS.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/10b_CX3152i_DRIVE BRACKET FRONT SCREWS.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1353356,
+      "sha256": "7833e52ba86f8d0205b9bafebc111679e369ce5cfc4a68eb1d39cf06077519e3",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/10b_CX3152i_DRIVE BRACKET FRONT SCREWS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-f0143b313b10",
+      "original_filename": "10b_CX3172a_XL_TRAY SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/10b_CX3172a_XL_TRAY SLIDE BACK.jpg",
+      "width_px": 4377,
+      "height_px": 3126,
+      "format": "JPEG",
+      "size_bytes": 1280917,
+      "sha256": "3ed62990d9b6e54282b29e9c915979f60d3feb748be3399dcb535b95bc7da96a",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/10b_CX3172a_XL_TRAY SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-412aa41b6775",
+      "original_filename": "10c_CX3152i_DRIVE BRACKET SIDE SCREW.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/10c_CX3152i_DRIVE BRACKET SIDE SCREW.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1404733,
+      "sha256": "3c6a83af5128d5dd5ff9056c44b345855512fe93c26744e1af85fc2eac85392b",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/10c_CX3152i_DRIVE BRACKET SIDE SCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-0cc98e6d7077",
+      "original_filename": "10c_CX3172a_XL_TRAY SLIDE BACK 2.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/10c_CX3172a_XL_TRAY SLIDE BACK 2.jpg",
+      "width_px": 4377,
+      "height_px": 3126,
+      "format": "JPEG",
+      "size_bytes": 931694,
+      "sha256": "d6aa541c5153bbcb4d6b8ca068f80988d541ce52db91093a88c3ed4283293371",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/10c_CX3172a_XL_TRAY SLIDE BACK 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-aedb3eb59278",
+      "original_filename": "10d_CX3172a_XL_TRAY INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/10d_CX3172a_XL_TRAY INSTALL.jpg",
+      "width_px": 4006,
+      "height_px": 2861,
+      "format": "JPEG",
+      "size_bytes": 1047509,
+      "sha256": "349ebba91745f109fb70bd537482ea6771edd1f881cd27cb95f23a7fa3f5c612",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/10d_CX3172a_XL_TRAY INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-ee03c913b4e3",
+      "original_filename": "10e_CX3172a_XL_TRAY INSTALL 2.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/10e_CX3172a_XL_TRAY INSTALL 2.jpg",
+      "width_px": 4782,
+      "height_px": 3416,
+      "format": "JPEG",
+      "size_bytes": 1639173,
+      "sha256": "46a3d1008b2777b0c7ad52ffe911ebf5141a4cf3db3cd7cdffa2aba1b68f3283",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/10e_CX3172a_XL_TRAY INSTALL 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-d867b1fc9a2e",
+      "original_filename": "10f_CX3172a_XL_TRAY INSTALL 3.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/10f_CX3172a_XL_TRAY INSTALL 3.jpg",
+      "width_px": 4006,
+      "height_px": 2861,
+      "format": "JPEG",
+      "size_bytes": 982063,
+      "sha256": "e55bcc1a38d690ed0e022699a5809ed14a338235b53ef3f2f8cf9c8f9629e7df",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/10f_CX3172a_XL_TRAY INSTALL 3-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-7fa6399d9d44",
+      "original_filename": "11_CX3152i_RACK EARS.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/11_CX3152i_RACK EARS.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1139584,
+      "sha256": "cd40c3058b2bd0374e371d95367a1a039a6a5a012830ee4d678d68d478edc4dd",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/11_CX3152i_RACK EARS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-6f370cae19ed",
+      "original_filename": "1a_CX3172a_XL_LID UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/1a_CX3172a_XL_LID UNSCREW.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 744931,
+      "sha256": "c4bf2e0bbe0c3bc36967a5297c496adabbb18e1d4845ae8e8d738c2b219927f6",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/1a_CX3172a_XL_LID UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-c6b57f6fa32d",
+      "original_filename": "1b_CX3172a_XL_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/1b_CX3172a_XL_LID SLIDE BACK.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 443827,
+      "sha256": "b786e811c0ff3f7fa758d5817ef849f4cc7d49629e69dd85f063df8fad0a9f54",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/1b_CX3172a_XL_LID SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-da926179e426",
+      "original_filename": "1c_CX3172a_XL_LID REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/1c_CX3172a_XL_LID REMOVE.jpg",
+      "width_px": 3719,
+      "height_px": 2656,
+      "format": "JPEG",
+      "size_bytes": 762552,
+      "sha256": "16665b41f7f6f46bea88761229b0aa2340d9377be800cd062ef9dbc4aa36e32a",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/1c_CX3172a_XL_LID REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-42f2c423687f",
+      "original_filename": "2a_CX3152i_FACEPLATE REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/2a_CX3152i_FACEPLATE REMOVE.jpg",
+      "width_px": 4360,
+      "height_px": 3114,
+      "format": "JPEG",
+      "size_bytes": 1347838,
+      "sha256": "57015f18c6ed6a786d7967bc47985984b8a72ba7a778be072636e02afbe898aa",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/2a_CX3152i_FACEPLATE REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-14d82864e641",
+      "original_filename": "3a_CX3152i_FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/3a_CX3152i_FAN INSTALL.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1112972,
+      "sha256": "3c706a1c251e4f0067c114aba89dc3c085f1d022800c8681e873a92c36643eda",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/3a_CX3152i_FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-7bd17fdb946a",
+      "original_filename": "3b_CX3152i_FAN INSTALL PRECOOLER.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/3b_CX3152i_FAN INSTALL PRECOOLER.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1028004,
+      "sha256": "c4310c68347ee7262f79fbdfd1559fe7269f163c9ee0af5cfe0b8c3d672629cb",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/3b_CX3152i_FAN INSTALL PRECOOLER-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-b686760721b9",
+      "original_filename": "3c_CX3152i_FAN INSTALL +AIO.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/3c_CX3152i_FAN INSTALL +AIO.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1573182,
+      "sha256": "894e49694b128bd9033500d790a638c79bd56dcd39038bf13cf74e8b78150e82",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/3c_CX3152i_FAN INSTALL +AIO-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-7106aae259d8",
+      "original_filename": "4a1_CX3152i_DRIVE BRACKET SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/4a1_CX3152i_DRIVE BRACKET SLIDE BACK.jpg",
+      "width_px": 4377,
+      "height_px": 3126,
+      "format": "JPEG",
+      "size_bytes": 1220318,
+      "sha256": "400756d67a6ad3f9c46f7eef8f68469103dca52e4105ed157d708ca0dea02a9f",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/4a1_CX3152i_DRIVE BRACKET SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-001f3cc9ac04",
+      "original_filename": "4a_CX3152i_DRIVE BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/4a_CX3152i_DRIVE BRACKET UNSCREW.jpg",
+      "width_px": 4067,
+      "height_px": 2905,
+      "format": "JPEG",
+      "size_bytes": 831443,
+      "sha256": "319c8fef1261861ba9e71f6afb479475920c0347282ffb47ab06165967b1379f",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/4a_CX3152i_DRIVE BRACKET UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-bdd3ba2852d8",
+      "original_filename": "4a_CX3172a_XL_STANDOFF INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/4a_CX3172a_XL_STANDOFF INSTALL.jpg",
+      "width_px": 4448,
+      "height_px": 3177,
+      "format": "JPEG",
+      "size_bytes": 1169190,
+      "sha256": "786bf53a8d9b93baa5b1e55258b90686bbcadd90dafdcb782cfe92f2b1f3917c",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/4a_CX3172a_XL_STANDOFF INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-c97f2049d549",
+      "original_filename": "4b_CX3152i_DRIVE BRACKET REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/4b_CX3152i_DRIVE BRACKET REMOVE.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1004500,
+      "sha256": "636fa147c8f3b524f7e9ea6d9f3ff1c9b6cfafa718708e16d644781df2b816bd",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/4b_CX3152i_DRIVE BRACKET REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-79887ad5ecf4",
+      "original_filename": "4c_CX3150i_BAY FILLER UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/4c_CX3150i_BAY FILLER UNSCREW.jpg",
+      "width_px": 4360,
+      "height_px": 3114,
+      "format": "JPEG",
+      "size_bytes": 488395,
+      "sha256": "ce9632e0a630d33f2072314e1cc1aaead15e284db7332aacba590282c19f3b94",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3150i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/4c_CX3150i_BAY FILLER UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-3fe45a499f1d",
+      "original_filename": "4c_CX3152i_BAY FILLER REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/4c_CX3152i_BAY FILLER REMOVE.jpg",
+      "width_px": 3542,
+      "height_px": 2530,
+      "format": "JPEG",
+      "size_bytes": 478884,
+      "sha256": "e0f0382492963c0667b8512ae69cb6185728d13f24c4704100c6880f465d54e1",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3152i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/4c_CX3152i_BAY FILLER REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-47889c8d5a2d",
+      "original_filename": "4h_CX3150i_BAY FILLER (4 SLOT BAY DEVICE + SSD).jpg",
+      "local_path": "illustrations/3u/CX3172i XL/4h_CX3150i_BAY FILLER (4 SLOT BAY DEVICE + SSD).jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 579847,
+      "sha256": "739a856f5984417935fac83244d60a525304dbfdca0d019416617a0e0257ea26",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3150i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/4h_CX3150i_BAY FILLER (4 SLOT BAY DEVICE + SSD)-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-d87fad842fc2",
+      "original_filename": "4i_CX3150i_BAY FILLER (DVD ROM).jpg",
+      "local_path": "illustrations/3u/CX3172i XL/4i_CX3150i_BAY FILLER (DVD ROM).jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 716751,
+      "sha256": "b66c929077c2f71cacfbdee11bd35e06726c1a14cbf5d80cc17bddefb4fde7c0",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3150i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/4i_CX3150i_BAY FILLER (DVD ROM)-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-36573944d3ed",
+      "original_filename": "4j_CX3150i_BAY FILLER (2 TOP SSD).jpg",
+      "local_path": "illustrations/3u/CX3172i XL/4j_CX3150i_BAY FILLER (2 TOP SSD).jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 760426,
+      "sha256": "8a07199197d0e02e8e6b79ecfdb762b2e760227552f85bf32f2f594e6391b653",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3150i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/4j_CX3150i_BAY FILLER (2 TOP SSD)-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-02f293ba3627",
+      "original_filename": "4k_CX3150i_BAY FILLER (TOP 3.5 HDD).jpg",
+      "local_path": "illustrations/3u/CX3172i XL/4k_CX3150i_BAY FILLER (TOP 3.5 HDD).jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 704470,
+      "sha256": "73fdee4d01960f846e48e8da31bfc5a1394670e596e09e64e5fe9757d3bd7edf",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3150i/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/4k_CX3150i_BAY FILLER (TOP 3.5 HDD)-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-81f61a9d3372",
+      "original_filename": "5a_CX3172a_XL_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/5a_CX3172a_XL_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 4448,
+      "height_px": 3177,
+      "format": "JPEG",
+      "size_bytes": 1336646,
+      "sha256": "7ecba88bc87646a1a00a625cb7ce2dc99df505c76a6592b86eae082520323557",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/5a_CX3172a_XL_MOTHERBOARD IO SHIELD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-5d65fdfa206f",
+      "original_filename": "5b_CX3172a_XL_MOTHERBOARD.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/5b_CX3172a_XL_MOTHERBOARD.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1210521,
+      "sha256": "e3a1c61bff6e0746868233e8207928d6bd64d5d10516e481de71e08f83a84f78",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/5b_CX3172a_XL_MOTHERBOARD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-a3f23b80ec01",
+      "original_filename": "6a_CX3172a_XL_SSD 1.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/6a_CX3172a_XL_SSD 1.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1630621,
+      "sha256": "50ad736cf861a5faa47a6fca7ebe7acf1eb2734a4f64a934d5ae4196003dd2e7",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/6a_CX3172a_XL_SSD 1-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-8da88ae2ec2e",
+      "original_filename": "6b_CX3172a_XL_SSD 2.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/6b_CX3172a_XL_SSD 2.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1233939,
+      "sha256": "b15bcc0ff56c8a45609ef94f556b20762a3e66ab17d46fd6ba36eacfd77e621a",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/6b_CX3172a_XL_SSD 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-7f6838a85ce3",
+      "original_filename": "7_CX3172a_XL_PSU.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/7_CX3172a_XL_PSU.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1569271,
+      "sha256": "8d9318ae775232201d6fdce28e6141eccceb9dffacc8c6e4a1622efae86d8122",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/7_CX3172a_XL_PSU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-66f33d5edd36",
+      "original_filename": "8_CX3172a_XL_GPU.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/8_CX3172a_XL_GPU.jpg",
+      "width_px": 4782,
+      "height_px": 3416,
+      "format": "JPEG",
+      "size_bytes": 1675223,
+      "sha256": "5f3d52313d4dcab716669d4c09b911bed27044a7ed9ff42b85c3987cfe6358ca",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3172a XL/: same part and view (confirmed 2026-11-05; see sources/decisions/2026-11-05-CX317x-XL-family.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/8_CX3172a_XL_GPU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-effe6cf7c002",
+      "original_filename": "_CX3170i_XL_FRONT.tif",
+      "local_path": "illustrations/3u/CX3172i XL/_CX3170i_XL_FRONT.tif",
+      "width_px": 8397,
+      "height_px": 4199,
+      "format": "TIFF",
+      "size_bytes": 5426110,
+      "sha256": "1dc5aaa3b9fdf5fb25c8ae452d79617acae53f29b98b2f2ea779b7670f5b1bf4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/_CX3170i_XL_FRONT-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-d57cebef9061",
+      "original_filename": "_CX3170i_XL_REAR.tif",
+      "local_path": "illustrations/3u/CX3172i XL/_CX3170i_XL_REAR.tif",
+      "width_px": 6676,
+      "height_px": 3338,
+      "format": "TIFF",
+      "size_bytes": 2376486,
+      "sha256": "048ed7940783a0843851dacbd8c821e81a701eab2a2909349ced7f6c6145ee3d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3172ixl-17b4ef968df9",
+      "original_filename": "_CX3172iXL.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/_CX3172iXL.jpg",
+      "width_px": 2502,
+      "height_px": 1212,
+      "format": "JPEG",
+      "size_bytes": 386014,
+      "sha256": "8b6b4af2d18e687cf0b854d2247d8a53588b7b6a177c6791417f6bd63b4c0bec",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/_CX3172iXL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-651200dfe8b9",
+      "original_filename": "_CX3172iXL_NC.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/_CX3172iXL_NC.jpg",
+      "width_px": 2502,
+      "height_px": 1212,
+      "format": "JPEG",
+      "size_bytes": 477083,
+      "sha256": "0a8fb02c315e1c210660f8b907ca160303e1fcdbbfc2f5df133e5500cea78ec2",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3172ixl-f369bb210e12",
+      "original_filename": "_CX3172i_XL_ADVANCED_FRONT VIEW.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/_CX3172i_XL_ADVANCED_FRONT VIEW.jpg",
+      "width_px": 4206,
+      "height_px": 3005,
+      "format": "JPEG",
+      "size_bytes": 739679,
+      "sha256": "077324e6c03a5541e8509082690a0f5d15415534f16ef09a07fa1d5da2fc1b95",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/_CX3172i_XL_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-59de707bcf01",
+      "original_filename": "_CX3172i_XL_ADVANCED_TOP VIEW.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/_CX3172i_XL_ADVANCED_TOP VIEW.jpg",
+      "width_px": 4666,
+      "height_px": 3333,
+      "format": "JPEG",
+      "size_bytes": 1000747,
+      "sha256": "199ec04b02da17f5451130cf15a3ea70628643b538faaa7c119454788402ae1b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3172iXL/_CX3172i_XL_ADVANCED_TOP VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3172ixl-b2c5a2dbf5e2",
+      "original_filename": "_CX3172i_XL_CORNER 180.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/_CX3172i_XL_CORNER 180.jpg",
+      "width_px": 3554,
+      "height_px": 2539,
+      "format": "JPEG",
+      "size_bytes": 979612,
+      "sha256": "de3c866624e7aedbfcea47552679415b0e129c116bd550083799116198ef2c24",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3172ixl-61e3de0e4178",
+      "original_filename": "_CX3172i_XL_CORNER.jpg",
+      "local_path": "illustrations/3u/CX3172i XL/_CX3172i_XL_CORNER.jpg",
+      "width_px": 3504,
+      "height_px": 2503,
+      "format": "JPEG",
+      "size_bytes": 831893,
+      "sha256": "3de2dac6fd488f286319fad4efae1c29a930ea1ac91fafabef58a07fc933be33",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    }
+  ]
+}

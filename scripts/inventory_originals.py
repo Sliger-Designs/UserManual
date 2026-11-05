@@ -10,7 +10,7 @@ import json
 
 from PIL import Image
 
-from manual_paths import MODEL_CATEGORIES, ROOT
+from manual_paths import MODEL_CATEGORIES, ROOT, originals_directory
 
 IMAGE_SUFFIXES = {'.jpg', '.jpeg', '.png', '.tif', '.tiff', '.webp', '.bmp'}
 Image.MAX_IMAGE_PIXELS = None  # Trusted CAD renders exceed Pillow's decompression-bomb default.
@@ -25,7 +25,7 @@ def main():
     parser.add_argument('--model', required=True, choices=sorted(MODEL_CATEGORIES))
     parser.add_argument('--note', default='Supplied original; configuration applicability requires reference review.')
     args = parser.parse_args()
-    folder = ROOT / 'illustrations' / MODEL_CATEGORIES[args.model] / args.model
+    folder = originals_directory(args.model)
     if not folder.is_dir():
         raise SystemExit(f'Stage the originals in {folder.relative_to(ROOT)} first')
     path = ROOT / f'illustrations/{args.model}.inventory.json'

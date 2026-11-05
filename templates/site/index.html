@@ -152,7 +152,7 @@ function manualCard(manual) {
   const badges = [h('span', {class: 'badge ' + (manual.released ? 'released' : 'draft'), text: manual.released ? `Released ${manual.revision}` : `Draft · ${manual.revision}`}),
     ...Object.entries(manual.languages).filter(([, item]) => item.done > 0)
       .map(([code, item]) => h('span', {class: 'badge', title: `${item.name || code}: ${percent(item.done, item.total)} translated`, text: `${code} ${percent(item.done, item.total)}`}))];
-  card.append(h('summary', {}, h('span', {class: 'model', text: manual.model}),
+  card.append(h('summary', {}, h('span', {class: 'model', text: manual.display_name || manual.model}),
     h('span', {class: 'what', text: [manual.description, manual.form_factor].filter(Boolean).join(' · ')}), h('span', {class: 'badges'}, badges)));
   const panel = h('div', {class: 'panel'});
   const pdfs = manual.pdfs.map(pdf => h('div', {class: 'row'},
