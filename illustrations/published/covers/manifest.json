@@ -298,5 +298,35 @@
       1600,
       557
     ]
+  },
+  "CX3152a": {
+    "path": "illustrations/published/covers/CX3152a-17ae2d7638b5.jpg",
+    "sha256": "06621ea76c4334c06bf0dc0a2518697edac3ca7299d56db4346e74b94206642c",
+    "source_path": "sources/web/covers/CX3152a-17ae2d7638b5.webp",
+    "source_sha256": "17ae2d7638b522221557d93d2f5b234f76f6de2a0cf43aeca4afae5b072f7bc2",
+    "product_url": "https://sliger.com/products/cx3152a",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/364.webp",
+    "retrieved_at": "2026-11-05T19:12:42.829438+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1200,
+      440
+    ]
+  },
+  "CX3152i": {
+    "path": "illustrations/published/covers/CX3152i-6e73df1964ba.jpg",
+    "sha256": "c7c98a3da8d2d12c3442cb3e2c06396a9eb6200c171f9f2a8919ea8a15643b17",
+    "source_path": "sources/web/covers/CX3152i-6e73df1964ba.webp",
+    "source_sha256": "6e73df1964bade5afdf94d2e378505977aba4e952e18847817cdaabb96eb14b6",
+    "product_url": "https://sliger.com/products/cx3152i",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/370.webp",
+    "retrieved_at": "2026-11-05T19:12:43.597929+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      552
+    ]
   }
 }

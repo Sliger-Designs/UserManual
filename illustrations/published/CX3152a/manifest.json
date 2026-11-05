@@ -1,0 +1,727 @@
+{
+  "10_CX3152a-RACK EARS.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-38745fa7a283.jpg",
+    "source_path": "illustrations/3u/CX3152a/10_CX3152a-RACK EARS.jpg",
+    "source_sha256": "d6855a0129ffdb161be8e49088e59893edf7b04f75b7e7b8de84f5c4fa55e187",
+    "sha256": "1221d8c9e2d4ba9ec55969543bf1254de2f218594afc71f9eb55a16afc780656",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 18500555,
+      "total_pixels": 24169635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/10_CX3152a-RACK EARS-white.png",
+      "full_resolution_dimensions_px": [
+        5817,
+        4155
+      ],
+      "full_resolution_sha256": "0c6bc2303181d51f8730f0b8167d765753b3decbad3339793d7e7f2fd7452360"
+    }
+  },
+  "12D_CX3152a_TRAY INSTALL.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-46f18a52e4b8.jpg",
+    "source_path": "illustrations/3u/CX3152a/12D_CX3152a_TRAY INSTALL.jpg",
+    "source_sha256": "1cad6c5b3de73c4e8e4423fe6e84845beedff79541fe9ebb94375ae799c800e3",
+    "sha256": "7adec48351271e1bd5f08a7aa2621b033b9e7d43c03113a85f636b8b011810e2",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8312970,
+      "total_pixels": 13682502,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/12D_CX3152a_TRAY INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4377,
+        3126
+      ],
+      "full_resolution_sha256": "42b583a9fd756b291c1612acecf2dc08ac8741acf5255bcfb7771cbc74e9455b"
+    }
+  },
+  "12a_CX3152a_TRAY UNSCREW.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-b3d000a46ce2.jpg",
+    "source_path": "illustrations/3u/CX3152a/12a_CX3152a_TRAY UNSCREW.jpg",
+    "source_sha256": "87f0b4726afd0a18c68dc090bdb0b36618c0798e9d9eb4354be37525b778f973",
+    "sha256": "7be48c21a07fe9e583f2d511e6e62dc155e0b6a972daf36e46a1b33071eec87f",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7488693,
+      "total_pixels": 13599471,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/12a_CX3152a_TRAY UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        4363,
+        3117
+      ],
+      "full_resolution_sha256": "06d6b9b83e102c4dc852f24e84c844a937f5ec9c5234550d3309b0b93b90fab3"
+    }
+  },
+  "12b_CX3152a_TRAY SLIDE BACK.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-2b53681300d0.jpg",
+    "source_path": "illustrations/3u/CX3152a/12b_CX3152a_TRAY SLIDE BACK.jpg",
+    "source_sha256": "35a21f63b13fd4336575dc37d60a00910bf28083c6fbca67ba6aeca162de2b10",
+    "sha256": "1f0a3f5148b542a19f75c23aeb8de42ee86fa4ef62fea21cc0b9e13c0f4a3dab",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11542971,
+      "total_pixels": 23271516,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/12b_CX3152a_TRAY SLIDE BACK-white.png",
+      "full_resolution_dimensions_px": [
+        5708,
+        4077
+      ],
+      "full_resolution_sha256": "6aa14b7269881572876af20adadad307fb64877329991d2f22e932e60341116b"
+    }
+  },
+  "12c_CX3152a_TRAY SLIDE BACK 2.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-13b2c372f49b.jpg",
+    "source_path": "illustrations/3u/CX3152a/12c_CX3152a_TRAY SLIDE BACK 2.jpg",
+    "source_sha256": "9b19966f8852f54e6dced0e73ce4dcf7ef32c8f508e25164f012ea99ad1bd32f",
+    "sha256": "5bc3b6f7f356d8264d7f88b266d5dfa2f3d6ef20bf2dc534e38a367bd2533937",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11242470,
+      "total_pixels": 19382689,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/12c_CX3152a_TRAY SLIDE BACK 2-white.png",
+      "full_resolution_dimensions_px": [
+        5209,
+        3721
+      ],
+      "full_resolution_sha256": "13afa9a5c244e6ccd1c7fae1ba91b79cbe8366bc02556c1a69519daba41a87a3"
+    }
+  },
+  "12e_CX3152a_TRAY INSTALL.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-d2d9fb8d2cae.jpg",
+    "source_path": "illustrations/3u/CX3152a/12e_CX3152a_TRAY INSTALL.jpg",
+    "source_sha256": "c82a23d068a45b3ebfcc3f3f7445946e657ced253d31bfcba2854408bd64f28f",
+    "sha256": "aaaca0dd601219a3462129f576efafc423eceaf936d8a2550116f1a71c6588d2",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 4813503,
+      "total_pixels": 13682502,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/12e_CX3152a_TRAY INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4377,
+        3126
+      ],
+      "full_resolution_sha256": "1dfb929de520d0ff097179f1c154cdfafa9c016de43fb4d5f68f9c9617f12737"
+    }
+  },
+  "12f_CX3152a_TRAY SCREW INSTALL.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-87429a2b5909.jpg",
+    "source_path": "illustrations/3u/CX3152a/12f_CX3152a_TRAY SCREW INSTALL.jpg",
+    "source_sha256": "a8ecbbe2823dd6485ea8ef2691632c877f8e3c9fd376a281a28f504ffb97ca73",
+    "sha256": "6bb1d038941d618f060a7b5b0af4e9d088284fe21b94fde7214cfa64b11ad9d2",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 6166860,
+      "total_pixels": 11461166,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/12f_CX3152a_TRAY SCREW INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4006,
+        2861
+      ],
+      "full_resolution_sha256": "ab530bdc0466632cd21703d4b5dbeb8a24f0b50586c86c0cf3e353b5b229328b"
+    }
+  },
+  "1a_CX3152a_LID UNSCREW.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-05f15cbc86f8.jpg",
+    "source_path": "illustrations/3u/CX3152a/1a_CX3152a_LID UNSCREW.jpg",
+    "source_sha256": "8c05498ce7145ef12db4db14e1c2609fa3085b1fb01c8d31ef3945f37cb9b486",
+    "sha256": "6b381c8af71f6a0d9b3ad323caca64a6985541f4b796ea91576001cafbdb8d2e",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13214485,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/1a_CX3152a_LID UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "cf786f82f27ac5fb648d45177371f45a7412afa259f24048f6e358dd4f342762"
+    }
+  },
+  "1b_CX3152a_LID SLIDE BACK.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-b7945bc45bc3.jpg",
+    "source_path": "illustrations/3u/CX3152a/1b_CX3152a_LID SLIDE BACK.jpg",
+    "source_sha256": "1f58ea69e1b42e01249839804ff91e820bba3fcc07bdc6f8b60488f4aea541a4",
+    "sha256": "56c3cc6cd1f2b1bb8b4feabee2410ae08633c3910e67b813fcdf62a2797119ab",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12617726,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/1b_CX3152a_LID SLIDE BACK-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "1a87fd1aa7527e7e0f8f771b2ab8ae1cda4875c8a310d276b3048edd4b2f6a3f"
+    }
+  },
+  "1c_CX3152a_LID REMOVE.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-95becf8e7610.jpg",
+    "source_path": "illustrations/3u/CX3152a/1c_CX3152a_LID REMOVE.jpg",
+    "source_sha256": "7c76d210d31122557b77066e1d73c7b1538a1991f3ac408f9e8749d393554c41",
+    "sha256": "ad2e1be6bad834950d580306664ac5a42af2212b73495d4869d2e39600eb3205",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11084837,
+      "total_pixels": 14131296,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/1c_CX3152a_LID REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        4448,
+        3177
+      ],
+      "full_resolution_sha256": "52a19e60feb31be05199d9b7d27edf389bace03b8269af99a83b017741e6e110"
+    }
+  },
+  "2a_CX3152a_FACEPLATE REMOVE.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-87bba90003f5.jpg",
+    "source_path": "illustrations/3u/CX3152a/2a_CX3152a_FACEPLATE REMOVE.jpg",
+    "source_sha256": "38ef30fe63f6bd7ef37e19f56feb1df6b32fb76ef0a46217d9c2538aaf1d9dc8",
+    "sha256": "5b0694d43b59d8e36259f94146e687022476275e263eb597cfe1e7114f1e181e",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 14385228,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/2a_CX3152a_FACEPLATE REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "ef43158f400e86097384d1ce6f13783d92e7812c57429b59af949c20576cf960"
+    }
+  },
+  "3a_CX3152a_FAN INSTALL.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-c4a1fe2f4bec.jpg",
+    "source_path": "illustrations/3u/CX3152a/3a_CX3152a_FAN INSTALL.jpg",
+    "source_sha256": "688809c4d0a357903319fab2cfca0cd0ab9f5845567ef011ba1c9e8276603f77",
+    "sha256": "df9b1a94503d4a069178873007cf076054d4ab70546bf1213bfa76188ac1a208",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13611845,
+      "total_pixels": 16796936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/3a_CX3152a_FAN INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4849,
+        3464
+      ],
+      "full_resolution_sha256": "f0b991d4f2a5b3c7ed7e10850aa864fee4d557fdda0b834fbc817cf66137fa22"
+    }
+  },
+  "3b_CX3152a_FAN INSTALL PRECOOLER.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-d29b60b8c422.jpg",
+    "source_path": "illustrations/3u/CX3152a/3b_CX3152a_FAN INSTALL PRECOOLER.jpg",
+    "source_sha256": "66792b718fb4b1b12c56caa0d41b4381106eac951d8e86bb4e0168b59bcdb920",
+    "sha256": "5d670f99930a0ec250ed634fe4c1431c57162bc965647eeba9f2e9e46d8a59bc",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 19565598,
+      "total_pixels": 24169635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/3b_CX3152a_FAN INSTALL PRECOOLER-white.png",
+      "full_resolution_dimensions_px": [
+        5817,
+        4155
+      ],
+      "full_resolution_sha256": "b47d3337cd5fc50dce760caa5435a32ef921d0aae8563ce61e23a06cdb83e16a"
+    }
+  },
+  "3c_CX3152a_FAN INSTALL + AIO.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-c9868a02a007.jpg",
+    "source_path": "illustrations/3u/CX3152a/3c_CX3152a_FAN INSTALL + AIO.jpg",
+    "source_sha256": "b3cb70d3451481d5430cfffb9b9a262629fb58561f39b9ad3d5a0d82b26b877b",
+    "sha256": "1cd0b2c2b8635a94d0a42da7f579e3159ef1958da1c4159544df72f5020452d0",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12445787,
+      "total_pixels": 16897536,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/3c_CX3152a_FAN INSTALL + AIO-white.png",
+      "full_resolution_dimensions_px": [
+        4864,
+        3474
+      ],
+      "full_resolution_sha256": "d566feff06f0edfa711f823b1e1e848ad81ee0a8507810f46ab60538cabdcfad"
+    }
+  },
+  "4a_CX3152a_STANDOFF INSTALL.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-fd7759c87352.jpg",
+    "source_path": "illustrations/3u/CX3152a/4a_CX3152a_STANDOFF INSTALL.jpg",
+    "source_sha256": "64991f51dece21626fd80bb8e0c608cd484dbb532221711b84468da5caec0d19",
+    "sha256": "2ce729ea7e6e4c7fca7292e1d06ee76f5af800e61b01658b74427e51913a0c28",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13293266,
+      "total_pixels": 20078674,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/4a_CX3152a_STANDOFF INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        5302,
+        3787
+      ],
+      "full_resolution_sha256": "a8f71adf20391c82defb731e76f4b3847f057e32b1b70a8070c34b1561250c86"
+    }
+  },
+  "6a_CX3152a_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-4fa44769a14b.jpg",
+    "source_path": "illustrations/3u/CX3152a/6a_CX3152a_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "4d9b7c3f90ce1b6f1015b671b085e92ad373c08636584c7277484b1c1a89cad1",
+    "sha256": "5c7333a592c1777933839147853087dc4dfd10a9346c699fa1d93c888758f7b4",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12232441,
+      "total_pixels": 16897536,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/6a_CX3152a_MOTHERBOARD IO SHIELD-white.png",
+      "full_resolution_dimensions_px": [
+        4864,
+        3474
+      ],
+      "full_resolution_sha256": "c3889fd9d24bdacdf269c8bb5facc9e80906cff4f808b483ae52cc201933181f"
+    }
+  },
+  "6a_CX3152a_MOTHERBOARD.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-1032ac9f716f.jpg",
+    "source_path": "illustrations/3u/CX3152a/6a_CX3152a_MOTHERBOARD.jpg",
+    "source_sha256": "0ef7f3e4bcbabbea56bb34716f19d6b44bbd3646ebf4ce41b1c7a983b1494149",
+    "sha256": "c19576c1a0b098fb87e06a31316038df6ebe5fa3d51ea5724838c1cc5d3f0387",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9496791,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/6a_CX3152a_MOTHERBOARD-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "bd2ad55f6612b2db4506a699d8a5d2319482acedb91f899f2c379ed1ded645ec"
+    }
+  },
+  "7a_CX3152a_SSD 1.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-07d836c37319.jpg",
+    "source_path": "illustrations/3u/CX3152a/7a_CX3152a_SSD 1.jpg",
+    "source_sha256": "7ad6d955d111022e3e1f4d32d35139ea0951ca49f3149bc04e7616465df844ec",
+    "sha256": "81f677ff42446e73699d021291edafe644e6a395c8a3017020bd557a557fa326",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 4573909,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/7a_CX3152a_SSD 1-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "39f5f3acc1c40cc6f9664c6a1d12ee1e7683f3da819bab792bde5b5dad86bda9"
+    }
+  },
+  "7b_CX3152a_SSD 2.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-f696a2d41ed2.jpg",
+    "source_path": "illustrations/3u/CX3152a/7b_CX3152a_SSD 2.jpg",
+    "source_sha256": "f946058ce4a8ab10b2e6c691dbe523586e4988722240d8bfd43c10ca0277a2ed",
+    "sha256": "0b59c8c6fdfe3d1078fa38c5b804bf3630c4d3458b3c1ba73ba217a8be27d572",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10629542,
+      "total_pixels": 20206881,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/7b_CX3152a_SSD 2-white.png",
+      "full_resolution_dimensions_px": [
+        5319,
+        3799
+      ],
+      "full_resolution_sha256": "e96736b223891e5698fe5fdaff73e9a584670879af034b161aa5626b4ec1595a"
+    }
+  },
+  "8a_CX3152a_PSU 1.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-aae6589f169a.jpg",
+    "source_path": "illustrations/3u/CX3152a/8a_CX3152a_PSU 1.jpg",
+    "source_sha256": "f8b13e09775ed7d30b67b76dc9658d12dac14521268d8a6de3c2d0fa2bcd1b5d",
+    "sha256": "5efa5242aa5679295a7f00e204983314fe14ed7a2eebf68c9ca74a8b16466f53",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7069705,
+      "total_pixels": 14131296,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/8a_CX3152a_PSU 1-white.png",
+      "full_resolution_dimensions_px": [
+        4448,
+        3177
+      ],
+      "full_resolution_sha256": "4819af7d1015b9a667fc388bd0394f6bd43b9ca28d7ce2d4293009aead983255"
+    }
+  },
+  "8b_CX3152a_PSU 2.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-c03d6e7ac346.jpg",
+    "source_path": "illustrations/3u/CX3152a/8b_CX3152a_PSU 2.jpg",
+    "source_sha256": "9ea336e692868d73e857bb17e4c0520bee358b96a4f52205df783b7942549d70",
+    "sha256": "dbbe78dec455892978aa67045f0731b2c324bc1286eab71f8963e50993ef9728",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11877640,
+      "total_pixels": 24169635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/8b_CX3152a_PSU 2-white.png",
+      "full_resolution_dimensions_px": [
+        5817,
+        4155
+      ],
+      "full_resolution_sha256": "60bd7f6134dd0875991805f74f9935eae8866e14cad1c2841e309cd048b12ed9"
+    }
+  },
+  "9_CX3152a_GPU.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-a7d6b1b5d6d9.jpg",
+    "source_path": "illustrations/3u/CX3152a/9_CX3152a_GPU.jpg",
+    "source_sha256": "7251177554fac91482f842e723e8978a0266c48d062f916b0076400bb6edd0f1",
+    "sha256": "74619e2c2cc68e937f730f33686c8189b1d83dc3f2ce21d2db4fd0d4ff4c6ee5",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 6296505,
+      "total_pixels": 11008504,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/9_CX3152a_GPU-white.png",
+      "full_resolution_dimensions_px": [
+        3926,
+        2804
+      ],
+      "full_resolution_sha256": "ad619cd3aa54b22bfc541106932c927eeb59df093ba7579242d41dd1e92ea84d"
+    }
+  },
+  "_CX3152a_ADVANCED_FRONT VIEW.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-ef9c4f09260e.jpg",
+    "source_path": "illustrations/3u/CX3152a/_CX3152a_ADVANCED_FRONT VIEW.jpg",
+    "source_sha256": "f642c6c7b58f58bb115e6cffca8228ca67babecb87a2d2c7aaf2e36aaab2a73c",
+    "sha256": "43581893408801e34b2eb6ad5017dcb8d28b9eecc08ee56f5dda56200ef00d88",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 16323657,
+      "total_pixels": 21839550,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/_CX3152a_ADVANCED_FRONT VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        5529,
+        3950
+      ],
+      "full_resolution_sha256": "b9a05aa2a3fbc711926676d94b8238b945efbe7c337211d5c581262b6aeaac64"
+    }
+  },
+  "_CX3152a_ADVANCED_TOP VIEW.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-0c07d08119c5.jpg",
+    "source_path": "illustrations/3u/CX3152a/_CX3152a_ADVANCED_TOP VIEW.jpg",
+    "source_sha256": "8958df7fd3e53867b8b23100813c0f7002c7ae9a2c98577c3afc6dcb15312261",
+    "sha256": "66156762e17a5bfee3434d2e7acb9e452874bbeb744f3b7f10dc848d1f849fad",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7947652,
+      "total_pixels": 11501258,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/_CX3152a_ADVANCED_TOP VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        4013,
+        2866
+      ],
+      "full_resolution_sha256": "86caa0e08762667bb19b955590b114cc26c73e3b4c07c2f22156f4dc75f121d7"
+    }
+  },
+  "_CX3152a_rendering.jpg": {
+    "path": "illustrations/published/CX3152a/cx3152a-963e4c300899.jpg",
+    "source_path": "illustrations/3u/CX3152a/_CX3152a_rendering.jpg",
+    "source_sha256": "95f1953430d6953f6f6f3aa3135df9823009143b192140ddd20d1986c9b1e728",
+    "sha256": "148a963ef8350e5708e80b777df3f5dfc2c61b62082620d085026cc930def1a9",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8672258,
+      "total_pixels": 11350989,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3152a/_CX3152a_rendering-white.png",
+      "full_resolution_dimensions_px": [
+        3987,
+        2847
+      ],
+      "full_resolution_sha256": "673a5a0442d6a91c95deb9a688f4b394566531a313758410d0e521edda34a209"
+    }
+  }
+}
