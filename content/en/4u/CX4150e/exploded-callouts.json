@@ -1,0 +1,89 @@
+{
+  "asset_key": "_CX4150e_CHASSIS_EXPLODE.jpg",
+  "source_sha256": "bd13401da52826109f09d0d69d5c0fd7bd8dafdbd2907d4b4f82d3cb9d9a731d",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 2.125147579693034,
+  "view_box": [
+    0.12,
+    0.03,
+    0.8,
+    0.95
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Assembly callouts placed on the CX4150e exploded view (2026-11-05); review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.51,
+        0.24
+      ],
+      "badge": [
+        0.414,
+        0.077
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.27,
+        0.64
+      ],
+      "badge": [
+        0.152,
+        0.754
+      ]
+    },
+    {
+      "number": 3,
+      "label": "5.25-inch bay bracket",
+      "target": [
+        0.43,
+        0.62
+      ],
+      "badge": [
+        0.43,
+        0.932
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Front I/O assembly",
+      "target": [
+        0.51,
+        0.82
+      ],
+      "badge": [
+        0.51,
+        0.932
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Chassis wrap with rack-ear flanges",
+      "target": [
+        0.68,
+        0.64
+      ],
+      "badge": [
+        0.68,
+        0.932
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Removable motherboard tray",
+      "target": [
+        0.85,
+        0.58
+      ],
+      "badge": [
+        0.888,
+        0.466
+      ]
+    }
+  ]
+}

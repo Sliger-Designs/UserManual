@@ -4,6 +4,7 @@
 Any model can be built in English, from a returned translation package (--translation),
 or from a language's translation memory (--language)."""
 import argparse
+import json
 from pathlib import Path
 import shutil
 import tempfile
@@ -49,6 +50,11 @@ def main():
             if package.suffix.lower() == '.zip':
                 package = extract_package(package, Path(temporary))
             validate(package, complete=True)
+            job = json.loads((package / 'translation/job.json').read_text(encoding='utf-8'))
+            if job.get('translator') == 'self-test':
+                # The CI editor check's accented pseudo-translation; built manuals from it look like
+                # a corrupted translation, so they never go to the normal output folders.
+                raise SystemExit('This is the editor self-test pseudo-translation, not a translation; it is not built as a manual')
             manual_build.build(model, args.browser, localizer=PackageLocalizer(package), **options)
     else:
         manual_build.build(model, args.browser, **options)

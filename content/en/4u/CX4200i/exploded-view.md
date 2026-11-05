@@ -1,12 +1,12 @@
-The exploded view shows the CX4200i chassis assemblies. Use the table below to find the corresponding installation procedure.
+### Assembly part key
 
-| Assembly | Related procedure |
-| --- | --- |
-| Chassis lid | {{ ref('lid-removal','Lid removal') }} |
-| Subfront, filter, and faceplate | {{ ref('faceplate-removal','Faceplate removal') }} |
-| Front I/O assembly | {{ ref('front-ports','Front ports and connections') }} |
-| Hardware kit | {{ ref('hardware','Hardware key') }} |
-| Chassis wrap and motherboard tray | {{ ref('tray-removal','Tray removal') }} |
-| Rack ears and optional handles | {{ ref('rack-ears','Rack-ear installation') }} |
-| Internal drive cage | {{ ref('drive-cage-removal','Drive-cage installation') }} |
-| 5.25-inch bay bracket | {{ ref('bay-bracket-removal','Bay-bracket removal') }} |
+| No. | Part | Related procedure |
+| --- | --- | --- |
+| 1 | Lid | {{ ref('lid-removal', 'Remove the lid') }} |
+| 2 | Faceplate and dust filter | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
+| 3 | 5.25-inch bay bracket | {{ ref('bay-bracket-removal', 'Remove the 5.25-inch bay bracket') }} |
+| 4 | Front I/O assembly | {{ ref('front-ports', 'Front ports & connections') }} |
+| 5 | Chassis wrap with rack-ear flanges | {{ ref('rack-ears', 'Install rack ears & handles') }} |
+| 6 | Removable motherboard tray | {{ ref('tray-removal', 'Remove the motherboard tray') }} |
+
+See the hardware-kit page for the screw bag and rack hardware.

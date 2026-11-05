@@ -1,0 +1,89 @@
+{
+  "asset_key": "_CX4170i.jpg",
+  "source_sha256": "dbd84b0a6ed4d31649a1783468993002b0cd0a6ec4ddd26ddf375c560a53caa0",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 2.0642201834862384,
+  "view_box": [
+    0.1,
+    0.06,
+    0.82,
+    0.84
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Assembly callouts placed on the CX4170i exploded view (2026-11-05); review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.52,
+        0.23
+      ],
+      "badge": [
+        0.422,
+        0.102
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.32,
+        0.6
+      ],
+      "badge": [
+        0.133,
+        0.701
+      ]
+    },
+    {
+      "number": 3,
+      "label": "5.25-inch bay bracket",
+      "target": [
+        0.45,
+        0.54
+      ],
+      "badge": [
+        0.45,
+        0.858
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Front I/O assembly",
+      "target": [
+        0.5,
+        0.65
+      ],
+      "badge": [
+        0.507,
+        0.858
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Chassis wrap with rack-ear flanges",
+      "target": [
+        0.66,
+        0.58
+      ],
+      "badge": [
+        0.66,
+        0.858
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Removable motherboard tray",
+      "target": [
+        0.8,
+        0.5
+      ],
+      "badge": [
+        0.887,
+        0.399
+      ]
+    }
+  ]
+}

@@ -19,6 +19,38 @@ from manual_localization import Localizer
 from manual_paths import ROOT, content_directory
 
 
+UNIT = re.compile(r'(?<=\d) (?=(?:mm|cm|inches|inch|kg|lbs?|W|Gbps|slots?)\b)|(?<=\d) (?=×)|(?<=×) (?=\d)')
+NBSP = '\u00a0'
+
+
+def keep_units_together(html):
+    """Non-breaking spaces between numbers and their units (and around × between numbers) in
+    text, so '270 mm' or '12 × 10.5' never splits across lines. Tags are left untouched."""
+    return ''.join(part if part.startswith('<') else UNIT.sub(NBSP, part) for part in re.split(r'(<[^>]+>)', html))
+
+
+_TRIM = {}
+
+
+def content_inset(path, pad=0.03):
+    """CSS object-view-box inset that crops a render's empty margins (near-white background),
+    keeping a small pad, so procedure illustrations fill their frames. Published files are unchanged."""
+    if path not in _TRIM:
+        from PIL import Image, ImageChops
+        with Image.open(path) as image:
+            rgb = image.convert('RGB'); w, h = rgb.size
+            box = ImageChops.difference(rgb, Image.new('RGB', rgb.size, (255, 255, 255))).point(lambda v: 255 if v > 18 else 0).getbbox()
+        if not box:
+            _TRIM[path] = ''
+        else:
+            l, t, r, b = box
+            px, py = pad * w, pad * h
+            l, t, r, b = max(0, l - px), max(0, t - py), min(w, r + px), min(h, b + py)
+            _TRIM[path] = '' if (r - l) * (b - t) > 0.92 * w * h else (
+                f'object-view-box: inset({100 * t / h:.2f}% {100 * (w - r) / w:.2f}% {100 * (h - b) / h:.2f}% {100 * l / w:.2f}%)')
+    return _TRIM[path]
+
+
 def load(model):
     manual = json.loads((content_directory(model) / 'manual.json').read_text(encoding='utf-8'))
     product = json.loads((ROOT / f'products/{model}.json').read_text(encoding='utf-8'))
@@ -121,14 +153,15 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
                         applied_rules.append({'id': rule['id'], 'page_id': item['id'], 'text': note})
             rendered = env.from_string(source).render(**context)
             sections.append(markdown.markdown(rendered, extensions=['tables', 'sane_lists']))
-        page['html'] = ''.join('<div class="reference-section">' + section + '</div>' for section in sections) if len(sections) > 1 else (sections[0] if sections else '')
+        page['html'] = keep_units_together(''.join('<div class="reference-section">' + section + '</div>' for section in sections) if len(sections) > 1 else (sections[0] if sections else ''))
         page['images'] = []
         for name in item['images']:
             asset = assets[name]
             path = ROOT / asset['path']
             assert hashlib.sha256(path.read_bytes()).hexdigest() == asset['sha256']
             page['images'].append({'src': ('data:image/png;base64,' if path.suffix == '.png' else 'data:image/jpeg;base64,') + base64.b64encode(path.read_bytes()).decode(),
-                                   'review': item.get('image_reviews', {}).get(name), 'key': name, 'alt': name.rsplit('.', 1)[0].replace('_', ' ')})
+                                   'review': item.get('image_reviews', {}).get(name), 'key': name, 'alt': name.rsplit('.', 1)[0].replace('_', ' '),
+                                   'style': content_inset(path) if item['layout'] == 'procedure' and not item.get('keep_margins') else ''})
             if name in item.get('image_annotations', {}):
                 page['images'][-1] = with_callouts(page['images'][-1], content_directory(model) / item['image_annotations'][name], asset,
                                                    label=lambda text: L.text(text, 'diagram accessibility label', number))

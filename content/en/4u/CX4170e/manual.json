@@ -46,13 +46,17 @@
     },
     {
       "id": "exploded-view",
-      "title": "Exploded view",
+      "title": "Exploded assembly & part key",
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
         "_CX4170e.jpg"
       ],
-      "layout": "exploded"
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "_CX4170e.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -324,6 +328,15 @@
       ]
     },
     {
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/4u-rear-fan-bracket.md",
+      "images": [],
+      "layout": "text",
+      "illustration_pending": "Rear fan bracket installation renders pending"
+    },
+    {
       "id": "bay-devices",
       "title": "Fit 5.25-inch devices or filler blanks",
       "section": "03 / COMPONENT INSTALLATION",
@@ -365,7 +378,8 @@
         [
           "E"
         ]
-      ]
+      ],
+      "layout_variant": "wide-visuals"
     },
     {
       "id": "bay-bracket-installation",
@@ -460,7 +474,14 @@
     "width": 17,
     "height": 6.96
   },
-  "missing_assets": [],
+  "missing_assets": [
+    {
+      "id": "M10",
+      "needed": "Rear fan bracket installation renders (one set for every 4U tray); the page shows a placeholder until supplied.",
+      "section": "rear-fan-bracket",
+      "suggested_folder": "illustrations/common/4u-rear-fan-bracket/"
+    }
+  ],
   "cover_description": "17\" DEEP 4U CHASSIS",
   "cover_description_detail": "2 × 5.25\" BAYS",
   "cover_format": "landscape"

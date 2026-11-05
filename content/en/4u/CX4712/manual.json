@@ -44,6 +44,14 @@
       "layout": "contents"
     },
     {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [],
+      "layout": "exploded"
+    },
+    {
       "id": "dimensions",
       "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
@@ -181,6 +189,15 @@
       ],
       "layout": "procedure",
       "layout_variant": "stacked"
+    },
+    {
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/tray-removal.md",
+      "images": [],
+      "layout": "text",
+      "illustration_pending": "Motherboard-tray removal renders pending"
     },
     {
       "id": "rack-ears",
@@ -376,6 +393,15 @@
       ]
     },
     {
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/4u-rear-fan-bracket.md",
+      "images": [],
+      "layout": "text",
+      "illustration_pending": "Rear fan bracket installation renders pending"
+    },
+    {
       "id": "front-ssd-installation",
       "title": "Install SSDs behind the front I/O",
       "section": "03 / COMPONENT INSTALLATION",
@@ -432,7 +458,8 @@
         [
           "E"
         ]
-      ]
+      ],
+      "layout_variant": "wide-visuals"
     },
     {
       "id": "bay-bracket-installation",
@@ -491,6 +518,15 @@
       ]
     },
     {
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "section": "04 / REASSEMBLY",
+      "source": "../../shared/rackmount/tray-installation.md",
+      "images": [],
+      "layout": "text",
+      "illustration_pending": "Motherboard-tray reinstallation renders pending"
+    },
+    {
       "id": "cable-management",
       "title": "Route cables & close the chassis",
       "section": "04 / REASSEMBLY",
@@ -538,10 +574,6 @@
       "layout": "text"
     }
   ],
-  "omitted_pages": [
-    "tray-removal",
-    "tray-installation"
-  ],
   "nominal_dimensions_in": {
     "depth": 25,
     "width": 17,
@@ -559,6 +591,12 @@
       "needed": "Motherboard tray removal and reinstallation renders (as CX4713 5a–5f); the CX4712 tray is removable. The tray pages are omitted until supplied.",
       "section": "tray-removal",
       "suggested_folder": "illustrations/4u/CX4712/"
+    },
+    {
+      "id": "M10",
+      "needed": "Rear fan bracket installation renders (one set for every 4U tray); the page shows a placeholder until supplied.",
+      "section": "rear-fan-bracket",
+      "suggested_folder": "illustrations/common/4u-rear-fan-bracket/"
     }
   ],
   "cover_description": "25\" DEEP 4U CHASSIS",

@@ -64,8 +64,16 @@ Confirmed 2026-11-04:
 |  | CX3702 | Exploded view. Optional: NAS front-panel render (the shared 3U "a" front drawing is used); locked-HDD render (the CX3701 one is used) | Exploded view omitted |
 |  | CX4170a | Optional: external side/front dimension profiles. CRPS installation will be covered in a separate manual | None (optional) |
 |  | CX4200f | Optional: the push-pull assembly installed in the three-bay CX4200f (the page shows the radiator-and-fan assembly only, CX4150e render) | None (optional) |
-|  | CX4712 | Exploded view; motherboard-tray removal and reinstallation renders (as CX4713 5a–5f; the tray is removable) | Exploded view and tray pages omitted |
-|  | CX4713 | Exploded view; product render | Exploded view omitted |
+|  | CX4150e | Optional: higher-resolution front-panel image for the front-ports page (`CX4150e.jpg` is 1688 px wide) | None (optional) |
+|  | CX4150i | Optional: higher-resolution front-panel image for the front-ports page (`CX4150i.jpg` is 1688 px wide) | None (optional) |
+|  | CX4712 | Exploded view; motherboard-tray removal and reinstallation renders (as CX4713 5a–5f; the tray is removable) | Grey placeholders on the exploded-view and tray pages |
+|  | CX4713 | Exploded view; product render | Grey placeholder on the exploded-view page |
+
+## 4U rear fan bracket
+
+| Done | Model | Needed | Effect until supplied |
+|---|---|---|---|
+|  | Every 4U manual (CX4150a/e/i, CX4170a/e/i, CX4200a/e/f/i, CX4712, CX4713) | One set of rear fan bracket installation renders: fan on the bracket, bracket fitted over the I/O shield. The same steps apply to every 4U tray (the CX415 tray is shallower than the CX417/CX420 trays), so one set serves all; put it in `illustrations/common/4u-rear-fan-bracket/` | The rear fan bracket page shows a grey placeholder |
 
 ## Cable management (not blocking V1)
 

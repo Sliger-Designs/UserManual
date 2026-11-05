@@ -1,0 +1,89 @@
+{
+  "asset_key": "CX4200e.jpg",
+  "source_sha256": "ff9f9f4c69fcb217d6b483b8d66ff712de4555f36a7c2044504e09a16aee8cfd",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.4991119005328597,
+  "view_box": [
+    0.06,
+    0.16,
+    0.9,
+    0.66
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Assembly callouts placed on the CX4200e exploded view (2026-11-05); review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.52,
+        0.34
+      ],
+      "badge": [
+        0.412,
+        0.193
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.21,
+        0.6
+      ],
+      "badge": [
+        0.096,
+        0.679
+      ]
+    },
+    {
+      "number": 3,
+      "label": "5.25-inch bay bracket",
+      "target": [
+        0.44,
+        0.57
+      ],
+      "badge": [
+        0.44,
+        0.787
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Front I/O assembly",
+      "target": [
+        0.44,
+        0.69
+      ],
+      "badge": [
+        0.503,
+        0.787
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Chassis wrap with rack-ear flanges",
+      "target": [
+        0.66,
+        0.58
+      ],
+      "badge": [
+        0.66,
+        0.787
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Removable motherboard tray",
+      "target": [
+        0.84,
+        0.5
+      ],
+      "badge": [
+        0.924,
+        0.421
+      ]
+    }
+  ]
+}
