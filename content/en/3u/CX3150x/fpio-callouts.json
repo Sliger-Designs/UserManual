@@ -1,0 +1,59 @@
+{
+  "asset_key": "_CX3150x_FRONT.tif",
+  "source_sha256": "b3832bf397c72dee8999b3c0170c03b056041e39d3f967e7f1e3c044a23c9996",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 2.0002642007926026,
+  "view_box": [
+    0.07,
+    0.37,
+    0.16,
+    0.35
+  ],
+  "badge_radius_height_fraction": 0.012,
+  "font_size_height_fraction": 0.016,
+  "review_status": "Positions measured on the CX3150x front render; review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Power switch and status light",
+      "target": [
+        0.1176,
+        0.679
+      ],
+      "badge": [
+        0.2,
+        0.679
+      ]
+    },
+    {
+      "number": 2,
+      "label": "USB Type-A ports",
+      "targets": [
+        [
+          0.1176,
+          0.472
+        ],
+        [
+          0.1176,
+          0.535
+        ]
+      ],
+      "badge": [
+        0.2,
+        0.504
+      ]
+    },
+    {
+      "number": 3,
+      "label": "USB Type-C",
+      "target": [
+        0.1176,
+        0.4086
+      ],
+      "badge": [
+        0.2,
+        0.409
+      ]
+    }
+  ]
+}

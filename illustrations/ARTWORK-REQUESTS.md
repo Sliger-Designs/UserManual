@@ -21,6 +21,8 @@ Confirmed 2026-11-04:
 - The CX3701 and CX3702 do not use motherboard standoffs. Of their successors (website concepts),
   the CX3150n (CX3701 "v2") uses no standoffs and the CX3180n (CX3702 "v2") uses standoffs.
 - The CX3151i I/O-shield step uses the CX3151a or CX3151x render.
+- Push-pull is not officially supported on the CX3150a (360 mm, six fans) or the CX3150i and
+  CX3150x (240 mm, four fans), so no push-pull renders are requested for them.
 - The CX4150e, CX4170e and CX4200e use the same 5.25-inch bay bracket; their bay-device steps
   share the CX4150e bracket renders (`illustrations/common/4u-bay-bracket/`).
 
@@ -28,6 +30,8 @@ Confirmed 2026-11-04:
 
 | Model | Needed | Effect until supplied |
 |---|---|---|
+| CX3150i | Exploded view. Optional: filler-blank HDD (4g) and bay-bracket-top HDD (4k) renders with green E screws; they show purple and blue D screws, while the text specifies E (2026-11-05) | Exploded view omitted; the two HDD steps show the supplied screw colours |
+| CX3150x | Exploded view. Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3150x folder) | Exploded view omitted |
 | CX4150a | Exploded view | Exploded-view page omitted |
 | CX4150e | Exploded view; push-pull renders (240 mm radiator, four fans) | Exploded view omitted; push-pull page is text only |
 | CX4150i | Exploded view; push-pull renders (360 mm radiator, six fans) | Exploded view omitted; push-pull page is text only |
@@ -48,7 +52,6 @@ sibling to borrow shared steps from; each reuse is confirmed when that family is
 
 | Model | Have | Needed | Possible source for shared steps |
 |---|---|---|---|
-| CX3150i, CX3150x | 66 / 50 | Push-pull renders | |
 | CX3151a | 59 | Exploded view | |
 | CX3151i | 59 | Push-pull renders; exploded view | I/O shield from CX3151a/x (confirmed) |
 | CX3152a | 6 | Installation steps | CX3152i |

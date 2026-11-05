@@ -12,7 +12,7 @@
 | Front I/O | Two USB 3.0 Type-A; one USB 3.2 Type-C 10 Gbps; 16 mm power switch with status light |
 | Expansion | Eight full-height PCIe slots |
 | GPU/card height | Up to {{ facts.gpu_height_max_mm }} mm, including power connectors |
-| Storage | One 2.5-inch SSD, up to 15 mm thick |
+| Storage | {{ facts.ssd_2_5_max }} × 2.5-inch mounting locations on the motherboard tray: two SSDs up to 7 mm thick, or one up to 15 mm |
 
 ### GPU length by cooling configuration
 
@@ -22,6 +22,4 @@
 | Three 25 mm front fans | {{ facts.gpu_length_fans_only_mm }} mm |
 | Asetek 360 mm AIO with three 25 mm front fans | {{ facts.gpu_length_fans_aio_mm }} mm |
 
-**Six-fan push-pull is officially unsupported.** Other radiator and fan combinations require a clearance check.
-
-Mounting locations describe available positions; not every position or component combination can be used simultaneously.
+<p class="info-note" role="note">Radiator thickness, fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. Six-fan push-pull is not officially supported; other radiator and fan combinations require a clearance check. Not every mounting location can be used at the same time.</p>

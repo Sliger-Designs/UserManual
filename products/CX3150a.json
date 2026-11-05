@@ -79,13 +79,16 @@
       "raw": ""
     },
     "ssd_2_5_max": {
-      "value": 1,
-      "source": {
-        "id": "compatibility",
-        "record": 46,
-        "column": "Internal 2.5 SSD (Max)"
+      "value": 2,
+      "configuration": {
+        "motherboard_tray": 2
       },
-      "raw": "1"
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3150-storage-and-cooling.md"
+      },
+      "note": "Two SSDs up to 7 mm thick, or one up to 15 mm, on the motherboard tray (all 15-inch 3U trays)."
     },
     "hdd_3_5_max": {
       "value": null,

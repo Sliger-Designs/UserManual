@@ -1,0 +1,912 @@
+{
+  "schema_version": 1,
+  "model": "CX3150x",
+  "items": [
+    {
+      "id": "cx3150x-ed8339952a5d",
+      "original_filename": "10a_CX3150x_DRIVE BRACKET INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150x/10a_CX3150x_DRIVE BRACKET INSTALL.jpg",
+      "width_px": 5817,
+      "height_px": 4155,
+      "format": "JPEG",
+      "size_bytes": 2237402,
+      "sha256": "76f3e1e17e3759a2164b0b171e9e7e7b3f556b52d98ef069c75aa7c3943df453",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/10a_CX3150x_DRIVE BRACKET INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-92ab1971bd49",
+      "original_filename": "10b_CX3150x_DRIVE BRACKET INSTALL 018a.jpg",
+      "local_path": "illustrations/3u/CX3150x/10b_CX3150x_DRIVE BRACKET INSTALL 018a.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1446894,
+      "sha256": "874facbc556363d9a8bb319503bba828beac5fcb57145f963a50740fa8338dd4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/10b_CX3150x_DRIVE BRACKET INSTALL 018a-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-4f002d0d898f",
+      "original_filename": "11a_CX3150x_RACK EARS.jpg",
+      "local_path": "illustrations/3u/CX3150x/11a_CX3150x_RACK EARS.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1229289,
+      "sha256": "3b827ffc1aa417ce5fcde87906d5235d450572bc4dc5e7e7a25afc292276fade",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/11a_CX3150x_RACK EARS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-b8966cfa33ef",
+      "original_filename": "12.jpg",
+      "local_path": "illustrations/3u/CX3150x/12.jpg",
+      "width_px": 5999,
+      "height_px": 2718,
+      "format": "JPEG",
+      "size_bytes": 2214802,
+      "sha256": "6163a054af6289de9a7e16551d2212fe5dbdb67524f0eab05b3e1f3a6a279da1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-7cd1a7546b4e",
+      "original_filename": "12_CX3150x_FULLY ASSEMBLED.jpg",
+      "local_path": "illustrations/3u/CX3150x/12_CX3150x_FULLY ASSEMBLED.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 876648,
+      "sha256": "2b5f42b6796e03768a7afa69be359a665ca41d5031e3c1035b13bcf5e2d361b1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-f73122a5d9fc",
+      "original_filename": "13.jpg",
+      "local_path": "illustrations/3u/CX3150x/13.jpg",
+      "width_px": 5999,
+      "height_px": 2718,
+      "format": "JPEG",
+      "size_bytes": 1805552,
+      "sha256": "1013e9786be65a865417674049538b84f50fbcbe3d986f7f844c05cef32f5388",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-a0547a2e15db",
+      "original_filename": "13a_CX3150x_TRAY USCREW.jpg",
+      "local_path": "illustrations/3u/CX3150x/13a_CX3150x_TRAY USCREW.jpg",
+      "width_px": 4377,
+      "height_px": 3126,
+      "format": "JPEG",
+      "size_bytes": 897711,
+      "sha256": "1250272f21387e9a46d70b38091da4b16c94c684e41a28eb05908097ce987613",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/13a_CX3150x_TRAY USCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-0d9a06d27808",
+      "original_filename": "13b_CX3150x_TRAY SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3150x/13b_CX3150x_TRAY SLIDE BACK.jpg",
+      "width_px": 4782,
+      "height_px": 3416,
+      "format": "JPEG",
+      "size_bytes": 1063610,
+      "sha256": "abdbb24253e4beddd77e88df5ae88510171a45e6c5c730e7eee8147ee3bd8ceb",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/13b_CX3150x_TRAY SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-60106cd8255d",
+      "original_filename": "13c_CX3150x_TRAY REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3150x/13c_CX3150x_TRAY REMOVE.jpg",
+      "width_px": 4782,
+      "height_px": 3416,
+      "format": "JPEG",
+      "size_bytes": 1177104,
+      "sha256": "e46791b2db38bc68e68e68dbf4e46d62ce50b5c7ff3f1cc563e40ff7c26add91",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/13c_CX3150x_TRAY REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-176ed5b98fb8",
+      "original_filename": "13d_CX3150x_TRAY INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150x/13d_CX3150x_TRAY INSTALL.jpg",
+      "width_px": 4782,
+      "height_px": 3416,
+      "format": "JPEG",
+      "size_bytes": 1420256,
+      "sha256": "38efe29772e7a24088eaef435256488b307b31d31fbe3ae02d2d06bba92605dc",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/13d_CX3150x_TRAY INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-c36dd31f7088",
+      "original_filename": "13e_CX3150x_TRAY INSTALL 2.jpg",
+      "local_path": "illustrations/3u/CX3150x/13e_CX3150x_TRAY INSTALL 2.jpg",
+      "width_px": 3926,
+      "height_px": 2804,
+      "format": "JPEG",
+      "size_bytes": 962635,
+      "sha256": "e646d9b038074b8b5b4ecefd6ec1b90731647c9bc013a739c131da77c9dd8ff4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/13e_CX3150x_TRAY INSTALL 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-9ae9bfb39a2e",
+      "original_filename": "13f_CX3150x_TRAY INSTALL 3.jpg",
+      "local_path": "illustrations/3u/CX3150x/13f_CX3150x_TRAY INSTALL 3.jpg",
+      "width_px": 3035,
+      "height_px": 2167,
+      "format": "JPEG",
+      "size_bytes": 679071,
+      "sha256": "ab1dbfee3eb21cf10bc820e085203324322a26c32728a6725cb9092624b119e1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/13f_CX3150x_TRAY INSTALL 3-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-49957f535f9c",
+      "original_filename": "14.jpg",
+      "local_path": "illustrations/3u/CX3150x/14.jpg",
+      "width_px": 5999,
+      "height_px": 2718,
+      "format": "JPEG",
+      "size_bytes": 1300500,
+      "sha256": "724997fbb24a8b579c28917ef276caa773eb2ef21115811b58cdf5f59a337f41",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-02aae6cdb450",
+      "original_filename": "1a_CX3150x_LID UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3150x/1a_CX3150x_LID UNSCREW.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 684017,
+      "sha256": "e76f14b7d5333c3ac411e8010796022ac79e0dbcfcd9d086aaf0359e6ec49ac5",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/1a_CX3150x_LID UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-cfa45fefd0a1",
+      "original_filename": "1b_CX3150x_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3150x/1b_CX3150x_LID SLIDE BACK.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 552964,
+      "sha256": "d40d96460f2dbe332c6ce89c0ff71f0c37b7323baf8b325f1c10345e63733696",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/1b_CX3150x_LID SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-51a947fbd40f",
+      "original_filename": "1c_CX3150x_LID REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3150x/1c_CX3150x_LID REMOVE.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1320535,
+      "sha256": "de9e81563faab57ffe761eb7c3287fdb236de9faad08e86aac902533fae7a439",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/1c_CX3150x_LID REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-11f970b58c7d",
+      "original_filename": "2a_CX3150x_FACEPLATE REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3150x/2a_CX3150x_FACEPLATE REMOVE.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1953452,
+      "sha256": "ce453db88cdb221c434fe3cc3999ad17b3d85eb61d506e435208ec2a7aeae33a",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/2a_CX3150x_FACEPLATE REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-4637329b6045",
+      "original_filename": "3a_CX3150x_FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150x/3a_CX3150x_FAN INSTALL.jpg",
+      "width_px": 5817,
+      "height_px": 4155,
+      "format": "JPEG",
+      "size_bytes": 1595183,
+      "sha256": "9a6454769e8993d4e24bea4dd0e85156233e36decd7cf40105e62b211cb90598",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/3a_CX3150x_FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-8a080dfcf92c",
+      "original_filename": "3b_CX3150x_FAN INSTALL PRECOOLER.jpg",
+      "local_path": "illustrations/3u/CX3150x/3b_CX3150x_FAN INSTALL PRECOOLER.jpg",
+      "width_px": 5817,
+      "height_px": 4155,
+      "format": "JPEG",
+      "size_bytes": 1420903,
+      "sha256": "329fddfa4be8d6661b300bc7d2203d20d2e16103339378751454206158c6146d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/3b_CX3150x_FAN INSTALL PRECOOLER-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-f528dd66bb61",
+      "original_filename": "3c_CX3150x_AIO + FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150x/3c_CX3150x_AIO + FAN INSTALL.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1478624,
+      "sha256": "14b43e57f96ffc5746f43a9f72cebaa9929994534eca4ce69f480880fcf80bfd",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/3c_CX3150x_AIO + FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-d77433a5f541",
+      "original_filename": "4a_CX3150x_DRIVE BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3150x/4a_CX3150x_DRIVE BRACKET UNSCREW.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1514615,
+      "sha256": "7b741e581e31f7184c0f811c3215bddada22fb506c48274a3b24f06fd70dc94e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/4a_CX3150x_DRIVE BRACKET UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-c8120c46f3df",
+      "original_filename": "4b_CX3150x_DRIVE BRACKET REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3150x/4b_CX3150x_DRIVE BRACKET REMOVE.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1159218,
+      "sha256": "1cd19085348bf6cb46a20f2bc2fa056cf89a9353520543f1fee0cfae98fcde70",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/4b_CX3150x_DRIVE BRACKET REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-7a607bae9cdf",
+      "original_filename": "4c_CX3150x_DRIVE BRACKET (3x 3.5 HDD).jpg",
+      "local_path": "illustrations/3u/CX3150x/4c_CX3150x_DRIVE BRACKET (3x 3.5 HDD).jpg",
+      "width_px": 4351,
+      "height_px": 3108,
+      "format": "JPEG",
+      "size_bytes": 473872,
+      "sha256": "e35912467045facd03e16b907dc22542fa3467559a19f94ac0a44ef437d61375",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/4c_CX3150x_DRIVE BRACKET (3x 3.5 HDD)-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-dc7b4ca7f8f6",
+      "original_filename": "4d_CX3150x_DRIVE BRACKET (3x 2.5 SSD).jpg",
+      "local_path": "illustrations/3u/CX3150x/4d_CX3150x_DRIVE BRACKET (3x 2.5 SSD).jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 792868,
+      "sha256": "41f0b6c1442b7cd3bad6620e52194f812e5c5fabf73d470d72e3cfd966df8a56",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/4d_CX3150x_DRIVE BRACKET (3x 2.5 SSD)-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-584daeb4382d",
+      "original_filename": "5a_CX3150x_STANDOFF INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150x/5a_CX3150x_STANDOFF INSTALL.jpg",
+      "width_px": 5780,
+      "height_px": 4128,
+      "format": "JPEG",
+      "size_bytes": 1544175,
+      "sha256": "3cba100ac1981f6fd11c1e6d4d4c4429bbacfad70007858b723686292bae72a4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/5a_CX3150x_STANDOFF INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-dc95be7e096c",
+      "original_filename": "5b_CX3150x_STANDOFF INSTALL 180.jpg",
+      "local_path": "illustrations/3u/CX3150x/5b_CX3150x_STANDOFF INSTALL 180.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1666039,
+      "sha256": "3faa3544d97b48c2bbd313875c34dfb5dccd575a1e7a632c602711d77fce899e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-864e063054c7",
+      "original_filename": "5c_CX3150x_STANDOFF INSTALLED.jpg",
+      "local_path": "illustrations/3u/CX3150x/5c_CX3150x_STANDOFF INSTALLED.jpg",
+      "width_px": 5817,
+      "height_px": 4155,
+      "format": "JPEG",
+      "size_bytes": 1485071,
+      "sha256": "11f7f6bc66154dba82746651d7c65b7b342df136e4380b3cbb90790dbaa36ec5",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-2a0c82570903",
+      "original_filename": "6a_CX3150x_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/3u/CX3150x/6a_CX3150x_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1707078,
+      "sha256": "f2f60af23ec536dae7ca59b9deffddd5cefc08e893061212eda62591770ab73b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/6a_CX3150x_MOTHERBOARD IO SHIELD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-e870b138142a",
+      "original_filename": "6b_CX3150x_MOTHERBOARD.bmp",
+      "local_path": "illustrations/3u/CX3150x/6b_CX3150x_MOTHERBOARD.bmp",
+      "width_px": 4434,
+      "height_px": 3167,
+      "format": "BMP",
+      "size_bytes": 56169966,
+      "sha256": "31e18f5d115d1dbd464aa04438264c0d42208c9d4c91698aaf9f6effd45022b3",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/6b_CX3150x_MOTHERBOARD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-47bdb46b624d",
+      "original_filename": "7_CX3150x_PSU.jpg",
+      "local_path": "illustrations/3u/CX3150x/7_CX3150x_PSU.jpg",
+      "width_px": 5817,
+      "height_px": 4155,
+      "format": "JPEG",
+      "size_bytes": 1844600,
+      "sha256": "d8c6ed6ee8b06f6fa3c53c726a2ad734284f1d7054b214ae2b065b1244d63504",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/7_CX3150x_PSU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-b202a0ca32c3",
+      "original_filename": "8_CX3150x_SSD.jpg",
+      "local_path": "illustrations/3u/CX3150x/8_CX3150x_SSD.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1518751,
+      "sha256": "a401d4dfec81ac8fbebac069a0c24789d21d64ef12449435a96a8a8b5fb3d240",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/8_CX3150x_SSD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-0d3a91679126",
+      "original_filename": "9_CX3150x_GPU.jpg",
+      "local_path": "illustrations/3u/CX3150x/9_CX3150x_GPU.jpg",
+      "width_px": 4377,
+      "height_px": 3126,
+      "format": "JPEG",
+      "size_bytes": 1431979,
+      "sha256": "aa3129cd5ca0278c39d51807275acfe9c2dcae1c5fdd071ff73dfbf6a964098b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/9_CX3150x_GPU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-2a6d55f981ac",
+      "original_filename": "OVERVIEW 1.jpg",
+      "local_path": "illustrations/3u/CX3150x/OVERVIEW 1.jpg",
+      "width_px": 3153,
+      "height_px": 2315,
+      "format": "JPEG",
+      "size_bytes": 2002167,
+      "sha256": "4d9c4678a04792a39041f6a0a170d0d993d867841a734c2fecc66f329dce1b39",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-02acd03f01b2",
+      "original_filename": "OVERVIEW 2.jpg",
+      "local_path": "illustrations/3u/CX3150x/OVERVIEW 2.jpg",
+      "width_px": 3162,
+      "height_px": 2289,
+      "format": "JPEG",
+      "size_bytes": 2132599,
+      "sha256": "72335ffc4be6f4e04ad78281188a6964c2d0c513e07ad5afa37118b7ee6f9408",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-8d9d54183207",
+      "original_filename": "OVERVIEW 3.jpg",
+      "local_path": "illustrations/3u/CX3150x/OVERVIEW 3.jpg",
+      "width_px": 3162,
+      "height_px": 2289,
+      "format": "JPEG",
+      "size_bytes": 2055160,
+      "sha256": "134baafdef2da73525326548d52789b2e76ffa8d6d493aa19dfc170dec8bcbca",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-906922d4b07e",
+      "original_filename": "OVERVIEW 4.jpg",
+      "local_path": "illustrations/3u/CX3150x/OVERVIEW 4.jpg",
+      "width_px": 3153,
+      "height_px": 2316,
+      "format": "JPEG",
+      "size_bytes": 1958744,
+      "sha256": "ee60b3e241fd09f0f9ebe62757c0a44e1417d8928c38e5608b212afabf0294d1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-bbef19a11c86",
+      "original_filename": "OVERVIEW 5.jpg",
+      "local_path": "illustrations/3u/CX3150x/OVERVIEW 5.jpg",
+      "width_px": 2896,
+      "height_px": 2432,
+      "format": "JPEG",
+      "size_bytes": 1432103,
+      "sha256": "9b6a7f2bda5df487c4bc36913992742ef2fa4cabd3a8dfabc583c3ad20441029",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-ec40be5ea471",
+      "original_filename": "OVERVIEW 6.jpg",
+      "local_path": "illustrations/3u/CX3150x/OVERVIEW 6.jpg",
+      "width_px": 3034,
+      "height_px": 2289,
+      "format": "JPEG",
+      "size_bytes": 2295580,
+      "sha256": "ef8f70d844e771b8bba2870ee690dc96057d65f4837130456fd136c3df9e574a",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-250ae8ef5875",
+      "original_filename": "OVERVIEW 7.jpg",
+      "local_path": "illustrations/3u/CX3150x/OVERVIEW 7.jpg",
+      "width_px": 3728,
+      "height_px": 3653,
+      "format": "JPEG",
+      "size_bytes": 2720377,
+      "sha256": "c8cbb4829e67af360b9522fe80a916a109e2559658df7e5f36c653496ea0c288",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-f659f7a9d188",
+      "original_filename": "OVERVIEW 8.jpg",
+      "local_path": "illustrations/3u/CX3150x/OVERVIEW 8.jpg",
+      "width_px": 3728,
+      "height_px": 3653,
+      "format": "JPEG",
+      "size_bytes": 2895431,
+      "sha256": "edf438a4fde3d3389e58bc77b342ee5f93e6b9401a24b61c8692098830914f55",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-cea6abf87908",
+      "original_filename": "_CX3150a_rendering.jpg",
+      "local_path": "illustrations/3u/CX3150x/_CX3150a_rendering.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 950610,
+      "sha256": "2ff457ef907ee773b68d307a8d59af1c3cadec5222d36ffc8e28e022b6a0ab08",
+      "selection_status": "candidate",
+      "note": "Supplied in the CX3150x folder under a CX3150a file name; shows the CX3150x front (I/O at the left, as in _CX3150x_FRONT.tif). Used as the CX3150x cover render.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/_CX3150a_rendering-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-e7a965325dd8",
+      "original_filename": "_CX3150x.jpg",
+      "local_path": "illustrations/3u/CX3150x/_CX3150x.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 423679,
+      "sha256": "2ecbba5bb7495db6b1fab87155c3b371a44edf33eac84e1f0b46b13c7b763be3",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-6098aaad602e",
+      "original_filename": "_CX3150x_ADVANCED_FRONT VIEW.jpg",
+      "local_path": "illustrations/3u/CX3150x/_CX3150x_ADVANCED_FRONT VIEW.jpg",
+      "width_px": 4723,
+      "height_px": 3373,
+      "format": "JPEG",
+      "size_bytes": 897142,
+      "sha256": "8e85fc41c0b3cc8ee4ed34900c80ac9876f125512067d4f91678645e1d22b4ef",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/_CX3150x_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-40a0553ef6ef",
+      "original_filename": "_CX3150x_ADVANCED_TOP VIEW.jpg",
+      "local_path": "illustrations/3u/CX3150x/_CX3150x_ADVANCED_TOP VIEW.jpg",
+      "width_px": 5142,
+      "height_px": 3673,
+      "format": "JPEG",
+      "size_bytes": 1235427,
+      "sha256": "b61c8b54d9147db3aa3578486cc07e0e246969527627ed1f4f96ac1a6b47ff36",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/_CX3150x_ADVANCED_TOP VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-36f1082f868f",
+      "original_filename": "_CX3150x_CORNER 180.jpg",
+      "local_path": "illustrations/3u/CX3150x/_CX3150x_CORNER 180.jpg",
+      "width_px": 3513,
+      "height_px": 2510,
+      "format": "JPEG",
+      "size_bytes": 1030147,
+      "sha256": "a471589f28827df7da6efbfce06ad4e6bad186e15691f55f559f705e99dea42d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-78ec983bc78d",
+      "original_filename": "_CX3150x_CORNER.jpg",
+      "local_path": "illustrations/3u/CX3150x/_CX3150x_CORNER.jpg",
+      "width_px": 3615,
+      "height_px": 2582,
+      "format": "JPEG",
+      "size_bytes": 1106880,
+      "sha256": "7850809c0860e4456e90e33c022803dc863ff4f120febc1e66b9bb98d3f0761b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3150x-b4915deb6212",
+      "original_filename": "_CX3150x_FRONT.tif",
+      "local_path": "illustrations/3u/CX3150x/_CX3150x_FRONT.tif",
+      "width_px": 7571,
+      "height_px": 3785,
+      "format": "TIFF",
+      "size_bytes": 5569774,
+      "sha256": "b3832bf397c72dee8999b3c0170c03b056041e39d3f967e7f1e3c044a23c9996",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/_CX3150x_FRONT-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-2ceea90600b5",
+      "original_filename": "_CX3150x_REAR.tif",
+      "local_path": "illustrations/3u/CX3150x/_CX3150x_REAR.tif",
+      "width_px": 6676,
+      "height_px": 3338,
+      "format": "TIFF",
+      "size_bytes": 2376486,
+      "sha256": "048ed7940783a0843851dacbd8c821e81a701eab2a2909349ced7f6c6145ee3d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    }
+  ]
+}

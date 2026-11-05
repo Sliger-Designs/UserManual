@@ -12,7 +12,7 @@ from PIL import Image
 
 from manual_paths import MODEL_CATEGORIES, ROOT
 
-IMAGE_SUFFIXES = {'.jpg', '.jpeg', '.png', '.tif', '.tiff', '.webp'}
+IMAGE_SUFFIXES = {'.jpg', '.jpeg', '.png', '.tif', '.tiff', '.webp', '.bmp'}
 Image.MAX_IMAGE_PIXELS = None  # Trusted CAD renders exceed Pillow's decompression-bomb default.
 
 

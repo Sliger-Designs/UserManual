@@ -14,4 +14,4 @@ Use screws specified by the cooler manufacturer. Pass them through the panel and
 
 An Asetek 360 mm AIO with three 25 mm front fans permits a GPU up to **{{ facts.gpu_length_fans_aio_mm }} mm** long.
 
-**Six-fan push-pull is officially unsupported.**
+<p class="info-note" role="note">Six-fan push-pull is not officially supported.</p>
