@@ -979,5 +979,193 @@
       },
       "note": "Drive bracket; with HDDs fitted it holds 2 HDD + 3 SSD, 1 HDD + 5 SSD, or 3 HDD."
     }
+  },
+  "CX3151a": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches, as approved for the CX3150a. The separate 13-inch flag does not apply."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 324,
+      "configuration": {
+        "front_fan_count": 3,
+        "fan_thickness_mm": 25
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "324 mm (import CSV and website) chosen over the compatibility CSV 325 mm."
+    },
+    "aio_360": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import CSV and website list a 360 mm radiator."
+    },
+    "aio_360_six_fan_push_pull_supported": {
+      "value": false,
+      "configuration": {
+        "radiator_size_mm": 360,
+        "fan_count": 6,
+        "arrangement": "push-pull"
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-05-CX3150-storage-and-cooling.md"
+      },
+      "note": "Officially unsupported. Do not publish the 270 mm source candidate as a supported GPU clearance."
+    },
+    "ssd_2_5_max": {
+      "value": 2,
+      "configuration": {
+        "motherboard_tray": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3151-family.md"
+      },
+      "note": "Two SSDs up to 7 mm thick, or one up to 15 mm, on the motherboard tray. Replaces the spec review's 1."
+    }
+  },
+  "CX3151i": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches, as approved for the CX3150a. The separate 13-inch flag does not apply."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 324,
+      "configuration": {
+        "front_fan_count": 2,
+        "fan_thickness_mm": 25
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "324 mm (import CSV and website) chosen over the compatibility CSV 325 mm."
+    },
+    "aio_240_four_fan_push_pull_supported": {
+      "value": false,
+      "configuration": {
+        "radiator_size_mm": 240,
+        "fan_count": 4,
+        "arrangement": "push-pull"
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-05-CX3150-storage-and-cooling.md"
+      },
+      "note": "Officially unsupported."
+    },
+    "ssd_2_5_max": {
+      "value": 9,
+      "configuration": {
+        "motherboard_tray": 2,
+        "bay_filler_blank": 4,
+        "bay_bracket_top": 2,
+        "under_bay_bracket": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3151-family.md"
+      },
+      "note": "Total mounting locations; not all usable at once. Replaces the spec review's 2."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "bay_filler_blank": 1,
+        "bay_bracket_top": 1
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3151-family.md"
+      },
+      "note": "Total mounting locations."
+    }
+  },
+  "CX3151x": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches, as approved for the CX3150a. The separate 13-inch flag does not apply."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 324,
+      "configuration": {
+        "front_fan_count": 2,
+        "fan_thickness_mm": 25
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "324 mm (import CSV and website) chosen over the compatibility CSV 325 mm."
+    },
+    "aio_240_four_fan_push_pull_supported": {
+      "value": false,
+      "configuration": {
+        "radiator_size_mm": 240,
+        "fan_count": 4,
+        "arrangement": "push-pull"
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-05-CX3150-storage-and-cooling.md"
+      },
+      "note": "Officially unsupported."
+    },
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "drive_bracket": 8
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3151-family.md"
+      },
+      "note": "Total mounting locations; not all usable at once. Replaces the spec review's 8."
+    }
   }
 }

@@ -988,5 +988,53 @@
       ],
       "full_resolution_sha256": "0003218ddada2d6f5c8ef37feeb530eaab5a78e6501a2f86834d74330d894f4c"
     }
+  },
+  "common/hardware/CX3151_GPUBraces.jpg": {
+    "path": "illustrations/published/common/common-09ec17f7c576.jpg",
+    "source_path": "illustrations/common/hardware/CX3151_GPUBraces.jpg",
+    "source_sha256": "cfc69e2a98759c0a10fc7e23a1380d55e45a08bff6c0bfad8069c643e4d4eb87",
+    "sha256": "6e5f0e18bc7a2d4605c8156b26bd2b2975018575eaf6fecfdac56dd4674b4f6c",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PPH 632 x 1 (217-349)_SIDE.jpg": {
+    "path": "illustrations/published/common/common-a37e1c71ea66.jpg",
+    "source_path": "illustrations/common/hardware/MS PPH 632 x 1 (217-349)_SIDE.jpg",
+    "source_sha256": "04e9e84f26a0962b2edb8f97a79b153c9d1759c19da2363a20378393074c0b57",
+    "sha256": "2efc977a705a4dd2b466d4cf23d7800859aa57f998a48137de02437f58c5ec29",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PPH 632 x 1 (217-349)_TEAL.jpg": {
+    "path": "illustrations/published/common/common-ee97bb82a4ab.jpg",
+    "source_path": "illustrations/common/hardware/MS PPH 632 x 1 (217-349)_TEAL.jpg",
+    "source_sha256": "3a2a65534079b73a1c1c6b78b11c243c86bdcb28422712b78d5bd403db6a1b18",
+    "sha256": "1bafd858d9ca71d2f2323e6d036f0fde75c7856f621142954ba9202cce3d990a",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/MS PPH 632 x 1 (217-349)_TOP.jpg": {
+    "path": "illustrations/published/common/common-ccf27eeae00c.jpg",
+    "source_path": "illustrations/common/hardware/MS PPH 632 x 1 (217-349)_TOP.jpg",
+    "source_sha256": "2c5d5177ef436f82f8186d5fc2e8cd2eb876d27d2f8c9452f518b686427c5f89",
+    "sha256": "4fdbb2bccd8b2e734b65a39530c1707ca71f8ce5d3e343fcda8d8874251aade8",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

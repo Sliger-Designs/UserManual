@@ -33,7 +33,7 @@
  <nav aria-label="{{ t('Table of contents', 'contents accessibility label', page_number) }}">{% for item in pages[2:] %}<a href="#{{ item.id }}"><span>{{ item.title }}</span><b>{{ loop.index + 2 }}</b></a>{% endfor %}</nav>
  {% elif page.layout == 'hardware-key' %}
  <div class="catalog-intro">{{ page.html.split('</p>', 1)[0] }}</p></div>
- <div class="key-grid{% if manual.family|default('') == 'sff' %} key-grid-sff{% endif %}" style="--hardware-rows:{{ ((page.hardware_items|length) / 2)|round(0, 'ceil')|int }}">{% for entry in page.hardware_items %}
+ <div class="key-grid{% if manual.family|default('') == 'sff' %} key-grid-sff{% endif %}" style="--hardware-rows:{{ [((page.hardware_items|length) / 2)|round(0, 'ceil')|int, 3]|max }}">{% for entry in page.hardware_items %}
  <article class="key-entry{% if entry.details %} key-entry-details{% endif %}" id="hardware-{{ entry.letter }}">
  <div class="key-copy"><h3><span class="key-letter" data-hardware-color="{{ entry.color|default('neutral') }}">{{ entry.letter }}</span> {{ entry.name }}</h3>
  <p>{% if entry.color is defined %}<strong>{% if entry.color_label is defined %}{{ entry.color_label }}{% else %}{{ t((entry.color|capitalize) ~ '-marked', 'hardware key patch-color label', page_number) }}{% endif %}</strong> · {% endif %}{{ entry.description }}</p></div>

@@ -1,0 +1,461 @@
+{
+  "model": "CX3151a",
+  "language": "en",
+  "language_label": "ENGLISH",
+  "revision": "Prototype 0.1",
+  "status": "Technical review draft",
+  "text_checks": {
+    "required": [
+      "381",
+      "431.8",
+      "132.59",
+      "349 mm",
+      "324 mm",
+      "296 mm",
+      "110 mm",
+      "150 mm",
+      "72 mm",
+      "CX3151-GPUKIT",
+      "tall brace",
+      "short brace",
+      "360 mm",
+      "2 × 2.5-inch"
+    ],
+    "forbidden": [
+      "325 mm",
+      "382",
+      "270 mm",
+      "272 mm",
+      "297 mm",
+      "Eight full-height",
+      "vertical PCIe slot",
+      "drive cage"
+    ]
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "title": "CX3151a",
+      "section": "USER GUIDE",
+      "source": "cover.md",
+      "images": [
+        "_CX3150a_rendering.jpg"
+      ],
+      "layout": "cover"
+    },
+    {
+      "id": "contents",
+      "title": "In this guide",
+      "section": "START HERE",
+      "source": "contents.md",
+      "images": [],
+      "layout": "contents"
+    },
+    {
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "dimensions.md",
+      "images": [
+        "_CX3151a_ADVANCED_TOP VIEW ONE GPU.jpg"
+      ],
+      "layout": "reference-drawing"
+    },
+    {
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "front-clearance.md",
+      "images": [
+        "_CX3151a_ADVANCED_FRONT VIEW ONE GPU.jpg"
+      ],
+      "layout": "reference-drawing"
+    },
+    {
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "specifications.md",
+      "images": [],
+      "layout": "specifications"
+    },
+    {
+      "id": "hardware",
+      "title": "Hardware kit",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/hardware.md",
+      "images": [
+        "common/hardware/YELLOW PATCHED SCREWS.jpg",
+        "common/hardware/RED PATCHED SCREWS.jpg",
+        "common/hardware/BLACK HEX STANDOFFS.jpg",
+        "common/hardware/BLUE PATCHED SCREWS.jpg",
+        "common/hardware/GREEN PATCHED SCREWS.jpg",
+        "common/hardware/M4 THREAD SCREWS.jpg",
+        "common/hardware/slot-covers-reference.png",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_side.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Top.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Side.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_top.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_side.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
+        "common/hardware/3URackEars.jpg",
+        "common/hardware/3UPullHandles.jpg"
+      ],
+      "layout": "hardware-key",
+      "hardware_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ]
+    },
+    {
+      "id": "hardware-gpukit",
+      "title": "GPU support kit",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/hardware-gpukit.md",
+      "images": [
+        "common/hardware/CX3151_GPUBraces.jpg",
+        "common/hardware/MS PPH 632 x 1 (217-349)_TEAL.jpg",
+        "common/hardware/MS PPH 632 x 1 (217-349)_TOP.jpg",
+        "common/hardware/MS PPH 632 x 1 (217-349)_SIDE.jpg"
+      ],
+      "layout": "hardware-key",
+      "hardware_letters": [
+        "J",
+        "K"
+      ],
+      "layout_variant": "key-large"
+    },
+    {
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/front-ports.md",
+      "images": [
+        "common/front-io/CX3U a FPIO.png",
+        "common/front-io/PowerAndLED_greyscale.png",
+        "common/front-io/20pinUSB3_greyscale.png",
+        "common/front-io/TypeEUSBC_greyscale.png"
+      ],
+      "layout": "front-io",
+      "image_annotations": {
+        "common/front-io/CX3U a FPIO.png": "../../shared/rackmount/fpio-3u-a-callouts.json"
+      }
+    },
+    {
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/lid-removal.md",
+      "images": [
+        "1a_CX3151a_LID UNSCREW.jpg",
+        "1b_CX3151a_LID SLIDE BACK.jpg",
+        "1c_CX3151a_LID REMOVE.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/faceplate-removal.md",
+      "images": [
+        "2a_CX3151a_FACEPLATE REMOVE.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/tray-removal.md",
+      "images": [
+        "12a_CX3151a_TRAY UNSCREW.jpg",
+        "12b_CX3151a_TRAY SLIDE BACK.jpg",
+        "12c_CX3151a_TRAY REMOVE.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/rack-ears.md",
+      "images": [
+        "10_CX3151a_RACK EARS.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "F",
+          "H",
+          "I"
+        ]
+      ]
+    },
+    {
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/fan-installation.md",
+      "images": [
+        "3a_CX3151a_FAN INSTALL.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "aio-installation.md",
+      "images": [
+        "3b_CX3151a_FAN INSTALL PRECOOLER.jpg",
+        "3c_CX3151a_AIO + FAN INSTALL.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/motherboard-preparation.md",
+      "images": [
+        "4a_CX3151a_STANDOFF INSTALL.jpg",
+        "5a_CX3151a_MOTHERBOARD IO SHIELD.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "C"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/motherboard-installation.md",
+      "images": [
+        "5b_CX3151a_MOTHERBOARD.bmp"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "C"
+        ]
+      ]
+    },
+    {
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "psu-installation.md",
+      "images": [
+        "6_CX3151a_PSU.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ]
+      ]
+    },
+    {
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/3u-ssd-installation.md",
+      "images": [
+        "7_CX3151a_SSD.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "B"
+        ]
+      ]
+    },
+    {
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/tray-installation.md",
+      "images": [
+        "12d_CX3151a_TRAY INSTALL.jpg",
+        "12e_CX3151a_TRAY INSTALL 2.jpg",
+        "12f_CX3151a_TRAY INSTALL 3.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        [],
+        [
+          "E"
+        ]
+      ]
+    },
+    {
+      "id": "rear-cover-removal",
+      "title": "Remove the rear slot cover",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/riser-rear-cover-removal.md",
+      "images": [
+        "8a_CX3151a_REAR COVER UNSCREW.jpg",
+        "8b_CX3151a_REAR COVER REMOVE 1.jpg",
+        "8c_CX3151a_REAR COVER REMOVE 2.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "gpu-brace",
+      "title": "Fit the GPU support brace",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/riser-gpu-brace.md",
+      "images": [
+        "9a_CX3151a_GPU SUPPORT SCREW REMOVAL V1.jpg",
+        "9b_CX3151a_GPU SUPPORT INSTALL V1.jpg",
+        "9a_CX3151a_GPU SUPPORT SCREW REMOVAL V2.jpg",
+        "9b_CX3151a_GPU SUPPORT INSTALL V2.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [
+          "J",
+          "K"
+        ],
+        [
+          "A"
+        ],
+        [
+          "J",
+          "K"
+        ]
+      ]
+    },
+    {
+      "id": "gpu-installation",
+      "title": "Install the riser GPU",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/riser-gpu-installation.md",
+      "images": [
+        "9c_CX3151a_GPU INSTALL.jpg",
+        "9d_CX3151a_GPU INSTALL REAR.jpg",
+        "9e_CX3151a_COVER.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [],
+        [
+          "A"
+        ],
+        [
+          "A",
+          "G"
+        ]
+      ]
+    },
+    {
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "section": "04 / REASSEMBLY",
+      "source": "cable-management.md",
+      "images": [],
+      "layout": "text"
+    },
+    {
+      "id": "support",
+      "title": "Warranty & support",
+      "section": "05 / REFERENCE",
+      "source": [
+        "../../shared/warranty.md",
+        "../../shared/support.md"
+      ],
+      "images": [],
+      "layout": "reference-columns",
+      "reference_sections": [
+        "4.1",
+        "4.2"
+      ]
+    },
+    {
+      "id": "regulations",
+      "title": "Regulations",
+      "section": "05 / REFERENCE",
+      "source": "../../shared/regulations.md",
+      "images": [
+        "common/icons/RoHScompliant.png",
+        "common/icons/REACHcompliant.png",
+        "common/icons/ResponsibleMineralsInitive.png",
+        "common/icons/MadeInUSA-reference.png"
+      ],
+      "layout": "regulations",
+      "reference_sections": [
+        "4.3"
+      ]
+    },
+    {
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "section": "05 / REFERENCE",
+      "source": "revision-history.md",
+      "images": [],
+      "layout": "text"
+    }
+  ],
+  "nominal_dimensions_in": {
+    "depth": 15,
+    "width": 17,
+    "height": 5.22
+  },
+  "cover_description": "15\" DEEP 3U CHASSIS",
+  "cover_description_detail": "RISER GPU",
+  "cover_format": "landscape",
+  "missing_assets": [
+    {
+      "id": "M01",
+      "needed": "Exploded view of the CX3151a assemblies; the exploded-view page is omitted until supplied.",
+      "section": "exploded-view",
+      "suggested_folder": "illustrations/3u/CX3151a/"
+    }
+  ]
+}
