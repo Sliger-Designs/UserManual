@@ -541,18 +541,7 @@
       "size_bytes": 490405,
       "sha256": "96c0f019694da083254916796493069d22e771bd15527e405ce7b5ad5480cf65",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review.",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150i/4g_CX3150i_BAY FILLER (3.5 HDD)-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
+      "note": "Not used: shows purple screws. The manual uses the identical 4U view common/4u-bay-blank/drive6.1.jpg.jpg (green E), as the 3U and 4U filler blanks are the same part (2026-11-05)."
     },
     {
       "id": "cx3150i-47889c8d5a2d",

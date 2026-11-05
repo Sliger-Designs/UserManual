@@ -12,4 +12,6 @@ Incorrect screw length can damage the radiator. Check that the radiator clears t
 
 With the specified Asetek 240 mm AIO and two 25 mm fans, maximum GPU length is **{{ facts.gpu_length_fans_aio_mm }} mm**. A single 120 mm radiator mounts in the same position. Radiators up to 275 mm long fit.
 
-<p class="info-note" role="note">With a radiator installed, remove the screws marked beside the radiator end in {{ ref('dimensions', 'the top-view drawing') }}. Four-fan push-pull is not officially supported.</p>
+<p class="info-note" role="note"><strong>5.25-inch device screws:</strong> a 240 mm radiator can touch a hex-head screw retaining a device in the bay. Use a countersunk screw in that position, {{ hw('B') }} or {{ hw('E') }} to match the device's thread, or leave it out; see {{ ref('bay-devices', 'Fit 5.25-inch devices or the filler blank') }}.</p>
+
+<p class="info-note" role="note">Four-fan push-pull is not officially supported.</p>

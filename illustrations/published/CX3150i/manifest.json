@@ -666,35 +666,6 @@
       "full_resolution_sha256": "0003218ddada2d6f5c8ef37feeb530eaab5a78e6501a2f86834d74330d894f4c"
     }
   },
-  "4g_CX3150i_BAY FILLER (3.5 HDD).jpg": {
-    "path": "illustrations/published/CX3150i/cx3150i-c60f770babae.jpg",
-    "source_path": "illustrations/3u/CX3150i/4g_CX3150i_BAY FILLER (3.5 HDD).jpg",
-    "source_sha256": "96c0f019694da083254916796493069d22e771bd15527e405ce7b5ad5480cf65",
-    "sha256": "50bc5d93812a29f9aec1777e885c30296decc14de9a995c0765ce8db201aaec5",
-    "dimensions_px": [
-      1800,
-      1286
-    ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 13298539,
-      "total_pixels": 16897536,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3150i/4g_CX3150i_BAY FILLER (3.5 HDD)-white.png",
-      "full_resolution_dimensions_px": [
-        4864,
-        3474
-      ],
-      "full_resolution_sha256": "c9e2bdb5205ed1fcc4b792549a778639282f85c4e7027cafb3cf028998d6c2fd"
-    }
-  },
   "4h_CX3150i_BAY FILLER (4 SLOT BAY DEVICE + SSD).jpg": {
     "path": "illustrations/published/CX3150i/cx3150i-47889c8d5a2d.jpg",
     "source_path": "illustrations/3u/CX3150i/4h_CX3150i_BAY FILLER (4 SLOT BAY DEVICE + SSD).jpg",

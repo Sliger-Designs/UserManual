@@ -21,6 +21,8 @@ Confirmed 2026-11-04:
 - The CX3701 and CX3702 do not use motherboard standoffs. Of their successors (website concepts),
   the CX3150n (CX3701 "v2") uses no standoffs and the CX3180n (CX3702 "v2") uses standoffs.
 - The CX3151i I/O-shield step uses the CX3151a or CX3151x render.
+- The 3U and 4U 5.25-inch bay filler blanks are the same part; their drive renders are shared
+  (`illustrations/common/4u-bay-blank/`).
 - Push-pull is not officially supported on the CX3150a (360 mm, six fans) or the CX3150i and
   CX3150x (240 mm, four fans), so no push-pull renders are requested for them.
 - The CX4150e, CX4170e and CX4200e use the same 5.25-inch bay bracket; their bay-device steps
@@ -30,7 +32,7 @@ Confirmed 2026-11-04:
 
 | Model | Needed | Effect until supplied |
 |---|---|---|
-| CX3150i | Exploded view. Optional: filler-blank HDD (4g) and bay-bracket-top HDD (4k) renders with green E screws; they show purple and blue D screws, while the text specifies E (2026-11-05) | Exploded view omitted; the two HDD steps show the supplied screw colours |
+| CX3150i | Exploded view. Optional: bay-bracket-top HDD render (as 4k) with green E screws; 4k shows blue D, while the text specifies E (2026-11-05) | Exploded view omitted; the bracket-top HDD step shows blue screws |
 | CX3150x | Exploded view. Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3150x folder) | Exploded view omitted |
 | CX4150a | Exploded view | Exploded-view page omitted |
 | CX4150e | Exploded view; push-pull renders (240 mm radiator, four fans) | Exploded view omitted; push-pull page is text only |
@@ -44,6 +46,23 @@ Confirmed 2026-11-04:
 | CX4200i | Push-pull renders (360 mm radiator, six fans); radiator/drive-cage clearance renders; a 5.25-inch device in the bay bracket | Push-pull and clearance pages are text only |
 | CX4712 | Exploded view; motherboard-tray removal and reinstallation renders (as CX4713 5a–5f; the tray is removable) | Exploded view and tray pages omitted |
 | CX4713 | Exploded view; product render | Exploded view omitted |
+
+## Cable management (not blocking V1)
+
+Wanted for every rackmount manual, but no manual waits for them: until supplied, the
+cable-management page is text only and refers to the cable-management bar on the top-view
+clearance drawing. The CX3150a already has one (`CABLE_MANAGEMENT_BAR_HIGHLIGHT.jpg`, the bar
+highlighted in green on the motherboard tray); the others need an equivalent view.
+
+| Model | Needed |
+|---|---|
+| CX3150i, CX3150x | Cable-management bar highlighted on the tray (the CX3150a view may apply if the tray and view match; to confirm) |
+| CX4150a, CX4150e, CX4150i | Cable-management bar highlighted on the tray |
+| CX4170a, CX4170e, CX4170i | Cable-management bar highlighted on the tray |
+| CX4200a, CX4200e, CX4200f, CX4200i | Cable-management bar highlighted on the tray |
+| CX4712, CX4713 | Cable-management bar highlighted on the tray |
+
+Every 3U and 2U manual built later joins this list unless its render set includes the view.
 
 ## 3U: not yet built
 

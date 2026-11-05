@@ -11,3 +11,5 @@ Slide the filler blank out of the front of the bracket. To mount drives on the b
 ### 3. Install the 5.25-inch device
 
 Slide the device into the bracket. Align its mounting holes with the bracket and secure it with {{ hw('D') }} on both sides. A 5.25-inch to 3.5-inch adapter is available separately.
+
+<p class="info-note" role="note"><strong>With a 240 mm AIO:</strong> the radiator can touch a hex-head screw retaining a 5.25-inch device on the radiator side of the bay bracket. Use a countersunk (flat-head) screw in that position instead, {{ hw('B') }} for M3-threaded devices or {{ hw('E') }} for 6-32-threaded devices, or leave that screw out.</p>

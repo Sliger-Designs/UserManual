@@ -35,8 +35,20 @@ These totals replace the spec review's CX3150i "4 × 2.5-inch, 1 × 3.5-inch", C
 ## HDD screws on the CX3150i filler blank and bay bracket
 
 Renders 4g (purple screws, not a kit colour) and 4k (blue D, M3) do not match the 6-32 threads
-of a 3.5-inch HDD. The manual calls for green E (6-32 flat-head), as on the 4U filler blank; the
-renders are used as supplied.
+of a 3.5-inch HDD. The manual calls for green E (6-32 flat-head), as on the 4U filler blank.
+
+The 4g view is identical to the shared 4U render `common/4u-bay-blank/drive6.1.jpg.jpg`
+(same filler blank, green E screws), and 4e matches `drive12.jpg.jpg`: the 3U and 4U filler
+blanks are the same part. The CX3150i uses `drive6.1.jpg.jpg` for the HDD step. No equivalent
+exists for the bay-bracket-top HDD (4k), which is used as supplied until a corrected render
+arrives.
+
+## 240 mm AIO and the 5.25-inch device screws
+
+The CX3150i top-view drawing note ("if installing a radiator, the screws in this location will
+have to be removed") marks where a 240 mm radiator can touch the screws retaining a 5.25-inch
+device, as documented for the CX4150e and CX4200f. Use countersunk screws there, B (217-621)
+for M3 or E (217-019) for 6-32, or leave those screws out.
 
 ## Push-pull
 
