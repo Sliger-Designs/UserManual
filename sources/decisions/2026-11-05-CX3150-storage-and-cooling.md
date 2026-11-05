@@ -21,8 +21,12 @@ time.
 
 CX3150i positions, as rendered (`illustrations/3u/CX3150i/`):
 
-- 5.25-inch bay filler blank: four 2.5-inch SSDs (4e), two 15 mm SSDs (4f), or one 3.5-inch HDD
-  through its bottom holes (4g). The bay holds the filler blank or a 5.25-inch device, not both.
+- 5.25-inch bay filler blank: four 2.5-inch SSDs (4e), or one 3.5-inch HDD through its bottom
+  holes (4g) and two 2.5-inch SSDs; two 15 mm SSDs also fit through the bottom holes (4f). The
+  bay holds the filler blank or a 5.25-inch device, not both.
+
+Confirmed 2026-11-05: the 5.25-inch bay filler blank is one part shared by every chassis with a
+5.25-inch bay, so its capacity and wording follow `2026-11-04-bay-filler-blank-capacity.md`.
 - Top of the 5.25-inch bay bracket: two 2.5-inch SSDs (4j) or one 3.5-inch HDD (4k).
 - Under the 5.25-inch bay bracket: one 2.5-inch SSD, usable with a 5.25-inch device fitted (4h).
 

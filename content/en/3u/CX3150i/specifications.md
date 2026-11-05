@@ -10,7 +10,7 @@
 | Rear cooling | Optional PCIe fan adapters |
 | Front bays | One 5.25-inch bay with a removable filler blank |
 | Expansion | Eight full-height PCIe slots; cards up to {{ facts.gpu_height_max_mm }} mm tall including power connectors |
-| Storage | {{ facts.ssd_2_5_max }} × 2.5-inch and {{ facts.hdd_3_5_max }} × 3.5-inch mounting locations: tray 2 (7 mm, or one 15 mm); bay filler blank 4, or one 3.5-inch; bay bracket top 2, or one 3.5-inch; under the bay bracket 1 |
+| Storage | {{ facts.ssd_2_5_max }} × 2.5-inch and {{ facts.hdd_3_5_max }} × 3.5-inch mounting locations: tray 2 (7 mm, or one 15 mm); bay filler blank 4, or one 3.5-inch plus two 2.5-inch; bay bracket top 2, or one 3.5-inch; under the bay bracket 1 |
 
 ### GPU length by cooling configuration
 
