@@ -56,11 +56,11 @@ Confirmed 2026-11-04:
 |  | CX3172a XL | Exploded view | Exploded view omitted |
 |  | CX3172i XL | Exploded view. Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and bay steps (the CX3152i/CX3150i ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
 |  | CX4150a | Exploded view | Exploded-view page omitted |
-| added | CX4150e | Exploded view; push-pull renders (240 mm radiator, four fans) | Exploded view omitted; push-pull page is text only |
-| added | CX4150i | Exploded view; push-pull renders (360 mm radiator, six fans) | Exploded view omitted; push-pull page is text only |
-| crps will be separate manual | CX4170a | Optional: external side/front dimension profiles; CRPS adapter steps, if the manual should cover CRPS | None (optional) |
-| added | CX4170e | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
-| added | CX4170i | Push-pull renders (360 mm radiator, six fans); radiator/drive-cage clearance renders (as CX4170a 4c1/4c2); a 5.25-inch device in the bay bracket | Push-pull and clearance pages are text only |
+|  | CX4150e | Exploded view; push-pull renders (240 mm radiator, four fans) | Exploded view omitted; push-pull page is text only |
+|  | CX4150i | Exploded view; push-pull renders (360 mm radiator, six fans) | Exploded view omitted; push-pull page is text only |
+|  | CX4170a | Optional: external side/front dimension profiles; CRPS adapter steps, if the manual should cover CRPS | None (optional) |
+|  | CX4170e | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
+|  | CX4170i | Push-pull renders (360 mm radiator, six fans); radiator/drive-cage clearance renders (as CX4170a 4c1/4c2); a 5.25-inch device in the bay bracket | Push-pull and clearance pages are text only |
 |  | CX4200a | Exploded view; radiator/drive-cage clearance renders | Exploded view omitted; clearance page is text only |
 |  | CX4200e | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
 |  | CX4200f | Push-pull renders (240 mm radiator, four fans) | Push-pull page is text only |
@@ -96,13 +96,8 @@ sibling to borrow shared steps from; each reuse is confirmed when that family is
 | Done | Model | Have | Needed | Possible source for shared steps |
 |---|---|---|---|---|
 |  | CX3170a | 11 | Installation steps; cover render | CX3170a XL |
-|  | CX3170a XL | 48 | Push-pull renders; cover render | |
-|  | CX3170i XL | 7 | Installation steps; cover render | CX3170a XL |
 |  | CX3171a | 16 | Installation steps; cover render | CX3170a XL (lid confirmed as an example) |
-|  | CX3171a XL, CX3171i XL | 17 / 9 | Installation steps; cover render | CX3170a XL |
 |  | CX3172a | 8 | Installation steps; cover render | CX3172a XL |
-|  | CX3172a XL | 37 | Push-pull renders; cover render | |
-|  | CX3172i XL | 8 | Installation steps; cover render | CX3172a XL |
 |  | CX3701 | 42 | AIO renders; front-panel render | No standoffs |
 |  | CX3702 | 44 | Front-panel render | No standoffs |
 

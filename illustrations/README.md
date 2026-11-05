@@ -1,8 +1,6 @@
 # Illustrations
 
 Artwork still needed for the manuals is tracked in [ARTWORK-REQUESTS.md](ARTWORK-REQUESTS.md).
-How to produce it from CAD (views, camera angles, colours, file format) is in
-[RENDER-GUIDE.md](RENDER-GUIDE.md).
 
 Full-resolution originals (CAD renders and photographs) are kept in Sliger's internal
 image library and are not in Git. A maintainer stages the chassis being worked on
