@@ -1845,5 +1845,93 @@
       },
       "note": "One ATX power supply."
     }
+  },
+  "CX3701": {
+    "ssd_2_5_max": {
+      "value": 4,
+      "configuration": {
+        "behind_front_io": 4
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3701-CX3702.md"
+      },
+      "note": "Up to 7 mm thick."
+    },
+    "hdd_3_5_max": {
+      "value": 10,
+      "configuration": {
+        "hot_swap_bays": 10
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3701-CX3702.md"
+      },
+      "note": "Hot-swap bays behind the magnetic faceplate."
+    },
+    "gpu_length_baseline_mm": {
+      "value": 182,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Lower value (import CSV 182 vs compatibility CSV 185)."
+    },
+    "aio_92": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Asetek 645LT on a 3D-printed 120-to-92 mm adapter; not officially supported."
+    },
+    "aio_92_supported": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Keep the \"not officially supported\" qualifier."
+    }
+  },
+  "CX3702": {
+    "ssd_2_5_max": {
+      "value": 4,
+      "configuration": {
+        "behind_front_io": 4
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3701-CX3702.md"
+      },
+      "note": "Up to 7 mm thick."
+    },
+    "hdd_3_5_max": {
+      "value": 10,
+      "configuration": {
+        "hot_swap_bays": 10
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3701-CX3702.md"
+      },
+      "note": "Hot-swap bays behind the magnetic faceplate."
+    },
+    "pcie_slots": {
+      "value": "4x Full Height",
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Four full-height slots (import CSV and website)."
+    }
   }
 }

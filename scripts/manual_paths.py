@@ -14,6 +14,8 @@ MODEL_CATEGORIES = {
     'CX3170a': '3u',
     'CX3171a': '3u',
     'CX3172a': '3u',
+    'CX3701': '3u',
+    'CX3702': '3u',
     'CX3170aXL': '3u',
     'CX3170iXL': '3u',
     'CX3171aXL': '3u',
