@@ -16,6 +16,9 @@ tools used to translate them.
 | CX3151x | 3U rackmount, internal drive bracket, riser GPU | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3152a | 3U rackmount, ATX power supply | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3152i | 3U rackmount, one 5.25" bay, ATX power supply | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3170a | 3U rackmount, 17-inch | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3171a | 3U rackmount, 17-inch, riser GPU | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3172a | 3U rackmount, 17-inch, ATX power supply | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3170a XL | 3U rackmount, 17-inch, XL tray, drive cage | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3170i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3171a XL | 3U rackmount, 17-inch, XL tray, riser GPU, drive cage | Review draft (Prototype 0.1) | built by CI and on the site |
@@ -70,7 +73,7 @@ python3 -m venv .venv
 .venv/bin/python scripts/build_manual.py --model S630
 ```
 
-Every model builds the same way (`--model S640`, `CX3150a`, `CX3150i`, `CX3150x`, `CX3151a`, `CX3151i`, `CX3151x`, `CX3152a`, `CX3152i`, `CX3170aXL`, `CX3170iXL`, `CX3171aXL`, `CX3171iXL`, `CX3172aXL`, `CX3172iXL`, `CX4150a`, `CX4150e`, `CX4150i`, `CX4170a`, `CX4170e`, `CX4170i`, `CX4200a`, `CX4200e`, `CX4200f`, `CX4200i`, `CX4712`, `CX4713`). A build writes
+Every model builds the same way (`--model S640`, `CX3150a`, `CX3150i`, `CX3150x`, `CX3151a`, `CX3151i`, `CX3151x`, `CX3152a`, `CX3152i`, `CX3170a`, `CX3171a`, `CX3172a`, `CX3170aXL`, `CX3170iXL`, `CX3171aXL`, `CX3171iXL`, `CX3172aXL`, `CX3172iXL`, `CX4150a`, `CX4150e`, `CX4150i`, `CX4170a`, `CX4170e`, `CX4170i`, `CX4200a`, `CX4200e`, `CX4200f`, `CX4200i`, `CX4712`, `CX4713`). A build writes
 standalone HTML, a landscape Letter PDF, a page overview and a validation report under
 `_build/`, and fails if text overflows a page, a link breaks, an image is missing, or
 approved values or wording differ. Released SFF manuals build into

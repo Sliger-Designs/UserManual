@@ -266,18 +266,22 @@
       "title": "Radiator & drive-cage clearance",
       "section": "03 / COMPONENT INSTALLATION",
       "source": "cooling-clearance.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "Radiator and drive-cage clearance illustrations pending"
+      "images": [
+        "_CX4170i_CORRECT_WAY.jpg",
+        "_CX4170i_WRONG_WAY.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "push-pull",
       "title": "Install push-pull cooling",
       "section": "03 / COMPONENT INSTALLATION",
       "source": "push-pull.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "Push-pull installation illustration pending"
+      "images": [
+        "SA-4000i_PUSH_PULL_240.jpg",
+        "_CX4170i_PUSH_PULL.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "drive-cage-drives",
@@ -412,14 +416,18 @@
       "source": "bay-devices.md",
       "images": [
         "3e_CX4200i_BAY FILLER REMOVE.jpg",
-        "drive4.jpg.jpg"
+        "drive4.jpg.jpg",
+        "_CX4170i_5.25BAY_DEVICE.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
         [
           "A"
         ],
-        []
+        [],
+        [
+          "D"
+        ]
       ]
     },
     {
@@ -538,26 +546,7 @@
     "width": 17,
     "height": 6.96
   },
-  "missing_assets": [
-    {
-      "id": "M02",
-      "needed": "Push-pull (360 mm radiator, six fans) installation renders; the push-pull page is text only until supplied.",
-      "section": "push-pull",
-      "suggested_folder": "illustrations/4u/CX4200i/"
-    },
-    {
-      "id": "M03",
-      "needed": "Radiator and drive-cage clearance renders (as CX4170a 4c1/4c2); the clearance page is text only until supplied.",
-      "section": "cooling-clearance",
-      "suggested_folder": "illustrations/4u/CX4200i/"
-    },
-    {
-      "id": "M04",
-      "needed": "Render of a 5.25-inch device installed in the bay bracket.",
-      "section": "bay-devices",
-      "suggested_folder": "illustrations/4u/CX4200i/"
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "20\" DEEP 4U CHASSIS",
   "cover_description_detail": "1 × 5.25\" BAY",
   "cover_format": "landscape"

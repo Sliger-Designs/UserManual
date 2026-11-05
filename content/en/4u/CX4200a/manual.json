@@ -44,6 +44,16 @@
       "layout": "contents"
     },
     {
+      "id": "exploded-view",
+      "title": "Exploded view",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "_CX4200a_CHASSIS_EXPLODE.jpg"
+      ],
+      "layout": "reference-drawing"
+    },
+    {
       "id": "dimensions",
       "title": "Clearance drawing — drive cage installed",
       "section": "01 / PRODUCT INFORMATION",
@@ -235,9 +245,11 @@
       "title": "Radiator & drive-cage clearance",
       "section": "03 / COMPONENT INSTALLATION",
       "source": "cooling-clearance.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "Radiator and drive-cage clearance illustrations pending"
+      "images": [
+        "_CX4170i_CORRECT_WAY.jpg",
+        "_CX4170i_WRONG_WAY.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "push-pull",
@@ -450,20 +462,7 @@
     "width": 17,
     "height": 6.96
   },
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX4200a assemblies; the exploded-view page is omitted until supplied.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/4u/CX4200a/"
-    },
-    {
-      "id": "M02",
-      "needed": "Radiator and drive-cage clearance renders (as CX4170a 4c1/4c2); the clearance page is text only until supplied.",
-      "section": "cooling-clearance",
-      "suggested_folder": "illustrations/4u/CX4200a/"
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "20\" DEEP 4U CHASSIS",
   "cover_format": "landscape"
 }

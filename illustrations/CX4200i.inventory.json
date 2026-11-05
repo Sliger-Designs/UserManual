@@ -763,6 +763,121 @@
       }
     },
     {
+      "id": "cx4200i-5f363b762145",
+      "original_filename": "SA-4000i_PUSH_PULL_240.jpg",
+      "local_path": "illustrations/4u/CX4200i/SA-4000i_PUSH_PULL_240.jpg",
+      "width_px": 2502,
+      "height_px": 1178,
+      "format": "JPEG",
+      "size_bytes": 909573,
+      "sha256": "f043de66192e1ac71c120ecc74ffa798389e97aec6f826a0bb57ec5c58c74e6a",
+      "selection_status": "candidate",
+      "note": "240 mm radiator with four fans (push-pull), supplied for the CX4200i on 2026-11-05.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200i/SA-4000i_PUSH_PULL_240-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200i-1c6089d04eea",
+      "original_filename": "_CX4170i_5.25BAY_DEVICE.jpg",
+      "local_path": "illustrations/4u/CX4200i/_CX4170i_5.25BAY_DEVICE.jpg",
+      "width_px": 2502,
+      "height_px": 1178,
+      "format": "JPEG",
+      "size_bytes": 916699,
+      "sha256": "e3d6509968d7511de854c16d4c5a4eac9d23f2bea5d68e53c109c0eca39f92da",
+      "selection_status": "candidate",
+      "note": "Copied from the CX4170i folder: same radiator, drive-cage and bay arrangement (reuse confirmed 2026-11-05).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200i/_CX4170i_5.25BAY_DEVICE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200i-d3507cdac397",
+      "original_filename": "_CX4170i_CORRECT_WAY.jpg",
+      "local_path": "illustrations/4u/CX4200i/_CX4170i_CORRECT_WAY.jpg",
+      "width_px": 2502,
+      "height_px": 1178,
+      "format": "JPEG",
+      "size_bytes": 938191,
+      "sha256": "4676ddf9b83367bc781a6426242bafdb72a60361a179f3c8d4e09a1edb78573e",
+      "selection_status": "candidate",
+      "note": "Copied from the CX4170i folder: same radiator, drive-cage and bay arrangement (reuse confirmed 2026-11-05).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200i/_CX4170i_CORRECT_WAY-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200i-ce1702471459",
+      "original_filename": "_CX4170i_PUSH_PULL.jpg",
+      "local_path": "illustrations/4u/CX4200i/_CX4170i_PUSH_PULL.jpg",
+      "width_px": 2502,
+      "height_px": 1178,
+      "format": "JPEG",
+      "size_bytes": 764053,
+      "sha256": "a6854a788c0e19a98ace29dc14d1950d6fcc14dcffaee400e80bb0571b14315f",
+      "selection_status": "candidate",
+      "note": "Copied from the CX4170i folder: same radiator, drive-cage and bay arrangement (reuse confirmed 2026-11-05).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200i/_CX4170i_PUSH_PULL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200i-7194c9a22cea",
+      "original_filename": "_CX4170i_WRONG_WAY.jpg",
+      "local_path": "illustrations/4u/CX4200i/_CX4170i_WRONG_WAY.jpg",
+      "width_px": 2502,
+      "height_px": 1178,
+      "format": "JPEG",
+      "size_bytes": 854816,
+      "sha256": "8fa705d1b67ae52b00a66b34b616f6d4d56a2a01de0afd373afc4fe1e6c9426c",
+      "selection_status": "candidate",
+      "note": "Copied from the CX4170i folder: same radiator, drive-cage and bay arrangement (reuse confirmed 2026-11-05).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200i/_CX4170i_WRONG_WAY-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx4200i-1fe3689b687f",
       "original_filename": "_CX4200i_ADVANCED_FRONT VIEW.jpg",
       "local_path": "illustrations/4u/CX4200i/_CX4200i_ADVANCED_FRONT VIEW.jpg",

@@ -257,9 +257,10 @@
       "title": "Install push-pull cooling",
       "section": "03 / COMPONENT INSTALLATION",
       "source": "push-pull.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "Push-pull installation illustration pending"
+      "images": [
+        "_CX4150e_PUSH_PULL2.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "fan-bracket-installation",
@@ -497,7 +498,7 @@
   "missing_assets": [
     {
       "id": "M02",
-      "needed": "Push-pull (240 mm radiator, four fans) installation renders; the push-pull page is text only until supplied.",
+      "needed": "Optional: push-pull assembly installed in the CX4200f (three-bay front); the page shows the radiator and fan assembly only (CX4150e render).",
       "section": "push-pull",
       "suggested_folder": "illustrations/4u/CX4200f/"
     }
