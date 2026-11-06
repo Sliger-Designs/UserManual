@@ -14,7 +14,7 @@ import pymupdf
 from PIL import Image
 
 from image_callouts import with_callouts
-from manual_assets import LAYOUT_CHECK, build_directory, cover_photo, front_io_content, quantity_display, validate_template
+from manual_assets import LAYOUT_CHECK, build_directory, cover_photo, front_io_content, number_pdf_pages, split_contact, quantity_display, validate_template
 from manual_localization import Localizer
 from manual_paths import ROOT, content_directory
 
@@ -51,6 +51,12 @@ def content_inset(path, pad=0.03):
     return _TRIM[path]
 
 
+def top_view_drawing(item):
+    """Top-view clearance drawings are tall: their notes go in a left column and the drawing's
+    empty margins are cropped so it fills the rest of the page."""
+    return item['layout'] == 'reference-drawing' and any('TOP VIEW' in name.upper() for name in item['images'])
+
+
 def load(model):
     manual = json.loads((content_directory(model) / 'manual.json').read_text(encoding='utf-8'))
     product = json.loads((ROOT / f'products/{model}.json').read_text(encoding='utf-8'))
@@ -72,7 +78,8 @@ def markdown_environment(model, localizer=None, state=None):
     state = state if state is not None else {'page': None}
     manual, _, facts, hardware, _ = load(model)
     hardware_by_letter = {entry['letter']: entry for entry in hardware['items']}
-    page_numbers = {entry['id']: index + 1 for index, entry in enumerate(manual['pages'])}
+    # Printed numbers: the cover is unnumbered, so a page's printed number is its 0-based index.
+    printed_numbers = {entry['id']: index for index, entry in enumerate(manual['pages'])}
 
     def hw(letter):
         item = hardware_by_letter[letter]
@@ -82,7 +89,7 @@ def markdown_environment(model, localizer=None, state=None):
     def ref(identifier, label):
         text = L.text(label, 'cross-reference link text', state['page'])
         word = L.text('page', 'cross-reference: word before the page number, as in "(page 8)"', state['page'])
-        return f'<a href="#{identifier}">{text}</a> ({word} {page_numbers[identifier]})'
+        return f'<a href="#{identifier}">{text}</a> ({word} {printed_numbers[identifier]})'
 
     env = Environment(undefined=StrictUndefined, autoescape=False)
     env.filters['zfill'] = lambda value, width: str(value).zfill(width)
@@ -153,15 +160,18 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
                         applied_rules.append({'id': rule['id'], 'page_id': item['id'], 'text': note})
             rendered = env.from_string(source).render(**context)
             sections.append(markdown.markdown(rendered, extensions=['tables', 'sane_lists']))
+        sections, contact = split_contact(item['layout'], sections)
+        page['contact_html'] = keep_units_together(contact)
         page['html'] = keep_units_together(''.join('<div class="reference-section">' + section + '</div>' for section in sections) if len(sections) > 1 else (sections[0] if sections else ''))
         page['images'] = []
+        page['side_notes'] = top_view_drawing(item)
         for name in item['images']:
             asset = assets[name]
             path = ROOT / asset['path']
             assert hashlib.sha256(path.read_bytes()).hexdigest() == asset['sha256']
             page['images'].append({'src': ('data:image/png;base64,' if path.suffix == '.png' else 'data:image/jpeg;base64,') + base64.b64encode(path.read_bytes()).decode(),
                                    'review': item.get('image_reviews', {}).get(name), 'key': name, 'alt': name.rsplit('.', 1)[0].replace('_', ' '),
-                                   'style': content_inset(path) if item['layout'] == 'procedure' and not item.get('keep_margins') else ''})
+                                   'style': content_inset(path) if (item['layout'] == 'procedure' or top_view_drawing(item)) and not item.get('keep_margins') else ''})
             if name in item.get('image_annotations', {}):
                 page['images'][-1] = with_callouts(page['images'][-1], content_directory(model) / item['image_annotations'][name], asset,
                                                    label=lambda text: L.text(text, 'diagram accessibility label', number))
@@ -217,6 +227,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
         validate_template(page, model + ' ' + L.text('primary product photograph', 'cover image accessibility suffix', 1))
         page.pdf(path=str(pdf_path), print_background=True, prefer_css_page_size=True, display_header_footer=False)
         browser.close()
+    number_pdf_pages(pdf_path, pages, manual.get('display_name', model))
 
     pdf = pymupdf.open(pdf_path)
     assert len(pdf) == len(pages), (len(pdf), len(pages))
@@ -242,11 +253,11 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
                 if words.isdigit() or words.startswith(('4.1 ', '4.2 ', '4.3 ', 'Website:', 'sliger.com')):
                     continue
                 assert normalize(words) in appendix_text, ('Reference wording differs', index + 1, words)
-        contact_labels = [line.strip() for line in (ROOT / 'content/en/shared/support.md').read_text(encoding='utf-8').splitlines()
+        contact_labels = [re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', line).strip() for line in (ROOT / 'content/en/shared/support.md').read_text(encoding='utf-8').splitlines()
                           if line.startswith(('Website:', 'Support Email:', 'Phone Number:', 'Hours of Operation:'))]
         assert len(contact_labels) == 4, 'Expected four shared contact fields'
         for label in contact_labels:
-            assert appendix_text.count(label) == 2, ('Contact wording differs', label)
+            assert appendix_text.count(label) == 1, ('Contact wording differs', label)
     for rule in applied_rules:
         rule_text = normalize(rule['text'].replace('> ', '').replace('**', ''))
         assert rule_text in normalize(pdf[page_numbers[rule['page_id']] - 1].get_text()), rule['id']
