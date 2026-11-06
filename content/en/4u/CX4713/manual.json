@@ -42,6 +42,14 @@
       "layout": "contents"
     },
     {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [],
+      "layout": "exploded"
+    },
+    {
       "id": "dimensions",
       "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
@@ -392,6 +400,15 @@
       ]
     },
     {
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/4u-rear-fan-bracket.md",
+      "images": [],
+      "layout": "text",
+      "illustration_pending": "Rear fan bracket installation renders pending"
+    },
+    {
       "id": "front-ssd-installation",
       "title": "Install SSDs behind the front I/O",
       "section": "03 / COMPONENT INSTALLATION",
@@ -448,7 +465,8 @@
         [
           "E"
         ]
-      ]
+      ],
+      "layout_variant": "wide-visuals"
     },
     {
       "id": "bay-bracket-installation",
@@ -592,6 +610,12 @@
       "needed": "Product render for the cover-page image list (the printed cover uses the website photo).",
       "section": "cover",
       "suggested_folder": "illustrations/4u/CX4713/"
+    },
+    {
+      "id": "M10",
+      "needed": "Rear fan bracket installation renders (one set for every 4U tray); the page shows a placeholder until supplied.",
+      "section": "rear-fan-bracket",
+      "suggested_folder": "illustrations/common/4u-rear-fan-bracket/"
     }
   ],
   "cover_description": "28\" DEEP 4U CHASSIS",

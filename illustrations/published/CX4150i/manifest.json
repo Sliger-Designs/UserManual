@@ -901,8 +901,8 @@
   "_CX4150i_PUSH_PULL.jpg": {
     "path": "illustrations/published/CX4150i/cx4150i-1282251a5c7c.jpg",
     "source_path": "illustrations/4u/CX4150i/_CX4150i_PUSH_PULL.jpg",
-    "source_sha256": "c50c272bfaa827ff4c45d6b0f7ab15a6823b4c955efaf9a09fb6b4a13050be1e",
-    "sha256": "fc3e60f9a77f40deb164e6f9cd3d50dd6969c383ed396651aa9c9710093e011c",
+    "source_sha256": "f6189da998ed9431d81fee9c7ff302364110719ba6bb3ccbc949581945dc559b",
+    "sha256": "39de4b9ad58516f2838c66d8fbb74977d2195bf0970a1eb67203e0b1acc2dbec",
     "dimensions_px": [
       1800,
       847
@@ -916,7 +916,7 @@
         251
       ],
       "tolerance_per_channel": 4,
-      "background_pixels_replaced": 2018353,
+      "background_pixels_replaced": 2059286,
       "total_pixels": 2947356,
       "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
       "full_resolution_path": "_build/cleaned-renders/CX4150i/_CX4150i_PUSH_PULL-white.png",
@@ -924,7 +924,7 @@
         2502,
         1178
       ],
-      "full_resolution_sha256": "c727933a6c41df789c278d730a4715c7b5d2e73a0f97c7753f0f4c9c37b8b3cf"
+      "full_resolution_sha256": "9b148ccb99ed0b43b4b7262e8e74cb2b8c1a5a5eb721c3f57752f15c42e2f81a"
     }
   },
   "_CX4150i_rendering.jpg": {

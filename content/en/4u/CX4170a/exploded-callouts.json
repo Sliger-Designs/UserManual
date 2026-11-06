@@ -1,0 +1,77 @@
+{
+  "asset_key": "_CX4170a.jpg",
+  "source_sha256": "03cc1f20d22d94bf55447ca809d520f2e5d983ef50e4771fcfac3c2622f0043a",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 2.0642201834862384,
+  "view_box": [
+    0.1,
+    0.08,
+    0.8,
+    0.82
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Assembly callouts placed on the CX4170a exploded view (2026-11-05); review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.49,
+        0.26
+      ],
+      "badge": [
+        0.394,
+        0.121
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.29,
+        0.58
+      ],
+      "badge": [
+        0.132,
+        0.678
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.475,
+        0.57
+      ],
+      "badge": [
+        0.475,
+        0.859
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap with rack-ear flanges",
+      "target": [
+        0.63,
+        0.55
+      ],
+      "badge": [
+        0.63,
+        0.859
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Removable motherboard tray",
+      "target": [
+        0.77,
+        0.47
+      ],
+      "badge": [
+        0.868,
+        0.372
+      ]
+    }
+  ]
+}

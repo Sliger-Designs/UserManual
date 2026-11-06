@@ -45,13 +45,17 @@
     },
     {
       "id": "exploded-view",
-      "title": "Exploded view",
+      "title": "Exploded assembly & part key",
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
         "_CX4200a_CHASSIS_EXPLODE.jpg"
       ],
-      "layout": "reference-drawing"
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "_CX4200a_CHASSIS_EXPLODE.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -372,6 +376,15 @@
       ]
     },
     {
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/4u-rear-fan-bracket.md",
+      "images": [],
+      "layout": "text",
+      "illustration_pending": "Rear fan bracket installation renders pending"
+    },
+    {
       "id": "drive-cage-installation",
       "title": "Reinstall the drive cage",
       "section": "04 / REASSEMBLY",
@@ -462,7 +475,14 @@
     "width": 17,
     "height": 6.96
   },
-  "missing_assets": [],
+  "missing_assets": [
+    {
+      "id": "M10",
+      "needed": "Rear fan bracket installation renders (one set for every 4U tray); the page shows a placeholder until supplied.",
+      "section": "rear-fan-bracket",
+      "suggested_folder": "illustrations/common/4u-rear-fan-bracket/"
+    }
+  ],
   "cover_description": "20\" DEEP 4U CHASSIS",
   "cover_format": "landscape"
 }

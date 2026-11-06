@@ -1,0 +1,77 @@
+{
+  "asset_key": "_CX4150a_CHASSIS_EXPLODE.jpg",
+  "source_sha256": "2d5a420dd90d2c6e3e7383fe933b73c62cfa69f0261edd23c0f0c2db19414516",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 2.125147579693034,
+  "view_box": [
+    0.18,
+    0.06,
+    0.74,
+    0.9
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Assembly callouts placed on the CX4150a exploded view (2026-11-05); review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.54,
+        0.3
+      ],
+      "badge": [
+        0.451,
+        0.105
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.36,
+        0.65
+      ],
+      "badge": [
+        0.21,
+        0.758
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.54,
+        0.64
+      ],
+      "badge": [
+        0.54,
+        0.915
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap with rack-ear flanges",
+      "target": [
+        0.66,
+        0.65
+      ],
+      "badge": [
+        0.66,
+        0.915
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Removable motherboard tray",
+      "target": [
+        0.79,
+        0.54
+      ],
+      "badge": [
+        0.89,
+        0.432
+      ]
+    }
+  ]
+}
