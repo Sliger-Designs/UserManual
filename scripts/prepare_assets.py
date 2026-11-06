@@ -4,7 +4,7 @@ import hashlib
 import argparse
 import json
 from pathlib import Path
-from manual_paths import MODEL_CATEGORIES, content_directory
+from manual_paths import MODEL_CATEGORIES, REFERENCE_INVENTORY, content_directory, inventory_path, published_directory
 from PIL import Image, ImageOps
 from background_cleanup import white_background
 
@@ -17,11 +17,11 @@ def main():
     args = parser.parse_args()
     model = args.model
     manual = json.loads((content_directory(model) / 'manual.json').read_text())
-    inventory = json.loads((ROOT / f'illustrations/{model}.inventory.json').read_text())
+    inventory = json.loads(inventory_path(model).read_text())
     entries = {x['original_filename']: x for x in inventory['items']}
-    common = json.loads((ROOT / 'illustrations/common.inventory.json').read_text())
+    common = json.loads(inventory_path('common').read_text())
     entries.update({x['asset_key']: x for x in common['items']})
-    reference = json.loads((ROOT / 'illustrations/reference.inventory.json').read_text())
+    reference = json.loads(REFERENCE_INVENTORY.read_text())
     entries.update({x['asset_key']: x for x in reference['items']})
     names = sorted({name for page in manual['pages'] for group in [page, *page.get('steps', [])] for name in group.get('images', [])})
     # Vector compositions can reference a detail from a second unchanged render.
@@ -34,8 +34,8 @@ def main():
         hardware = json.loads((content_directory(model) / 'hardware.json').read_text())
         names = sorted(set(names) | {name for item in hardware['items']
                        for name in [item.get('image'), *item.get('detail_images', [])] if name})
-    common_manifest = ROOT / 'illustrations/published/common/manifest.json'
-    model_manifest = ROOT / f'illustrations/published/{model}/manifest.json'
+    common_manifest = published_directory('common') / 'manifest.json'
+    model_manifest = published_directory(model) / 'manifest.json'
     manifests = {model: json.loads(model_manifest.read_text()) if args.only and model_manifest.exists() else {},
                  'common': json.loads(common_manifest.read_text()) if common_manifest.exists() else {}}
     if args.only:
@@ -60,7 +60,7 @@ def main():
                 and (ROOT / previous['path']).exists()
                 and hashlib.sha256((ROOT / previous['path']).read_bytes()).hexdigest() == previous['sha256']):
             continue
-        output = ROOT / 'illustrations/published' / group
+        output = published_directory(group)
         output.mkdir(parents=True, exist_ok=True)
         target = output / (entry['id'] + suffix)
         with Image.open(original) as image:
@@ -99,7 +99,7 @@ def main():
         if cleanup_report:
             manifests[group][name]['background_cleanup'] = cleanup_report
     for group, manifest in manifests.items():
-        (ROOT / 'illustrations/published' / group / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
+        (published_directory(group) / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
     print(f'Prepared {len(names)} selected publication assets; originals unchanged.')
 
 if __name__ == '__main__':

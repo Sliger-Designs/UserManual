@@ -11,13 +11,14 @@ locally, in the ignored `<category>/<model>/` folders (`desktop/S630/`, `3u/CX31
 
 ## What is versioned
 
-- `published/<model>/` and `published/common/`: the selected, appropriately sized copies
-  the manuals use. Each folder's `manifest.json` records every file's checksum, its source
-  file's checksum, dimensions, and the exact transformation (crop, resize, background
-  cleanup). Builds use only these files and check their hashes.
-- `<model>.inventory.json`, `common.inventory.json`, `reference.inventory.json`: every
-  supplied original with dimensions, checksum and selection status, so a publication copy
-  can always be traced to its original.
+- `published/<category>/<model>/` (`published/desktop/S630/`, `published/4u/CX4150a/`, …)
+  and `published/common/`: the selected, appropriately sized copies the manuals use. Each
+  folder's `manifest.json` records every file's checksum, its source file's checksum,
+  dimensions, and the exact transformation (crop, resize, background cleanup). Builds use
+  only these files and check their hashes.
+- `inventory.json` in the same folders (and `published/common/reference-inventory.json`):
+  every supplied original with dimensions, checksum and selection status, so a publication
+  copy can always be traced to its original.
 - `common/`: small shared originals stored once (hardware fasteners, front I/O connector
   drawings, regulatory icons, shared storage and PSU bracket views).
 - `reference/CX3150a/`: diagrams recovered from the original CX3150a manual
