@@ -708,6 +708,30 @@
       "note": "Supplied original; configuration applicability requires reference review."
     },
     {
+      "id": "cx4150i-bb9a19f0a111",
+      "original_filename": "CX4150i_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+      "local_path": "illustrations/4u/CX4150i/CX4150i_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+      "width_px": 5200,
+      "height_px": 5446,
+      "format": "JPEG",
+      "size_bytes": 3724296,
+      "sha256": "3401cf5b37b8b9ff20c03b20de7ec4e7b33baea7a627486b7e76117507f93af0",
+      "selection_status": "candidate",
+      "note": "Supplied 2026-11-06 for the cable-management page (bar highlighted in green on the tray).",
+      "proposed_section": "cable-management",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4150i/CX4150i_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx4150i-349fa66d69e9",
       "original_filename": "_CX4150i_ADVANCED_FRONT VIEW.jpg",
       "local_path": "illustrations/4u/CX4150i/_CX4150i_ADVANCED_FRONT VIEW.jpg",

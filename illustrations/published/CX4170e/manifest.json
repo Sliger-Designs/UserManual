@@ -724,6 +724,35 @@
       "full_resolution_sha256": "9c846b84ebda859f20d68675cb7e1ac78caeefe5a4c5865f6a8792910f31ecfb"
     }
   },
+  "CX4170e_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg": {
+    "path": "illustrations/published/CX4170e/cx4170e-d1a726a70822.jpg",
+    "source_path": "illustrations/4u/CX4170e/CX4170e_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+    "source_sha256": "976304a572edd872c26472613b41c411f15646d317b0534da76237003c05d966",
+    "sha256": "9dc48d7d6aa4429a5649debe7e8f9ebeae3fb7dac14937b8ab90dbad34e65da2",
+    "dimensions_px": [
+      1412,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13198649,
+      "total_pixels": 26816400,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4170e/CX4170e_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        5157
+      ],
+      "full_resolution_sha256": "93e389b0a3ac1caccb4b56ce543653465b4eb5239837b0c071c8a440df7704ae"
+    }
+  },
   "_CX4170e.jpg": {
     "path": "illustrations/published/CX4170e/cx4170e-9686770d5cdd.jpg",
     "source_path": "illustrations/4u/CX4170e/_CX4170e.jpg",
