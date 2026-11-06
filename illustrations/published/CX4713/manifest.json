@@ -1159,6 +1159,35 @@
       "full_resolution_sha256": "6d8d6b407bb0f448a2ef40c509562dad584a50c23313855e20da29909596486e"
     }
   },
+  "CX4713_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg": {
+    "path": "illustrations/published/CX4713/cx4713-f15bb591dd22.jpg",
+    "source_path": "illustrations/4u/CX4713/CX4713_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+    "source_sha256": "c05d07e22baeb0e6036a58c88bb9097a08072f686875d413f22c7d3cc518493d",
+    "sha256": "8e5d0747309f552fe304875d97d51ba289cb7f0833aa49bb38a3ca67eb66e8ae",
+    "dimensions_px": [
+      1750,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12395689,
+      "total_pixels": 21632000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4713/CX4713_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        4160
+      ],
+      "full_resolution_sha256": "8b66a4ab813d477ebe7b571a5d6127830b40c0bc3901c656eb1342e3550e25f9"
+    }
+  },
   "_CX4713_ADVANCED FRONT VIEW.jpg": {
     "path": "illustrations/published/CX4713/cx4713-947042ad050e.jpg",
     "source_path": "illustrations/4u/CX4713/_CX4713_ADVANCED FRONT VIEW.jpg",

@@ -509,6 +509,30 @@
       }
     },
     {
+      "id": "cx4200i-c393f1297fc4",
+      "original_filename": "3g_CX4200i_PUSH PULL 240MM FANS.jpg",
+      "local_path": "illustrations/4u/CX4200i/3g_CX4200i_PUSH PULL 240MM FANS.jpg",
+      "width_px": 5200,
+      "height_px": 3374,
+      "format": "JPEG",
+      "size_bytes": 4489941,
+      "sha256": "4a1dfefe57765b7c39e31c373ce13e7f1312f37f10ebf98fa3743a3e68cb40de",
+      "selection_status": "candidate",
+      "note": "Supplied 2026-11-06: CX4200i-specific push-pull renders, replacing the borrowed SA-4000i/CX4170i views.",
+      "proposed_section": "push-pull",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200i/3g_CX4200i_PUSH PULL 240MM FANS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx4200i-f5a18ce7fedb",
       "original_filename": "4a_CX4200i_FAN INSTALL.jpg",
       "local_path": "illustrations/4u/CX4200i/4a_CX4200i_FAN INSTALL.jpg",
@@ -759,6 +783,54 @@
         "tolerance_per_channel": 4,
         "publication_format": "jpeg",
         "full_resolution_path": "_build/cleaned-renders/CX4200i/CX4200i-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200i-ad7d420bcde6",
+      "original_filename": "CX4200i_240mm_INSTALL_HIGHER_WIDE_6IN_REV7.jpg",
+      "local_path": "illustrations/4u/CX4200i/CX4200i_240mm_INSTALL_HIGHER_WIDE_6IN_REV7.jpg",
+      "width_px": 5200,
+      "height_px": 3628,
+      "format": "JPEG",
+      "size_bytes": 3712815,
+      "sha256": "dd06796542b6e31febcaf31a180bf8d5f0d8b06bc8d6b9329e470700d25eeabe",
+      "selection_status": "candidate",
+      "note": "Supplied 2026-11-06: CX4200i-specific push-pull renders, replacing the borrowed SA-4000i/CX4170i views.",
+      "proposed_section": "push-pull",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200i/CX4200i_240mm_INSTALL_HIGHER_WIDE_6IN_REV7-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4200i-adf65b67a677",
+      "original_filename": "CX4200i_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+      "local_path": "illustrations/4u/CX4200i/CX4200i_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+      "width_px": 5200,
+      "height_px": 4819,
+      "format": "JPEG",
+      "size_bytes": 3347543,
+      "sha256": "a287ed38435a030f60f77096cc379b87dbef5df32446b728c05971e567f0afdc",
+      "selection_status": "candidate",
+      "note": "Supplied 2026-11-06 for the cable-management page (bar highlighted in green on the tray).",
+      "proposed_section": "cable-management",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4200i/CX4200i_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
     },

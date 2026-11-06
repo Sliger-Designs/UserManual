@@ -210,6 +210,18 @@
       }
     },
     {
+      "id": "cx4170a-322a5420f598",
+      "original_filename": "1_CX4170a_CORNER BRACKET.jpg",
+      "local_path": "illustrations/4u/CX4170a/1_CX4170a_CORNER BRACKET.jpg",
+      "width_px": 3603,
+      "height_px": 2574,
+      "format": "JPEG",
+      "size_bytes": 1143121,
+      "sha256": "4c0e9ae873d6abf4e31a29c4bcdf80432523c48a12e6a7576f31e761c7cbd03b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
       "id": "cx4170a-0be2c2b87499",
       "original_filename": "1a_CX4170a_LID UNSCREW.jpg",
       "local_path": "illustrations/4u/CX4170a/1a_CX4170a_LID UNSCREW.jpg",
@@ -279,6 +291,18 @@
       }
     },
     {
+      "id": "cx4170a-a8a8c5ab1a2f",
+      "original_filename": "2_CX4170a_CORNER 180 BRACKET.jpg",
+      "local_path": "illustrations/4u/CX4170a/2_CX4170a_CORNER 180 BRACKET.jpg",
+      "width_px": 3668,
+      "height_px": 2620,
+      "format": "JPEG",
+      "size_bytes": 1296570,
+      "sha256": "fb6d25fba5655b33a4e4710c028fedff711b0cc91c89a1067cc7dce31629b5fa",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
       "id": "cx4170a-dde8881a55e4",
       "original_filename": "2_CX4170a_FACEPLATE REMOVE.jpg",
       "local_path": "illustrations/4u/CX4170a/2_CX4170a_FACEPLATE REMOVE.jpg",
@@ -300,6 +324,18 @@
         "full_resolution_path": "_build/cleaned-renders/CX4170a/2_CX4170a_FACEPLATE REMOVE-white.png",
         "authorization": "Requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "cx4170a-01ceb0b0780f",
+      "original_filename": "3_CX4170a_CORNER.jpg",
+      "local_path": "illustrations/4u/CX4170a/3_CX4170a_CORNER.jpg",
+      "width_px": 3676,
+      "height_px": 2626,
+      "format": "JPEG",
+      "size_bytes": 1041116,
+      "sha256": "48fd8d20bb30ee4d2eb874115394efaa44194f9abca58b75e2d94b25d9f7b818",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
     },
     {
       "id": "cx4170a-557473438537",
@@ -369,6 +405,18 @@
         "full_resolution_path": "_build/cleaned-renders/CX4170a/3c_CX4170a_DRIVES INSTALL-white.png",
         "authorization": "Requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "cx4170a-51e8b18e2c6e",
+      "original_filename": "4_CX4170a_CORNER 180.jpg",
+      "local_path": "illustrations/4u/CX4170a/4_CX4170a_CORNER 180.jpg",
+      "width_px": 3641,
+      "height_px": 2601,
+      "format": "JPEG",
+      "size_bytes": 1058512,
+      "sha256": "2374fb0a4996f98e873fe16295edcb40879ffe4222128d93d4291ade46e40897",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
     },
     {
       "id": "cx4170a-35bad441cd0d",
@@ -532,6 +580,18 @@
       }
     },
     {
+      "id": "cx4170a-c93bc4fa0e82",
+      "original_filename": "5_CX4170a_CORNER 240mm .jpg",
+      "local_path": "illustrations/4u/CX4170a/5_CX4170a_CORNER 240mm .jpg",
+      "width_px": 3475,
+      "height_px": 2482,
+      "format": "JPEG",
+      "size_bytes": 874881,
+      "sha256": "21e8aa63424fd85231241ab12c942e34fb850a732f7496aefbefec99269c13b5",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
       "id": "cx4170a-a871477c30da",
       "original_filename": "5a_CX4170a_STANDOFF INSTALL.jpg",
       "local_path": "illustrations/4u/CX4170a/5a_CX4170a_STANDOFF INSTALL.jpg",
@@ -577,6 +637,18 @@
       "sha256": "f54944daf06c2de8bf93b3abe09188290e41d8a2fbb894e135c1a6c6bfd10917",
       "selection_status": "candidate",
       "note": "Uploaded CX4170a original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4170a-4193cd2ca4b6",
+      "original_filename": "6_CX4170a_CORNER 240mm 180.jpg",
+      "local_path": "illustrations/4u/CX4170a/6_CX4170a_CORNER 240mm 180.jpg",
+      "width_px": 3465,
+      "height_px": 2475,
+      "format": "JPEG",
+      "size_bytes": 937565,
+      "sha256": "6f28de90f181d342671605b7833f643ca58704a0ed3ee4c92ecb6a242365608a",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
     },
     {
       "id": "cx4170a-6099bde3cf5e",
@@ -625,6 +697,18 @@
       }
     },
     {
+      "id": "cx4170a-1fc81e03b015",
+      "original_filename": "7_CX4170a_CORNER 360mm DRIVE.jpg",
+      "local_path": "illustrations/4u/CX4170a/7_CX4170a_CORNER 360mm DRIVE.jpg",
+      "width_px": 4320,
+      "height_px": 3086,
+      "format": "JPEG",
+      "size_bytes": 1271782,
+      "sha256": "0e8e3e15ef906c26afca5080ef7b9bb5fb75dee7a651fe8aa4dce53184376b5e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
       "id": "cx4170a-eb3e9ec63266",
       "original_filename": "7_CX4170a_PSU.jpg",
       "local_path": "illustrations/4u/CX4170a/7_CX4170a_PSU.jpg",
@@ -646,6 +730,18 @@
         "full_resolution_path": "_build/cleaned-renders/CX4170a/7_CX4170a_PSU-white.png",
         "authorization": "Requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "cx4170a-cbeb7d271c53",
+      "original_filename": "8_CX4170a_CORNER 360mm DRIVE 180.jpg",
+      "local_path": "illustrations/4u/CX4170a/8_CX4170a_CORNER 360mm DRIVE 180.jpg",
+      "width_px": 4351,
+      "height_px": 3108,
+      "format": "JPEG",
+      "size_bytes": 1147249,
+      "sha256": "308a11dbab40d3a61f900240812503de99a10f4c04a0f15898f801ae4d9a0b02",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
     },
     {
       "id": "cx4170a-5065e6aea9f3",
@@ -694,16 +790,17 @@
       }
     },
     {
-      "id": "cx4170a-2fdafe15b697",
-      "original_filename": "_CX4170a_rendering.jpg",
-      "local_path": "illustrations/4u/CX4170a/_CX4170a_rendering.jpg",
-      "width_px": 4768,
-      "height_px": 3405,
+      "id": "cx4170a-4ee1334e61ea",
+      "original_filename": "CX4170a_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+      "local_path": "illustrations/4u/CX4170a/CX4170a_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+      "width_px": 5200,
+      "height_px": 4986,
       "format": "JPEG",
-      "size_bytes": 1242223,
-      "sha256": "9e8ca067566171da952c2dabb1ac3092604a0fac8bceb8517207012b8428353a",
+      "size_bytes": 3724934,
+      "sha256": "0640984d179c0fe1f0ab7f680932829667dafd62c18c44fb21074eb3522ed007",
       "selection_status": "candidate",
-      "note": "Uploaded CX4170a original; configuration applicability requires reference review.",
+      "note": "Supplied 2026-11-06 for the cable-management page (bar highlighted in green on the tray).",
+      "proposed_section": "cable-management",
       "background_cleanup": {
         "reference_rgb": [
           250,
@@ -712,9 +809,45 @@
         ],
         "tolerance_per_channel": 4,
         "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX4170a/_CX4170a_rendering-white.png",
-        "authorization": "Requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+        "full_resolution_path": "_build/cleaned-renders/CX4170a/CX4170a_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "cx4170a-033b01d387a1",
+      "original_filename": "_CX4170a-1.jpg",
+      "local_path": "illustrations/4u/CX4170a/_CX4170a-1.jpg",
+      "width_px": 6000,
+      "height_px": 2717,
+      "format": "JPEG",
+      "size_bytes": 2268163,
+      "sha256": "155bb9778723f2c0a92aaf2311c33c5309b147db8ee9f6d509f5a4ea3ba119d0",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4170a-434b645eccb7",
+      "original_filename": "_CX4170a-2.jpg",
+      "local_path": "illustrations/4u/CX4170a/_CX4170a-2.jpg",
+      "width_px": 6000,
+      "height_px": 2717,
+      "format": "JPEG",
+      "size_bytes": 2826210,
+      "sha256": "4272a26c07267f6c2999f10045fd2c300a5e1281510ce3725d09eb1ae23b67a3",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4170a-6be873f818df",
+      "original_filename": "_CX4170a-3.jpg",
+      "local_path": "illustrations/4u/CX4170a/_CX4170a-3.jpg",
+      "width_px": 6000,
+      "height_px": 2717,
+      "format": "JPEG",
+      "size_bytes": 1215014,
+      "sha256": "8d4391418a66e29eb54f1b9eac346b0ab0ab54d81106f331d3f2614c5660d780",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
     },
     {
       "id": "cx4170a-bfaff7d61ab3",
@@ -809,6 +942,18 @@
       }
     },
     {
+      "id": "cx4170a-8bc3e1d3d84f",
+      "original_filename": "_CX4170a_FRONT.tif",
+      "local_path": "illustrations/4u/CX4170a/_CX4170a_FRONT.tif",
+      "width_px": 7551,
+      "height_px": 3775,
+      "format": "TIFF",
+      "size_bytes": 6781932,
+      "sha256": "eeee907f60f24aec9c1a113d5e3361902c10e5660f5d2554bac6d3cf9ae48fa4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
       "id": "cx4170a-e846e1ac1b91",
       "original_filename": "_CX4170a_RACK_EAR.jpg",
       "local_path": "illustrations/4u/CX4170a/_CX4170a_RACK_EAR.jpg",
@@ -828,6 +973,41 @@
         "tolerance_per_channel": 4,
         "publication_format": "jpeg",
         "full_resolution_path": "_build/cleaned-renders/CX4170a/_CX4170a_RACK_EAR-white.png",
+        "authorization": "Requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4170a-6d209e5b3635",
+      "original_filename": "_CX4170a_REAR.tif",
+      "local_path": "illustrations/4u/CX4170a/_CX4170a_REAR.tif",
+      "width_px": 6836,
+      "height_px": 3418,
+      "format": "TIFF",
+      "size_bytes": 4282846,
+      "sha256": "589e6af000454f083303012ee419dd961dd86c062a911b16c96c7980172756cb",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx4170a-2fdafe15b697",
+      "original_filename": "_CX4170a_rendering.jpg",
+      "local_path": "illustrations/4u/CX4170a/_CX4170a_rendering.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1242223,
+      "sha256": "9e8ca067566171da952c2dabb1ac3092604a0fac8bceb8517207012b8428353a",
+      "selection_status": "candidate",
+      "note": "Uploaded CX4170a original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4170a/_CX4170a_rendering-white.png",
         "authorization": "Requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
     }
