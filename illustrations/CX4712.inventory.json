@@ -881,6 +881,30 @@
       }
     },
     {
+      "id": "cx4712-04601cb898a9",
+      "original_filename": "CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+      "local_path": "illustrations/4u/CX4712/CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+      "width_px": 5200,
+      "height_px": 4290,
+      "format": "JPEG",
+      "size_bytes": 3683025,
+      "sha256": "ccc0c29a2ce8c8be42b28490d255263053fa885cb7643030995a0ace9511e9bd",
+      "selection_status": "candidate",
+      "note": "Supplied 2026-11-06 for the cable-management page (bar highlighted in green on the tray).",
+      "proposed_section": "cable-management",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx4712-d60c553fbd34",
       "original_filename": "_CX4712-A_FAN BRACKET MOVED.jpg",
       "local_path": "illustrations/4u/CX4712/_CX4712-A_FAN BRACKET MOVED.jpg",

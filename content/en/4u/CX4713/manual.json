@@ -550,8 +550,10 @@
       "title": "Route cables & close the chassis",
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
-      "images": [],
-      "layout": "text"
+      "images": [
+        "CX4713_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "support",
