@@ -1,0 +1,378 @@
+{
+  "2StandardOrientationPanels.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-c8d8623ca327.png",
+    "source_path": "illustrations/desktop/S640/2StandardOrientationPanels.jpg",
+    "source_sha256": "c8d8623ca3274cff50fd1ad4b968d0f826655ab29ff8fd75efd30cd7b280cbee",
+    "sha256": "a761870e7856a2ba90a349fe0354c4d70923b643900eb470b34aa72d3e9d5507",
+    "dimensions_px": [
+      1400,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        249,
+        251,
+        250
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7808163,
+      "total_pixels": 9000000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/S640/2StandardOrientationPanels-white.png",
+      "full_resolution_dimensions_px": [
+        3000,
+        3000
+      ],
+      "full_resolution_sha256": "bff947787f69ae23e433b788e18144d48d4d690cb0b02abe9c31a2cba040b14c"
+    }
+  },
+  "3.1_ioShieldInstall.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-4669e45d1e86.jpg",
+    "source_path": "illustrations/desktop/S640/3.1_ioShieldInstall.jpg",
+    "source_sha256": "4669e45d1e8666302c8bd6eb3ce901809ba5e5be78044d978cc62a2f5734239d",
+    "sha256": "cef93533efb48ed0620d160a4e2fd689ab435ca9265770c03de3b4b44e5a0264",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3.1_moboinstall..jpg": {
+    "path": "illustrations/published/desktop/S640/s640-b2cbcd86d10b.jpg",
+    "source_path": "illustrations/desktop/S640/3.1_moboinstall..jpg",
+    "source_sha256": "b2cbcd86d10be74bfe8853b83ae7fac4abec5cf32d99e675de5816596ac65e08",
+    "sha256": "a3aaf57a790581b02d6ba870071b510e37a36463ef16ed21d716963b243b9040",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3.1_standoffInstall.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-2db2d945cdd4.jpg",
+    "source_path": "illustrations/desktop/S640/3.1_standoffInstall.jpg",
+    "source_sha256": "2db2d945cdd438b716f577590d49ac11026daa0587fccaf28b6605ce9a596346",
+    "sha256": "88c5ce5afc192b021508c3e44ca19259724d71f82fee22a28822be7ddb63b2e9",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3.3_ATXBracketInstall.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-fafd1d374e24.jpg",
+    "source_path": "illustrations/desktop/S640/3.3_ATXBracketInstall.jpg",
+    "source_sha256": "fafd1d374e246a94a8ffa4ecdf58733b31d58cde69bc20b8e1efecf950b4487a",
+    "sha256": "59ae1ccf59cb0856721a3cf1e56a0bb8f113d15c4c169d6631b3350ed3180189",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3.3_SFXBracketInstall.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-c97a8ee20f06.jpg",
+    "source_path": "illustrations/desktop/S640/3.3_SFXBracketInstall.jpg",
+    "source_sha256": "c97a8ee20f0650bf5b168609aba7b8130f892243c1dfc833f154d6b8c519955f",
+    "sha256": "cd4b8c0ee49646fc5c1f82cbe456e94b8c0c616996bfe338ee7a6f09be3a96f9",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3FlippedOrientationPanels.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-182dfe49063b.png",
+    "source_path": "illustrations/desktop/S640/3FlippedOrientationPanels.jpg",
+    "source_sha256": "182dfe49063b6ebed67b87adc92b000823ffa2461af053d6260c9991b553ac8d",
+    "sha256": "7eb35bfee5ceb28af64d97daa5fdac36916e0ccf1b2b556824b2f61466e307a8",
+    "dimensions_px": [
+      1400,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        249,
+        251,
+        250
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7771896,
+      "total_pixels": 9000000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/S640/3FlippedOrientationPanels-white.png",
+      "full_resolution_dimensions_px": [
+        3000,
+        3000
+      ],
+      "full_resolution_sha256": "d7848981811c3c1e2c588ec562edcfac011408a010317fad185d4d9ea9d85907"
+    }
+  },
+  "4AioMountingLocations.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-5187e98b7cb9.png",
+    "source_path": "illustrations/desktop/S640/4AioMountingLocations.jpg",
+    "source_sha256": "5187e98b7cb94031163d60f41547bdb9219531c9f2d5dc9e6068c020c71e5773",
+    "sha256": "24a92c652393ac2169c464261ab93793dbef649268e301a65b1d7d8c68ebc92e",
+    "dimensions_px": [
+      1400,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        249,
+        251,
+        250
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12887645,
+      "total_pixels": 16000000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/S640/4AioMountingLocations-white.png",
+      "full_resolution_dimensions_px": [
+        4000,
+        4000
+      ],
+      "full_resolution_sha256": "b3551dd26d076d79414b60a35aebc790a9a7cc7c1fd32369b5d3af6557880d9b"
+    }
+  },
+  "5FanMountingLocations.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-3bc425bf7e0b.png",
+    "source_path": "illustrations/desktop/S640/5FanMountingLocations.jpg",
+    "source_sha256": "3bc425bf7e0b43852b2e6dc1e2aacea7153c8d21a964423128ba9b55103a45e1",
+    "sha256": "ba20e9805d7e27eda7b811b1086a01e9dc1ce1ff7f910546111238070290e1d3",
+    "dimensions_px": [
+      1400,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        249,
+        251,
+        250
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13150206,
+      "total_pixels": 16000000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/S640/5FanMountingLocations-white.png",
+      "full_resolution_dimensions_px": [
+        4000,
+        4000
+      ],
+      "full_resolution_sha256": "33f92fbdfefef1074b1e7a3041b0fe2e4b81ec79c91961f4a3ba3db38fe6540f"
+    }
+  },
+  "6ATXMountingLocations1.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-105a1064bc80.png",
+    "source_path": "illustrations/desktop/S640/6ATXMountingLocations1.jpg",
+    "source_sha256": "105a1064bc80decd2cc972700dd59b954bfc4666accd62cf5476e8154a077f3c",
+    "sha256": "58734d5cf0ec05f2034e66161c22f396313c51871e179223fd33c9df05839691",
+    "dimensions_px": [
+      1400,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        249,
+        251,
+        250
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13316500,
+      "total_pixels": 16000000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/S640/6ATXMountingLocations1-white.png",
+      "full_resolution_dimensions_px": [
+        4000,
+        4000
+      ],
+      "full_resolution_sha256": "9de828d68d486738fcc9ba9a00c9d32c67a375e5da064aaad859b349be8d6787"
+    }
+  },
+  "7ATXMountingLocations2.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-f3e3fd33d848.png",
+    "source_path": "illustrations/desktop/S640/7ATXMountingLocations2.jpg",
+    "source_sha256": "f3e3fd33d848a34f6f83d57be4ba430de84b98ed9ef6f57a8b59b7b7d34e5559",
+    "sha256": "187b03d99f9ebc47433059eda42a8c895833f5cb54b737d40ea228d89ec3e797",
+    "dimensions_px": [
+      1400,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        249,
+        251,
+        250
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12258113,
+      "total_pixels": 16000000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/S640/7ATXMountingLocations2-white.png",
+      "full_resolution_dimensions_px": [
+        4000,
+        4000
+      ],
+      "full_resolution_sha256": "d62cf13bed690a28408b29badea46dffc8fad3eca84e17cbb2eef391b4b37deb"
+    }
+  },
+  "8SFXMountingLocations1.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-ef2300f12185.png",
+    "source_path": "illustrations/desktop/S640/8SFXMountingLocations1.jpg",
+    "source_sha256": "ef2300f12185a7811765b29f04a0d0f088894982b93fd0ffa32ea8f85a150039",
+    "sha256": "c10cf40ab98d42240a8a818889acb7c34a44b5987fa70384f043189d22b57de8",
+    "dimensions_px": [
+      1400,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        249,
+        251,
+        250
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13492584,
+      "total_pixels": 16000000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/S640/8SFXMountingLocations1-white.png",
+      "full_resolution_dimensions_px": [
+        4000,
+        4000
+      ],
+      "full_resolution_sha256": "8ce5860d48817897d3e7115b6bed894dc703e50bdd17b58d97f634b526aa11d4"
+    }
+  },
+  "9SFXMountingLocations2.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-b36593eca46f.png",
+    "source_path": "illustrations/desktop/S640/9SFXMountingLocations2.jpg",
+    "source_sha256": "b36593eca46fb22ead32097227580bbacb471cda2e9d57aeb6d60c7f93253ae6",
+    "sha256": "79aad9f2a91f24534332eb440fb31974679410e56bde6a3d18040709f22bc815",
+    "dimensions_px": [
+      1400,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; lossless RGB PNG. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        249,
+        251,
+        250
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12406658,
+      "total_pixels": 16000000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/S640/9SFXMountingLocations2-white.png",
+      "full_resolution_dimensions_px": [
+        4000,
+        4000
+      ],
+      "full_resolution_sha256": "f0d65386dbdd552628bc364dba519127dd51f8a1a71ee93d769577ae83ca4e4c"
+    }
+  },
+  "2.2_FPIORemoval_Step1.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-b7c13883d64b.jpg",
+    "source_path": "illustrations/desktop/S640/2.2_FPIORemoval_Step1.jpg",
+    "source_sha256": "b7c13883d64b9125bb789139ab2e30a523c5c4b5a0216c0ccb0bbaa54e22a6c6",
+    "sha256": "661aac79b6a2d8addaf13dc5d4e86dd2728c4dcea4c31850f3275821ab88e8fd",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_S640B_IOjpg.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-58fae754b0ff.jpg",
+    "source_path": "illustrations/desktop/S640/_S640B_IOjpg.jpg",
+    "source_sha256": "58fae754b0ff19b4f1420f3282729ec59002f962211f3359e79d86d28e6fa3a3",
+    "sha256": "c3220d9d4de54e0f11d468259798024127ab50cf71cff6a2e73dfde897a2b16e",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_S640B_IO.png": {
+    "path": "illustrations/published/desktop/S640/s640-4ace8912c11d.png",
+    "source_path": "illustrations/desktop/S640/_S640B_IO.png",
+    "source_sha256": "4ace8912c11d4a29759446844d47e64e1183eb33c278231a8d9e943b075c5996",
+    "sha256": "368a4d474a71ccad4c8c0b97786509520d48481d1798a5ef18be2ad59d0f5900",
+    "dimensions_px": [
+      366,
+      762
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3.4_PCIeinstall.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-70abb9434367.jpg",
+    "source_path": "illustrations/desktop/S640/3.4_PCIeinstall.jpg",
+    "source_sha256": "70abb9434367a8d6a0b097836fd04567d1dbb2568fc50cd6062402082322d492",
+    "sha256": "34a9b07ea52d6af2010c26e54ad033a77b312105b0abf3437f9294a056046652",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_S640_Esplode.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-e81b415e69cf.jpg",
+    "source_path": "illustrations/desktop/S640/_S640_Esplode.jpg",
+    "source_sha256": "e81b415e69cf1162ac1e5d92cd313e5e7f0769957a78d6c40a9b29b1c7f7b641",
+    "sha256": "585d8a7080d3e863b3d2bfaea723cb0c8665601341729b3ed5294e00ce9d5c83",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_S640_BG_3.2-SideFanBracketInstall.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-d48b24f1e5b9.jpg",
+    "source_path": "illustrations/desktop/S640/_S640_BG_3.2-SideFanBracketInstall.jpg",
+    "source_sha256": "d48b24f1e5b9594b8402f3d4f7142d225ca8d61b0dbc93f51c5288a76e693680",
+    "sha256": "27d8ead81fde57246a4d1e9162c5f34c2df1a449779aabe2f6aab138553d026f",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_S640_swtichoptions.jpg": {
+    "path": "illustrations/published/desktop/S640/s640-fda291f6814e.jpg",
+    "source_path": "illustrations/desktop/S640/_S640_swtichoptions.jpg",
+    "source_sha256": "fda291f6814eb5d8928970a7bd36626b08ec2d3e286450af3ef8c1269dc2e532",
+    "sha256": "6de8559b0ce88dbe871984b55c07e933ebcff693f64b2dafcb6558672cd3a79a",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  }
+}

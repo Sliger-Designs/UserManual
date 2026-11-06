@@ -21,7 +21,7 @@ import urllib.request
 
 import manual_build
 from manual_localization import RecordingLocalizer
-from manual_paths import MODEL_CATEGORIES, ROOT, content_directory
+from manual_paths import MODEL_CATEGORIES, ROOT, content_directory, published_directory
 
 # Changes here can affect every manual (and every translation package's editor).
 GLOBAL_PREFIXES = ('scripts/', 'templates/', 'glossary/', 'products/shared/', 'illustrations/published/common/',
@@ -44,7 +44,7 @@ def model_inputs(model):
     recorder.model = model
     manual_build.build(model, None, localizer=recorder, render_only=True)
     folders = (content_directory(model).relative_to(ROOT).as_posix() + '/', f'products/{model}.json',
-               f'illustrations/published/{model}/', f'releases/en/{MODEL_CATEGORIES[model]}/{model}/')
+               published_directory(model).relative_to(ROOT).as_posix() + '/', f'releases/en/{MODEL_CATEGORIES[model]}/{model}/')
     return set(recorder.markdown_files), folders
 
 

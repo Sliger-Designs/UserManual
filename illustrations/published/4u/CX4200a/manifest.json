@@ -1,0 +1,1017 @@
+{
+  "10a_CX4200a_DRIVE BRACKET 2 INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-d3c15f50f189.jpg",
+    "source_path": "illustrations/4u/CX4200a/10a_CX4200a_DRIVE BRACKET 2 INSTALL.jpg",
+    "source_sha256": "cc9c49aefce7090435fed309966cc5eb0f270ce3cb72b741dc5b039635897068",
+    "sha256": "f590d960653422e05c897d290856999f9802d1b44b46b48d35e67ca1022be6b0",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8896715,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/10a_CX4200a_DRIVE BRACKET 2 INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "5dbcb229278512c8ec0ed6bc06a17db6a4d1873d153c162b73037810c38a6e13"
+    }
+  },
+  "10b_CX4200a_DRIVE BRACKET 2 SCREW.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-564c684ed44f.jpg",
+    "source_path": "illustrations/4u/CX4200a/10b_CX4200a_DRIVE BRACKET 2 SCREW.jpg",
+    "source_sha256": "5f9be4f9b7fe5fb4baf67d79616df4fade9ef327e67324540f0a0fb6f9beab1d",
+    "sha256": "07f2281db255a06b09f513784deddb89d6c701ba64ffeab53ad2c67043dac625",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 6696433,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/10b_CX4200a_DRIVE BRACKET 2 SCREW-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "344d0f02d914644dd3c47d80ca0a37355af534cda34dbe221e75e8c58d239390"
+    }
+  },
+  "11_CX4200a_RACK EARS.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-d3b19c70ea68.jpg",
+    "source_path": "illustrations/4u/CX4200a/11_CX4200a_RACK EARS.jpg",
+    "source_sha256": "2ef4c43a6eaff73ad1ef7bf2c5a47e8d37e7682c5ea8ba9d5d2a3863171ca3ff",
+    "sha256": "48d7beb8597f12071c6044e2fed73994e12f4c080cc038fb7a58944f24c69a06",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13577298,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/11_CX4200a_RACK EARS-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "52680a7716c4209bfec47950a411d6298d343cce75fafbdc055689539916f80c"
+    }
+  },
+  "12a_CX4200a_TRAY UNSCREW.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-424bbf967057.jpg",
+    "source_path": "illustrations/4u/CX4200a/12a_CX4200a_TRAY UNSCREW.jpg",
+    "source_sha256": "01ec1101c685bc44d5a561f394dafe3e749c15d1f39bf996dc0715dbf8042e04",
+    "sha256": "dfb9e2a71081b9dbddfd50e9f71c46bd9d2ca38ea977b3935934df7ee356d843",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10285324,
+      "total_pixels": 19499700,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/12a_CX4200a_TRAY UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        5225,
+        3732
+      ],
+      "full_resolution_sha256": "cbbd97f39360c92a2e1bff679f60c9997fe0c7b8e35ce9c51e907d175c0bc1d9"
+    }
+  },
+  "12b_CX4200a_TRAY SLIDE BACK.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-9335232c59c5.jpg",
+    "source_path": "illustrations/4u/CX4200a/12b_CX4200a_TRAY SLIDE BACK.jpg",
+    "source_sha256": "c658afa0142e5b0d6a77218c86d64e720c4bf1669b9bb3e062f2428c98739025",
+    "sha256": "8cc9ace845a2f071d2a400ccd5f9b1c9db69933e5e2eadf01ae5cae05372495e",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 5323447,
+      "total_pixels": 11390888,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/12b_CX4200a_TRAY SLIDE BACK-white.png",
+      "full_resolution_dimensions_px": [
+        3994,
+        2852
+      ],
+      "full_resolution_sha256": "09b2b6734fcc884a7b2bdfd6b1ef42cb1072e13a77f0aa8d887a24cf93097de2"
+    }
+  },
+  "12c_CX4200a_TRAY SLIDE BACK 2.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-4f81ca5e49e1.jpg",
+    "source_path": "illustrations/4u/CX4200a/12c_CX4200a_TRAY SLIDE BACK 2.jpg",
+    "source_sha256": "3e23bbb36fdf3b0a252d711c01027e63bcc1602a781f0a20368ebf9db9ced584",
+    "sha256": "c64c13d2bff5cad70db1bcf0ca24ca093c274e481fdfa7489217138106cb14c5",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9085659,
+      "total_pixels": 16335312,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/12c_CX4200a_TRAY SLIDE BACK 2-white.png",
+      "full_resolution_dimensions_px": [
+        4782,
+        3416
+      ],
+      "full_resolution_sha256": "0e12589b5d21e643e952b05220543ecb2a87683d8b1b3e83c9f5a386038b9a33"
+    }
+  },
+  "12d_CX4200a_TRAY INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-e91d0028ab50.jpg",
+    "source_path": "illustrations/4u/CX4200a/12d_CX4200a_TRAY INSTALL.jpg",
+    "source_sha256": "faba2ce5b78200a0c782b616a3b04b0ce66e0a2ec5962740a582253a0f2a64d2",
+    "sha256": "e8f0eb0d6bc3075f5a4834ea1c92c5b67ab7f3432c1962efe9304cf503db28f5",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8593674,
+      "total_pixels": 16335312,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/12d_CX4200a_TRAY INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4782,
+        3416
+      ],
+      "full_resolution_sha256": "62814afd933d4408360e17cc490d7e77a2c623e6fdb8e9ce02e9e2a416b0e5b0"
+    }
+  },
+  "12e_CX4200a_TRAY INSTALL 2.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-a879805cedb0.jpg",
+    "source_path": "illustrations/4u/CX4200a/12e_CX4200a_TRAY INSTALL 2.jpg",
+    "source_sha256": "f05086828ce3bae3d3aab8e6428ee7a715c1c1e5b43154fb73321568804fc6c5",
+    "sha256": "09b397799cfa07db76c8178763464dd99687e96533a3996f215fef877946d525",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9715512,
+      "total_pixels": 16335312,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/12e_CX4200a_TRAY INSTALL 2-white.png",
+      "full_resolution_dimensions_px": [
+        4782,
+        3416
+      ],
+      "full_resolution_sha256": "de1006eb6ac6200f6b3dfabbfda2354c04fbc75d5f7463861d8cbdedb8d35b5b"
+    }
+  },
+  "12f_CX4200a_TRAY SCREW INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-d3040cfa1217.jpg",
+    "source_path": "illustrations/4u/CX4200a/12f_CX4200a_TRAY SCREW INSTALL.jpg",
+    "source_sha256": "1ca982a7e488dd29b475dac22ef52144a191f334473f2555cac800d90f3d5f85",
+    "sha256": "7d6284a747811188f87ef676afb33da75c41324b3d08beaa3a3630e7d1738035",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 5074600,
+      "total_pixels": 11461166,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/12f_CX4200a_TRAY SCREW INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4006,
+        2861
+      ],
+      "full_resolution_sha256": "03a8632bce9e388847dbe94e68b4e64cd6877f43b43712a328ecc6bce83ee7a1"
+    }
+  },
+  "1a_CX4200a_LID UNSCREW.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-7928b24840eb.jpg",
+    "source_path": "illustrations/4u/CX4200a/1a_CX4200a_LID UNSCREW.jpg",
+    "source_sha256": "7c577eb874452951f4198f6a0680741a885150c95e161471c3ec5f4bf4d82788",
+    "sha256": "5ee946eb84f71e4ee3834981e1060a2773daa29b2e99ad98b1ecadf2743fa22e",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13237107,
+      "total_pixels": 23224246,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/1a_CX4200a_LID UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        5702,
+        4073
+      ],
+      "full_resolution_sha256": "14e74681328562ebd6591205a5837caf9ac96e85e17f47d85b43f22721ca10c6"
+    }
+  },
+  "1b_CX4200a_LID SLIDE BACK.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-1aaebc26e8de.jpg",
+    "source_path": "illustrations/4u/CX4200a/1b_CX4200a_LID SLIDE BACK.jpg",
+    "source_sha256": "2c123f65a466466ed5987df5f080f6ffa53c3f86ac9e549deb83d383bacedcd2",
+    "sha256": "7af54e46dc825571337b9eb1447d7c28f25613d22e16a56c3dbfa10e79063abf",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12639851,
+      "total_pixels": 27599040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/1b_CX4200a_LID SLIDE BACK-white.png",
+      "full_resolution_dimensions_px": [
+        6216,
+        4440
+      ],
+      "full_resolution_sha256": "4dff179e4dc10936012f1ca2a5aedc53fa4f73e13c57320cad2a9efb00ffdb06"
+    }
+  },
+  "1c_CX4200a_LID REMOVE.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-b37c408071e4.jpg",
+    "source_path": "illustrations/4u/CX4200a/1c_CX4200a_LID REMOVE.jpg",
+    "source_sha256": "75a88a874ed7ae6660f3cf98cde2dc4eebf44b4fab0ba51a03a4c9ec1de8eee0",
+    "sha256": "0d431b007b8aecc8ada0002d0a949e9e594df63c2c4ca697d04f19ca2b061a76",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11320644,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/1c_CX4200a_LID REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "b283df2f3e81ebc5470af40c0c5a1f2481cbb7f1491fae2e6611b0c389116c78"
+    }
+  },
+  "2_CX4200a_FACEPLATE REMOVE.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-be8fa4db805b.jpg",
+    "source_path": "illustrations/4u/CX4200a/2_CX4200a_FACEPLATE REMOVE.jpg",
+    "source_sha256": "21aad37b434940261e47b8697e06e665b68c0d925996fa57a467e99f955bc68a",
+    "sha256": "b6a266db49a4901625a6e75d7b84cbf120d485c9678e40511f185e68596cb27b",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 17169055,
+      "total_pixels": 23224246,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/2_CX4200a_FACEPLATE REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        5702,
+        4073
+      ],
+      "full_resolution_sha256": "339616e82d9a9378ca82e97eb57fffa2887f122ef08b75c7dde81aaf94bfdee5"
+    }
+  },
+  "3a_CX4200a_DRIVE BRACKET 2 UNSCREW.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-ae8b99b921bb.jpg",
+    "source_path": "illustrations/4u/CX4200a/3a_CX4200a_DRIVE BRACKET 2 UNSCREW.jpg",
+    "source_sha256": "f79b4b12976d6319dad43412062b398c4d502273d64a45cabf2bfb7f9608ddf5",
+    "sha256": "b0d4b4d309047d85e1404e45e217b7708fc29d75da08a03a47125506456af50f",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 5901257,
+      "total_pixels": 13577040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/3a_CX4200a_DRIVE BRACKET 2 UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        4360,
+        3114
+      ],
+      "full_resolution_sha256": "7e10daddde949e0267220aa551567a593a393467b654a30e68a08a25ecfa7314"
+    }
+  },
+  "3b_CX4200a_DRIVE BRACKET 2 REMOVE.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-26b8e3e08785.jpg",
+    "source_path": "illustrations/4u/CX4200a/3b_CX4200a_DRIVE BRACKET 2 REMOVE.jpg",
+    "source_sha256": "2cd7ee9305f4935a67c802638554b39ece56901c6a33d7ff520b1749133bc510",
+    "sha256": "c01650a19e9c6e8ee0ab074c5d718882fa979999dc901520dbc9c767e2f9f71b",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 14690704,
+      "total_pixels": 19291264,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/3b_CX4200a_DRIVE BRACKET 2 REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        5197,
+        3712
+      ],
+      "full_resolution_sha256": "df1863d25b9b10aa23204007d138702fdb479cb059bbb7244ebe7c3084c42c80"
+    }
+  },
+  "3c_CX4200a_DRIVES INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-36dc9a073f45.jpg",
+    "source_path": "illustrations/4u/CX4200a/3c_CX4200a_DRIVES INSTALL.jpg",
+    "source_sha256": "041947b60e2934df017b15f57134b124fc6df7295e4a49066393bb9463171ae4",
+    "sha256": "d67365d5919f59d2994e95b4c0ec094e5435f329aa7131da24aefbe16d42fbba",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10043179,
+      "total_pixels": 11008504,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/3c_CX4200a_DRIVES INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        3926,
+        2804
+      ],
+      "full_resolution_sha256": "2bc5271a4aed6a60f067b11ad8161398bbe1d79bffe6850cc8e5433ff27835b9"
+    }
+  },
+  "4a_CX4200a_FAN INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-54a2d2fb5a27.jpg",
+    "source_path": "illustrations/4u/CX4200a/4a_CX4200a_FAN INSTALL.jpg",
+    "source_sha256": "bb7c61e264193d7b17701ed11efb66944c56d6f2ab7a974e0dd5442aba0e116a",
+    "sha256": "b1ea0ae105878fbc385143d06be643bd3245fc2ab34968269553604c46f0f0e6",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11872202,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/4a_CX4200a_FAN INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "55444420c839a5b303ab54359ac8eedf1c59089a6887735fdaeeaa8d1d742dc2"
+    }
+  },
+  "4b_CX4200a_FAN INSTALL PRECOOLER.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-ed550c2583b4.jpg",
+    "source_path": "illustrations/4u/CX4200a/4b_CX4200a_FAN INSTALL PRECOOLER.jpg",
+    "source_sha256": "2ab61914882af63643a71e3c236c08c955615ce5648aca4cbfda58b339278c53",
+    "sha256": "a541ee8a3288ab3d55fbcc1910e936afa589a80c74ca3ac27dc5a22ffe7843af",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 14145345,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/4b_CX4200a_FAN INSTALL PRECOOLER-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "172188680244d31354810870b6f20ec2380fdb9e860c5e8b211b03724bd8ec1c"
+    }
+  },
+  "4c_CX4200a_FAN INSTALL + AIO.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-c3bd3326b53f.jpg",
+    "source_path": "illustrations/4u/CX4200a/4c_CX4200a_FAN INSTALL + AIO.jpg",
+    "source_sha256": "92078650848e7671d52dce1bca5e0e1989213add10e7e494561c327017d4f623",
+    "sha256": "4d3e762eb6081afb5dc24cd2f67f1dcc541318374468d845c2c5bfe5cc443735",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11777724,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/4c_CX4200a_FAN INSTALL + AIO-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "04fc2b679d949198512a12ac98c7c1ff85936304a6bd4ca995750a56faddfb90"
+    }
+  },
+  "4d_CX4200a_FAN INSTALL PULL.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-40638c217367.jpg",
+    "source_path": "illustrations/4u/CX4200a/4d_CX4200a_FAN INSTALL PULL.jpg",
+    "source_sha256": "1234f2be16f230b93e05cf6dba93c5f19b58f811ac916269789f1354095040ed",
+    "sha256": "f7b6f1260d7ae18423e6bd132cd7601851673bcbad1b6fa70122c8a63cbdc21d",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 6805344,
+      "total_pixels": 11350989,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/4d_CX4200a_FAN INSTALL PULL-white.png",
+      "full_resolution_dimensions_px": [
+        3987,
+        2847
+      ],
+      "full_resolution_sha256": "0a34f85bc144fb8a333a620903c666bf244378a23c061b333f5eabba0e616086"
+    }
+  },
+  "4e_CX4200a_FAN INSTALL + AIO + PULL.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-756933dd12fb.jpg",
+    "source_path": "illustrations/4u/CX4200a/4e_CX4200a_FAN INSTALL + AIO + PULL.jpg",
+    "source_sha256": "13dcc7675423269c6285778411ffe24977a13ff4778981b03d0e6e65c9d797c9",
+    "sha256": "8c3fa95838039bcf8309c04d79d92e66d1d59f6c4407fa02164cb0c4001aa66b",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11818162,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/4e_CX4200a_FAN INSTALL + AIO + PULL-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "ee36e4f1eec01f2516fc894e92721132d0518708ebaf04e0eaac62c87b6961de"
+    }
+  },
+  "5a_CX4200a_STANDOFF INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-08990da29032.jpg",
+    "source_path": "illustrations/4u/CX4200a/5a_CX4200a_STANDOFF INSTALL.jpg",
+    "source_sha256": "53ab3ca08cbfa3aaec15ac795c384d078aa8cce3632349f41946e0103218db95",
+    "sha256": "74f8bcb7c0b2826e11d4c60c1983152813f3482cc7941d3079135afd2619b822",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7933067,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/5a_CX4200a_STANDOFF INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "7be222e8614253e8058e0f592dac45e19a33b87bb772c9e8a2f2fd381d71eab8"
+    }
+  },
+  "6a_CX4200a_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-208375329f99.jpg",
+    "source_path": "illustrations/4u/CX4200a/6a_CX4200a_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "80c585304af3a97a6c8e72530eca22a03226c1678de49a830df3a28057ff176d",
+    "sha256": "cafcfcc5110abee061553faca9f1dca52b7bce062c2c692cf0437c5c95e8f7de",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7974491,
+      "total_pixels": 13577040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/6a_CX4200a_MOTHERBOARD IO SHIELD-white.png",
+      "full_resolution_dimensions_px": [
+        4360,
+        3114
+      ],
+      "full_resolution_sha256": "2b5143e152236c15d18a83943e7ff254cd6a09895b7fac2e19a85084996162cf"
+    }
+  },
+  "6b_CX4200a_MOTHERBOARD.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-ec07c4bbafcc.jpg",
+    "source_path": "illustrations/4u/CX4200a/6b_CX4200a_MOTHERBOARD.jpg",
+    "source_sha256": "33c4e8ef431ba3d5d39ff39c1cf814cb58d4b8317301462ddc50a95c69a30e54",
+    "sha256": "f799c29d1d574be146885670b8718172cf549f98fbddbb67d864a5b23f95afe5",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8036974,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/6b_CX4200a_MOTHERBOARD-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "7ae4d45724e8793c497a919b0cef5a8ffd698e892910134385f1d81b2f2d4adf"
+    }
+  },
+  "7_CX4200a_PSU.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-9ae9ff83e028.jpg",
+    "source_path": "illustrations/4u/CX4200a/7_CX4200a_PSU.jpg",
+    "source_sha256": "fcf587e62974faf29ad40fd69e00faf6258d5a9d56380289a4f4f25730b87748",
+    "sha256": "48d7a10e44d7c686b25bf4e409ecbb19c4fb783472fc99c0ae7fd24433e41d0c",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7541664,
+      "total_pixels": 13577040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/7_CX4200a_PSU-white.png",
+      "full_resolution_dimensions_px": [
+        4360,
+        3114
+      ],
+      "full_resolution_sha256": "dfc9629d86eab6b6e5e49ff2f11d768bae00b3fdd0361577395cec141a1117b9"
+    }
+  },
+  "8_CX4200a_SSD.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-65a4d9bd878a.jpg",
+    "source_path": "illustrations/4u/CX4200a/8_CX4200a_SSD.jpg",
+    "source_sha256": "367c2db4a6a597dc171890d07bd3562c96f773286405b1fb4fd92fd56e158fe6",
+    "sha256": "d7b41f804fec14fa0597b9c82b52b8722ae96c5ac6cbb3b1ef5e2ba837cc4503",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8733136,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/8_CX4200a_SSD-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "c1b7dd1e0ee8604fdbb454b58a3dccf52ee2c0ab1073d04c534cacb2a85e1dba"
+    }
+  },
+  "9_CX4200a_GPU.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-1f744ddd014b.jpg",
+    "source_path": "illustrations/4u/CX4200a/9_CX4200a_GPU.jpg",
+    "source_sha256": "ac439fe4b53199792cc328811da1643abf92134c19b2b9ffd6d5883511e6ebd7",
+    "sha256": "dc4f6897b9fa52feb3270a53fd7bc4ad84bc71816bf3fc213a149645dbfdabac",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9612361,
+      "total_pixels": 16231635,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/9_CX4200a_GPU-white.png",
+      "full_resolution_dimensions_px": [
+        4767,
+        3405
+      ],
+      "full_resolution_sha256": "2452212c8b34ff3941733265ad11bd3eb1cb5a8e8f83727a51aa6d1d57cd4ca7"
+    }
+  },
+  "CX4200a_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-b899e3b0c131.jpg",
+    "source_path": "illustrations/4u/CX4200a/CX4200a_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
+    "source_sha256": "6945e6d376b1af323c762c1dac411a6a5a67e1c43fed77d84f08647202263a04",
+    "sha256": "2e9633e6110ae0da7f19a48493784b3a6bdd29226bbfd4a3be120d4851c203fe",
+    "dimensions_px": [
+      1549,
+      1400
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 12733887,
+      "total_pixels": 24440000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/CX4200a_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        4700
+      ],
+      "full_resolution_sha256": "ffbe31dd94de47ed2a3cefcc1f772c9af7abc71de0d4282533a27095e6f042a0"
+    }
+  },
+  "_CX4170i_CORRECT_WAY.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-d3507cdac397.jpg",
+    "source_path": "illustrations/4u/CX4200a/_CX4170i_CORRECT_WAY.jpg",
+    "source_sha256": "4676ddf9b83367bc781a6426242bafdb72a60361a179f3c8d4e09a1edb78573e",
+    "sha256": "3b7f8e4cb8ac6325adc98a92966f2cecb4de10d819a64e605d69e6d7882fc6d8",
+    "dimensions_px": [
+      1800,
+      847
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1047085,
+      "total_pixels": 2947356,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/_CX4170i_CORRECT_WAY-white.png",
+      "full_resolution_dimensions_px": [
+        2502,
+        1178
+      ],
+      "full_resolution_sha256": "21ebfe3ef524cc4aa82e65465168477a25a43834187953c79c5ac640704c386e"
+    }
+  },
+  "_CX4170i_WRONG_WAY.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-7194c9a22cea.jpg",
+    "source_path": "illustrations/4u/CX4200a/_CX4170i_WRONG_WAY.jpg",
+    "source_sha256": "8fa705d1b67ae52b00a66b34b616f6d4d56a2a01de0afd373afc4fe1e6c9426c",
+    "sha256": "e7cdc40986d071a6fee2ed479bbe5106118cf69729a6054b818f682c22cd4f03",
+    "dimensions_px": [
+      1800,
+      847
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1719125,
+      "total_pixels": 2947356,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/_CX4170i_WRONG_WAY-white.png",
+      "full_resolution_dimensions_px": [
+        2502,
+        1178
+      ],
+      "full_resolution_sha256": "e62968aeced736cb937f19cc675923f1704df283b8b18c7d16fc90d31ac59e21"
+    }
+  },
+  "_CX4200a_ADVANCED_FRONT VIEW.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-016e9043a6e7.jpg",
+    "source_path": "illustrations/4u/CX4200a/_CX4200a_ADVANCED_FRONT VIEW.jpg",
+    "source_sha256": "c65750b49b87f7b35e402d39ec443f2c055444d0fadd1041d32b3ab9867818e8",
+    "sha256": "a33e3a88d9a3596b2a57b38045a115d221a1887d4b6c5c878ab5a91c59baeb63",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 16451587,
+      "total_pixels": 22684900,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/_CX4200a_ADVANCED_FRONT VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        5636,
+        4025
+      ],
+      "full_resolution_sha256": "a859145e26f528299d5d493ed27e26e7d09237fb1050294401ef75f36b78b389"
+    }
+  },
+  "_CX4200a_ADVANCED_TOP VIEW 2.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-d6f356c6d507.jpg",
+    "source_path": "illustrations/4u/CX4200a/_CX4200a_ADVANCED_TOP VIEW 2.jpg",
+    "source_sha256": "7ac53d521bedb491214268aa12d46582cc77935e8e146836ffad52a43052d50c",
+    "sha256": "69cc199e31b809a6409ce200ea5258ad2112160f09bb5c9119a815328b5ae600",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10003952,
+      "total_pixels": 14851920,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/_CX4200a_ADVANCED_TOP VIEW 2-white.png",
+      "full_resolution_dimensions_px": [
+        4560,
+        3257
+      ],
+      "full_resolution_sha256": "2e4bf4ab62e186f20cd4141c7612aaef04cef31f6ef91c463fff211d1445f098"
+    }
+  },
+  "_CX4200a_ADVANCED_TOP VIEW.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-9a93e46efc68.jpg",
+    "source_path": "illustrations/4u/CX4200a/_CX4200a_ADVANCED_TOP VIEW.jpg",
+    "source_sha256": "6d6186044b5976f1e463b289aed35c33b68ecede7c8267a3e36734a2e16471f6",
+    "sha256": "d09cad19ca5f8524353f9e2d787ea69033c740b2b459d19df79bf130e5744303",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8561728,
+      "total_pixels": 13338927,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/_CX4200a_ADVANCED_TOP VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        4321,
+        3087
+      ],
+      "full_resolution_sha256": "04a71b6535adddf8740a0c52c0d839c91ddeaf0a6b5ffe9fd48990eac2945686"
+    }
+  },
+  "_CX4200a_CHASSIS_EXPLODE.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-5d1f626c0a75.jpg",
+    "source_path": "illustrations/4u/CX4200a/_CX4200a_CHASSIS_EXPLODE.jpg",
+    "source_sha256": "9e449ecf7c9f1c953d8cd52762d38ece43b4c7cf4be08c1ed572ac5e2d9f0b54",
+    "sha256": "8ff0b997c1d5296d0d87fc72e002c051a01c458801997245220c9063745e0014",
+    "dimensions_px": [
+      1800,
+      847
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 2036151,
+      "total_pixels": 2947356,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/_CX4200a_CHASSIS_EXPLODE-white.png",
+      "full_resolution_dimensions_px": [
+        2502,
+        1178
+      ],
+      "full_resolution_sha256": "11c3051c3407dd9b6662ff5fd48619f138fdaab99639ac954708f4b5fbd5a3a2"
+    }
+  },
+  "_CX4200a_rendering.jpg": {
+    "path": "illustrations/published/4u/CX4200a/cx4200a-522e283f1f39.jpg",
+    "source_path": "illustrations/4u/CX4200a/_CX4200a_rendering.jpg",
+    "source_sha256": "60129ece473dc3874b9a4ada0fc3bc97892c2ea3617305dafde6403fda629601",
+    "sha256": "06d3fa7088c4f6ad4aa1aae395f0081329cb41a36363d3b82bb422caf59676fa",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8449496,
+      "total_pixels": 13577040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4200a/_CX4200a_rendering-white.png",
+      "full_resolution_dimensions_px": [
+        4360,
+        3114
+      ],
+      "full_resolution_sha256": "1023ee2c835f972e1a20b1f299a33bd7596d78abe608e8aed2ff3c1ea632f105"
+    }
+  }
+}

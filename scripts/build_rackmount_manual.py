@@ -16,7 +16,7 @@ from PIL import Image
 from image_callouts import with_callouts
 from manual_assets import LAYOUT_CHECK, build_directory, cover_photo, front_io_content, number_pdf_pages, split_contact, quantity_display, validate_template
 from manual_localization import Localizer
-from manual_paths import ROOT, content_directory
+from manual_paths import ROOT, content_directory, published_directory
 
 
 UNIT = re.compile(r'(?<=\d) (?=(?:mm|cm|inches|inch|kg|lbs?|W|Gbps|slots?)\b)|(?<=\d) (?=×)|(?<=×) (?=\d)')
@@ -105,8 +105,8 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     L = localizer or Localizer()
     english = L.is_source
     manual, product, facts, hardware, screwbag = load(model)
-    assets = json.loads((ROOT / f'illustrations/published/{model}/manifest.json').read_text(encoding='utf-8'))
-    assets.update(json.loads((ROOT / 'illustrations/published/common/manifest.json').read_text(encoding='utf-8')))
+    assets = json.loads((published_directory(model) / 'manifest.json').read_text(encoding='utf-8'))
+    assets.update(json.loads((published_directory('common') / 'manifest.json').read_text(encoding='utf-8')))
     if model == 'CX3150a':
         assert facts['aio_360_six_fan_push_pull_supported'] is False
     hardware_by_letter = {entry['letter']: entry for entry in hardware['items']}

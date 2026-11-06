@@ -4,7 +4,7 @@ import base64
 import hashlib
 import json
 from pathlib import Path
-from manual_paths import content_directory
+from manual_paths import content_directory, published_directory
 
 import markdown
 from jinja2 import Environment, StrictUndefined
@@ -56,8 +56,8 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     english = L.is_source
     manual = json.loads((content_directory(model) / 'manual.json').read_text(encoding='utf-8'))
     product = json.loads((ROOT / f'products/{model}.json').read_text(encoding='utf-8'))
-    common = json.loads((ROOT / 'illustrations/published/common/manifest.json').read_text(encoding='utf-8'))
-    published = json.loads((ROOT / f'illustrations/published/{model}/manifest.json').read_text(encoding='utf-8'))
+    common = json.loads((published_directory('common') / 'manifest.json').read_text(encoding='utf-8'))
+    published = json.loads((published_directory(model) / 'manifest.json').read_text(encoding='utf-8'))
     assert manual['model'] == product['sku'] == model
     released = manual['release_ready']
     customer_facing = public_preview or released

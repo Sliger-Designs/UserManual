@@ -6,6 +6,7 @@ from pathlib import Path
 import pymupdf
 from PIL import Image
 ROOT = Path(__file__).resolve().parents[1]
+from manual_paths import REFERENCE_INVENTORY
 
 def main():
     source = ROOT / 'sources/original/cx3150a-reference.pdf'
@@ -40,6 +41,6 @@ def main():
             'width_px':pix.width,'height_px':pix.height,'size_bytes':target.stat().st_size,
             'sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'selection_status':'candidate',
             'reference':{'path':source.relative_to(ROOT).as_posix(),'sha256':digest,'page':page_number,**method}})
-    (ROOT/'illustrations/reference.inventory.json').write_text(json.dumps({'schema_version':1,'items':extracted},indent=2)+'\n')
+    REFERENCE_INVENTORY.write_text(json.dumps({'schema_version':1,'items':extracted},indent=2)+'\n')
     print('Recovered eight reference illustrations with page and extraction provenance.')
 if __name__=='__main__': main()

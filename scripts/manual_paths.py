@@ -58,3 +58,19 @@ def originals_directory(model):
 
 def content_directory(model, language='en'):
     return ROOT / 'content' / language / MODEL_CATEGORIES[model] / model
+
+
+PUBLISHED = ROOT / 'illustrations' / 'published'
+
+
+def published_directory(model):
+    """Publication copies, manifest.json and inventory.json: published/<category>/<model>/ ('common' for shared assets)."""
+    return PUBLISHED / 'common' if model == 'common' else PUBLISHED / MODEL_CATEGORIES[model] / model
+
+
+def inventory_path(model):
+    """Inventory of a model's supplied originals ('common' for shared originals)."""
+    return published_directory(model) / 'inventory.json'
+
+
+REFERENCE_INVENTORY = PUBLISHED / 'common' / 'reference-inventory.json'

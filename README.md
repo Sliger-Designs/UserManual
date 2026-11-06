@@ -49,8 +49,10 @@ tools used to translate them.
 - `products/`: product facts (dimensions, clearances, supported parts) with their
   provenance. `products/overrides.json` records explicit decisions, which take
   precedence; `products/shared/` holds shared hardware kits and compatibility rules.
-- `illustrations/published/`: the image copies used in the manuals, with checksums and
-  transformation records. Full-resolution originals are not in Git.
+- `illustrations/published/<category>/<model>/`: the image copies used in the manuals,
+  with checksums and transformation records (`manifest.json`) and the inventory of the
+  supplied originals (`inventory.json`); shared copies are in `illustrations/published/common/`.
+  Full-resolution originals are not in Git.
 - `templates/`: HTML template, styles, fonts and logo; `templates/translation-editor/`
   is the browser translation editor.
 - `scripts/`: builds, checks, translation tools and CI tasks (below).
