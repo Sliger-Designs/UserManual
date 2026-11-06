@@ -3,10 +3,13 @@
 | No. | Part | Related procedure |
 | --- | --- | --- |
 | 1 | Lid | {{ ref('lid-removal', 'Remove the lid') }} |
-| 2 | Faceplate and dust filter | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
-| 3 | Front fan bracket | {{ ref('fan-bracket-removal', 'Remove the fan bracket') }} |
-| 4 | Front I/O assembly | {{ ref('front-ports', 'Front ports & connections') }} |
-| 5 | Chassis wrap with rack-ear flanges | {{ ref('rack-ears', 'Install rack ears & handles') }} |
-| 6 | Removable motherboard tray | {{ ref('tray-removal', 'Remove the motherboard tray') }} |
+| 2 | Subfront | {{ ref('aio-installation', 'Install a front AIO radiator') }} |
+| 3 | Filter foam | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
+| 4 | Faceplate | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
+| 5 | Front fan bracket | {{ ref('fan-bracket-removal', 'Remove the fan bracket') }} |
+| 6 | Front I/O assembly | {{ ref('front-ports', 'Front ports & connections') }} |
+| 7 | Rack ear & pull handle | {{ ref('rack-ears', 'Install rack ears & handles') }} |
+| 8 | Chassis wrap | Main chassis body |
+| 9 | Removable motherboard tray | {{ ref('tray-removal', 'Remove the motherboard tray') }} |
 
 See the hardware-kit page for the screw bag and rack hardware.

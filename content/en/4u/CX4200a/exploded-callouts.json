@@ -11,7 +11,7 @@
   ],
   "badge_radius_height_fraction": 0.024,
   "font_size_height_fraction": 0.032,
-  "review_status": "Assembly callouts placed on the CX4200a exploded view (2026-11-05); review preview before release.",
+  "review_status": "Assembly callouts placed on the CX4200a exploded view (2026-11-05); subfront, filter foam and rack ear & pull handle added, chassis wrap split out (2026-11-06); review preview before release.",
   "callouts": [
     {
       "number": 1,
@@ -27,7 +27,31 @@
     },
     {
       "number": 2,
-      "label": "Faceplate and dust filter",
+      "label": "Subfront",
+      "target": [
+        0.42,
+        0.455
+      ],
+      "badge": [
+        0.19,
+        0.3
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Filter foam",
+      "target": [
+        0.38,
+        0.47
+      ],
+      "badge": [
+        0.18,
+        0.38
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Faceplate",
       "target": [
         0.36,
         0.62
@@ -38,7 +62,7 @@
       ]
     },
     {
-      "number": 3,
+      "number": 5,
       "label": "Front I/O assembly",
       "target": [
         0.52,
@@ -50,8 +74,8 @@
       ]
     },
     {
-      "number": 4,
-      "label": "Chassis wrap with rack-ear flanges",
+      "number": 6,
+      "label": "Chassis wrap",
       "target": [
         0.69,
         0.6
@@ -62,7 +86,7 @@
       ]
     },
     {
-      "number": 5,
+      "number": 7,
       "label": "Removable motherboard tray",
       "target": [
         0.85,

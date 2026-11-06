@@ -11,7 +11,7 @@
   ],
   "badge_radius_height_fraction": 0.024,
   "font_size_height_fraction": 0.032,
-  "review_status": "Assembly callouts placed on the CX4200f exploded view (2026-11-05); review preview before release.",
+  "review_status": "Assembly callouts placed on the CX4200f exploded view (2026-11-05); subfront, filter foam and rack ear & pull handle added, chassis wrap split out (2026-11-06); review preview before release.",
   "callouts": [
     {
       "number": 1,
@@ -27,18 +27,42 @@
     },
     {
       "number": 2,
-      "label": "Faceplate and dust filter",
+      "label": "Subfront",
       "target": [
-        0.59,
-        0.59
+        0.508,
+        0.62
       ],
       "badge": [
-        0.59,
+        0.535,
         0.86
       ]
     },
     {
       "number": 3,
+      "label": "Filter foam",
+      "target": [
+        0.522,
+        0.58
+      ],
+      "badge": [
+        0.58,
+        0.86
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Faceplate",
+      "target": [
+        0.59,
+        0.59
+      ],
+      "badge": [
+        0.625,
+        0.86
+      ]
+    },
+    {
+      "number": 5,
       "label": "Front fan bracket",
       "target": [
         0.68,
@@ -50,31 +74,43 @@
       ]
     },
     {
-      "number": 4,
+      "number": 6,
       "label": "Front I/O assembly",
       "target": [
         0.5,
         0.67
       ],
       "badge": [
-        0.5,
+        0.485,
         0.86
       ]
     },
     {
-      "number": 5,
-      "label": "Chassis wrap with rack-ear flanges",
+      "number": 7,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.472,
+        0.7
+      ],
+      "badge": [
+        0.435,
+        0.86
+      ]
+    },
+    {
+      "number": 8,
+      "label": "Chassis wrap",
       "target": [
         0.4,
         0.55
       ],
       "badge": [
-        0.4,
+        0.38,
         0.86
       ]
     },
     {
-      "number": 6,
+      "number": 9,
       "label": "Removable motherboard tray",
       "target": [
         0.325,
