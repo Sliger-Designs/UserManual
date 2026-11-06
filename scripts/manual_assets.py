@@ -84,3 +84,24 @@ def validate_template(page, cover_alt='primary product photograph'):
         return errors;
     }''', cover_alt)
     assert not errors, '\n'.join(errors)
+
+
+def split_contact(layout, sections):
+    """Warranty & support: the contact lines after the `---` rule in shared/support.md leave the
+    columns and sit centered at the bottom of the page. Returns (sections, contact_html)."""
+    if layout != 'reference-columns' or not sections or '<hr />' not in sections[-1]:
+        return sections, ''
+    last, contact = sections[-1].split('<hr />', 1)
+    return sections[:-1] + [last], contact.strip()
+
+
+def number_pdf_pages(pdf_path, pages, cover_label):
+    """The cover is unnumbered and "In this guide" is page 1. Give the PDF matching page labels
+    so a viewer's page box agrees with the printed numbers (and with "(page N)" references)."""
+    import pymupdf
+    assert pages[0]['layout'] in ('cover', 'sff-cover'), 'The first page must be the cover'
+    pdf = pymupdf.open(pdf_path)
+    pdf.set_page_labels([{'startpage': 0, 'prefix': cover_label, 'style': '', 'firstpagenum': 1},
+                         {'startpage': 1, 'prefix': '', 'style': 'D', 'firstpagenum': 1}])
+    pdf.save(pdf_path, incremental=True, encryption=pymupdf.PDF_ENCRYPT_KEEP)
+    pdf.close()

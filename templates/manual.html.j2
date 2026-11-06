@@ -30,7 +30,7 @@
  <article class="sff-board-caption">{{ page.html }}</article>
  {% elif page.layout == 'contents' %}
  <div class="intro">{{ page.html }}</div>
- <nav aria-label="{{ t('Table of contents', 'contents accessibility label', page_number) }}">{% for item in pages[2:] %}<a href="#{{ item.id }}"><span>{{ item.title }}</span><b>{{ loop.index + 2 }}</b></a>{% endfor %}</nav>
+ <nav aria-label="{{ t('Table of contents', 'contents accessibility label', page_number) }}">{% for item in pages[2:] %}<a href="#{{ item.id }}"><span>{{ item.title }}</span><b>{{ loop.index + 1 }}</b></a>{% endfor %}</nav>
  {% elif page.layout == 'hardware-key' %}
  <div class="catalog-intro">{{ page.html.split('</p>', 1)[0] }}</p></div>
  <div class="key-grid{% if manual.family|default('') == 'sff' %} key-grid-sff{% endif %}" style="--hardware-rows:{{ [((page.hardware_items|length) / 2)|round(0, 'ceil')|int, 3]|max }}">{% for entry in page.hardware_items %}
@@ -53,7 +53,8 @@
  <figcaption>{% if loop.first %}{{ t('Side · depth', 'dimension drawing caption', page_number) }}{% else %}{{ t('Front · width and height', 'dimension drawing caption', page_number) }}{% endif %}</figcaption></figure>{% endfor %}
  </div><article class="dimension-notes">{{ page.html }}</article>
  {% elif page.layout == 'reference-drawing' %}
- <img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}"><article>{{ page.html }}</article>
+ {% if page.get('side_notes') %}<div class="drawing-with-notes"><article>{{ page.html }}</article><img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}"{% if page.images[0].style %} style="{{ page.images[0].style }}"{% endif %}></div>
+ {% else %}<img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}"><article>{{ page.html }}</article>{% endif %}
  {% elif page.layout == 'regulations' %}
  <div class="regulatory-icons">{% for img in page.images %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endfor %}</div>
  <article>{{ page.html }}</article>
@@ -74,10 +75,10 @@
  {% elif page.layout == 'procedure' %}
  <div class="visuals count-{{ page.images|length }}">{% for img in page.images %}<figure><img src="{{ img.src }}" alt="{{ img.alt }}"{% if img.get('style') %} style="{{ img.style }}"{% endif %}>{% if page.figure_keys[loop.index0] %}<div class="figure-hardware">{% for entry in page.figure_keys[loop.index0] %}<a href="#hardware-{{ entry.letter }}" data-hardware-color="{{ entry.color|default('neutral') }}"><b>{{ entry.letter }}</b>{% if entry.color is defined %} {{ t(entry.color|capitalize, 'hardware chip color; translate display text, keep internal color key', page_number) }}{% endif %}</a>{% endfor %}</div>{% endif %}{% if page.images|length > 1 %}<figcaption>{{ loop.index }}</figcaption>{% endif %}</figure>{% endfor %}</div>
  <article>{{ page.html }}</article>
- {% else %}<article>{{ page.html }}</article>{% if page.get("illustration_pending") %}<div class="asset-gap text-gap">{{ page.illustration_pending }}</div>{% endif %}{% endif %}
+ {% else %}<article>{{ page.html }}</article>{% if page.get('contact_html') %}<div class="contact-block">{{ page.contact_html }}</div>{% endif %}{% if page.get("illustration_pending") %}<div class="asset-gap text-gap">{{ page.illustration_pending }}</div>{% endif %}{% endif %}
  </div>
 {% endif %}
-<footer><span class="footer-brand"><img src="{{ logo_src }}" alt="Sliger"> <i>/</i> {{ manual.get('display_name', manual.model) }} <i>/</i> {{ manual.language_label }}</span><span>{{ manual.revision }} · {{ manual.status }}</span><b>{{ loop.index|string|zfill(2) }}</b></footer>
+<footer><span class="footer-brand"><img src="{{ logo_src }}" alt="Sliger"> <i>/</i> {{ manual.get('display_name', manual.model) }} <i>/</i> {{ manual.language_label }}</span><span>{{ manual.revision }} · {{ manual.status }}</span>{% if page.layout not in ('cover', 'sff-cover') %}<b>{{ (loop.index - 1)|string|zfill(2) }}</b>{% endif %}</footer>
 </section>
 {% endfor %}
 </body></html>

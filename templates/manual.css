@@ -62,9 +62,8 @@ tr:nth-child(even) td { background:#f5f7f8; }
 .cover-copy p { font-size:15pt; color:black; margin:0; line-height:1.2; }
 .cover-copy .cover-detail { display:block; padding-left:.25in; }
 .language-tag { position:absolute; right:0; bottom:1.2in; width:.4in; height:.94in; background:var(--accent); color:white; font-size:9pt; display:flex; justify-content:center; align-items:center; writing-mode:vertical-rl; transform:rotate(180deg); z-index:2; }
-.cover footer { left:auto; right:0; bottom:.45in; width:.9in; height:.4in; border:0; padding:0 8px; background:#c4c4c4; display:flex; align-items:center; }
-.cover footer span { display:none; }
-.cover footer b { padding:0; color:black; font-weight:400; font-size:15pt; }
+/* The cover is unnumbered: page 1 is "In this guide". The footer stays (hidden) for the layout check. */
+.cover footer { visibility:hidden; }
 @media print { body { background:white; } .page { margin:0; box-shadow:none; } }
 @media screen { .page { box-shadow:0 3px 20px #0002; } }
 
@@ -72,6 +71,9 @@ tr:nth-child(even) td { background:#f5f7f8; }
 .reference-columns h2 { font-size:15pt; margin:0 0 14px; line-height:1.2; }
 .reference-columns .reference-section { min-width:0; }
 .reference-columns p { font-size:10.5pt; }
+.contact-block { position:absolute; left:.58in; right:.58in; bottom:.75in; text-align:center; }
+.contact-block p { margin:0; font-size:10.5pt; line-height:1.6; }
+.reference-columns a, .contact-block a { color:var(--accent); }
 
 h1, h2, h3, .model, .eyebrow, strong { font-family:"Titillium Web",Arial,sans-serif; }
 h1 { font-weight:700; }
@@ -182,6 +184,9 @@ h1 { font-weight:700; }
 .reference-drawing-image { display:block; width:100%; height:4.65in; object-fit:contain; margin:0 0 10px; }
 .reference-drawing article { font-size:9pt; line-height:1.35; }
 .reference-drawing p { margin-bottom:8px; }
+.drawing-with-notes { display:grid; grid-template-columns:2.6in 1fr; gap:.3in; height:100%; }
+.drawing-with-notes article { align-self:start; }
+.drawing-with-notes .reference-drawing-image { width:100%; height:6.1in; margin:0; }
 
 [id^="drive-cage-layouts-"] .cards-6 .illustration-card img { height:1.65in; }
 

@@ -12,6 +12,10 @@
             for (const child of el.children)
                 if (child.getBoundingClientRect().bottom > footer.top - 8) add(sheet.id, 'Content overflow: ' + sheet.id);
         }
+        const contact = sheet.querySelector('.contact-block');
+        if (contact)
+            for (const el of sheet.querySelectorAll('article'))
+                if (el.getBoundingClientRect().bottom > contact.getBoundingClientRect().top - 8) add(sheet.id, 'Contact block collision: ' + sheet.id);
         if (sheet.scrollWidth > sheet.clientWidth + 1 || sheet.scrollHeight > sheet.clientHeight + 1)
             add(sheet.id, 'Page overflow: ' + sheet.id);
     }

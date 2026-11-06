@@ -12,7 +12,7 @@ from PIL import Image
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 import pymupdf
-from manual_assets import LAYOUT_CHECK, build_directory, cover_photo, front_io_content, quantity_display, validate_template
+from manual_assets import LAYOUT_CHECK, build_directory, cover_photo, front_io_content, number_pdf_pages, split_contact, quantity_display, validate_template
 from image_callouts import with_callouts
 from manual_localization import Localizer
 
@@ -136,6 +136,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
             text = env.from_string(text).render(**markdown_context(model))
             parts.append(markdown.markdown(text, extensions=['tables', 'sane_lists']))
             rendered_sources.append(text)
+        parts, page['contact_html'] = split_contact(spec['layout'], parts)
         page['html'] = ''.join(f'<div class="reference-section">{part}</div>' for part in parts) if len(parts) > 1 else (parts[0] if parts else '')
         page['images'] = figure_images(spec, number)
         if spec['layout'] == 'front-io':
@@ -233,6 +234,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
         assert page.locator('.figure-hardware a').count() == expected_chips, 'Missing hardware color chips'
         page.pdf(path=str(pdf_path), print_background=True, prefer_css_page_size=True)
         browser.close()
+    number_pdf_pages(pdf_path, pages, manual.get('display_name', model))
     pdf = pymupdf.open(pdf_path)
     assert len(pdf) == len(pages)
     normalize = lambda value: ' '.join(value.split())
