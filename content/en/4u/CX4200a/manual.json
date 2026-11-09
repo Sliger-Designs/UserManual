@@ -380,9 +380,11 @@
       "title": "Install the rear fan bracket",
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/4u-rear-fan-bracket.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "Rear fan bracket installation renders pending"
+      "images": [
+        "common/fan-brackets/CX400-120B_fanInstall.jpg",
+        "common/fan-brackets/CX400-120B_screwInstall.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "drive-cage-installation",
@@ -477,14 +479,6 @@
     "width": 17,
     "height": 6.96
   },
-  "missing_assets": [
-    {
-      "id": "M10",
-      "needed": "Rear fan bracket installation renders (one set for every 4U tray); the page shows a placeholder until supplied.",
-      "section": "rear-fan-bracket",
-      "suggested_folder": "illustrations/common/4u-rear-fan-bracket/"
-    }
-  ],
   "cover_description": "20\" DEEP 4U CHASSIS",
   "cover_format": "landscape"
 }

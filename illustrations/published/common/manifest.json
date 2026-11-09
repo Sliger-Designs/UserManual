@@ -1036,5 +1036,29 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/fan-brackets/CX400-120B_fanInstall.jpg": {
+    "path": "illustrations/published/common/common-f676f13ab6fb.jpg",
+    "source_path": "illustrations/common/fan-brackets/CX400-120B_fanInstall.jpg",
+    "source_sha256": "f676f13ab6fb192c197c19418e19fbc952c51f6bddbcfa0cbfe3421d040f8dcb",
+    "sha256": "e9780f937542450c08cb2dccd4ddab5a503d0c2b7fbf27e43bde54f393c8790b",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/fan-brackets/CX400-120B_screwInstall.jpg": {
+    "path": "illustrations/published/common/common-74554602a67d.jpg",
+    "source_path": "illustrations/common/fan-brackets/CX400-120B_screwInstall.jpg",
+    "source_sha256": "74554602a67d77feb3d20149e502e2dc1b6ef41c556f58058b5f95c67fd6c326",
+    "sha256": "54db5ea3cbb85cac0662b7806daf1950efa86be08f28e362b56ec089fb780a06",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }
