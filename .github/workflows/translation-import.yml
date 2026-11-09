@@ -1,7 +1,7 @@
 name: Import translation
 
-# A translator attaches the editor's ZIP to a "Return a translation" issue. A maintainer
-# adds the label `import-translation`; this validates the ZIP, imports it into
+# A translator attaches the editor's translation file (.json) to a "Return a translation" issue. A maintainer
+# adds the label `import-translation`; this validates the file, imports it into
 # translations/<lang>/memory.json, builds the manuals it completes, and opens a PR.
 # The issue text is untrusted: it is only passed to scripts/ci.py through the environment.
 on:
@@ -39,7 +39,7 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
-      - name: Import the attached ZIP
+      - name: Import the attached translation file
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -63,7 +63,7 @@ jobs:
           git switch -c "$branch"
           git add translations
           if git diff --cached --quiet; then
-            gh issue comment "$ISSUE" --body "This ZIP adds nothing new to \`translations/$language\`. Details: $RUN_URL"
+            gh issue comment "$ISSUE" --body "This translation file adds nothing new to \`translations/$language\`. Details: $RUN_URL"
             exit 0
           fi
           git commit -q -m "Import $language translation from #$ISSUE"

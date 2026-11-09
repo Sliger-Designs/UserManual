@@ -8,8 +8,8 @@ of every approved-for-review translation:
   paragraph or note) as split by `scripts/translation_segments.py`, the same units the
   browser editor shows. Each entry records the package it came from, the import date,
   and the translator and reviewer.
-- `<lang>/imports/<package>.json`: what each import brought in, with the returned
-  `job.json` (translator notes) and any Markdown that could not be imported.
+- `<lang>/imports/<package>.json`: what each import brought in, with the translator's
+  details and notes, and any Markdown that could not be imported.
 
 One memory serves every manual and every version. Text shared between manuals
 (warranty, support, regulations, shared procedures) is translated once. When English
@@ -18,8 +18,9 @@ changes, only new or edited segments are missing; everything else still applies.
 ## Workflow
 
 ```bash
-# 1. Import a returned package (editor ZIP or edited package folder); it is validated first.
-python3 scripts/translation_memory.py import /path/to/returned.zip
+# 1. Import a returned translation file (older editor ZIPs and package folders also work);
+#    it is validated against its package first.
+python3 scripts/translation_memory.py import /path/to/<package>-de-translation.json
 
 # 2. See which manuals the language can build.
 python3 scripts/translation_memory.py status de --models S630 S640
@@ -31,7 +32,8 @@ python3 scripts/build_manual.py --model S630 --language de
 #    with a memory (on the site, open the manual and choose "Edit"): only new text is
 #    empty; reused translations are marked "From translation memory".
 python3 scripts/translation_editor.py translation-packages/<package>
-#    then open _build/translation-editor/<package>/index.html?lang=de
+python3 -m http.server --directory _build/translation-editor
+#    then open http://localhost:8000/<package>/?lang=de
 ```
 
 Importing replaces an entry when the returned translation differs, so review the

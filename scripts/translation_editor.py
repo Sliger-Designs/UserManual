@@ -1,14 +1,19 @@
 #!/usr/bin/env python3
-"""Build the single-file browser translation editor for a translation package.
+"""Build the web translation editor for a translation package.
 
-The editor embeds the package's English text plus preview templates produced by the real
-manual build (with placeholders in place of every translatable text), so its live preview
-and printed PDF use the same layout, images, fonts and checks as `build_manual.py`.
+The editor page holds the package's English text plus preview templates produced by the
+real manual build (with placeholders in place of every translatable text), so its live
+preview and printed PDF use the same layout, images, fonts and checks as `build_manual.py`.
+Images and fonts are separate files named by content hash in a folder shared by every
+editor (`assets/` beside the editor folders), so each is downloaded once and cached.
+The editor runs from a web server (the Pages site, or `python -m http.server` locally).
 """
 import argparse
 import base64
 import hashlib
 import json
+import mimetypes
+import os
 from pathlib import Path
 import re
 import shutil
@@ -16,12 +21,17 @@ import shutil
 from manual_build import build, markdown_environment
 from manual_localization import RecordingLocalizer, TokenLocalizer
 from manual_paths import ROOT
-from translation_package import protected_terms
+from translation_package import TRANSLATION_FORMAT, handoff_readme, protected_terms
 from translation_segments import segment_markdown, segments
 
 EDITOR = ROOT / 'templates/translation-editor'
 STATEMENT = re.compile(r"{%\s*(?:(?:if|elif) model [=!]= '[A-Za-z0-9]+'|else|endif)\s*%}")
 DATA_URI = re.compile(r'data:([a-z]+/[a-z0-9.+-]+);base64,([A-Za-z0-9+/=]+)')
+EXTENSIONS = {'image/jpeg': '.jpg', 'image/png': '.png', 'image/svg+xml': '.svg', 'image/webp': '.webp',
+              'font/woff2': '.woff2', 'font/woff': '.woff', 'font/ttf': '.ttf', 'font/otf': '.otf'}
+# Where translators return their translation file (see templates/translation-editor/editor.js).
+REPOSITORY = os.environ.get('GITHUB_REPOSITORY') or 'Sliger-Designs/UserManual'
+RETURN_EMAIL = ''
 
 
 def read_json(path):
@@ -79,9 +89,13 @@ def memories_for(catalog, markdown_files):
     return memories
 
 
-def build_editor(package, browser, output, home_url=None):
-    """home_url: link the logo and an "All manuals" button to the manuals index (site builds only)."""
+def build_editor(package, browser, output, home_url=None, assets=None):
+    """home_url: link the logo and an "All manuals" button to the manuals index (site builds only).
+    assets: folder for the shared image/font files (default: `assets/` beside the editor's folder)."""
+    import manual_build
     package = package.resolve()
+    assets = (assets or output.parent.parent / 'assets').resolve()
+    assets_url = Path(os.path.relpath(assets, output.parent.resolve())).as_posix()
     manifest = read_json(package / 'manifest.json')
     catalog = read_json(package / 'source/strings.json')
     markdown_files = []
@@ -90,19 +104,24 @@ def build_editor(package, browser, output, home_url=None):
         markdown_files.append({'path': name, 'file': 'translation/content/' + relative,
                                'text': (package / 'source/content/en' / relative).read_text(encoding='utf-8')})
     check_sources(manifest, catalog, markdown_files)
-    # Every read-only text file is returned unchanged; reference PDFs stay with Sliger.
-    files = {path.relative_to(package).as_posix(): path.read_text(encoding='utf-8')
-             for path in sorted(package.rglob('*')) if path.is_file()
-             and path.relative_to(package).parts[0] not in ('reference', 'translation')}
+    terminology = package / 'terminology.md'
+    # Current instructions (the package README is the snapshot from its export).
+    instructions = handoff_readme(manifest['models'], manifest['source_version'], protected_terms(manifest['models']),
+                                  manual_build.family(manifest['models'][0]))
 
-    assets, asset_ids = [], {}
+    asset_urls, written = [], {}
 
     def stash(match):
-        key = hashlib.sha256(match.group(0).encode()).hexdigest()
-        if key not in asset_ids:
-            asset_ids[key] = len(assets)
-            assets.append({'type': match.group(1), 'data': match.group(2)})
-        return f'@@ASSET-{asset_ids[key]}@@'
+        data = base64.b64decode(match.group(2))
+        name = hashlib.sha256(data).hexdigest()[:24] + (EXTENSIONS.get(match.group(1)) or mimetypes.guess_extension(match.group(1)) or '.bin')
+        if name not in written:
+            written[name] = len(asset_urls)
+            asset_urls.append(f'{assets_url}/{name}')
+            target = assets / name
+            if not target.is_file():
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_bytes(data)
+        return f'@@ASSET-{written[name]}@@'
 
     localizer = TokenLocalizer(catalog, manifest['markdown_files'])
     templates, used = {}, set()
@@ -121,17 +140,21 @@ def build_editor(package, browser, output, home_url=None):
         print('Note: strings not shown in either manual preview:', '; '.join(unused))
 
     payload = {
-        'schema': 1,
+        'schema': 2,
+        'format': TRANSLATION_FORMAT,
         'package': {'name': package.name, 'models': manifest['models'],
                     'source_version': manifest['source_version'], 'source_commit': manifest['source_commit'],
                     'source_versions': manifest.get('source_versions') or {model: manifest['source_version'] for model in manifest['models']}},
-        'files': files,
+        'instructions': instructions,
+        'terminology': terminology.read_text(encoding='utf-8') if terminology.is_file() else '',
+        'return': {'issue_url': f'https://github.com/{REPOSITORY}/issues/new', 'issue_template': 'translation-return.yml',
+                   'email': RETURN_EMAIL},
         'strings': catalog,
         'markdown': markdown_files,
         'pages': read_json(package / 'page-map.json'),
         'expressions': placeholder_values,
         'templates': templates,
-        'assets': assets,
+        'assets': asset_urls,
         'layout_check': (ROOT / 'scripts/manual_layout_check.js').read_text(encoding='utf-8'),
         # Current rules (a superset of any older package's): the editor warns about everything
         # a build from the translation memory would reject.
@@ -155,8 +178,9 @@ def build_editor(package, browser, output, home_url=None):
         page = page.replace(marker, text)
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(page, encoding='utf-8')
-    print(f'Built {output} ({output.stat().st_size / 1e6:.1f} MB): {len(catalog)} strings, '
-          f'{len(markdown_files)} Markdown files, {len(assets)} shared images/fonts; '
+    size = sum((assets / name).stat().st_size for name in written)
+    print(f'Built {output} ({output.stat().st_size / 1e6:.1f} MB, plus {len(written)} images/fonts, '
+          f'{size / 1e6:.1f} MB, in {assets}): {len(catalog)} strings, {len(markdown_files)} Markdown files; '
           f'languages with translations: {", ".join(payload["memories"]) or "none"}')
     return output
 

@@ -43,10 +43,13 @@ Actions tab to republish the current `main`. `python scripts/ci.py site` builds:
   Opening a manual offers **Continue** (translations saved in this browser, with
   progress), **Translations Sliger already has** (start from the approved translation;
   only new text is left) and **Start a new translation**.
-- one translation editor per package in `translation-packages/`, containing every
-  language in `translations/`. The language is chosen in the link (`…/index.html?lang=de`);
-  without it the editor shows the same choices. Each language is saved separately in
-  the browser, and a ZIP always opens as the translation for its own language.
+- one translation editor per current package in `translation-packages/` (not those listed
+  in `superseded.json`), containing every language in `translations/`. The language is
+  chosen in the link (`…/index.html?lang=de`); without it the editor shows the same
+  choices. Each language is saved separately in the browser, and a translation file always
+  opens as the translation for its own language. Images and fonts are shared by all
+  editors in `editors/assets/` (named by content hash); a manual's preview loads them only
+  when one of its pages is opened.
 - preview PDFs of every manual from `main`, in English and in each language whose memory
   is complete
 - the released PDFs from `releases/`
@@ -56,16 +59,19 @@ a new package for the current text. Link straight to a manual with `?manual=S630
 
 ## Returning translations (`.github/workflows/translation-import.yml`)
 
-1. The translator opens an issue with the **Return a translation** form and drags in the
-   ZIP from the editor's **Download ZIP for Sliger** button. They need a GitHub account;
-   otherwise they can email the ZIP and you open the issue.
+1. The translator downloads their translation file (`<package>-<lang>-translation.json`)
+   and opens the pre-filled **Return a translation** form from the editor's
+   **Send to Sliger**, then drags the file in. They need a GitHub account; otherwise they
+   email the file and you import it (`scripts/translation_memory.py import`) or open the
+   issue yourself.
 2. A maintainer checks the issue and adds the label **`import-translation`**. Uploads never
    start an import on their own.
-3. The workflow downloads the ZIP (GitHub attachments only, at most 100 MB) and validates
-   it. It imports it into `translations/<lang>/memory.json`, builds every manual the
-   language now completes, and opens a pull request with the import summary and
-   translator notes. A link is posted on the issue. If validation fails, the reason is
-   posted on the issue instead.
+3. The workflow downloads the file (GitHub attachments only, `.json` or an older editor
+   `.zip`, at most 25 MB), expands it against its package and validates it. It imports
+   it into `translations/<lang>/memory.json`, builds every manual the language now
+   completes, and opens a pull request with the import summary and translator notes.
+   A link is posted on the issue. If validation fails, the reason is posted on the issue
+   instead.
 4. Review the `memory.json` diff and the PDFs in the run artifact, then merge.
 
 GitHub does not start checks on pull requests opened by a workflow. The import run has

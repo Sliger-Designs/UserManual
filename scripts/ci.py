@@ -5,7 +5,7 @@
   check          build and validate what a plan lists; collect PDFs and a summary
   site           build the GitHub Pages site: editors, preview PDFs, released PDFs
                  (--reuse takes the PDFs `check` already built for the same commit)
-  import-issue   import a translation ZIP attached to an issue into translations/<lang>/
+  import-issue   import a translation file attached to an issue into translations/<lang>/
 """
 import argparse
 from concurrent.futures import ProcessPoolExecutor
@@ -31,8 +31,9 @@ from manual_paths import MODEL_CATEGORIES, ROOT, content_directory, published_di
 # Changes here can affect every manual (and every translation package's editor).
 GLOBAL_PREFIXES = ('scripts/', 'templates/', 'glossary/', 'products/shared/', 'illustrations/published/common/',
                    'illustrations/published/covers/', 'sources/original/', 'requirements.txt', '.github/workflows/')
-ATTACHMENT = re.compile(r'https://github\.com/(?:user-attachments/files|[\w.-]+/[\w.-]+/files)/\d+/[^\s)\]>"\']+?\.zip')
-MAX_ZIP_BYTES = 100 * 1024 * 1024
+# The editor's translation file (.json); older editors returned a ZIP.
+ATTACHMENT = re.compile(r'https://github\.com/(?:user-attachments/files|[\w.-]+/[\w.-]+/files)/\d+/[^\s)\]>"\']+?\.(?:json|zip)')
+MAX_ATTACHMENT_BYTES = 25 * 1024 * 1024
 
 
 def languages():
@@ -41,6 +42,14 @@ def languages():
 
 def packages():
     return sorted(path.parent.name for path in (ROOT / 'translation-packages').glob('*/manifest.json'))
+
+
+def current_packages():
+    """Packages translators use: those not replaced by a newer export
+    (translation-packages/superseded.json maps old -> new). Only these get an editor."""
+    superseded = ROOT / 'translation-packages/superseded.json'
+    old = json.loads(superseded.read_text(encoding='utf-8')) if superseded.is_file() else {}
+    return [name for name in packages() if name not in old]
 
 
 def model_inputs(model):
@@ -183,6 +192,8 @@ def check(the_plan, output, browser=None):
     for name in the_plan['packages']:
         package = ROOT / 'translation-packages' / name
         results.run('Translation package', name, lambda: validate(package))
+        if name not in current_packages():
+            continue
 
         def editor():
             try:
@@ -217,7 +228,7 @@ def site(output, browser=None, reuse=None):
     output.mkdir(parents=True)
 
     site_packages = {}
-    for name in packages():
+    for name in current_packages():
         package = ROOT / 'translation-packages' / name
         manifest = json.loads((package / 'manifest.json').read_text(encoding='utf-8'))
         try:
@@ -313,32 +324,33 @@ def site(output, browser=None, reuse=None):
 
 
 def import_issue(body, issue, output, browser=None):
-    """Download the issue's attached translation ZIP, import it and build what is complete.
+    """Download the issue's attached translation file, import it and build what is complete.
     Writes import.json (for the workflow) and result.md (posted on the issue / PR)."""
     from translation_memory import import_package
     output.mkdir(parents=True, exist_ok=True)
     result_md = output / 'result.md'
     urls = ATTACHMENT.findall(body or '')
     if not urls:
-        result_md.write_text('No translation ZIP found. Drag the ZIP downloaded from the translation editor into the issue, then add the label again.\n', encoding='utf-8')
-        raise SystemExit('No ZIP attachment in the issue')
+        result_md.write_text('No translation file found. Drag the file downloaded from the translation editor '
+                             '(…-translation.json) into the issue, then add the label again.\n', encoding='utf-8')
+        raise SystemExit('No translation file attached to the issue')
     request = urllib.request.Request(urls[0], headers={'User-Agent': 'sliger-manual-ci'})
     if os.environ.get('GITHUB_TOKEN'):
         request.add_header('Authorization', 'token ' + os.environ['GITHUB_TOKEN'])
     with tempfile.TemporaryDirectory() as temporary:
-        archive = Path(temporary) / 'returned.zip'
+        archive = Path(temporary) / ('returned' + Path(urls[0]).suffix.lower())
         with urllib.request.urlopen(request, timeout=120) as response, open(archive, 'wb') as file:
             size = 0
             while chunk := response.read(1 << 20):
                 size += len(chunk)
-                if size > MAX_ZIP_BYTES:
-                    raise SystemExit('Attachment is larger than 100 MB')
+                if size > MAX_ATTACHMENT_BYTES:
+                    raise SystemExit('Attachment is larger than 25 MB')
                 file.write(chunk)
         try:
             imported = import_package(archive)
         except Exception as error:
             result_md.write_text(f'The translation could not be imported:\n\n```\n{error}\n```\n'
-                                 'Fix it in the translation editor, download the ZIP again and attach it.\n', encoding='utf-8')
+                                 'Fix it in the translation editor, download the translation file again and attach it.\n', encoding='utf-8')
             raise
     results = Results(output)
     for model in imported['models']:
@@ -375,7 +387,7 @@ def main():
     builder = sub.add_parser('site', help='Build the GitHub Pages site')
     builder.add_argument('--output', type=Path, default=ROOT / '_site')
     builder.add_argument('--reuse', type=Path, help='Output of `check` for the same commit; its PDFs are not rebuilt')
-    importer = sub.add_parser('import-issue', help='Import a translation ZIP attached to an issue (body from $ISSUE_BODY)')
+    importer = sub.add_parser('import-issue', help='Import a translation file attached to an issue (body from $ISSUE_BODY)')
     importer.add_argument('--issue', required=True)
     importer.add_argument('--output', type=Path, default=ROOT / '_build/ci')
     for command in (checker, builder, importer):
