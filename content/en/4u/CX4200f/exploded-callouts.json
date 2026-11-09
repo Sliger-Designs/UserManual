@@ -75,18 +75,6 @@
     },
     {
       "number": 6,
-      "label": "Front fan bracket",
-      "target": [
-        0.68,
-        0.59
-      ],
-      "badge": [
-        0.71,
-        0.86
-      ]
-    },
-    {
-      "number": 7,
       "label": "Front I/O assembly",
       "target": [
         0.5,
@@ -98,7 +86,7 @@
       ]
     },
     {
-      "number": 8,
+      "number": 7,
       "label": "Rack ear & pull handle",
       "target": [
         0.472,
@@ -110,7 +98,7 @@
       ]
     },
     {
-      "number": 9,
+      "number": 8,
       "label": "Chassis wrap",
       "target": [
         0.4,
@@ -122,7 +110,7 @@
       ]
     },
     {
-      "number": 10,
+      "number": 9,
       "label": "Removable motherboard tray",
       "target": [
         0.325,
