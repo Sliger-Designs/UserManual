@@ -921,8 +921,10 @@ async function sendToSliger() {
     h('a', {href: issue.href, target: '_blank', rel: 'noopener'}, 'open the “Return a translation” form'),
     ' and drag the downloaded file into it. Sliger is notified, and the translated PDFs are built automatically.')];
   if (back.email) {
-    const mail = `mailto:${back.email}?subject=${encodeURIComponent(`Translation: ${language} · ${PACKAGE.name}`)}`;
-    ways.push(h('li', {}, h('b', {}, 'By email: '), 'attach the downloaded file to an email to ', h('a', {href: mail}, back.email), '.'));
+    const mail = `mailto:${back.email}?subject=${encodeURIComponent(`Translation: ${language} · ${PACKAGE.name}`)}` +
+      (back.cc ? `&cc=${encodeURIComponent(back.cc)}` : '');
+    ways.push(h('li', {}, h('b', {}, 'By email: '), 'attach the downloaded file to an email to ', h('a', {href: mail}, back.email),
+      back.cc ? ` (copy ${back.cc})` : '', '.'));
   }
   const choice = await dialog('Send to Sliger', [
     notes.length ? h('div', {class: 'notice'}, h('p', {text: 'Before sending the final version:'}), h('ul', {}, notes.map(text => h('li', {text})))) : null,

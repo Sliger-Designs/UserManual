@@ -31,7 +31,8 @@ EXTENSIONS = {'image/jpeg': '.jpg', 'image/png': '.png', 'image/svg+xml': '.svg'
               'font/woff2': '.woff2', 'font/woff': '.woff', 'font/ttf': '.ttf', 'font/otf': '.otf'}
 # Where translators return their translation file (see templates/translation-editor/editor.js).
 REPOSITORY = os.environ.get('GITHUB_REPOSITORY') or 'Sliger-Designs/UserManual'
-RETURN_EMAIL = ''
+RETURN_EMAIL = 'orders@sliger.com'
+RETURN_CC = ''  # Optional copy address; it is public on the site.
 
 
 def read_json(path):
@@ -148,7 +149,7 @@ def build_editor(package, browser, output, home_url=None, assets=None):
         'instructions': instructions,
         'terminology': terminology.read_text(encoding='utf-8') if terminology.is_file() else '',
         'return': {'issue_url': f'https://github.com/{REPOSITORY}/issues/new', 'issue_template': 'translation-return.yml',
-                   'email': RETURN_EMAIL},
+                   'email': RETURN_EMAIL, 'cc': RETURN_CC},
         'strings': catalog,
         'markdown': markdown_files,
         'pages': read_json(package / 'page-map.json'),
