@@ -1,9 +1,15 @@
 # Translation packages
 
-[S630 and S640 v1.0 English handoff](S630-S640-v1.0-en/README.md) contains both
-manuals' active Markdown, shared text, additional display/accessibility strings,
-page maps, instructions and exact approved English PDFs. Shared material and
-identical labels are included once.
+| Package | Manuals | Exported |
+|---|---|---|
+| [S630-S640-v1.0-en](S630-S640-v1.0-en/README.md) | S630, S640 v1.0 | 2026-11-02 |
+| [CX4150a-CX4150e-CX4150i-v1.0-en](CX4150a-CX4150e-CX4150i-v1.0-en/README.md) | CX4150a, CX4150e, CX4150i v1.0 | 2026-11-09 |
+
+Each package contains its manuals' active Markdown, shared text, additional
+display/accessibility strings, page maps, instructions and exact approved English PDFs.
+Shared material and identical labels are included once. Export one with
+`python scripts/translation_package.py export translation-packages/<name> --models <models>`
+once the manuals are released.
 
 The `source/` baseline and reference PDFs are snapshots. Translators edit only
 `translation/` and return the whole package. Do not overwrite an existing handoff

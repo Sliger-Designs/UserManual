@@ -14,9 +14,10 @@ import pymupdf
 from PIL import Image
 
 from image_callouts import with_callouts
-from manual_assets import LAYOUT_CHECK, build_directory, cover_photo, front_io_content, number_pdf_pages, split_contact, quantity_display, validate_template
+from manual_assets import (LAYOUT_CHECK, build_directory, check_release, content_fingerprint, cover_photo, front_io_content,
+                           number_pdf_pages, retire_english_draft, split_contact, quantity_display, validate_template)
 from manual_localization import Localizer
-from manual_paths import ROOT, content_directory, published_directory
+from manual_paths import MODEL_CATEGORIES, ROOT, content_directory, published_directory
 
 
 UNIT = re.compile(r'(?<=\d) (?=(?:mm|cm|inches|inch|kg|lbs?|W|Gbps|slots?)\b)|(?<=\d) (?=×)|(?<=×) (?=\d)')
@@ -214,9 +215,13 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     # Approved English manuals build as release candidates (as SFF); archiving the PDF into
     # releases/ stays a separate, reviewed step. Translations are always review builds.
     released = english and bool(manual.get('release_ready'))
+    fingerprint = content_fingerprint(html)
+    if english:
+        check_release(model, MODEL_CATEGORIES[model], manual['revision'], fingerprint)
     if released:
         assert manual.get('release_date') and re.fullmatch(r'v\d+\.\d+', manual['revision']), 'A release needs release_date and a vN.N revision'
         out = ROOT / '_build/releases/chassis' / model / manual['revision']
+        retire_english_draft(model)
     else:
         out = build_directory(model) / ('' if english else L.language)
     out.mkdir(parents=True, exist_ok=True)
@@ -304,7 +309,8 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
               'screwbag': screwbag['part_number'],
               'hardware_key': 'A–I; B corrected to red M3 × 0.5, 5 mm long',
               'missing_assets': manual.get('missing_assets', []),
-              'release_ready': released, 'release_date': manual.get('release_date') if released else None}
+              'release_ready': released, 'release_date': manual.get('release_date') if released else None,
+              'content_fingerprint': fingerprint}
     report_prefix = model if english else f'{model}-{L.language}'
     (out / f'{report_prefix}-validation.json').write_text(json.dumps(report, indent=2) + '\n', encoding='utf-8')
     sheet = Image.new('RGB', (3 * 535, ((len(pdf) + 2) // 3) * 425), '#d8dde0')

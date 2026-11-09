@@ -1,6 +1,7 @@
 """Asset helpers shared by both manual families."""
 import base64
 import hashlib
+from html import unescape
 import json
 import re
 from pathlib import Path
@@ -18,19 +19,71 @@ def quantity_display(quantity, localizer, use, page):
     return localizer.text(quantity, use, page) if re.search('[A-Za-z]', quantity) else quantity + ' ×'
 
 
-def build_directory(model):
+BUILD_GUIDE = ('# Build outputs\n\n'
+               '- `releases/chassis/<model>/<revision>/`: builds of released (reviewed and approved) manuals.\n'
+               '- `unpublished/chassis/<model>/`: English drafts still awaiting review, and translated builds\n'
+               '  (`<language>/`). Building a released manual removes its leftover English draft here,\n'
+               '  so the models listed under `unpublished/chassis/` with an English PDF are the ones still to review.\n'
+               '- `translation-editor/<package>/`: browser translation editors (`templates/<model>/`: their page templates).\n\n'
+               'Build outputs are local and excluded from Git. See the repository README for details.\n')
+
+
+def build_directory(model, draft=True):
     directory = ROOT / '_build' / 'unpublished' / 'chassis' / model
-    directory.mkdir(parents=True, exist_ok=True)
+    if draft:
+        directory.mkdir(parents=True, exist_ok=True)
     guide = ROOT / '_build/README.md'
-    if not guide.exists():
-        guide.write_text(
-            '# Build outputs\n\n'
-            '- `releases/chassis/<model>/<revision>/`: builds of released manuals.\n'
-            '- `unpublished/chassis/<model>/`: drafts, translated builds (`<language>/`) and previews.\n'
-            '- `translation-editor/<package>/`: browser translation editors.\n\n'
-            'Build outputs are local and excluded from Git. See the repository README for details.\n',
-            encoding='utf-8')
+    guide.parent.mkdir(parents=True, exist_ok=True)
+    if not guide.exists() or guide.read_text(encoding='utf-8') != BUILD_GUIDE:
+        guide.write_text(BUILD_GUIDE, encoding='utf-8')
     return directory
+
+
+def retire_english_draft(model):
+    """A released manual no longer needs review: remove its leftover English draft outputs
+    from _build/unpublished (translated builds in language subfolders stay)."""
+    directory = build_directory(model, draft=False)
+    if not directory.is_dir():
+        return
+    for path in directory.iterdir():
+        if path.is_file():
+            path.unlink()
+    if not any(directory.iterdir()):
+        directory.rmdir()
+
+
+def content_fingerprint(html):
+    """Hash of what a reader sees in a built manual: its visible text and every embedded image.
+    Styling (CSS, fonts, scripts) is left out, so a spacing or layout tweak is not a content change."""
+    html = re.sub(r'<(style|script)\b.*?</\1>', ' ', html, flags=re.S | re.I)
+    data_uri = r'data:image/[^"\'()\s]+'
+    images = [hashlib.sha256(uri.encode()).hexdigest() for uri in re.findall(data_uri, html)]
+    text = re.sub(r'<[^>]+>', ' ', re.sub(data_uri, '', html))
+    text = ' '.join(unescape(text).split())
+    return hashlib.sha256(json.dumps({'text': text, 'images': images}).encode()).hexdigest()
+
+
+def release_record_path(model, category, revision, language='en'):
+    return ROOT / 'releases' / language / category / model / revision / f'{model}-{language}-{revision}.json'
+
+
+def released_versions(model, category, language='en'):
+    """Archived release records of a manual, oldest first."""
+    folder = ROOT / 'releases' / language / category / model
+    records = [json.loads(path.read_text(encoding='utf-8')) for path in folder.glob(f'*/{model}-{language}-*.json')]
+    return sorted(records, key=lambda record: [int(part) for part in record['revision'].lstrip('v').split('.')])
+
+
+def check_release(model, category, revision, fingerprint):
+    """Fail when a released revision's content changed: a released PDF must stay reproducible.
+    Editing a released manual means drafting a new revision (see releases/README.md)."""
+    path = release_record_path(model, category, revision)
+    if path.is_file():
+        record = json.loads(path.read_text(encoding='utf-8'))
+        assert record['content_fingerprint'] == fingerprint, (
+            f'{model} {revision} is released, but its content has changed since the release. '
+            f'Set "revision" to the next version (e.g. v1.1) and "release_ready" to false while drafting it, '
+            f'or undo the change. See releases/README.md.')
 
 
 def cover_photo(model):
