@@ -3,6 +3,8 @@ name: Publish site
 # GitHub Pages: the manuals page, translation editors, preview PDFs of main and released
 # PDFs (scripts/ci.py site). Publishes only after "Manual checks" passes for a push to main,
 # and builds exactly the commit that was checked, so a broken commit never reaches the site.
+# The PDFs that run already built and checked are reused from its artifact; only manuals the
+# change did not touch are built here.
 # Run it by hand from the Actions tab to republish the current main.
 # Setup: Settings → Pages → Source: GitHub Actions, and the repository variable
 # PAGES_ENABLED=true (Settings → Secrets and variables → Actions → Variables).
@@ -14,6 +16,7 @@ on:
   workflow_dispatch:
 
 permissions:
+  actions: read  # download the checked run's artifact
   contents: read
   pages: write
   id-token: write
@@ -64,11 +67,21 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
+      - name: Download the checked PDFs
+        if: steps.commit.outputs.current == 'true' && github.event_name == 'workflow_run'
+        continue-on-error: true  # without them the site step builds everything
+        uses: actions/download-artifact@v4
+        with:
+          name: manuals-${{ github.event.workflow_run.run_number }}
+          path: _build/checked
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Build site
         if: steps.commit.outputs.current == 'true'
         env:
           SITE_COMMIT: ${{ env.COMMIT }}
-        run: python scripts/ci.py site --output _site
+        run: python scripts/ci.py site --output _site --reuse _build/checked
 
       - uses: actions/upload-pages-artifact@v3
         if: steps.commit.outputs.current == 'true'

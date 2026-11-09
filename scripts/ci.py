@@ -4,11 +4,15 @@
   plan           which manuals, translations and packages a set of changed files affects
   check          build and validate what a plan lists; collect PDFs and a summary
   site           build the GitHub Pages site: editors, preview PDFs, released PDFs
+                 (--reuse takes the PDFs `check` already built for the same commit)
   import-issue   import a translation ZIP attached to an issue into translations/<lang>/
 """
 import argparse
+from concurrent.futures import ProcessPoolExecutor
+import contextlib
 from datetime import datetime, timezone
 from html import escape
+import io
 import json
 import os
 from pathlib import Path
@@ -82,14 +86,18 @@ class Results:
     def run(self, kind, name, action, required=True):
         print(f'\n=== {kind}: {name}', flush=True)
         try:
-            detail = action() or 'passed'
-            self.rows.append((kind, name, '✅', detail))
+            self.record(kind, name, None, action() or 'passed')
         except BaseException as error:  # SystemExit from check scripts, assertions from builds
             if isinstance(error, KeyboardInterrupt):
                 raise
             traceback.print_exc()
-            message = (str(error) or type(error).__name__).strip().splitlines()
-            self.rows.append((kind, name, '❌' if required else '⚠️', escape(message[-1] if message else 'failed')[:300]))
+            self.record(kind, name, error_message(error), required=required)
+
+    def record(self, kind, name, error, detail='passed', required=True):
+        if error is None:
+            self.rows.append((kind, name, '✅', detail))
+        else:
+            self.rows.append((kind, name, '❌' if required else '⚠️', escape(error)[:300]))
             self.failed |= required
 
     def keep(self, outputs, folder):
@@ -123,17 +131,54 @@ def build_translation(model, language):
     return manual_build.build(model, None, localizer=MemoryLocalizer(language))
 
 
+def error_message(error):
+    message = (str(error) or type(error).__name__).strip().splitlines()
+    return message[-1] if message else 'failed'
+
+
+def build_manual(model, language, browser=None):
+    """Build one manual (in a worker process). Returns (output paths or None, error or None, log)."""
+    log = io.StringIO()
+    with contextlib.redirect_stdout(log), contextlib.redirect_stderr(log):
+        try:
+            built = manual_build.build(model, browser) if language == 'en' else build_translation(model, language)
+            return {key: str(built[key]) for key in ('pdf', 'overview', 'report') if built.get(key)}, None, log.getvalue()
+        except BaseException as error:  # SystemExit from check scripts, assertions from builds
+            if isinstance(error, KeyboardInterrupt):
+                raise
+            traceback.print_exc()
+            return None, error_message(error), log.getvalue()
+
+
+def build_manuals(jobs, browser=None):
+    """Build (model, language) pairs in parallel: one process (and Chromium) per CPU core, or
+    $CI_JOBS. Yields (job, outputs, error) in the order given, printing each build's log whole."""
+    if not jobs:
+        return
+    workers = min(int(os.environ.get('CI_JOBS') or 0) or os.cpu_count() or 1, len(jobs))
+    print(f'Building {len(jobs)} manuals with {workers} workers', flush=True)
+    with ProcessPoolExecutor(max_workers=workers) as pool:
+        futures = [pool.submit(build_manual, model, language, browser) for model, language in jobs]
+        for (model, language), future in zip(jobs, futures):
+            outputs, error, log = future.result()
+            print(f'\n=== {language} manual: {model}\n{log}', end='', flush=True)
+            yield (model, language), outputs, error
+
+
 def check(the_plan, output, browser=None):
     from translation_editor import build_editor
     from translation_editor_check import check as check_editor
     from translation_package import validate
     results = Results(output)
-    for model in the_plan['models']:
-        results.run('English manual', model, lambda: results.keep(manual_build.build(model, browser), f'en/{model}'))
-    for language, item in the_plan['languages'].items():
-        for model in item['models']:
-            results.run(f'{language} manual', model,
-                        lambda: results.keep(build_translation(model, language), f'{language}/{model}'), required=item['required'])
+    # Publish site reuses these PDFs; the plan tells it which builds ran (a missing PDF means it failed).
+    (output / 'plan.json').write_text(json.dumps(the_plan, indent=2), encoding='utf-8')
+    jobs = [(model, 'en') for model in the_plan['models']]
+    jobs += [(model, language) for language, item in the_plan['languages'].items() for model in item['models']]
+    for (model, language), outputs, error in build_manuals(jobs, browser):
+        if outputs:
+            results.keep(outputs, f'{language}/{model}')
+        results.record('English manual' if language == 'en' else f'{language} manual', model, error,
+                       required=language == 'en' or the_plan['languages'][language]['required'])
     for name in the_plan['packages']:
         package = ROOT / 'translation-packages' / name
         results.run('Translation package', name, lambda: validate(package))
@@ -157,10 +202,12 @@ LANGUAGE_CODES = ['bg', 'cs', 'da', 'de', 'el', 'es', 'et', 'fi', 'fr', 'ga', 'h
                   'no', 'pl', 'pt', 'ro', 'sk', 'sl', 'sv', 'tr', 'uk']
 
 
-def site(output, browser=None):
+def site(output, browser=None, reuse=None):
     """Static site for GitHub Pages: a generated list of every manual with its PDFs and
     translation choices (templates/site/index.html), one translation editor per package
-    (all languages inside), preview PDFs of main and released PDFs."""
+    (all languages inside), preview PDFs of main and released PDFs.
+    `reuse` is the output of `check` for the same commit: its PDFs are used as they are, and
+    only what its plan left out is built."""
     import base64
     from translation_editor import build_editor
     from translation_memory import Memory, coverage
@@ -190,22 +237,41 @@ def site(output, browser=None):
         shutil.copy2(pdf, target)
         released.setdefault(model, []).append((language, revision, f'manuals/released/{relative.as_posix()}'))
 
-    manuals = []
     order = list(FORM_FACTORS)
-    for model in sorted(MODEL_CATEGORIES, key=lambda sku: (order.index(MODEL_CATEGORIES[sku]), sku)):
+    models = sorted(MODEL_CATEGORIES, key=lambda sku: (order.index(MODEL_CATEGORIES[sku]), sku))
+    checked = json.loads((reuse / 'plan.json').read_text(encoding='utf-8')) if reuse and (reuse / 'plan.json').is_file() else None
+    attempted = set()
+    if checked:
+        attempted = {(model, 'en') for model in checked['models']}
+        attempted |= {(model, language) for language, item in checked['languages'].items() for model in item['models']}
+    previews, to_build = {}, []
+    for model in models:
+        for language in ['en'] + languages():
+            if (model, language) not in attempted:
+                to_build.append((model, language))
+            elif pdf := next((reuse / language / model).glob('*.pdf'), None):
+                previews[model, language] = pdf
+            else:
+                print(f'No {language} preview for {model}: it did not build in Manual checks')
+    print(f'Reusing {len(previews)} PDFs from Manual checks; building {len(to_build)}', flush=True)
+    for (model, language), outputs, error in build_manuals(to_build, browser):
+        if error:
+            print(f'No {language} preview for {model}: {error}')
+        else:
+            previews[model, language] = Path(outputs['pdf'])
+
+    manuals = []
+    for model in models:
         manual = manual_build.manual(model)
         pdfs = [{'label': f'{language} · {revision}', 'note': 'Released', 'href': href}
                 for language, revision, href in sorted(released.get(model, []))]
         preview_links = {}
         for language in ['en'] + languages():
-            try:
-                built = manual_build.build(model, browser) if language == 'en' else build_translation(model, language)
-            except Exception as error:
-                print(f'No {language} preview for {model}: {str(error).splitlines()[0] if str(error) else type(error).__name__}')
+            if (model, language) not in previews:
                 continue
             target = output / 'manuals/preview' / language / f'{model}.pdf'
             target.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(built['pdf'], target)
+            shutil.copy2(previews[model, language], target)
             preview_links[language] = f'manuals/preview/{language}/{model}.pdf'
         if 'en' in preview_links:
             pdfs.append({'label': f'en · {manual["revision"]} preview', 'note': 'Current text on main; not a release', 'href': preview_links['en']})
@@ -296,6 +362,7 @@ def main():
     checker.add_argument('--output', type=Path, default=ROOT / '_build/ci')
     builder = sub.add_parser('site', help='Build the GitHub Pages site')
     builder.add_argument('--output', type=Path, default=ROOT / '_site')
+    builder.add_argument('--reuse', type=Path, help='Output of `check` for the same commit; its PDFs are not rebuilt')
     importer = sub.add_parser('import-issue', help='Import a translation ZIP attached to an issue (body from $ISSUE_BODY)')
     importer.add_argument('--issue', required=True)
     importer.add_argument('--output', type=Path, default=ROOT / '_build/ci')
@@ -309,7 +376,7 @@ def main():
         the_plan = json.loads(args.plan.read_text(encoding='utf-8')) if args.plan else plan()
         sys.exit(0 if check(the_plan, args.output.resolve(), args.browser) else 1)
     elif args.command == 'site':
-        site(args.output.resolve(), args.browser)
+        site(args.output.resolve(), args.browser, args.reuse.resolve() if args.reuse else None)
     else:
         import_issue(os.environ.get('ISSUE_BODY', ''), args.issue, args.output.resolve(), args.browser)
 
