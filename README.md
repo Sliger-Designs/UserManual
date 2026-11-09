@@ -30,13 +30,13 @@ tools used to translate them.
 | CX4150a | 4U rackmount | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4150a/v1.0/CX4150a-en-v1.0.pdf) |
 | CX4150e | 4U rackmount, two 5.25" bays | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4150e/v1.0/CX4150e-en-v1.0.pdf) |
 | CX4150i | 4U rackmount, one 5.25" bay | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4150i/v1.0/CX4150i-en-v1.0.pdf) |
-| CX4170a | 4U rackmount | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX4170e | 4U rackmount, two 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX4170i | 4U rackmount, one 5.25" bay | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX4200a | 4U rackmount | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX4200e | 4U rackmount, two 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX4200f | 4U rackmount, three 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX4200i | 4U rackmount, one 5.25" bay | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX4170a | 4U rackmount | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4170a/v1.0/CX4170a-en-v1.0.pdf) |
+| CX4170e | 4U rackmount, two 5.25" bays | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4170e/v1.0/CX4170e-en-v1.0.pdf) |
+| CX4170i | 4U rackmount, one 5.25" bay | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4170i/v1.0/CX4170i-en-v1.0.pdf) |
+| CX4200a | 4U rackmount | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4200a/v1.0/CX4200a-en-v1.0.pdf) |
+| CX4200e | 4U rackmount, two 5.25" bays | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4200e/v1.0/CX4200e-en-v1.0.pdf) |
+| CX4200f | 4U rackmount, three 5.25" bays | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4200f/v1.0/CX4200f-en-v1.0.pdf) |
+| CX4200i | 4U rackmount, one 5.25" bay | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4200i/v1.0/CX4200i-en-v1.0.pdf) |
 | CX4712 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX4713 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
 

@@ -16,6 +16,13 @@ unchanged. Add language folders when translations are approved.
 | English (`en`) | 4U | CX4150a | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150a/v1.0/CX4150a-en-v1.0.pdf) |
 | English (`en`) | 4U | CX4150e | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150e/v1.0/CX4150e-en-v1.0.pdf) |
 | English (`en`) | 4U | CX4150i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150i/v1.0/CX4150i-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4170a | v1.0 | 2026-11-09 | [PDF](en/4u/CX4170a/v1.0/CX4170a-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4170e | v1.0 | 2026-11-09 | [PDF](en/4u/CX4170e/v1.0/CX4170e-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4170i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4170i/v1.0/CX4170i-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4200a | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200a/v1.0/CX4200a-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4200e | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200e/v1.0/CX4200e-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4200f | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200f/v1.0/CX4200f-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4200i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200i/v1.0/CX4200i-en-v1.0.pdf) |
 
 Each version folder holds the PDF and a release record (`<model>-en-<version>.json`) with
 the release date and a content fingerprint of the build: a hash of its visible text and
