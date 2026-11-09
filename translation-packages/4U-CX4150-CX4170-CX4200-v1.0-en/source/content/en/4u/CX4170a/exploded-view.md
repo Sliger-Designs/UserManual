@@ -1,0 +1,14 @@
+### Assembly part key
+
+| No. | Part | Related procedure |
+| --- | --- | --- |
+| 1 | Lid | {{ ref('lid-removal', 'Remove the lid') }} |
+| 2 | Subfront | {{ ref('aio-installation', 'Install a front AIO radiator') }} |
+| 3 | Filter foam | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
+| 4 | Faceplate | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
+| 5 | Front I/O assembly | {{ ref('front-ports', 'Front ports & connections') }} |
+| 6 | Rack ear & pull handle | {{ ref('rack-ears', 'Install rack ears & handles') }} |
+| 7 | Chassis wrap | Main chassis body |
+| 8 | Removable motherboard tray | {{ ref('tray-removal', 'Remove the motherboard tray') }} |
+
+See the hardware-kit page for the screw bag and rack hardware.

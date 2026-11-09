@@ -3,7 +3,8 @@
 | Package | Manuals | Exported |
 |---|---|---|
 | [S630-S640-v1.0-en](S630-S640-v1.0-en/README.md) | S630, S640 v1.0 | 2026-11-02 |
-| [CX4150a-CX4150e-CX4150i-v1.0-en](CX4150a-CX4150e-CX4150i-v1.0-en/README.md) | CX4150a, CX4150e, CX4150i v1.0 | 2026-11-09 |
+| [CX4150a-CX4150e-CX4150i-v1.0-en](CX4150a-CX4150e-CX4150i-v1.0-en/README.md) | CX4150a, CX4150e, CX4150i v1.0 (superseded by 4U-CX4150-CX4170-CX4200-v1.0-en; not sent) | 2026-11-09 |
+| [4U-CX4150-CX4170-CX4200-v1.0-en](4U-CX4150-CX4170-CX4200-v1.0-en/README.md) | CX4150a, CX4150e, CX4150i, CX4170a, CX4170e, CX4170i, CX4200a, CX4200e, CX4200f, CX4200i v1.0 | 2026-11-09 |
 
 Each package contains its manuals' active Markdown, shared text, additional
 display/accessibility strings, page maps, instructions and exact approved English PDFs.

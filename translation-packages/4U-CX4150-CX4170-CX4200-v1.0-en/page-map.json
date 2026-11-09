@@ -1,0 +1,2534 @@
+{
+  "CX4150a": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX4150a",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/4u/CX4150a/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/4u/CX4150a/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/4u/CX4150a/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/4u/CX4150a/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/4u/CX4150a/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/4u/CX4150a/aio-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/4u/CX4150a/push-pull.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/4u/CX4150a/psu-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "markdown": [
+        "content/en/shared/rackmount/4u-ssd-installation.md",
+        "content/en/shared/rackmount/4u-rear-fan-ssd.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "markdown": [
+        "content/en/shared/rackmount/4u-rear-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/4u/CX4150a/cable-management.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/4u/CX4150a/revision-history.md"
+      ]
+    }
+  ],
+  "CX4150e": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX4150e",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/4u/CX4150e/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/4u/CX4150e/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/4u/CX4150e/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/4u/CX4150e/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/4u/CX4150e/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4150e/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/4u/CX4150e/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/4u/CX4150e/push-pull.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/4u/CX4150e/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "markdown": [
+        "content/en/shared/rackmount/4u-ssd-installation.md",
+        "content/en/shared/rackmount/4u-rear-fan-ssd.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "markdown": [
+        "content/en/shared/rackmount/4u-rear-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or filler blanks",
+      "markdown": [
+        "content/en/4u/CX4150e/bay-devices.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on a filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4150e/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/4u/CX4150e/cable-management.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/4u/CX4150e/revision-history.md"
+      ]
+    }
+  ],
+  "CX4150i": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX4150i",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/4u/CX4150i/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/4u/CX4150i/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/4u/CX4150i/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/4u/CX4150i/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/4u/CX4150i/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4150i/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/4u/CX4150i/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/4u/CX4150i/push-pull.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/4u/CX4150i/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "markdown": [
+        "content/en/shared/rackmount/4u-ssd-installation.md",
+        "content/en/shared/rackmount/4u-rear-fan-ssd.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "markdown": [
+        "content/en/shared/rackmount/4u-rear-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or filler blanks",
+      "markdown": [
+        "content/en/4u/CX4150i/bay-devices.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on a filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4150i/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/4u/CX4150i/cable-management.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/4u/CX4150i/revision-history.md"
+      ]
+    }
+  ],
+  "CX4170a": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX4170a",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/4u/CX4170a/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/4u/CX4170a/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — drive cage installed",
+      "markdown": [
+        "content/en/4u/CX4170a/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "clearance-without-cage",
+      "title": "Clearance drawing — cage removed",
+      "markdown": [
+        "content/en/4u/CX4170a/clearance-without-cage.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/4u/CX4170a/front-clearance.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/4u/CX4170a/specifications.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/4u/CX4170a/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "cooling-clearance",
+      "title": "Radiator & drive-cage clearance",
+      "markdown": [
+        "content/en/4u/CX4170a/cooling-clearance.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/4u/CX4170a/push-pull.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "drive-cage-removal",
+      "title": "Remove the internal drive cage",
+      "markdown": [
+        "content/en/4u/CX4170a/drive-cage-removal.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "drive-cage-drives",
+      "title": "Install drives in the cage",
+      "markdown": [
+        "content/en/4u/CX4170a/drive-cage-drives.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "drive-cage-layouts-1",
+      "title": "Drive-cage layout examples",
+      "markdown": [
+        "content/en/4u/CX4170a/drive-cage-layouts-1.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/4u/CX4170a/psu-installation.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "markdown": [
+        "content/en/shared/rackmount/4u-ssd-installation.md",
+        "content/en/shared/rackmount/4u-rear-fan-ssd.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "markdown": [
+        "content/en/shared/rackmount/4u-rear-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "drive-cage-installation",
+      "title": "Reinstall the drive cage",
+      "markdown": [
+        "content/en/4u/CX4170a/drive-cage-installation.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/4u/CX4170a/cable-management.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 31,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 32,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/4u/CX4170a/revision-history.md"
+      ]
+    }
+  ],
+  "CX4170e": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX4170e",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/4u/CX4170e/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/4u/CX4170e/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/4u/CX4170e/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/4u/CX4170e/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/4u/CX4170e/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4170e/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/4u/CX4170e/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/4u/CX4170e/push-pull.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/4u/CX4170e/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "markdown": [
+        "content/en/shared/rackmount/4u-ssd-installation.md",
+        "content/en/shared/rackmount/4u-rear-fan-ssd.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "markdown": [
+        "content/en/shared/rackmount/4u-rear-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or filler blanks",
+      "markdown": [
+        "content/en/4u/CX4170e/bay-devices.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on a filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4170e/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/4u/CX4170e/cable-management.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/4u/CX4170e/revision-history.md"
+      ]
+    }
+  ],
+  "CX4170i": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX4170i",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/4u/CX4170i/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/4u/CX4170i/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — drive cage installed",
+      "markdown": [
+        "content/en/4u/CX4170i/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "clearance-without-cage",
+      "title": "Clearance drawing — cage removed",
+      "markdown": [
+        "content/en/4u/CX4170i/clearance-without-cage.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/4u/CX4170i/front-clearance.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/4u/CX4170i/specifications.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4170i/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "drive-cage-removal",
+      "title": "Remove the internal drive cage",
+      "markdown": [
+        "content/en/4u/CX4170i/drive-cage-removal.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/4u/CX4170i/aio-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "cooling-clearance",
+      "title": "Radiator & drive-cage clearance",
+      "markdown": [
+        "content/en/4u/CX4170i/cooling-clearance.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/4u/CX4170i/push-pull.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "drive-cage-drives",
+      "title": "Install drives in the cage",
+      "markdown": [
+        "content/en/4u/CX4170i/drive-cage-drives.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "drive-cage-layouts-1",
+      "title": "Drive-cage layout examples",
+      "markdown": [
+        "content/en/4u/CX4170i/drive-cage-layouts-1.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/4u/CX4170i/psu-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "markdown": [
+        "content/en/shared/rackmount/4u-ssd-installation.md",
+        "content/en/shared/rackmount/4u-rear-fan-ssd.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "markdown": [
+        "content/en/shared/rackmount/4u-rear-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "drive-cage-installation",
+      "title": "Reinstall the drive cage",
+      "markdown": [
+        "content/en/4u/CX4170i/drive-cage-installation.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "bay-devices",
+      "title": "Fit a 5.25-inch device or filler blank",
+      "markdown": [
+        "content/en/4u/CX4170i/bay-devices.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on a filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 31,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4170i/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 32,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 33,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/4u/CX4170i/cable-management.md"
+      ]
+    },
+    {
+      "page": 34,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 35,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 36,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/4u/CX4170i/revision-history.md"
+      ]
+    }
+  ],
+  "CX4200a": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX4200a",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/4u/CX4200a/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/4u/CX4200a/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — drive cage installed",
+      "markdown": [
+        "content/en/4u/CX4200a/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "clearance-without-cage",
+      "title": "Clearance drawing — cage removed",
+      "markdown": [
+        "content/en/4u/CX4200a/clearance-without-cage.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/4u/CX4200a/front-clearance.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/4u/CX4200a/specifications.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "drive-cage-removal",
+      "title": "Remove the internal drive cage",
+      "markdown": [
+        "content/en/4u/CX4200a/drive-cage-removal.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/4u/CX4200a/aio-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "cooling-clearance",
+      "title": "Radiator & drive-cage clearance",
+      "markdown": [
+        "content/en/4u/CX4200a/cooling-clearance.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/4u/CX4200a/push-pull.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "drive-cage-drives",
+      "title": "Install drives in the cage",
+      "markdown": [
+        "content/en/4u/CX4200a/drive-cage-drives.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "drive-cage-layouts-1",
+      "title": "Drive-cage layout examples",
+      "markdown": [
+        "content/en/4u/CX4200a/drive-cage-layouts-1.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/4u/CX4200a/psu-installation.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "markdown": [
+        "content/en/shared/rackmount/4u-ssd-installation.md",
+        "content/en/shared/rackmount/4u-rear-fan-ssd.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "markdown": [
+        "content/en/shared/rackmount/4u-rear-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "drive-cage-installation",
+      "title": "Reinstall the drive cage",
+      "markdown": [
+        "content/en/4u/CX4200a/drive-cage-installation.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/4u/CX4200a/cable-management.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 31,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 32,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/4u/CX4200a/revision-history.md"
+      ]
+    }
+  ],
+  "CX4200e": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX4200e",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/4u/CX4200e/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/4u/CX4200e/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/4u/CX4200e/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/4u/CX4200e/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/4u/CX4200e/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4200e/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/4u/CX4200e/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/4u/CX4200e/push-pull.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/4u/CX4200e/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "markdown": [
+        "content/en/shared/rackmount/4u-ssd-installation.md",
+        "content/en/shared/rackmount/4u-rear-fan-ssd.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "markdown": [
+        "content/en/shared/rackmount/4u-rear-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or filler blanks",
+      "markdown": [
+        "content/en/4u/CX4200e/bay-devices.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on a filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4200e/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/4u/CX4200e/cable-management.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/4u/CX4200e/revision-history.md"
+      ]
+    }
+  ],
+  "CX4200f": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX4200f",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/4u/CX4200f/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/4u/CX4200f/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/4u/CX4200f/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/4u/CX4200f/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/4u/CX4200f/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4200f/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-bracket-removal",
+      "title": "Remove the front fan bracket",
+      "markdown": [
+        "content/en/4u/CX4200f/fan-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/4u/CX4200f/aio-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/4u/CX4200f/push-pull.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "fan-bracket-installation",
+      "title": "Reinstall the front fan bracket",
+      "markdown": [
+        "content/en/4u/CX4200f/fan-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/4u/CX4200f/psu-installation.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "markdown": [
+        "content/en/shared/rackmount/4u-ssd-installation.md",
+        "content/en/shared/rackmount/4u-rear-fan-ssd.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "markdown": [
+        "content/en/shared/rackmount/4u-rear-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or filler blanks",
+      "markdown": [
+        "content/en/4u/CX4200f/bay-devices.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on a filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4200f/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/4u/CX4200f/cable-management.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 31,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 32,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/4u/CX4200f/revision-history.md"
+      ]
+    }
+  ],
+  "CX4200i": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX4200i",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/4u/CX4200i/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/4u/CX4200i/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — drive cage installed",
+      "markdown": [
+        "content/en/4u/CX4200i/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "clearance-without-cage",
+      "title": "Clearance drawing — cage removed",
+      "markdown": [
+        "content/en/4u/CX4200i/clearance-without-cage.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/4u/CX4200i/front-clearance.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/4u/CX4200i/specifications.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4200i/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "drive-cage-removal",
+      "title": "Remove the internal drive cage",
+      "markdown": [
+        "content/en/4u/CX4200i/drive-cage-removal.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/4u/CX4200i/aio-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "cooling-clearance",
+      "title": "Radiator & drive-cage clearance",
+      "markdown": [
+        "content/en/4u/CX4200i/cooling-clearance.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/4u/CX4200i/push-pull.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "drive-cage-drives",
+      "title": "Install drives in the cage",
+      "markdown": [
+        "content/en/4u/CX4200i/drive-cage-drives.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "drive-cage-layouts-1",
+      "title": "Drive-cage layout examples",
+      "markdown": [
+        "content/en/4u/CX4200i/drive-cage-layouts-1.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/4u/CX4200i/psu-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "ssd-installation",
+      "title": "Install a 2.5-inch SSD",
+      "markdown": [
+        "content/en/shared/rackmount/4u-ssd-installation.md",
+        "content/en/shared/rackmount/4u-rear-fan-ssd.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "rear-fan-bracket",
+      "title": "Install the rear fan bracket",
+      "markdown": [
+        "content/en/shared/rackmount/4u-rear-fan-bracket.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "drive-cage-installation",
+      "title": "Reinstall the drive cage",
+      "markdown": [
+        "content/en/4u/CX4200i/drive-cage-installation.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "bay-devices",
+      "title": "Fit a 5.25-inch device or filler blank",
+      "markdown": [
+        "content/en/4u/CX4200i/bay-devices.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on a filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 31,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/4u/CX4200i/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 32,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 33,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/4u/CX4200i/cable-management.md"
+      ]
+    },
+    {
+      "page": 34,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 35,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 36,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/4u/CX4200i/revision-history.md"
+      ]
+    }
+  ]
+}
