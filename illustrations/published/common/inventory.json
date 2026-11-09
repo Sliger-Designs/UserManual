@@ -1241,7 +1241,7 @@
       "size_bytes": 334938,
       "sha256": "f676f13ab6fb192c197c19418e19fbc952c51f6bddbcfa0cbfe3421d040f8dcb",
       "selection_status": "candidate",
-      "note": "CX400-120B rear fan bracket: 120 mm fan secured to the bracket with four fan screws (supplied with the bracket). Supplied 2026-11-06; one set for every 4U tray."
+      "note": "CX400-120B rear fan bracket (sold as KIT-4U-REARFAN-B, or KIT-4U-REARFAN-NF25 with a Noctua NF-A12x25 fan): 120 mm fan secured to the bracket with four fan screws (supplied with the kit). Supplied 2026-11-06; one set for every 4U tray."
     },
     {
       "id": "common-74554602a67d",
@@ -1254,7 +1254,7 @@
       "size_bytes": 4934461,
       "sha256": "74554602a67d77feb3d20149e502e2dc1b6ef41c556f58058b5f95c67fd6c326",
       "selection_status": "candidate",
-      "note": "CX400-120B rear fan bracket secured behind the rear vent from outside the chassis with four screws supplied with the bracket. Supplied 2026-11-06; one set for every 4U tray."
+      "note": "CX400-120B rear fan bracket (KIT-4U-REARFAN-B / KIT-4U-REARFAN-NF25) secured behind the rear vent from outside the chassis with four screws supplied with the kit. Supplied 2026-11-06; one set for every 4U tray."
     }
   ],
   "removed_items": [
