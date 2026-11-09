@@ -3,15 +3,21 @@
 
 1. English preview: every page's text, element structure and image/accessibility labels
    must equal the English build.
-2. Round trip: pseudo-translate every item in the editor, export its ZIP, validate it with
-   translation_package.py, rebuild the manuals from it, and compare with the editor preview.
+2. Round trip: pseudo-translate every item in the editor, download its translation file,
+   validate it with translation_package.py, rebuild the manuals from it, and compare with
+   the editor preview.
+
+The editor is served over HTTP from the folder holding the editors and their shared assets.
 """
 import argparse
-import base64
+import contextlib
+import functools
+import http.server
 import json
 from pathlib import Path
 import shutil
 import tempfile
+import threading
 
 from playwright.sync_api import sync_playwright
 
@@ -19,7 +25,7 @@ from manual_build import build
 from manual_localization import PackageLocalizer
 from manual_paths import ROOT
 from translation_memory import MemoryLocalizer, import_package
-from translation_package import extract_package, protected_terms, validate
+from translation_package import open_returned, protected_terms, validate
 from translation_segments import needs_translation, segment_markdown
 
 PAGES = '''(root) => [...root.querySelectorAll('.page')].map(page => ({
@@ -68,8 +74,24 @@ def pages_of(browser, html):
     return result
 
 
-def check(editor_path, browser_path, keep_zip=None, package_dir=None):
-    package_name = editor_path.parent.name
+@contextlib.contextmanager
+def serve(folder):
+    """A local web server for `folder` (the editors and assets/); yields its base URL."""
+    class Quiet(http.server.SimpleHTTPRequestHandler):
+        def log_message(self, *args):
+            pass
+    server = http.server.ThreadingHTTPServer(('127.0.0.1', 0), functools.partial(Quiet, directory=str(folder)))
+    thread = threading.Thread(target=server.serve_forever, daemon=True)
+    thread.start()
+    try:
+        yield f'http://127.0.0.1:{server.server_address[1]}/'
+    finally:
+        server.shutdown()
+        server.server_close()
+
+
+def check(editor_path, browser_path, keep_file=None, package_dir=None):
+    package_name = package_dir.name if package_dir else editor_path.parent.name
     package_dir = package_dir or ROOT / 'translation-packages' / package_name
     manifest = json.loads((package_dir / 'manifest.json').read_text(encoding='utf-8'))
     models = manifest['models']
@@ -77,19 +99,24 @@ def check(editor_path, browser_path, keep_zip=None, package_dir=None):
     # Playwright sessions cannot nest, so build first, then drive the editor, then compare.
     english = {model: build(model, browser_path, html_only=True) for model in models}
     failures, errors, editor = [], [], {}
-    with tempfile.TemporaryDirectory() as temporary:
+    site = editor_path.parent.parent
+    url_path = editor_path.relative_to(site).as_posix()
+    with tempfile.TemporaryDirectory() as temporary, serve(site) as base:
+        url = base + url_path
         with sync_playwright() as playwright:
             browser = playwright.chromium.launch(executable_path=browser_path, headless=True)
             page = browser.new_page(viewport={'width': 1600, 'height': 1000})
             page.on('pageerror', lambda error: errors.append(str(error)))
             page.on('console', lambda message: errors.append(message.text) if message.type == 'error' else None)
             # Without a language the editor offers its chooser; with ?lang it opens that workspace.
-            page.goto(editor_path.as_uri())
+            page.goto(url)
             page.wait_for_function('window.translationEditor && document.body.classList.contains("choosing")', timeout=60000)
             if not page.locator('#editor h2').count():
                 failures.append('Editor without ?lang does not show the translation chooser')
-            page.goto(editor_path.as_uri() + '?lang=de&fresh=1')
-            page.wait_for_function('window.translationEditor && !document.getElementById("preview-loading")', timeout=120000)
+            page.goto(url + '?lang=de&fresh=1')
+            page.wait_for_function('window.translationEditor', timeout=120000)
+            # Previews load on demand; the check needs every manual's.
+            page.evaluate('() => window.translationEditor.loadAllPreviews()')
             preview = lambda model: page.evaluate(f'() => ({PAGES})(window.translationEditor.previews[{json.dumps(model)}].doc)')
             page.evaluate('() => document.querySelector(".toggle [data-mode=english]").click()')
             page.wait_for_timeout(1000)
@@ -126,22 +153,22 @@ def check(editor_path, browser_path, keep_zip=None, package_dir=None):
             }''')]
             failures += [f'Editor layout check: {issue}' for issue in page.evaluate(
                 '() => Object.values(window.translationEditor.previews).flatMap(p => p.issues.map(i => p.model + " " + i.message))')]
-            archive = Path(temporary) / f'{package_name}-de-translation.zip'
-            archive.write_bytes(base64.b64decode(page.evaluate('''async () => {
-                const editor = window.translationEditor, bytes = new Uint8Array(await editor.makeZip(editor.packageFiles()).arrayBuffer());
-                let binary = ''; for (let i = 0; i < bytes.length; i += 32768) binary += String.fromCharCode(...bytes.subarray(i, i + 32768));
-                return btoa(binary);
-            }''')))
+            returned = Path(temporary) / f'{package_name}-de-translation.json'
+            returned.write_text(json.dumps(page.evaluate('() => window.translationEditor.translationFile()'), ensure_ascii=False),
+                                encoding='utf-8')
             browser.close()
-        if keep_zip:
-            shutil.copyfile(archive, keep_zip)
-        package = extract_package(archive, Path(temporary) / 'returned')
+        if keep_file:
+            shutil.copyfile(returned, keep_file)
+        if package_dir.resolve() != (ROOT / 'translation-packages' / package_name).resolve():
+            raise SystemExit('The round trip needs the package in translation-packages/ (where returned files are expanded)')
+        (Path(temporary) / 'returned').mkdir()
+        package = open_returned(returned, Path(temporary) / 'returned')
         validate(package, complete=True, baseline=package_dir)
         localizer = PackageLocalizer(package)
         translated = {model: build(model, browser_path, localizer=localizer, html_only=True) for model in models}
         # Importing into a language memory and building from it must give the same manuals.
         memory_root = Path(temporary) / 'translations'
-        import_package(archive, memory_root)
+        import_package(returned, memory_root)
         for model in models:
             from_memory = MemoryLocalizer('de', memory_root)
             if build(model, browser_path, localizer=from_memory, html_only=True) != translated[model]:
@@ -166,10 +193,10 @@ def main():
     parser.add_argument('editor', type=Path, help='Built editor, e.g. _build/translation-editor/S630-S640-v1.0-en/index.html')
     parser.add_argument('--browser', default=shutil.which('chromium') or shutil.which('google-chrome') or shutil.which('chrome'),
                         help="Chromium executable (default: one on PATH, else Playwright's bundled Chromium)")
-    parser.add_argument('--keep-zip', type=Path, help='Save the pseudo-translated package ZIP here')
+    parser.add_argument('--keep-file', type=Path, help='Save the pseudo-translated translation file here')
     parser.add_argument('--package', type=Path, help='Package the editor was built from (default: translation-packages/<editor folder name>)')
     args = parser.parse_args()
-    check(args.editor.resolve(), args.browser, args.keep_zip and args.keep_zip.resolve(), args.package and args.package.resolve())
+    check(args.editor.resolve(), args.browser, args.keep_file and args.keep_file.resolve(), args.package and args.package.resolve())
 
 
 if __name__ == '__main__':

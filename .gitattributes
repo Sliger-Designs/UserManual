@@ -1,3 +1,7 @@
+# Every text file is stored and checked out with LF line endings on every platform, so builds,
+# fingerprints and package checksums are byte-identical on Windows and Linux.
+* text=auto eol=lf
+
 # Translation packages are checksummed snapshots: keep their bytes exactly as committed.
 translation-packages/** -text
 

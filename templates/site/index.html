@@ -46,7 +46,7 @@ dialog::backdrop { background: #0005; } dialog .buttons { display: flex; justify
 <header><img src="__SLIGER_LOGO__" alt="Sliger"><strong>User manuals</strong></header>
 <main>
   <h1>Manuals</h1>
-  <p class="intro">Download a manual, or open one to translate it. Translation work is saved only in this browser on this computer: it isn't available from another computer or browser, and clearing your browser data deletes it. To move your work or send it to Sliger, download its ZIP from the editor.</p>
+  <p class="intro">Download a manual, or open one to translate it. Translation work is saved only in this browser on this computer: it isn't available from another computer or browser, and clearing your browser data deletes it. To move your work or send it to Sliger, download its translation file from the editor.</p>
   <div class="filters"><input type="search" id="filter" placeholder="Filter by model, e.g. S630" aria-label="Filter manuals"></div>
   <div id="manuals"></div>
   <p class="note" id="built"></p>
@@ -134,7 +134,7 @@ function translatePanel(manual) {
     let fresh = false;
     if (savedLanguages.has(code)) {
       const choice = await confirmDialog(`You already have a ${languageLabel(code)} translation here`,
-        'Continue it, or start over? Starting over removes the work saved in this browser for this language; download its ZIP from the editor first if you might need it.',
+        'Continue it, or start over? Starting over removes the work saved in this browser for this language; download its translation file from the editor first if you might need it.',
         [['Cancel', null], ['Start over', 'fresh'], ['Continue', 'continue']]);
       if (!choice) return;
       fresh = choice === 'fresh';

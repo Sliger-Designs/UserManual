@@ -102,21 +102,22 @@ New pages, new images or a new manual need a local checkout: originals are recor
 
 ## Translations
 
-Translators use a single-file browser editor that shows each page as sentence-sized items
-beside a live preview, protects placeholders, hardware letters, numbers and model names,
-and exports a ZIP. Returned translations are imported into `translations/<lang>/memory.json`,
-so text shared between manuals is translated once and only changed text needs work later.
+Translators work only in the web editor on the Pages site. It shows each page as
+sentence-sized items beside a live preview, protects placeholders, hardware letters,
+numbers and model names, and downloads one small translation file. Translators return that
+file through the *Return a translation* issue form (a maintainer approves the automatic
+import) or by email. Returned translations are imported into
+`translations/<lang>/memory.json`, so text shared between manuals is translated once and
+only changed text needs work later.
 
 ```bash
-python3 scripts/translation_package.py export /path/to/package --models S630 S640
-python3 scripts/translation_editor.py translation-packages/S630-S640-v1.0-en
-python3 scripts/translation_memory.py import /path/to/returned.zip
+python3 scripts/translation_package.py export translation-packages/<name> --models S630 S640
+python3 scripts/translation_memory.py import /path/to/<package>-de-translation.json
 python3 scripts/build_manual.py --model S630 --language de
 ```
 
 See [translation-packages/README.md](translation-packages/README.md) and
-[translations/README.md](translations/README.md). Translators can also return ZIPs through
-the *Return a translation* issue form; a maintainer approves the automatic import.
+[translations/README.md](translations/README.md).
 
 ## Checks and publishing
 

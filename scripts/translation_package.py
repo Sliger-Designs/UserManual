@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Export a translator handoff and validate returned Markdown and label files.
+"""Export the English snapshot a translation editor is built from, and validate returned translations.
 
 The export runs the real manual build with a recording localizer, so the package holds
-exactly the strings and Markdown the build uses, each with the pages where it appears."""
+exactly the strings and Markdown the build uses, each with the pages where they appear.
+Translators work in the web editor and return one small translation file (JSON); it is
+expanded against the package snapshot here and checked like a complete package."""
 import argparse
 from collections import Counter
 import hashlib
@@ -17,6 +19,10 @@ import zipfile
 
 from manual_localization import RecordingLocalizer
 from manual_paths import MODEL_CATEGORIES, ROOT, content_directory
+
+# The editor's download: English -> translation pairs plus job details (see editor.js).
+TRANSLATION_FORMAT = 'sliger-manual-translation'
+PACKAGES = ROOT / 'translation-packages'
 
 # Packages exported before manifest schema 2 record no protected terms; these were the rules.
 LEGACY_PROTECTED = {
@@ -74,22 +80,16 @@ def manuals_label(models, version):
     return version if all(model in version for model in models) else f'{name_list(models)} {version}'
 
 
-def handoff_readme(models, version, markdown_files, protected, family):
-    """docs/translation-handoff.md with this package's models, folders and family notes."""
+def handoff_readme(models, version, protected, family):
+    """docs/translation-handoff.md (the translator instructions shown in the editor) with
+    this package's models, protected text and family notes."""
     template = re.sub(r'<!--.*?-->\n*', '', (ROOT / 'docs/translation-handoff.md').read_text(encoding='utf-8'), flags=re.S)
     notes = ROOT / 'docs/translation-notes' / f'{family}.md'
-    folders = []
-    for path in markdown_files:
-        parts = Path(path).relative_to('content/en').parts
-        folder = 'translation/content/' + ('shared' if parts[0] == 'shared' else '/'.join(parts[:2])) + '/'
-        if folder not in folders:
-            folders.append(folder)
     letters = protected['hardware_letters']
     contiguous = letters == ''.join(chr(ord(letters[0]) + k) for k in range(len(letters)))
     glossary = read_json(ROOT / 'glossary/protected-terms.json')
     return Template(template).substitute(
         manuals=manuals_label(models, version), version=version,
-        content_folders=name_list(f'`{folder}`' for folder in sorted(folders)),
         hardware_letters=f'{letters[0]}–{letters[-1]}' if contiguous and len(letters) > 2 else ', '.join(letters),
         terms=', '.join(glossary['terms']) + ', screw sizes such as M3 and 6-32',
         family_notes=notes.read_text(encoding='utf-8').strip() + '\n' if notes.is_file() else '')
@@ -128,15 +128,15 @@ def export(destination, models, include_drafts=False):
         relative = Path(path).relative_to('content/en')
         for prefix in ('source/content/en', 'translation/content'):
             write_text(destination / prefix / relative, recorder.markdown_files[path])
+    # Approved English PDFs stay in releases/; the manifest pins them by hash.
+    reference = {}
     for model in models:
         if model in drafts:
-            print(f'Note: {model} is a draft; the package has no reference PDF for it')
+            print(f'Note: {model} is a draft; it has no approved English PDF')
             continue
         revision = revisions[model]
         pdf = ROOT / 'releases/en' / MODEL_CATEGORIES[model] / model / revision / f'{model}-en-{revision}.pdf'
-        target = destination / 'reference' / pdf.relative_to(ROOT / 'releases')
-        target.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(pdf, target)
+        reference['reference/' + pdf.relative_to(ROOT / 'releases').as_posix()] = digest(pdf)
     protected = protected_terms(models)
     write_json(destination / 'source/strings.json', catalog)
     write_json(destination / 'translation/strings.json', catalog)
@@ -145,10 +145,10 @@ def export(destination, models, include_drafts=False):
         'translator': '', 'reviewer': '', 'notes': '',
     })
     write_json(destination / 'page-map.json', recorder.pages)
-    write_text(destination / 'README.md', handoff_readme(models, version, markdown_files, protected, families.pop()))
-    shutil.copy2(ROOT / 'glossary/README.md', destination / 'terminology.md')
+    write_text(destination / 'README.md', handoff_readme(models, version, protected, families.pop()))
+    write_text(destination / 'terminology.md', (ROOT / 'glossary/README.md').read_text(encoding='utf-8'))
     baseline = {path.relative_to(destination).as_posix(): digest(path)
-                for sub in ('source', 'reference') for path in sorted((destination / sub).rglob('*')) if path.is_file()}
+                for path in sorted((destination / 'source').rglob('*')) if path.is_file()} | reference
     write_json(destination / 'manifest.json', {
         'schema_version': 2, 'models': list(models), 'source_language': 'en', 'source_version': version,
         'source_versions': revisions, 'drafts': drafts,
@@ -183,18 +183,24 @@ def protected(text, spec=LEGACY_PROTECTED):
 
 def default_baseline(package):
     """The repository copy of a package with the same name, used for omitted read-only files."""
-    candidate = ROOT / 'translation-packages' / package.name
+    candidate = PACKAGES / package.name
     return candidate if candidate.is_dir() and candidate.resolve() != package.resolve() else None
 
 
 def validate(package, complete=False, baseline=None):
-    """Validate a returned package. Read-only files it omits (the browser editor leaves out
-    the reference PDFs) are taken from `baseline`, by default the repository's copy."""
+    """Validate a returned package. Read-only files it omits are taken from `baseline`, by
+    default the repository's copy; reference PDFs from releases/, where they are archived."""
     baseline = baseline or default_baseline(package)
 
     def locate(name):
         path = package / name
-        return path if path.exists() or not baseline else baseline / name
+        if path.exists():
+            return path
+        if baseline and (baseline / name).exists():
+            return baseline / name
+        if name.startswith('reference/'):
+            return ROOT / 'releases' / name.removeprefix('reference/')
+        return path
 
     manifest = read_json(locate('manifest.json'))
     spec = protected_spec(manifest)
@@ -254,6 +260,68 @@ def validate(package, complete=False, baseline=None):
     print('PASS: Package structure and protected tokens are intact. Human language and PDF layout review still required.')
 
 
+def read_translation_file(path):
+    data = read_json(Path(path))
+    if not isinstance(data, dict) or data.get('format') != TRANSLATION_FORMAT or data.get('schema') != 1:
+        raise ValueError(f'{Path(path).name} is not a translation file downloaded from the translation editor')
+    if not isinstance(data.get('entries'), dict) or not isinstance(data.get('job', {}), dict):
+        raise ValueError(f'{Path(path).name}: damaged translation file (entries/job)')
+    return data
+
+
+def package_from_translation(data, destination, packages=PACKAGES):
+    """Expand an editor translation file into a complete returned package (the package
+    snapshot it was made from plus filled-in translation/ files), so it is validated, built
+    and imported exactly like a package. Returns the package folder."""
+    from translation_segments import assemble, needs_translation, segment_markdown
+    name = str(data.get('package', ''))
+    source = packages / name
+    if not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9._-]*', name) or not (source / 'manifest.json').is_file():
+        raise ValueError(f'Unknown translation package {name!r}: the file must come from an editor on the Sliger site')
+    manifest = read_json(source / 'manifest.json')
+    if data.get('source_commit') and data['source_commit'] != manifest['source_commit']:
+        raise ValueError(f'The file was made from a different version of {name} ({data["source_commit"][:7]}, '
+                         f'expected {manifest["source_commit"][:7]})')
+    package = Path(destination) / name
+    package.mkdir(parents=True)
+    for item in ('manifest.json', 'page-map.json', 'README.md', 'terminology.md'):
+        if (source / item).is_file():
+            shutil.copy2(source / item, package / item)
+    shutil.copytree(source / 'source', package / 'source')
+    entries = {english: value for english, value in data['entries'].items()
+               if isinstance(english, str) and isinstance(value, str) and value.strip()}
+    spec = protected_terms(manifest['models'])
+    job = read_json(source / 'translation/job.json')
+    for key in job:
+        if isinstance(data.get('job', {}).get(key), str):
+            job[key] = data['job'][key].strip()
+    write_json(package / 'translation/job.json', job)
+    catalog = read_json(source / 'source/strings.json')
+    for entry in catalog.values():
+        entry['translation'] = entries.get(entry['source']) or ('' if needs_translation(entry['source'], spec) else entry['source'])
+    write_json(package / 'translation/strings.json', catalog)
+    for markdown in manifest['markdown_files']:
+        relative = Path(markdown).relative_to('content/en')
+        english = (source / 'source/content/en' / relative).read_text(encoding='utf-8')
+        write_text(package / 'translation/content' / relative,
+                   assemble(segment_markdown(english, manifest['models']), lambda part: entries.get(part['text'], part['text'])))
+    write_json(package / 'translation/translation-memory.json',
+               {'schema': 1, 'source_language': 'en', 'target_language': job.get('target_language', ''),
+                'entries': dict(sorted(entries.items()))})
+    return package
+
+
+def open_returned(path, temporary):
+    """A returned translation as a package folder: an editor translation file (.json), an
+    older editor ZIP, or a package folder."""
+    path = Path(path).resolve()
+    if path.is_dir():
+        return path
+    if path.suffix.lower() == '.json':
+        return package_from_translation(read_translation_file(path), Path(temporary))
+    return extract_package(path, Path(temporary))
+
+
 def extract_package(archive, destination):
     """Extract a returned ZIP and return its single top-level package folder."""
     with zipfile.ZipFile(archive) as source:
@@ -276,35 +344,19 @@ def main():
                                help='Manuals translated together; shared text appears once')
     export_parser.add_argument('--include-drafts', action='store_true',
                                help='Allow unreleased manuals (trial packages; their English may still change)')
-    check = sub.add_parser('validate', help='Validate a returned package folder or ZIP')
+    check = sub.add_parser('validate', help='Validate a returned translation file (.json), older ZIP or package folder')
     check.add_argument('directory', type=Path)
     check.add_argument('--complete', action='store_true')
     check.add_argument('--baseline', type=Path,
                        help='Original package supplying omitted read-only files '
                             '(default: translation-packages/<same name>)')
-    archive = sub.add_parser('zip')
-    archive.add_argument('directory', type=Path)
-    archive.add_argument('output', type=Path)
     args = parser.parse_args()
     if args.command == 'export':
         export(args.directory.resolve(), args.models, args.include_drafts)
-    elif args.command == 'validate':
-        baseline = args.baseline.resolve() if args.baseline else None
-        if args.directory.suffix.lower() == '.zip':
-            with tempfile.TemporaryDirectory() as temporary:
-                validate(extract_package(args.directory, Path(temporary)), args.complete, baseline)
-        else:
-            validate(args.directory.resolve(), args.complete, baseline)
     else:
-        validate(args.directory.resolve())
-        if args.output.resolve().is_relative_to(args.directory.resolve()):
-            raise ValueError('ZIP output must be outside the package folder.')
-        args.output.parent.mkdir(parents=True, exist_ok=True)
-        with zipfile.ZipFile(args.output, 'x', compression=zipfile.ZIP_DEFLATED) as archive:
-            for path in sorted(args.directory.rglob('*')):
-                if path.is_file():
-                    archive.write(path, Path(args.directory.name) / path.relative_to(args.directory))
-        print('Created', args.output)
+        baseline = args.baseline.resolve() if args.baseline else None
+        with tempfile.TemporaryDirectory() as temporary:
+            validate(open_returned(args.directory, temporary), args.complete, baseline)
 
 
 if __name__ == '__main__':

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build a standalone HTML manual, check its layout, then render its landscape PDF.
 
-Any model can be built in English, from a returned translation package (--translation),
+Any model can be built in English, from a returned translation (--translation),
 or from a language's translation memory (--language)."""
 import argparse
 import json
@@ -20,8 +20,8 @@ def main():
                         help="Chromium executable (default: one on PATH, else Playwright's bundled Chromium)")
     parser.add_argument('--public-preview', action='store_true', help='Build customer-facing SFF PDFs without marking them released')
     source = parser.add_mutually_exclusive_group()
-    source.add_argument('--translation', type=Path, metavar='PACKAGE',
-                        help='Build review PDFs from a complete translation package folder or ZIP')
+    source.add_argument('--translation', type=Path, metavar='FILE',
+                        help="Build review PDFs from a returned translation: the editor's .json file, an older ZIP or a package folder")
     source.add_argument('--language', metavar='LANG',
                         help='Build review PDFs from translations/LANG/memory.json')
     parser.add_argument('--allow-incomplete', action='store_true',
@@ -44,11 +44,9 @@ def main():
         manual_build.build(model, args.browser, localizer=MemoryLocalizer(args.language), **options)
     elif args.translation:
         from manual_localization import PackageLocalizer
-        from translation_package import extract_package, validate
+        from translation_package import open_returned, validate
         with tempfile.TemporaryDirectory() as temporary:
-            package = args.translation.resolve()
-            if package.suffix.lower() == '.zip':
-                package = extract_package(package, Path(temporary))
+            package = open_returned(args.translation, temporary)
             validate(package, complete=True)
             job = json.loads((package / 'translation/job.json').read_text(encoding='utf-8'))
             if job.get('translator') == 'self-test':

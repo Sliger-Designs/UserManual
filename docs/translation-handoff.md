@@ -1,96 +1,58 @@
-# ${manuals} translation handoff
+# Translating the ${manuals} manuals
 
-<!-- Template: scripts/translation_package.py export fills in ${...} values.
-     Model-family guidance comes from docs/translation-notes/<family>.md. -->
+<!-- Template: the translation editor shows this as its instructions, and
+     scripts/translation_package.py export saves a copy as the package README.
+     ${...} values are filled in per package. Model-family guidance comes from
+     docs/translation-notes/<family>.md. -->
 
-This package contains the text used by the approved English ${manuals}
-manuals. Translate them together: shared procedures need translation only once.
-The English PDFs in `reference/en/` show the images and page layout.
-`page-map.json` maps each manual's pages to the Markdown files used on it.
-Some pages use multiple files; filenames do not correspond one-to-one to pages.
+Translate in the Sliger translation editor (open a manual on the Sliger manuals
+site and choose a language under **Translate**). It shows each page of the manuals as sentence-sized
+items beside a live preview of the real page. Text shared by several manuals
+appears once and only needs translating once.
 
-Translators who prefer not to edit these files directly can use the browser
-translation editor built from this package; ask Sliger for it.
+## How to work
 
-## What to return
-
-Return the complete package folder or ZIP, keeping its filenames and folders.
-Edit only the files inside `translation/`:
-
-1. Set `target_language` (for example `de`), `target_language_name` (the language's
-   own name), and translator/reviewer details in `translation/job.json`.
-2. Translate the Markdown in ${content_folders}.
-3. In `translation/strings.json`, fill in each `translation` value. These are
-   page titles, section headings, captions, hardware names/descriptions, color
-   labels, cover/footer text, and accessibility labels outside Markdown. Each
-   unique English string appears once; `contexts` explains every place it is
-   used. Leave `source`, IDs and `contexts` unchanged. Use valid UTF-8 JSON;
-   escape quotes inside values as `\"` and use `\n` for line breaks.
-4. Put terminology questions, intentional unchanged text and any layout concerns
-   in `translation/job.json` under `notes`.
-
-`source/` is the read-only English baseline for comparison. `reference/`,
-`manifest.json`, `page-map.json`, `terminology.md` and this README are context,
-not translation deliverables to edit. No illustration-coordinate JSON, unused
-render-reference Markdown or internal draft history is included for translation.
+1. Open the editor, choose your language and fill in the details under
+   **Start here**: language name, translator, reviewer.
+2. Work through the pages on the left. Type each translation under its English
+   text; the preview on the right shows the page as you type. A "fit" marker
+   means the text is too long for its page: shorten it until the marker goes.
+3. Your work is saved automatically, but only in this browser on this computer.
+   Click **Download translation file** regularly as a backup. **Open file…**
+   continues from that file on another computer or browser.
+4. When the translation is finished and reviewed, download the translation file
+   and send it to Sliger (**Send to Sliger** explains how). It is one small file
+   that holds all your translations and details.
+5. **Create PDF** prints a manual from your translation for your own review.
 
 ## Preserve while translating
 
-- Keep filenames, folder names, page order, Markdown headings, lists and tables.
-  Translate heading text and table cells, not their Markdown structure.
-  Keep the two trailing spaces used for line breaks in the contact details.
-- Keep Jinja expressions such as `{{ fact('gpu_length_baseline_mm') }}` exactly.
-  They insert approved technical values during the build.
-- Keep `{% if model == '...' %}`, `{% else %}` and `{% endif %}` exactly, in
-  order. Translate every branch; they provide model-specific text.
-- Keep HTML tags and attributes, including `<p class="info-note" role="note">`
-  and `<strong>`. Translate their enclosed prose.
+The editor highlights text that must stay exactly as written and marks the item
+red if it changes. You may move highlighted parts within the sentence.
+
+- Placeholders such as `{{ fact('gpu_length_baseline_mm') }}` insert approved
+  measurements; model-specific passages are marked with the model they apply to.
+  Translate every model's version.
+- Keep HTML tags such as `<strong>` and `<p class="info-note" role="note">`;
+  translate the text inside them.
 - Keep hardware reference letters ${hardware_letters}, model names, part numbers,
-  technical identifiers (${terms}), numerical values, units/screw specifications,
+  technical identifiers (${terms}), numbers, units and screw specifications,
   revision ${version} and dates unchanged. Do not convert measurements or change
-  decimal separators in this handoff.
+  decimal separators.
 - Keep contact details, email addresses, links and brand names unchanged.
-- Do not translate internal color keys or asset paths in `contexts`. Translate
-  display values such as “Yellow” and “Green-marked” in `translation` instead.
+- Translate color names such as "Yellow" and "Green-marked"; they appear as
+  their own items.
 ${family_notes}
-Use the English PDF and `terminology.md` for context. Text already baked into
-product artwork, logos and regulatory badges is not editable text in this
-package; flag anything that requires a localized illustration in the job notes.
+Text baked into product artwork, logos and regulatory badges cannot be edited
+here. Note anything that needs a localized illustration, terminology questions
+and text intentionally left in English under **Notes for Sliger**.
 
 ## Review checklist
 
-- [ ] Every manual's model-specific files are translated.
-- [ ] All shared files are translated once, including warranty/support/regulations.
-- [ ] Every branch of model-dependent passages is translated.
-- [ ] Every `translation` value in `strings.json` is filled in. If an English
-      technical term stays unchanged, copy it explicitly into the translation.
+- [ ] Every page of every manual is translated, including warranty, support and
+      regulatory pages.
+- [ ] Every model's version of a model-specific passage is translated.
+- [ ] No page shows a "fit" marker.
 - [ ] Hardware letters, quantities, measurements and product names are unchanged.
 - [ ] A native-language reviewer has checked terminology and technical meaning.
-- [ ] Unclear source wording and illustration-localization requests are noted.
-
-## Maintainer validation and integration
-
-From the repository, run:
-
-```bash
-python3 scripts/translation_package.py validate /path/to/returned-package-or.zip --complete
-```
-
-Without `--complete`, the checker accepts a fresh, untranslated package and
-reports how many items need translation/review. It checks the English baseline,
-file inventory, label IDs, source/context fields, placeholders, HTML, Markdown
-structure, hardware references, URLs and numeric values. Identical Markdown is
-flagged for human review rather than rejected: some short technical content may
-legitimately remain unchanged. Passing validation does not establish translation
-accuracy or PDF layout quality.
-
-The manifest records the English source commit, file hashes and exact reference
-PDF hashes so the translation can be checked against the version sent out. The
-package is pinned to ${version}; later English changes need separate reconciliation.
-
-Import a returned package into the language's translation memory with
-`python3 scripts/translation_memory.py import <package or ZIP>`, then build review
-PDFs with `python3 scripts/build_manual.py --model <model> --language <target_language>`.
-Returned translations do not create a released manual: review every page for text
-expansion, fonts, clipping, callouts and links, and approve each language before
-saving release PDFs under `releases/<target_language>/<category>/<model>/<revision>/`.
+- [ ] Questions and illustration requests are in **Notes for Sliger**.

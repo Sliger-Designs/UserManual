@@ -15,7 +15,7 @@ import tempfile
 
 from manual_localization import Localizer
 from manual_paths import MODEL_CATEGORIES, ROOT, content_directory
-from translation_package import extract_package, protected, protected_terms, read_json, validate, write_json
+from translation_package import open_returned, protected, protected_terms, read_json, validate, write_json
 from translation_segments import assemble, needs_translation, segment_markdown, segments
 
 MEMORY_ROOT = ROOT / 'translations'
@@ -114,15 +114,16 @@ def package_translations(package):
 
 
 def import_package(path, root=MEMORY_ROOT):
-    """Validate a returned package (folder or ZIP) and merge its translations into its language's memory."""
+    """Validate a returned translation (editor .json file, older ZIP or package folder) and
+    merge its translations into its language's memory."""
     path = Path(path).resolve()
     with tempfile.TemporaryDirectory() as temporary:
-        package = extract_package(path, Path(temporary)) if path.suffix.lower() == '.zip' else path
+        package = open_returned(path, temporary)
         validate(package)
         job = read_json(package / 'translation/job.json')
         language = (job.get('target_language') or '').strip()
         if not re.fullmatch(r'[a-z]{2,3}(-[A-Za-z0-9]{2,8})*', language) or language == 'en':
-            raise ValueError(f'Set target_language in translation/job.json to a language code such as "de" (found {language!r})')
+            raise ValueError(f'The translation has no language code (found {language!r}); set it under “Start here” in the editor')
         found, skipped = package_translations(package)
         models = read_json(package / 'manifest.json')['models']
         memory = Memory(language, root)
@@ -184,7 +185,7 @@ def status(language, models, root=MEMORY_ROOT):
 def main():
     parser = argparse.ArgumentParser(description=__doc__.split('\n\n')[0])
     sub = parser.add_subparsers(dest='command', required=True)
-    importer = sub.add_parser('import', help='Validate a returned package folder or ZIP and merge it into translations/<lang>/')
+    importer = sub.add_parser('import', help='Validate a returned translation (.json from the editor, older ZIP or package folder) and merge it into translations/<lang>/')
     importer.add_argument('package', type=Path)
     check = sub.add_parser('status', help='Report which manuals a language memory can build')
     check.add_argument('language')

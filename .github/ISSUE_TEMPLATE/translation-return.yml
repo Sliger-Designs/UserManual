@@ -1,14 +1,14 @@
 name: Return a translation
-description: Send Sliger a translation ZIP downloaded from the translation editor.
+description: Send Sliger a translation file downloaded from the translation editor.
 title: "Translation: "
 labels: ["translation-return"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for translating. In the translation editor, click **Download ZIP for Sliger**,
-        then drag that ZIP file into the box below. Sliger will review it, and a pull request with
-        the translated PDFs will be linked here.
+        Thank you for translating. In the translation editor, click **Download translation file**,
+        then drag that file (it ends in `-translation.json`) into the box below. Sliger will review
+        it, and a pull request with the translated PDFs will be linked here.
   - type: input
     id: language
     attributes:
@@ -17,14 +17,14 @@ body:
     validations:
       required: true
   - type: textarea
-    id: zip
+    id: file
     attributes:
-      label: Translation ZIP
-      description: Drag the ZIP file here. Do not unpack or edit it.
+      label: Translation file
+      description: Drag the downloaded `-translation.json` file here. Do not edit it.
     validations:
       required: true
   - type: textarea
     id: notes
     attributes:
       label: Notes for Sliger
-      description: Optional. Notes entered in the editor are included in the ZIP already.
+      description: Optional. Notes entered in the editor are included in the file already.
