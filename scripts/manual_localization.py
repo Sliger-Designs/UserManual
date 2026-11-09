@@ -104,6 +104,7 @@ class TokenLocalizer(Localizer):
     split rendered Markdown still place each part correctly. Front I/O and illustrated-card
     Markdown keep their `###` headings: `F0` is the introduction and `D<n>` each heading's
     text; `T<n>` is a front I/O title (number stripped), `H<n>` a card heading as written.
+    On reference-column pages, `C` is the contact block after a `---` rule.
     """
     HEADING_LAYOUTS = {'front-io': 'T', 'illustrated-cards': 'H'}
     language = '@@LANG@@'
@@ -117,6 +118,9 @@ class TokenLocalizer(Localizer):
 
     def markdown(self, path, english, layout=None, page=None):
         number = self.index[path]
+        if layout == 'reference-columns' and re.search(r'^-{3,}\s*$', english, flags=re.MULTILINE):
+            # Contact lines after the `---` rule leave the columns (manual_assets.split_contact): `C`.
+            return f'@@MD-{number}-A@@\n\n@@MD-{number}-B@@\n\n---\n\n@@MD-{number}-C@@\n'
         if layout not in self.HEADING_LAYOUTS:
             return f'@@MD-{number}-A@@\n\n@@MD-{number}-B@@\n'
         heading = self.HEADING_LAYOUTS[layout]

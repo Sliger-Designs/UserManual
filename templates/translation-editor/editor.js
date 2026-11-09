@@ -323,6 +323,7 @@ function inline(text) {
   text = text.replace(/`([^`]+)`/g, (_, code) => keep(`<code>${escapeHtml(code)}</code>`));
   text = text.replace(/<\/?[A-Za-z][^>]*>|&(?:#\d+|#x[0-9a-f]+|[a-z][a-z0-9]*);/gi, m => keep(m));
   text = escapeHtml(text);
+  text = text.replace(/\[([^\]]+)\]\(([^()\s]+)\)/g, (_, label, url) => `<a href="${url}">${label}</a>`);
   text = text.replace(/\*\*(?=\S)([\s\S]*?\S)\*\*/g, '<strong>$1</strong>').replace(/__(?=\S)([\s\S]*?\S)__/g, '<strong>$1</strong>');
   text = text.replace(/(^|[^*])\*(?=[^\s*])([^*]*?[^\s*])\*(?!\*)/g, '$1<em>$2</em>');
   text = text.replace(/(^|[^\p{L}\p{N}_])_(?=\S)([^_]*?\S)_(?![\p{L}\p{N}_])/gu, '$1<em>$2</em>');
@@ -390,7 +391,14 @@ function markdownToHtml(source) {
 // One preview part, matching how build_sff_manual.py places rendered Markdown.
 function markdownPart(model, mode, index, part) {
   const file = MD[index];
-  const rendered = renderJinja(mode === 'english' ? file.text : translatedMarkdown(file), model);
+  let rendered = renderJinja(mode === 'english' ? file.text : translatedMarkdown(file), model);
+  // Reference-column pages: lines after a `---` rule are the contact block (part C), as split_contact() does.
+  if (DATA.templates[model].includes(`@@MD-${index}-C@@`)) {
+    const rule = rendered.search(/^-{3,}[ \t]*$/m);
+    const [main, contact] = rule < 0 ? [rendered, ''] : [rendered.slice(0, rule), rendered.slice(rendered.indexOf('\n', rule) + 1)];
+    if (part === 'C') return markdownToHtml(contact);
+    rendered = main;
+  }
   if (part === 'AB') return markdownToHtml(rendered);
   if (part === 'A' || part === 'B') {
     const html = markdownToHtml(rendered), cut = html.indexOf('</p>');
@@ -436,7 +444,7 @@ class Preview {
     let html = DATA.templates[this.model].replace(/@@ASSET-(\d+)@@/g, (_, n) => assetUrl(Number(n)));
     // Adjacent A/B halves (every layout except the split hardware key) render as one block.
     html = html.replace(/<p>@@MD-(\d+)-A@@<\/p>\s*<p>@@MD-\1-B@@<\/p>/g, '<!--md:$1:AB--><!--/md-->');
-    html = html.replace(/<p>@@MD-(\d+)-([AB]|F0|D\d+)@@<\/p>/g, '<!--md:$1:$2--><!--/md-->');
+    html = html.replace(/<p>@@MD-(\d+)-([ABC]|F0|D\d+)@@<\/p>/g, '<!--md:$1:$2--><!--/md-->');
     // Print backgrounds exactly, as the build's Chromium PDF export does.
     html = html.replace('</head>', '<style>*{-webkit-print-color-adjust:exact;print-color-adjust:exact}</style></head>');
     const loaded = new Promise(resolve => this.frame.addEventListener('load', resolve, {once: true}));
