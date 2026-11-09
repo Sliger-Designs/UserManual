@@ -63,13 +63,13 @@
     },
     {
       "number": 5,
-      "label": "5.25-inch bay bracket",
+      "label": "5.25-inch bay fillers",
       "target": [
-        0.46,
-        0.56
+        0.48,
+        0.575
       ],
       "badge": [
-        0.46,
+        0.474,
         0.878
       ]
     },
