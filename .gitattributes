@@ -1,2 +1,6 @@
 # Translation packages are checksummed snapshots: keep their bytes exactly as committed.
 translation-packages/** -text
+
+# Files embedded byte-for-byte in built manuals: identical bytes on every platform, so a
+# release's content fingerprint (releases/*/...json) matches on Windows and Linux.
+*.svg -text
