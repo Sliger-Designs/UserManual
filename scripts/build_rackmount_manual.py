@@ -211,9 +211,16 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     if render_only or html_only:
         return html  # Rackmount pages need no browser normalization.
 
-    out = build_directory(model) / ('' if english else L.language)
+    # Approved English manuals build as release candidates (as SFF); archiving the PDF into
+    # releases/ stays a separate, reviewed step. Translations are always review builds.
+    released = english and bool(manual.get('release_ready'))
+    if released:
+        assert manual.get('release_date') and re.fullmatch(r'v\d+\.\d+', manual['revision']), 'A release needs release_date and a vN.N revision'
+        out = ROOT / '_build/releases/chassis' / model / manual['revision']
+    else:
+        out = build_directory(model) / ('' if english else L.language)
     out.mkdir(parents=True, exist_ok=True)
-    prefix = f'{model}-{L.language}-prototype'
+    prefix = f'{model}-{L.language}-{manual["revision"] if released else "prototype"}'
     html_path, pdf_path = out / f'{prefix}.html', out / f'{prefix}.pdf'
     html_path.write_text(html, encoding='utf-8')
     with sync_playwright() as playwright:
@@ -297,7 +304,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
               'screwbag': screwbag['part_number'],
               'hardware_key': 'A–I; B corrected to red M3 × 0.5, 5 mm long',
               'missing_assets': manual.get('missing_assets', []),
-              'release_ready': False}
+              'release_ready': released, 'release_date': manual.get('release_date') if released else None}
     report_prefix = model if english else f'{model}-{L.language}'
     (out / f'{report_prefix}-validation.json').write_text(json.dumps(report, indent=2) + '\n', encoding='utf-8')
     sheet = Image.new('RGB', (3 * 535, ((len(pdf) + 2) // 3) * 425), '#d8dde0')

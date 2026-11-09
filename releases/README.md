@@ -13,6 +13,9 @@ unchanged. Add language folders when translations are approved.
 |---|---|---|---|---|---|
 | English (`en`) | Desktop | S630 | v1.0 | 2026-11-02 | [PDF](en/desktop/S630/v1.0/S630-en-v1.0.pdf) |
 | English (`en`) | Desktop | S640 | v1.0 | 2026-11-02 | [PDF](en/desktop/S640/v1.0/S640-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4150a | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150a/v1.0/CX4150a-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4150e | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150e/v1.0/CX4150e-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4150i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150i/v1.0/CX4150i-en-v1.0.pdf) |
 
 After review and approval, copy the final PDF from its `_build/releases/chassis/`
 folder into the corresponding language/form-factor/model/version folder here and commit it. Builds

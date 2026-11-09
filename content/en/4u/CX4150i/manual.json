@@ -4,6 +4,8 @@
   "language_label": "ENGLISH",
   "revision": "v1.0",
   "status": "User guide",
+  "release_ready": true,
+  "release_date": "2026-11-09",
   "text_checks": {
     "required": [
       "381",
@@ -122,14 +124,14 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "../../shared/rackmount/front-ports.md",
       "images": [
-        "CX4150i.jpg",
+        "common/front-io/CX4Ui_FPIO.png",
         "common/front-io/PowerAndLED_greyscale.png",
         "common/front-io/20pinUSB3_greyscale.png",
         "common/front-io/TypeEUSBC_greyscale.png"
       ],
       "layout": "front-io",
       "image_annotations": {
-        "CX4150i.jpg": "fpio-callouts.json"
+        "common/front-io/CX4Ui_FPIO.png": "../../shared/rackmount/fpio-4u-i-callouts.json"
       }
     },
     {
