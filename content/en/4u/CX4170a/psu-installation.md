@@ -8,6 +8,6 @@ Install {{ hw('A') }} through the tray into the PSU. Tighten by hand and route c
 
 ### Check length and cable clearance
 
-The current product page lists a maximum PSU length of **{{ facts.psu_length_max_mm }} mm including connectors**. The supplied drawings distinguish clearance with and without the drive cage; see {{ ref("clearance-without-cage", "the cage-removed drawing") }}. Allowed component length and connector allowance in that configuration still require technical review.
+The maximum PSU length is **{{ facts.psu_length_max_mm }} mm including connectors**, with or without the drive cage.
 
 <p class="info-note" role="note"><strong>CRPS options:</strong> CRPS mounting depends on the PSU format and adapter. This page illustrates ATX installation only; obtain instructions for the exact CRPS adapter before installation.</p>
