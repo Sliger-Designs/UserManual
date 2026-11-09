@@ -1036,5 +1036,55 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/fan-brackets/CX400-120B_fanInstall.jpg": {
+    "path": "illustrations/published/common/common-f676f13ab6fb.jpg",
+    "source_path": "illustrations/common/fan-brackets/CX400-120B_fanInstall.jpg",
+    "source_sha256": "f676f13ab6fb192c197c19418e19fbc952c51f6bddbcfa0cbfe3421d040f8dcb",
+    "sha256": "e541ef203bd6d3ab94ac522e159bfeb8a81ef33b4cd3c9c42134336ea5fe948f",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0. Part colour matched to the manual orange after resizing (color_adjustment); original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "color_adjustment": {
+      "hue_range_deg": [
+        24,
+        50
+      ],
+      "hue_shift_deg": -6,
+      "saturation_scale": 1.4,
+      "value_scale": 0.92,
+      "min_saturation": 0.15,
+      "pixels_adjusted": 235643,
+      "total_pixels": 1870200,
+      "method": "HSV shift of pixels inside the hue band, weighted by a soft edge on hue and saturation; other pixels unchanged."
+    }
+  },
+  "common/fan-brackets/CX400-120B_screwInstall.jpg": {
+    "path": "illustrations/published/common/common-74554602a67d.jpg",
+    "source_path": "illustrations/common/fan-brackets/CX400-120B_screwInstall.jpg",
+    "source_sha256": "74554602a67d77feb3d20149e502e2dc1b6ef41c556f58058b5f95c67fd6c326",
+    "sha256": "0fbefcac5cd133895147d390431616704f7d345594a3e0e2f49ba18991d794cf",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0. Part colour matched to the manual orange after resizing (color_adjustment); original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "color_adjustment": {
+      "hue_range_deg": [
+        24,
+        50
+      ],
+      "hue_shift_deg": -6,
+      "saturation_scale": 1.4,
+      "value_scale": 0.92,
+      "min_saturation": 0.15,
+      "pixels_adjusted": 183494,
+      "total_pixels": 1870200,
+      "method": "HSV shift of pixels inside the hue band, weighted by a soft edge on hue and saturation; other pixels unchanged."
+    }
   }
 }

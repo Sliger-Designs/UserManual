@@ -7,6 +7,9 @@ from pathlib import Path
 from manual_paths import MODEL_CATEGORIES, REFERENCE_INVENTORY, content_directory, inventory_path, published_directory
 from PIL import Image, ImageOps
 from background_cleanup import white_background
+from color_adjustment import shift_hue_band
+
+COLOUR_SETTINGS = ('hue_range_deg', 'hue_shift_deg', 'saturation_scale', 'value_scale', 'min_saturation')
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -53,10 +56,13 @@ def main():
         # Cleaned copies are lossless PNG unless the entry asks for JPEG (rackmount, to keep the repository small).
         cleaned_png = bool(cleanup) and cleanup.get('publication_format', 'png') == 'png'
         suffix = '.png' if original.suffix.lower() == '.png' or cleaned_png else '.jpg'
+        colour = entry.get('color_adjustment')
+        colour_settings = {key: colour[key] for key in COLOUR_SETTINGS if key in colour} if colour else None
         previous = manifests[group].get(name)
         if (group == 'common' and previous and previous['source_sha256'] == entry['sha256']
                 and previous['path'].endswith(suffix)
                 and bool(previous.get('background_cleanup')) == bool(cleanup)
+                and {key: value for key, value in previous.get('color_adjustment', {}).items() if key in COLOUR_SETTINGS} == (colour_settings or {})
                 and (ROOT / previous['path']).exists()
                 and hashlib.sha256((ROOT / previous['path']).read_bytes()).hexdigest() == previous['sha256']):
             continue
@@ -79,6 +85,10 @@ def main():
             else:
                 image = image.convert('RGBA' if suffix == '.png' else 'RGB')
             image.thumbnail((1800, 1400), Image.Resampling.LANCZOS)
+            colour_report = None
+            if colour:  # after resizing: the same result at a fraction of the memory for 9000 px renders
+                assert image.mode == 'RGB', (name, 'colour adjustment supports RGB publication copies')
+                image, colour_report = shift_hue_band(image, **colour_settings)
             if suffix == '.png':
                 image.save(target, optimize=True)
             else:
@@ -88,6 +98,8 @@ def main():
         if cleanup_report:
             encoding = 'lossless RGB PNG' if suffix == '.png' else 'RGB JPEG quality 90, subsampling 0'
             transformation = f'EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; {encoding}. Full-resolution cleaned copy saved separately; original unchanged.'
+        if colour_report:
+            transformation += ' Part colour matched to the manual orange after resizing (color_adjustment); original unchanged.'
         manifests[group][name] = {
             'path': target.relative_to(ROOT).as_posix(),
             'source_path': entry['local_path'], 'source_sha256': entry['sha256'],
@@ -98,6 +110,8 @@ def main():
         }
         if cleanup_report:
             manifests[group][name]['background_cleanup'] = cleanup_report
+        if colour_report:
+            manifests[group][name]['color_adjustment'] = colour_report
     for group, manifest in manifests.items():
         (published_directory(group) / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
     print(f'Prepared {len(names)} selected publication assets; originals unchanged.')

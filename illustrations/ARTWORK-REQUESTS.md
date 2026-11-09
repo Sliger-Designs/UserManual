@@ -69,12 +69,6 @@ Confirmed 2026-11-04:
 |  | CX4712 | Exploded view; motherboard-tray removal and reinstallation renders (as CX4713 5a–5f; the tray is removable) | Grey placeholders on the exploded-view and tray pages |
 |  | CX4713 | Exploded view; product render | Grey placeholder on the exploded-view page |
 
-## 4U rear fan bracket
-
-| Done | Model | Needed | Effect until supplied |
-|---|---|---|---|
-|  | Every 4U manual (CX4150a/e/i, CX4170a/e/i, CX4200a/e/f/i, CX4712, CX4713) | One set of rear fan bracket installation renders: fan on the bracket, bracket fitted over the I/O shield. The same steps apply to every 4U tray (the CX415 tray is shallower than the CX417/CX420 trays), so one set serves all; put it in `illustrations/common/4u-rear-fan-bracket/` | The rear fan bracket page shows a grey placeholder |
-
 ## Cable management (not blocking V1)
 
 Wanted for every rackmount manual, but no manual waits for them: until supplied, the
