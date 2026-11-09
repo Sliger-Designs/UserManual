@@ -1,6 +1,6 @@
 | Component | Specification |
 | --- | --- |
-| Outer dimensions, D × W × H | {{ outer.depth }} × {{ outer.width }} × {{ outer.height }} mm (draft website values) |
+| Outer dimensions, D × W × H | {{ outer.depth }} × {{ outer.width }} × {{ outer.height }} mm |
 | Rack size | 4U · 19-inch rack |
 | Power supply | ATX; supported CRPS options require the appropriate mounting arrangement |
 | Motherboard | Mini-ITX, MicroATX, ATX; EATX up to 12 × 10.5 inches; larger boards require dimensional and mounting-pattern checks |

@@ -63,13 +63,13 @@
     },
     {
       "number": 5,
-      "label": "Front fan bracket",
+      "label": "5.25-inch bay fillers",
       "target": [
-        0.68,
-        0.59
+        0.65,
+        0.56
       ],
       "badge": [
-        0.68,
+        0.665,
         0.86
       ]
     },

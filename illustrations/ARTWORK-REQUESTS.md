@@ -65,6 +65,7 @@ Confirmed 2026-11-04:
 |  | CX4170a | Optional: external side/front dimension profiles. CRPS installation will be covered in a separate manual | None (optional) |
 |  | CX4200f | Optional: the push-pull assembly installed in the three-bay CX4200f (the page shows the radiator-and-fan assembly only, CX4150e render) | None (optional) |
 |  | CX4150e/i, CX4170e/i, CX4200e/f/i | Higher-resolution 4U e, f and i front I/O drawings (`common/front-io/CX4Ue_FPIO.png`, `CX4Uf_FPIO.png`, `CX4Ui_FPIO.png` are about 1000 px; interim versions supplied 2026-11-09) | None (interim drawings used) |
+|  | 3U and 4U models with a 5.25-inch drive bracket | Redo the 5.25-inch drive bracket drive-installation renders (the 10a–10d steps, and the shared `common/4u-bay-bracket` images) with the current bracket revision, P/N DFB525-100E. Function is unchanged; only its appearance differs | None (the current renders show the previous bracket revision) |
 |  | CX4712 | Exploded view; motherboard-tray removal and reinstallation renders (as CX4713 5a–5f; the tray is removable) | Grey placeholders on the exploded-view and tray pages |
 |  | CX4713 | Exploded view; product render | Grey placeholder on the exploded-view page |
 

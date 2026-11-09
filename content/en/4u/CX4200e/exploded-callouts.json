@@ -63,7 +63,7 @@
     },
     {
       "number": 5,
-      "label": "5.25-inch bay bracket",
+      "label": "5.25-inch bay fillers",
       "target": [
         0.44,
         0.57
@@ -77,8 +77,8 @@
       "number": 6,
       "label": "Front I/O assembly",
       "target": [
-        0.44,
-        0.69
+        0.47,
+        0.70
       ],
       "badge": [
         0.503,
