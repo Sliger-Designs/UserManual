@@ -1,4 +1,4 @@
-Each 5.25-inch bay filler blank holds either four 2.5-inch SSDs, or one 3.5-inch HDD and two 2.5-inch SSDs.
+Each 5.25-inch bay filler blank holds either four 2.5-inch SSDs, or one 3.5-inch HDD and up to two 2.5-inch SSDs.
 
 ### 1. Mount 2.5-inch SSDs
 

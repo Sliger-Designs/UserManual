@@ -1086,5 +1086,41 @@
       "total_pixels": 1870200,
       "method": "HSV shift of pixels inside the hue band, weighted by a soft edge on hue and saturation; other pixels unchanged."
     }
+  },
+  "common/front-io/CX4Ue_FPIO.png": {
+    "path": "illustrations/published/common/common-70faf4a9006f.png",
+    "source_path": "illustrations/common/front-io/CX4Ue_FPIO.png",
+    "source_sha256": "70faf4a9006f13e375c2fe8f46cdedca511e35877a12c59ba877f64f82daec34",
+    "sha256": "8117e8650c3ce4b5e218e353a6cd4396f97a5463dbf948b4e39d18f72be5aaf3",
+    "dimensions_px": [
+      1011,
+      1037
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/front-io/CX4Ui_FPIO.png": {
+    "path": "illustrations/published/common/common-04bcd6ce64b1.png",
+    "source_path": "illustrations/common/front-io/CX4Ui_FPIO.png",
+    "source_sha256": "04bcd6ce64b1890c922988b4667ccf2b3efd983a3eb2b2a008985a6df4d5e927",
+    "sha256": "7a8ac397df3f509a380fedfcd5df1b7c508ba31907fbedad75f26395f41801ef",
+    "dimensions_px": [
+      567,
+      1047
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/front-io/CX4Uf_FPIO.png": {
+    "path": "illustrations/published/common/common-010a0ef34571.png",
+    "source_path": "illustrations/common/front-io/CX4Uf_FPIO.png",
+    "source_sha256": "010a0ef34571fa7deb4767d3e646aa0628af968f71ff21dcf184898ff4955e21",
+    "sha256": "4cfca10ef58a54e4d7691bb9afb82e3f1e8318566deca269ef2babdc04776e10",
+    "dimensions_px": [
+      905,
+      987
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }
