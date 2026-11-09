@@ -1,0 +1,1854 @@
+{
+  "s_89a34e118c3ab436": {
+    "source": "6-32 × 0.25-inch hex screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware A: name",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware A: name",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_1060e639e2d0cae6": {
+    "source": "Motherboard, PSU and HDD fasteners.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware A: description",
+        "model": "S630",
+        "page": 6
+      }
+    ]
+  },
+  "s_27c13b8b61e6cc53": {
+    "source": "M3.5 × 5 mm screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware B: name",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware B: name",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_aa85aca760d22619": {
+    "source": "Alternative fastener for the p-5-100013b storage bracket.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware B: description",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware B: description",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_164a0f7e66dbfc3b": {
+    "source": "6-32 × 0.125-inch standoffs",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: name",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware C: name",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_86c89952bac03302": {
+    "source": "0.25-inch length. Install only beneath motherboard mounting holes.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: description",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware C: description",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_4eb4a23982a0b850": {
+    "source": "Teal drawing highlight; black hardware",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: color_label",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_a4d54c0d1d2bfd74": {
+    "source": "6-32 × 0.25-inch flat-head screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware D: name",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware D: name",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_3bb8ff89697dfbf2": {
+    "source": "PSU/fan brackets, front I/O and S630-prefix storage brackets.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware D: description",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware D: description",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_9b67db9d758a0fb4": {
+    "source": "M3 screws (5 mm thread)",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware E: name",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware E: name",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_b4aba90b907decdd": {
+    "source": "SSDs; alternative p-5-100013b mounting. S630 PCIe retention and slot covers.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware E: description",
+        "model": "S630",
+        "page": 6
+      }
+    ]
+  },
+  "s_af43b6c23b374425": {
+    "source": "Painted PCIe slot covers",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware F: name",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware F: name",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_5116aaf110606ca7": {
+    "source": "Five painted covers supplied in the common S630/S640 screw bag.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware F: description",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware F: description",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_4bdffe05ecbd0f8c": {
+    "source": "ATX PSU bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware G: name",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware G: name",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_9456360044cfc4a2": {
+    "source": "ATX PSU bracket; S630 and S640 support ATX PSUs.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware G: description",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware G: description",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_3106c6e3e9b5b6ea": {
+    "source": "SFX PSU bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware H: name",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware H: name",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_432e9251b2f0cbff": {
+    "source": "Use with SFX / SFX-L power supplies.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware H: description",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware H: description",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_2d33660b6d12d773": {
+    "source": "MicroATX SFF PC Case",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description",
+        "model": "S630",
+        "page": 1
+      }
+    ]
+  },
+  "s_86a2a9ba70bc0260": {
+    "source": "User guide",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "status",
+        "model": "S630",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "S630"
+      },
+      {
+        "use": "status",
+        "model": "S640",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "S640"
+      }
+    ]
+  },
+  "s_ee56c51f554915fb": {
+    "source": "ENGLISH",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "language_label",
+        "model": "S630",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "S640",
+        "page": 1
+      }
+    ]
+  },
+  "s_e904f136de1d752b": {
+    "source": "primary product photograph",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover image accessibility suffix",
+        "model": "S630",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "S640",
+        "page": 1
+      }
+    ]
+  },
+  "s_f16ac1eadb15d486": {
+    "source": "In this guide",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 2
+      }
+    ]
+  },
+  "s_e44a4595fc68902e": {
+    "source": "START HERE",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 2
+      }
+    ]
+  },
+  "s_6ec7c29724cdac1c": {
+    "source": "Exploded assembly & part key",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 3
+      }
+    ]
+  },
+  "s_03691eb5070d6dea": {
+    "source": "01 / PRODUCT INFORMATION",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 7
+      }
+    ]
+  },
+  "s_bad9224c2d2ff170": {
+    "source": "S630 chassis assemblies",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 3
+      }
+    ]
+  },
+  "s_2cd9d7d486d5c304": {
+    "source": "Chassis frame",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 3
+      }
+    ]
+  },
+  "s_2138dff58eb065d9": {
+    "source": "Front panel",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 3
+      }
+    ]
+  },
+  "s_7be56e13c8ef9946": {
+    "source": "Side panels",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 3
+      }
+    ]
+  },
+  "s_7cbdcf025f91877c": {
+    "source": "Front I/O assembly",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 3
+      }
+    ]
+  },
+  "s_5967b73f84c92a6b": {
+    "source": "Top panel",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 3
+      }
+    ]
+  },
+  "s_e506ff647ffd3812": {
+    "source": "Bottom panel",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 3
+      }
+    ]
+  },
+  "s_33522d777db19506": {
+    "source": "Side fan bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 3
+      }
+    ]
+  },
+  "s_a34dcfd74e763216": {
+    "source": "Compatibility & supported mounting options",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 4
+      }
+    ]
+  },
+  "s_97a88f238992a05d": {
+    "source": "Dimensions & card clearance",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 5
+      }
+    ]
+  },
+  "s_3c7efbcc01be9a87": {
+    "source": "Hardware kit",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_c4484902bf9f0441": {
+    "source": "Front ports & connections",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 7
+      }
+    ]
+  },
+  "s_0f4daf1c13dc7918": {
+    "source": "Power/status switch, USB Type-A and USB Type-C",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 7
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 7
+      }
+    ]
+  },
+  "s_588eeecbbeedd0aa": {
+    "source": "Power switch and status light",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 7
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 7
+      }
+    ]
+  },
+  "s_711f702b1527d250": {
+    "source": "USB Type-A",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 7
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 7
+      }
+    ]
+  },
+  "s_7198a981b9df8338": {
+    "source": "USB Type-C",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 7
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 7
+      }
+    ]
+  },
+  "s_bf33e1e60acd42d5": {
+    "source": "Remove panels & choose orientation",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 8
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 8
+      }
+    ]
+  },
+  "s_29093f53e9952726": {
+    "source": "02 / CHASSIS ACCESS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 9
+      }
+    ]
+  },
+  "s_cd16201c246f0e3e": {
+    "source": "One I/O assembly: choose position 1 or 2",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 8
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 8
+      }
+    ]
+  },
+  "s_fcf9d7ba42f77b89": {
+    "source": "Standard I/O assembly position",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 8
+      }
+    ]
+  },
+  "s_1b1ecb5e0de30aaf": {
+    "source": "Alternative I/O assembly position",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "S630",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "S640",
+        "page": 8
+      }
+    ]
+  },
+  "s_3c9ac2a8f227f8d2": {
+    "source": "Relocate the front I/O assembly",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 9
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 9
+      }
+    ]
+  },
+  "s_2fb1bd624d67b93c": {
+    "source": "Front I/O block removal",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 9
+      }
+    ]
+  },
+  "s_1643f4a8096be768": {
+    "source": "Prepare the motherboard mounting points",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 10
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 10
+      }
+    ]
+  },
+  "s_d70de792f0ca61cf": {
+    "source": "03 / COMPONENT INSTALLATION",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 19
+      }
+    ]
+  },
+  "s_200d3eea5030edd6": {
+    "source": "Standoff installation",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 10
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 10
+      }
+    ]
+  },
+  "s_cc9a91daa112e0bd": {
+    "source": "Separate I/O shield",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 10
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 10
+      }
+    ]
+  },
+  "s_f998e83ce73b70e9": {
+    "source": "Install the motherboard",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 11
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 11
+      }
+    ]
+  },
+  "s_5d8aef5fd88030ea": {
+    "source": "Motherboard seated on the mounting points",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 11
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 11
+      }
+    ]
+  },
+  "s_598f44930e9e59e5": {
+    "source": "Side fan bracket installation",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 12
+      }
+    ]
+  },
+  "s_8f29a507a571858d": {
+    "source": "S630 side fan bracket and four mounting screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 12
+      }
+    ]
+  },
+  "s_32512376380733aa": {
+    "source": "Install fans & a radiator",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 13
+      }
+    ]
+  },
+  "s_018d52b2c3fc019d": {
+    "source": "Alternative radiator positions",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 13
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 13
+      }
+    ]
+  },
+  "s_13642cb0e8f03643": {
+    "source": "Alternative fan positions",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 13
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 13
+      }
+    ]
+  },
+  "s_b77b4f36f503f796": {
+    "source": "Attach the PSU bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 14
+      }
+    ]
+  },
+  "s_f740b6ac37461ca6": {
+    "source": "S630 SFX bracket attachment",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 14
+      }
+    ]
+  },
+  "s_261c82b83849ba86": {
+    "source": "S630 ATX bracket attachment",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 14
+      }
+    ]
+  },
+  "s_20c8b6aa7de4c4a7": {
+    "source": "SFX / SFX-L PSU mounting positions",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 15
+      }
+    ]
+  },
+  "s_931839bb9c48b905": {
+    "source": "Alternative SFX positions",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 15
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 15
+      }
+    ]
+  },
+  "s_d2ab3212674aed90": {
+    "source": "Additional SFX position",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 15
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 15
+      }
+    ]
+  },
+  "s_db1d4dd277a3aadc": {
+    "source": "ATX PSU mounting positions",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 16
+      }
+    ]
+  },
+  "s_94f0ed184295e7bc": {
+    "source": "Alternative ATX positions",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 16
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 16
+      }
+    ]
+  },
+  "s_0bcfbb44f138f1e2": {
+    "source": "Additional ATX position",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 16
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 16
+      }
+    ]
+  },
+  "s_173b507a77a2c6ef": {
+    "source": "Install a GPU or PCIe card",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 17
+      }
+    ]
+  },
+  "s_297478a7ae30e52e": {
+    "source": "S630 PCIe card seating and retention",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 17
+      }
+    ]
+  },
+  "s_70fdd38c27739586": {
+    "source": "Install 2.5-inch SSDs",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 18
+      }
+    ]
+  },
+  "s_a94af8a9338e7b98": {
+    "source": "Four-SSD bracket assembly",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 18
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 18
+      }
+    ]
+  },
+  "s_3d4ea66b619bc32d": {
+    "source": "Two-SSD bracket assembly",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 18
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 18
+      }
+    ]
+  },
+  "s_6c7f77ce289c57d0": {
+    "source": "Install 3.5-inch HDDs",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 19
+      }
+    ]
+  },
+  "s_f1d7d8b0db5ff856": {
+    "source": "One 3.5-inch HDD with a 2.5-inch SSD beneath it",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 19
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 19
+      }
+    ]
+  },
+  "s_d797fdb137af401e": {
+    "source": "Two 3.5-inch HDDs in the stacked bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S630",
+        "page": 19
+      },
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 19
+      }
+    ]
+  },
+  "s_d53178fbe1c4f648": {
+    "source": "Cable routing & reassembly",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 20
+      }
+    ]
+  },
+  "s_3f4d379dee161aad": {
+    "source": "04 / REASSEMBLY",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 20
+      }
+    ]
+  },
+  "s_7404495b2f8f6933": {
+    "source": "Warranty & support",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 21
+      }
+    ]
+  },
+  "s_01a7e346e7a01e63": {
+    "source": "05 / REFERENCE",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "S630",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "S640",
+        "page": 23
+      }
+    ]
+  },
+  "s_f6c878b416472714": {
+    "source": "Regulatory compliance",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 22
+      }
+    ]
+  },
+  "s_86ec1bdcc59bb75e": {
+    "source": "Manual revision history",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "S630",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "S640",
+        "page": 23
+      }
+    ]
+  },
+  "s_e331da0741fb6d05": {
+    "source": "Table of contents",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "contents accessibility label",
+        "model": "S630",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "S640",
+        "page": 2
+      }
+    ]
+  },
+  "s_4fc36010f284b7ec": {
+    "source": "Yellow-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_9c0211c51d04574f": {
+    "source": "detail",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_29486d69890122f7": {
+    "source": "Red-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_6018cdad03073975": {
+    "source": "Green-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_f625e504b578039e": {
+    "source": "Blue-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "S630",
+        "page": 6
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_38178a20b470cfd1": {
+    "source": "No.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "front I/O table heading",
+        "model": "S630",
+        "page": 7
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "S640",
+        "page": 7
+      }
+    ]
+  },
+  "s_e9198f30c63cc481": {
+    "source": "Port / connection",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "front I/O table heading",
+        "model": "S630",
+        "page": 7
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "S640",
+        "page": 7
+      }
+    ]
+  },
+  "s_d486dfbd5fb57834": {
+    "source": "Green",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 19
+      }
+    ]
+  },
+  "s_fa15a5c1d6101055": {
+    "source": "Teal",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 10
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 10
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 11
+      }
+    ]
+  },
+  "s_19dd83f117525b93": {
+    "source": "Yellow",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 19
+      }
+    ]
+  },
+  "s_ec7d56a01607001e": {
+    "source": "Blue",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 19
+      }
+    ]
+  },
+  "s_ba19e9c3d5f49882": {
+    "source": "Red",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S630",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "S640",
+        "page": 18
+      }
+    ]
+  },
+  "s_e0f31900da67fe9c": {
+    "source": "Motherboard, PSU and HDD fasteners. S640 PCIe retention and slot covers.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware A: description",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_3510f8d8e5b12447": {
+    "source": "SSDs; alternative p-5-100013b mounting.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware E: description",
+        "model": "S640",
+        "page": 6
+      }
+    ]
+  },
+  "s_900134729a1ae0fe": {
+    "source": "ATX SFF PC Case",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description",
+        "model": "S640",
+        "page": 1
+      }
+    ]
+  },
+  "s_47f8bd654c260aef": {
+    "source": "S640 chassis assemblies",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 3
+      }
+    ]
+  },
+  "s_02b79ceb441a22e9": {
+    "source": "S640 front I/O block removal",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 9
+      }
+    ]
+  },
+  "s_31712cf2676f986c": {
+    "source": "S640 side fan brackets; second bracket sold separately",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 12
+      }
+    ]
+  },
+  "s_3143c90d205217d7": {
+    "source": "SFX bracket attachment",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 14
+      }
+    ]
+  },
+  "s_b8d988ea35b6bbe8": {
+    "source": "ATX bracket attachment",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 14
+      }
+    ]
+  },
+  "s_48bbbb0624a0403a": {
+    "source": "S640 PCIe card seating and retention",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "image caption / alternative text",
+        "model": "S640",
+        "page": 17
+      }
+    ]
+  }
+}
