@@ -1,4 +1,4 @@
-Each bay holds a filler blank or a 5.25-inch device. Each blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and two 2.5-inch SSDs.
+Each bay holds a filler blank or a 5.25-inch device. Each blank holds four 2.5-inch SSDs, or one 3.5-inch HDD and up to two 2.5-inch SSDs.
 
 ### 1. Remove the filler blanks
 
@@ -12,4 +12,4 @@ Slide each device in from the front and secure it on both sides with screws that
 
 ### 3. Keep the blanks in unused bays
 
-Leave a blank, secured with its {{ hw('A') }}, in any bay without a device. To mount drives on a blank, see {{ ref('bay-blank-drives', 'Mount drives on a filler blank') }}. A 5.25-inch to 3.5-inch adapter is available separately.
+Leave a blank, secured with its {{ hw('A') }}, in any bay without a device. To mount drives on a blank, see {{ ref('bay-blank-drives', 'Mount drives on a filler blank') }}. A 5.25-inch to 3.5-inch device adapter is available separately.

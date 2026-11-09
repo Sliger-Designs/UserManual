@@ -19,6 +19,6 @@
 | No front fans or radiator | {{ facts.gpu_length_baseline_mm }} mm |
 | Three 25 mm front fans | {{ facts.gpu_length_fans_only_mm }} mm |
 | Asetek 360 mm AIO with three 25 mm fans | {{ facts.gpu_length_fans_aio_mm }} mm |
-| Asetek 360 mm AIO with six 25 mm fans | {{ facts.gpu_length_max_cooling_mm }} mm |
+| Asetek 360 mm AIO with six 25 mm fans (Push-Pull) | {{ facts.gpu_length_max_cooling_mm }} mm |
 
 <p class="info-note" role="note">Radiator thickness, fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm.</p>

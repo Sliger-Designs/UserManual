@@ -122,14 +122,14 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "../../shared/rackmount/front-ports.md",
       "images": [
-        "_CX4170e_FRONT.tif",
+        "common/front-io/CX4Ue_FPIO.png",
         "common/front-io/PowerAndLED_greyscale.png",
         "common/front-io/20pinUSB3_greyscale.png",
         "common/front-io/TypeEUSBC_greyscale.png"
       ],
       "layout": "front-io",
       "image_annotations": {
-        "_CX4170e_FRONT.tif": "fpio-callouts.json"
+        "common/front-io/CX4Ue_FPIO.png": "../../shared/rackmount/fpio-4u-e-callouts.json"
       }
     },
     {

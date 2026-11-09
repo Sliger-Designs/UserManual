@@ -1275,6 +1275,48 @@
         "value_scale": 0.92,
         "authorization": "Requested 2026-11-09: match the pale tan bracket to the orange of the other renders (redder, more saturated, darker). Red fan and yellow/teal screws are outside the hue band. Source render unchanged."
       }
+    },
+    {
+      "id": "common-70faf4a9006f",
+      "asset_key": "common/front-io/CX4Ue_FPIO.png",
+      "original_filename": "CX4Ue_FPIO.png",
+      "local_path": "illustrations/common/front-io/CX4Ue_FPIO.png",
+      "width_px": 1011,
+      "height_px": 1037,
+      "format": "PNG",
+      "size_bytes": 29988,
+      "sha256": "70faf4a9006f13e375c2fe8f46cdedca511e35877a12c59ba877f64f82daec34",
+      "selection_status": "selected_needs_final_review",
+      "note": "Supplied common 4U e front I/O drawing, 2026-11-09 (interim resolution; higher-resolution version to follow). Assigned to 4U e-family chassis: power switch, two USB-A ports, one USB-C port.",
+      "applies_to": "4U e-family chassis"
+    },
+    {
+      "id": "common-010a0ef34571",
+      "asset_key": "common/front-io/CX4Uf_FPIO.png",
+      "original_filename": "CX4Uf_FPIO.png",
+      "local_path": "illustrations/common/front-io/CX4Uf_FPIO.png",
+      "width_px": 905,
+      "height_px": 987,
+      "format": "PNG",
+      "size_bytes": 119985,
+      "sha256": "010a0ef34571fa7deb4767d3e646aa0628af968f71ff21dcf184898ff4955e21",
+      "selection_status": "selected_needs_final_review",
+      "note": "Supplied common 4U f front I/O drawing, 2026-11-09 (interim resolution; higher-resolution version to follow). Assigned to 4U f-family chassis: power switch, two USB-A ports, one USB-C port.",
+      "applies_to": "4U f-family chassis"
+    },
+    {
+      "id": "common-04bcd6ce64b1",
+      "asset_key": "common/front-io/CX4Ui_FPIO.png",
+      "original_filename": "CX4Ui_FPIO.png",
+      "local_path": "illustrations/common/front-io/CX4Ui_FPIO.png",
+      "width_px": 567,
+      "height_px": 1047,
+      "format": "PNG",
+      "size_bytes": 37340,
+      "sha256": "04bcd6ce64b1890c922988b4667ccf2b3efd983a3eb2b2a008985a6df4d5e927",
+      "selection_status": "selected_needs_final_review",
+      "note": "Supplied common 4U i front I/O drawing, 2026-11-09 (interim resolution; higher-resolution version to follow). Assigned to 4U i-family chassis: power switch, two USB-A ports, one USB-C port.",
+      "applies_to": "4U i-family chassis"
     }
   ],
   "removed_items": [

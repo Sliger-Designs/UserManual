@@ -125,14 +125,14 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "../../shared/rackmount/front-ports.md",
       "images": [
-        "_CX4200f_FRONT.tif",
+        "common/front-io/CX4Uf_FPIO.png",
         "common/front-io/PowerAndLED_greyscale.png",
         "common/front-io/20pinUSB3_greyscale.png",
         "common/front-io/TypeEUSBC_greyscale.png"
       ],
       "layout": "front-io",
       "image_annotations": {
-        "_CX4200f_FRONT.tif": "fpio-callouts.json"
+        "common/front-io/CX4Uf_FPIO.png": "../../shared/rackmount/fpio-4u-f-callouts.json"
       }
     },
     {

@@ -1,0 +1,59 @@
+{
+  "asset_key": "common/front-io/CX4Uf_FPIO.png",
+  "source_sha256": "010a0ef34571fa7deb4767d3e646aa0628af968f71ff21dcf184898ff4955e21",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 0.916919959473151,
+  "view_box": [
+    0.18,
+    0.66,
+    0.6,
+    0.31
+  ],
+  "badge_radius_height_fraction": 0.016,
+  "font_size_height_fraction": 0.022,
+  "review_status": "Positions measured on the supplied 4U f FPIO drawing (port pixels located programmatically), 2026-11-09.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Power switch and status light",
+      "target": [
+        0.291,
+        0.816
+      ],
+      "badge": [
+        0.291,
+        0.925
+      ]
+    },
+    {
+      "number": 2,
+      "label": "USB Type-A ports",
+      "targets": [
+        [
+          0.502,
+          0.815
+        ],
+        [
+          0.596,
+          0.815
+        ]
+      ],
+      "badge": [
+        0.5489999999999999,
+        0.925
+      ]
+    },
+    {
+      "number": 3,
+      "label": "USB Type-C",
+      "target": [
+        0.688,
+        0.816
+      ],
+      "badge": [
+        0.688,
+        0.925
+      ]
+    }
+  ]
+}
