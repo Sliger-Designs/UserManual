@@ -17,7 +17,23 @@ unchanged. Add language folders when translations are approved.
 | English (`en`) | 4U | CX4150e | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150e/v1.0/CX4150e-en-v1.0.pdf) |
 | English (`en`) | 4U | CX4150i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150i/v1.0/CX4150i-en-v1.0.pdf) |
 
-After review and approval, copy the final PDF from its `_build/releases/chassis/`
-folder into the corresponding language/form-factor/model/version folder here and commit it. Builds
-do not automatically replace these files. Preserve released versions and add
-future revisions in new version folders.
+Each version folder holds the PDF and a release record (`<model>-en-<version>.json`) with
+the release date and a content fingerprint of the build: a hash of its visible text and
+images (styling excluded).
+
+## Releasing a manual
+
+1. Set `revision` (e.g. `v1.0`), `status`, `release_ready: true` and `release_date` in the
+   manual's `manual.json`, and add the version to its revision history.
+2. Archive it: `python scripts/archive_release.py --models CX4150a` builds the manual, copies
+   `_build/releases/chassis/<model>/<version>/<model>-en-<version>.pdf` here and writes the
+   record. It never replaces an archived version.
+3. Add the row to the table above and to the repository README, and commit.
+
+## Changing a released manual
+
+A released version's content is locked: a build fails if its content no longer matches the
+release record. To change the manual, draft the next version: set `revision` to `v1.1` and
+`release_ready` to `false`. While drafting, the site lists the main-branch build as
+"v1.1 draft: unreleased changes since v1.0" next to the released PDF (which it otherwise
+hides, since it would be identical). Release the new version with the steps above.

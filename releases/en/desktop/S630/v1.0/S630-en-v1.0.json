@@ -1,0 +1,10 @@
+{
+  "model": "S630",
+  "language": "en",
+  "revision": "v1.0",
+  "release_date": "2026-11-02",
+  "pdf": "S630-en-v1.0.pdf",
+  "content_fingerprint": "7fca0ca4bf2effb158638b665602b73ffaba392821ef2c95de3cd0a85c43558b",
+  "recorded": "2026-11-09",
+  "note": "Recorded 2026-11-09 from the current build. The archived v1.0 PDF differs only in page numbering (the cover became unnumbered on 2026-11-06) and the support-contact layout; the wording is unchanged."
+}

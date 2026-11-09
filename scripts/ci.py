@@ -25,6 +25,7 @@ import urllib.request
 
 import manual_build
 from manual_localization import RecordingLocalizer
+from manual_assets import released_versions
 from manual_paths import MODEL_CATEGORIES, ROOT, content_directory, published_directory
 
 # Changes here can affect every manual (and every translation package's editor).
@@ -250,7 +251,7 @@ def site(output, browser=None, reuse=None):
             if (model, language) not in attempted:
                 to_build.append((model, language))
             elif pdf := next((reuse / language / model).glob('*.pdf'), None):
-                previews[model, language] = pdf
+                previews[model, language] = (pdf, next((reuse / language / model).glob('*-validation.json'), None))
             else:
                 print(f'No {language} preview for {model}: it did not build in Manual checks')
     print(f'Reusing {len(previews)} PDFs from Manual checks; building {len(to_build)}', flush=True)
@@ -258,22 +259,33 @@ def site(output, browser=None, reuse=None):
         if error:
             print(f'No {language} preview for {model}: {error}')
         else:
-            previews[model, language] = Path(outputs['pdf'])
+            previews[model, language] = (Path(outputs['pdf']), Path(outputs['report']) if outputs.get('report') else None)
 
     manuals = []
     for model in models:
         manual = manual_build.manual(model)
         pdfs = [{'label': f'{language} · {revision}', 'note': 'Released', 'href': href}
                 for language, revision, href in sorted(released.get(model, []))]
+        # A released manual lists its English preview only while main has unreleased changes.
+        releases_of_model = released_versions(model, MODEL_CATEGORIES[model])
+        latest = releases_of_model[-1] if releases_of_model else None
+        if latest and (model, 'en') in previews:
+            report = previews[model, 'en'][1]
+            fingerprint = json.loads(report.read_text(encoding='utf-8')).get('content_fingerprint') if report else None
+            if fingerprint == latest['content_fingerprint']:
+                del previews[model, 'en']
         preview_links = {}
         for language in ['en'] + languages():
             if (model, language) not in previews:
                 continue
             target = output / 'manuals/preview' / language / f'{model}.pdf'
             target.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(previews[model, language], target)
+            shutil.copy2(previews[model, language][0], target)
             preview_links[language] = f'manuals/preview/{language}/{model}.pdf'
-        if 'en' in preview_links:
+        if 'en' in preview_links and latest:
+            pdfs.append({'label': f'en · {manual["revision"]} draft', 'note': f'Unreleased changes since {latest["revision"]}; not a release',
+                         'href': preview_links['en']})
+        elif 'en' in preview_links:
             pdfs.append({'label': f'en · {manual["revision"]} preview', 'note': 'Current text on main; not a release', 'href': preview_links['en']})
         candidates = [name for name, item in site_packages.items() if model in item['models'] and item['editor']]
         model_languages = {}

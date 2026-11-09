@@ -4,7 +4,7 @@ import base64
 import hashlib
 import json
 from pathlib import Path
-from manual_paths import content_directory, published_directory
+from manual_paths import MODEL_CATEGORIES, content_directory, published_directory
 
 import markdown
 from jinja2 import Environment, StrictUndefined
@@ -12,7 +12,7 @@ from PIL import Image
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 import pymupdf
-from manual_assets import LAYOUT_CHECK, build_directory, cover_photo, front_io_content, number_pdf_pages, split_contact, quantity_display, validate_template
+from manual_assets import LAYOUT_CHECK, build_directory, check_release, content_fingerprint, retire_english_draft, cover_photo, front_io_content, number_pdf_pages, split_contact, quantity_display, validate_template
 from image_callouts import with_callouts
 from manual_localization import Localizer
 
@@ -168,9 +168,12 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
         manual=manual, pages=pages, css=css, logo_src=logo, outer={})
     if render_only:
         return html
+    fingerprint = content_fingerprint(html)
+    if english and not html_only and not public_preview:
+        check_release(model, MODEL_CATEGORIES[model], manual['revision'], fingerprint)
     edition =manual['revision'] if released else ('public-preview' if public_preview else 'prototype')
     if html_only:
-        out = build_directory(model) / 'editor-template'
+        out = ROOT / '_build/translation-editor/templates' / model  # not a draft awaiting review
         out.mkdir(parents=True, exist_ok=True)
     elif not english:
         # Translations are built for review; approval and archiving remain separate steps.
@@ -179,6 +182,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     elif released:
         out = ROOT / '_build/releases/chassis' / model / manual['revision']
         out.mkdir(parents=True, exist_ok=True)
+        retire_english_draft(model)
     else:
         out = build_directory(model)
     html_path = out / f'{model}-{"editor-template" if html_only else L.language + "-" + edition}.html'
@@ -278,7 +282,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
               'original_images': len(original_images), 'image_fragment_sources': fragment_sources,
               'diagram_label_typography': callout_typography,
               'release_ready': released, 'publication_preview': public_preview,
-              'release_date': manual.get('release_date'),
+              'release_date': manual.get('release_date'), 'content_fingerprint': fingerprint,
               'real_model_renders_pending': any(step.get('illustration_pending') for spec in manual['pages'] for step in spec.get('steps', [])),
               'review_issues': product['review_issues'],
               'checks': ['model identity', 'publication image hashes', 'image loading',
