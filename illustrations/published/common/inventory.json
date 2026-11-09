@@ -1249,7 +1249,7 @@
         ],
         "hue_shift_deg": -6,
         "saturation_scale": 1.4,
-        "value_scale": 0.88,
+        "value_scale": 0.92,
         "authorization": "Requested 2026-11-09: match the pale tan bracket to the orange of the other renders (redder, more saturated, darker). Red fan and yellow/teal screws are outside the hue band. Source render unchanged."
       }
     },
@@ -1272,7 +1272,7 @@
         ],
         "hue_shift_deg": -6,
         "saturation_scale": 1.4,
-        "value_scale": 0.88,
+        "value_scale": 0.92,
         "authorization": "Requested 2026-11-09: match the pale tan bracket to the orange of the other renders (redder, more saturated, darker). Red fan and yellow/teal screws are outside the hue band. Source render unchanged."
       }
     }
