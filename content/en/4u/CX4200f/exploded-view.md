@@ -6,10 +6,11 @@
 | 2 | Subfront | {{ ref('aio-installation', 'Install a front AIO radiator') }} |
 | 3 | Filter foam | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
 | 4 | Faceplate | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
-| 5 | Front fan bracket | {{ ref('fan-bracket-removal', 'Remove the fan bracket') }} |
-| 6 | Front I/O assembly | {{ ref('front-ports', 'Front ports & connections') }} |
-| 7 | Rack ear & pull handle | {{ ref('rack-ears', 'Install rack ears & handles') }} |
-| 8 | Chassis wrap | Main chassis body |
-| 9 | Removable motherboard tray | {{ ref('tray-removal', 'Remove the motherboard tray') }} |
+| 5 | 5.25-inch bay fillers | {{ ref('bay-devices', 'Fit 5.25-inch devices or filler blanks') }} |
+| 6 | Front fan bracket | {{ ref('fan-bracket-removal', 'Remove the fan bracket') }} |
+| 7 | Front I/O assembly | {{ ref('front-ports', 'Front ports & connections') }} |
+| 8 | Rack ear & pull handle | {{ ref('rack-ears', 'Install rack ears & handles') }} |
+| 9 | Chassis wrap | Main chassis body |
+| 10 | Removable motherboard tray | {{ ref('tray-removal', 'Remove the motherboard tray') }} |
 
 See the hardware-kit page for the screw bag and rack hardware.
