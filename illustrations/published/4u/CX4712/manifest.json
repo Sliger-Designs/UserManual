@@ -985,6 +985,180 @@
       "full_resolution_sha256": "963d9e99fd38c7d228d549b6888d1719c435efc63caebb10772dc7fb52cfabfb"
     }
   },
+  "CX4712_5a_TRAY_UNSCREW_R1_20261105.jpg": {
+    "path": "illustrations/published/4u/CX4712/cx4712-36ace9f1ad19.jpg",
+    "source_path": "illustrations/4u/CX4712/CX4712_5a_TRAY_UNSCREW_R1_20261105.jpg",
+    "source_sha256": "b8a453e7522eb4c7515c0f4f3d026824c72943837ab2a50672492c6c7a597355",
+    "sha256": "8cad49bd8007fa7b116021ecc29eb2353a945bbdf479317f4a9564ca1bc58208",
+    "dimensions_px": [
+      1800,
+      1337
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11139046,
+      "total_pixels": 20082400,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5a_TRAY_UNSCREW_R1_20261105-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        3862
+      ],
+      "full_resolution_sha256": "6ab6e4343365cd44f8e3c973318a217b6897946471af3f4c7a86d47c11cc508b"
+    }
+  },
+  "CX4712_5b_TRAY_SLIDE_BACK_R1_20261105.jpg": {
+    "path": "illustrations/published/4u/CX4712/cx4712-b1030e639ed9.jpg",
+    "source_path": "illustrations/4u/CX4712/CX4712_5b_TRAY_SLIDE_BACK_R1_20261105.jpg",
+    "source_sha256": "ebdde378608e0dca427e3a45103330881a72f816294128f682486d6fb3d24582",
+    "sha256": "353706a04879905f4555ae574d3598e208bbe6f84797bca5e32d9aed5c34e5fc",
+    "dimensions_px": [
+      1800,
+      1298
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10309015,
+      "total_pixels": 19500000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5b_TRAY_SLIDE_BACK_R1_20261105-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        3750
+      ],
+      "full_resolution_sha256": "f202f271c36c79e4a00239785249a7f2d621e4d12748d4511174b89c791d3bae"
+    }
+  },
+  "CX4712_5c_TRAY_REMOVE_R1_20261105.jpg": {
+    "path": "illustrations/published/4u/CX4712/cx4712-1ef6969c7940.jpg",
+    "source_path": "illustrations/4u/CX4712/CX4712_5c_TRAY_REMOVE_R1_20261105.jpg",
+    "source_sha256": "5a4e0f0c5a5de197b070a80fed1380d08ed34afe33e32e86bf9813a5d58e2d9a",
+    "sha256": "8fe0010c3633e135d278ee52d317fe835568b1e81e3843be29c534dbe400dde6",
+    "dimensions_px": [
+      1800,
+      1129
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10569879,
+      "total_pixels": 16962400,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5c_TRAY_REMOVE_R1_20261105-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        3262
+      ],
+      "full_resolution_sha256": "ce67c4c81588de6b0a0135bd1bc2662ca7c4e30ce7edb9a5bf7edaa7f42af53a"
+    }
+  },
+  "CX4712_5d_TRAY_INSTALL_R1_20261105.jpg": {
+    "path": "illustrations/published/4u/CX4712/cx4712-0c4f54a5560b.jpg",
+    "source_path": "illustrations/4u/CX4712/CX4712_5d_TRAY_INSTALL_R1_20261105.jpg",
+    "source_sha256": "1b519b913d6b4f91ce8aee76d54094aa65fe6f20d107cd8f5ccd6e029f913b68",
+    "sha256": "f31b2fce8d975afb8e983d3269ab955233e29a4f2f3c07b1f05d3dbf008fb927",
+    "dimensions_px": [
+      1800,
+      1182
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10288666,
+      "total_pixels": 17758000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5d_TRAY_INSTALL_R1_20261105-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        3415
+      ],
+      "full_resolution_sha256": "589a097a6ba7d437c072da9f2e3ee876374d0e4363d1b9fd9e1c06d3f9e2d10f"
+    }
+  },
+  "CX4712_5e_TRAY_SLIDE_FORWARD_R1_20261105.jpg": {
+    "path": "illustrations/published/4u/CX4712/cx4712-f46dda78ae5c.jpg",
+    "source_path": "illustrations/4u/CX4712/CX4712_5e_TRAY_SLIDE_FORWARD_R1_20261105.jpg",
+    "source_sha256": "c078bf66e83937a24c2f9f9d9994e69f2816f65477643737f7cc4f2bf7faf235",
+    "sha256": "186de85eed6326390e5915cce9962d5b6f61b1ac5c96f715c7079249dcfd979c",
+    "dimensions_px": [
+      1800,
+      1298
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10303832,
+      "total_pixels": 19500000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5e_TRAY_SLIDE_FORWARD_R1_20261105-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        3750
+      ],
+      "full_resolution_sha256": "36dc8c96ba88ee25e0907a8882d4e686b4aa414231a10ff5d7a6ef743f3a0dc0"
+    }
+  },
+  "CX4712_5f_TRAY_SCREW_INSTALL_R1_20261105.jpg": {
+    "path": "illustrations/published/4u/CX4712/cx4712-4fe1bd7d342b.jpg",
+    "source_path": "illustrations/4u/CX4712/CX4712_5f_TRAY_SCREW_INSTALL_R1_20261105.jpg",
+    "source_sha256": "9709c9e75bf4cff76ddabc5702c8f44baa1bb958d8426184f7a886e6b887c9d1",
+    "sha256": "ce2f506eeb45ef0f1e5d3151ea2ccb26a27f4deffe39471fd708902c01fa6531",
+    "dimensions_px": [
+      1800,
+      1337
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11134580,
+      "total_pixels": 20082400,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5f_TRAY_SCREW_INSTALL_R1_20261105-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        3862
+      ],
+      "full_resolution_sha256": "361533af1ce7113f417ccf5cce33a9ad979ee58ba779754215552cbb14ed4d14"
+    }
+  },
   "CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg": {
     "path": "illustrations/published/4u/CX4712/cx4712-04601cb898a9.jpg",
     "source_path": "illustrations/4u/CX4712/CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
@@ -1012,6 +1186,35 @@
         4290
       ],
       "full_resolution_sha256": "7a92d2d3bcbfd96147fea5da0a4b395cd950eb7b8f227aba4a2a594645702bd1"
+    }
+  },
+  "_CX4712-Explode.jpg": {
+    "path": "illustrations/published/4u/CX4712/cx4712-a4ff4538ab85.jpg",
+    "source_path": "illustrations/4u/CX4712/_CX4712-Explode.jpg",
+    "source_sha256": "25508aaea533e64c6ffbba5e3add2fc3da1afd58147b2271d747571efa69a9a0",
+    "sha256": "6edbc3e6034ab39b7cd5bf55dcc62457c359cd7e4c21d896e77cdef7f908ba99",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7570,
+      "total_pixels": 2494800,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4712/_CX4712-Explode-white.png",
+      "full_resolution_dimensions_px": [
+        2079,
+        1200
+      ],
+      "full_resolution_sha256": "17147fa08432e1be11a4ab4a8fe1d8f5186eb2c5b2136059b87154f33494ce7b"
     }
   },
   "_CX4712_ADVANCED FRONT VIEW.jpg": {

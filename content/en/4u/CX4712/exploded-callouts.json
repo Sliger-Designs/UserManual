@@ -1,0 +1,77 @@
+{
+  "asset_key": "_CX4712-Explode.jpg",
+  "source_sha256": "25508aaea533e64c6ffbba5e3add2fc3da1afd58147b2271d747571efa69a9a0",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7325,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Assembly callouts placed on the CX4712 exploded view (2026-11-10); faceplate and dust filter kept as one callout (filter foam sits in a cage on the panel); review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.6,
+        0.22
+      ],
+      "badge": [
+        0.3,
+        0.12
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.2,
+        0.68
+      ],
+      "badge": [
+        0.035,
+        0.58
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.443,
+        0.78
+      ],
+      "badge": [
+        0.45,
+        0.97
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Rack ear",
+      "target": [
+        0.477,
+        0.66
+      ],
+      "badge": [
+        0.56,
+        0.93
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Chassis wrap",
+      "target": [
+        0.72,
+        0.62
+      ],
+      "badge": [
+        0.85,
+        0.78
+      ]
+    }
+  ]
+}
