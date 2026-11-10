@@ -383,6 +383,18 @@
       }
     },
     {
+      "id": "cx3151i-3ae68088b559",
+      "original_filename": "14e_CX3151i_cable_managment.jpg",
+      "local_path": "illustrations/3u/CX3151i/14e_CX3151i_cable_managment.jpg",
+      "width_px": 4767,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1820813,
+      "sha256": "34c9e631d5b59166846e1e2f1d4995467e3cad0a6b0f66a101d8ff9f93935f2e",
+      "selection_status": "candidate",
+      "note": "Cable-management render supplied and requested for review 2026-11-10; original unchanged."
+    },
+    {
       "id": "cx3151i-2ad9d159cef1",
       "original_filename": "14f_CX3151i_TRAY REINSTALL 3.jpg",
       "local_path": "illustrations/3u/CX3151i/14f_CX3151i_TRAY REINSTALL 3.jpg",
@@ -1124,6 +1136,18 @@
         "full_resolution_path": "_build/cleaned-renders/CX3151i/9c_CX3151i_REAR COVER REMOVE 2-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "cx3151i-7309b446b20a",
+      "original_filename": "CX3151i_CHASSIS_EXPLODE.jpg",
+      "local_path": "illustrations/3u/CX3151i/CX3151i_CHASSIS_EXPLODE.jpg",
+      "width_px": 2057,
+      "height_px": 1200,
+      "format": "JPEG",
+      "size_bytes": 408408,
+      "sha256": "b479a1a7867fd118e6ed90112709e0f0e6979a0fccf9ffd0f04f43c270ca83b1",
+      "selection_status": "candidate",
+      "note": "Exploded view supplied and requested for review 2026-11-10; original unchanged."
     },
     {
       "id": "cx3151i-757040a7531e",

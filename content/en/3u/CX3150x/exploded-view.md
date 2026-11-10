@@ -8,5 +8,6 @@
 | 4 | Faceplate | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
 | 5 | Rack ear | {{ ref('rack-ears', 'Install rack ears & handles') }} |
 | 6 | Chassis wrap | Main chassis body |
+| 7 | Motherboard tray | {{ ref('tray-removal', 'Remove the motherboard tray') }} |
 
 See the hardware-kit page for the screw bag and rack hardware.

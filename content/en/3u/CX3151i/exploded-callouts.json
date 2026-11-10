@@ -1,0 +1,83 @@
+{
+  "asset_key": "CX3151i_CHASSIS_EXPLODE.jpg",
+  "source_sha256": "b479a1a7867fd118e6ed90112709e0f0e6979a0fccf9ffd0f04f43c270ca83b1",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7141666666666666,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on supplied exploded view 2026-11-10; review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.55,
+        0.24
+      ],
+      "badge": [
+        0.27,
+        0.07
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate",
+      "target": [
+        0.28,
+        0.65
+      ],
+      "badge": [
+        0.07,
+        0.82
+      ]
+    },
+    {
+      "number": 3,
+      "label": "5.25-inch bay filler blank",
+      "target": [
+        0.49,
+        0.76
+      ],
+      "badge": [
+        0.57,
+        0.95
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap",
+      "target": [
+        0.8,
+        0.62
+      ],
+      "badge": [
+        0.95,
+        0.86
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Filter foam",
+      "target": [0.2,0.46],
+      "badge": [0.08,0.38]
+    },
+    {
+      "number": 6,
+      "label": "Motherboard tray",
+      "target": [0.9,0.4],
+      "badge": [0.96,0.36]
+    },
+    {
+      "number": 7,
+      "label": "Front I/O assembly",
+      "target": [0.57,0.8],
+      "badge": [0.61,0.91]
+    }
+  ]
+}

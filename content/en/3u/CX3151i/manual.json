@@ -2,8 +2,10 @@
   "model": "CX3151i",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "Prototype 0.1",
-  "status": "Technical review draft",
+  "revision": "v1.0",
+  "status": "User guide",
+  "release_ready": true,
+  "release_date": "2026-11-10",
   "text_checks": {
     "required": [
       "381",
@@ -55,6 +57,20 @@
       "source": "contents.md",
       "images": [],
       "layout": "contents"
+    },
+    {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "CX3151i_CHASSIS_EXPLODE.jpg"
+      ],
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX3151i_CHASSIS_EXPLODE.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -514,8 +530,10 @@
       "title": "Route cables & close the chassis",
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
-      "images": [],
-      "layout": "text"
+      "images": [
+        "14e_CX3151i_cable_managment.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "support",
@@ -565,12 +583,5 @@
   "cover_description": "15\" DEEP 3U CHASSIS",
   "cover_description_detail": "1 × 5.25\" BAY · RISER GPU",
   "cover_format": "landscape",
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX3151i assemblies; the exploded-view page is omitted until supplied.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/3u/CX3151i/"
-    }
-  ]
+  "missing_assets": []
 }
