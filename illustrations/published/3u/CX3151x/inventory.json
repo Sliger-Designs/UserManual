@@ -939,6 +939,18 @@
       }
     },
     {
+      "id": "cx3151x-c6755e857568",
+      "original_filename": "CX3151x-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg",
+      "local_path": "illustrations/3u/CX3151x/CX3151x-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg",
+      "width_px": 5200,
+      "height_px": 3383,
+      "format": "JPEG",
+      "size_bytes": 2185872,
+      "sha256": "d11b431cd000d006196b6aa022a656305d3dc335c7a9af87d3c77e08a0ab75f0",
+      "selection_status": "candidate",
+      "note": "Exploded view supplied and requested for review 2026-11-10; original unchanged."
+    },
+    {
       "id": "cx3151x-db78fded7aca",
       "original_filename": "_CX3151x.jpg",
       "local_path": "illustrations/3u/CX3151x/_CX3151x.jpg",

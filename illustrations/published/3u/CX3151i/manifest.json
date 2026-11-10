@@ -1332,5 +1332,17 @@
       ],
       "full_resolution_sha256": "c31be719cf7b2b4228662bad1fc551f20f116a4cd48ed4a8e8e711c8cb564bf7"
     }
+  },
+  "CX3151i_CHASSIS_EXPLODE.jpg": {
+    "path": "illustrations/published/3u/CX3151i/cx3151i-7309b446b20a.jpg",
+    "source_path": "illustrations/3u/CX3151i/CX3151i_CHASSIS_EXPLODE.jpg",
+    "source_sha256": "b479a1a7867fd118e6ed90112709e0f0e6979a0fccf9ffd0f04f43c270ca83b1",
+    "sha256": "8d24d4275133adb0f87a272eb10f23eb9e3ea3438c308278d804a1fba45e4f5a",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

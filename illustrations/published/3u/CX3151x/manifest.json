@@ -1158,5 +1158,17 @@
       ],
       "full_resolution_sha256": "bb55e567767334fde64f684af8efadeaf9bacf6e7f58adfc91bea7482839db51"
     }
+  },
+  "CX3151x-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg": {
+    "path": "illustrations/published/3u/CX3151x/cx3151x-c6755e857568.jpg",
+    "source_path": "illustrations/3u/CX3151x/CX3151x-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg",
+    "source_sha256": "d11b431cd000d006196b6aa022a656305d3dc335c7a9af87d3c77e08a0ab75f0",
+    "sha256": "4bcfce936c021c862f517a0237149038de372478face993598cd4dd520cebd3a",
+    "dimensions_px": [
+      1800,
+      1171
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

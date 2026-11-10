@@ -1,0 +1,65 @@
+{
+  "asset_key": "CX3151x-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg",
+  "source_sha256": "d11b431cd000d006196b6aa022a656305d3dc335c7a9af87d3c77e08a0ab75f0",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.5370972509606857,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on supplied exploded view 2026-11-10; review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.55,
+        0.24
+      ],
+      "badge": [
+        0.3,
+        0.07
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate",
+      "target": [
+        0.3,
+        0.69
+      ],
+      "badge": [
+        0.05,
+        0.88
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Rack ear",
+      "target": [
+        0.65,
+        0.76
+      ],
+      "badge": [
+        0.69,
+        0.95
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap",
+      "target": [
+        0.8,
+        0.6
+      ],
+      "badge": [
+        0.95,
+        0.86
+      ]
+    }
+  ]
+}

@@ -59,6 +59,20 @@
       "layout": "contents"
     },
     {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "CX3151x-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg"
+      ],
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX3151x-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg": "exploded-callouts.json"
+      }
+    },
+    {
       "id": "dimensions",
       "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
@@ -515,12 +529,5 @@
   "cover_description": "15\" DEEP 3U CHASSIS",
   "cover_description_detail": "INTERNAL DRIVE BRACKET · RISER GPU",
   "cover_format": "landscape",
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX3151x assemblies; the exploded-view page is omitted until supplied.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/3u/CX3151x/"
-    }
-  ]
+  "missing_assets": []
 }
