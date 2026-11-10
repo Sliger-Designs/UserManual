@@ -28,6 +28,7 @@ summary .what { color: var(--muted); }
 .badge { font-size: .78em; border-radius: 10px; padding: 1px 9px; background: var(--soft); border: 1px solid var(--line); white-space: nowrap; }
 .badge.released { background: #e6f2ec; border-color: #a9d3bd; color: var(--ok); }
 .badge.draft { background: #fff1d6; border-color: #f0d49a; color: #6b4600; }
+.badge.translated { background: #e6f2ec; border-color: #a9d3bd; color: var(--ok); }
 .panel { padding: 0 16px 16px; border-top: 1px solid var(--line); }
 .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid #eef1f3; }
 .row:last-child { border-bottom: 0; }
@@ -70,6 +71,7 @@ function h(tag, attrs = {}, ...children) {
   return node;
 }
 const percent = (done, total) => total ? Math.round(100 * done / total) + '%' : '0%';
+const complete = item => item.total > 0 && item.done >= item.total;
 const languageLabel = (code, name) => Workspaces.label(code, name);
 
 function confirmDialog(title, text, buttons) {
@@ -116,7 +118,8 @@ function translatePanel(manual) {
       const pdf = item.preview && h('a', {href: item.preview, target: '_blank', rel: 'noopener'}, 'Preview PDF');
       panel.push(h('div', {class: 'row'},
         h('div', {}, h('strong', {text: languageLabel(code, item.name)}),
-          h('div', {class: 'meta', text: `${item.done} of ${item.total} items translated for ${manual.model} (${percent(item.done, item.total)})`})),
+          h('div', {class: 'meta', text: complete(item) ? `Fully translated for ${manual.model}`
+            : `${item.done} of ${item.total} items translated for ${manual.model} (${percent(item.done, item.total)})`})),
         h('div', {class: 'actions'}, pdf,
           h('a', {class: 'button primary', href: Workspaces.editorLink(pkg.editor, code)},
             savedLanguages.has(code) ? 'Continue (saved here)' : 'Edit'))));
@@ -151,7 +154,10 @@ function manualCard(manual) {
   const card = h('details', {class: 'manual', 'data-model': manual.model.toLowerCase()});
   const badges = [h('span', {class: 'badge ' + (manual.released ? 'released' : 'draft'), text: manual.released ? `Released ${manual.revision}` : `Draft · ${manual.revision}`}),
     ...Object.entries(manual.languages).filter(([, item]) => item.done > 0)
-      .map(([code, item]) => h('span', {class: 'badge', title: `${item.name || code}: ${percent(item.done, item.total)} translated`, text: `${code} ${percent(item.done, item.total)}`}))];
+      .sort(([a, x], [b, y]) => complete(y) - complete(x) || a.localeCompare(b))  // Completed languages first.
+      .map(([code, item]) => complete(item)
+        ? h('span', {class: 'badge translated', title: `${item.name || code}: fully translated`, text: `${code} ✓`})
+        : h('span', {class: 'badge', title: `${item.name || code}: ${percent(item.done, item.total)} translated`, text: `${code} ${percent(item.done, item.total)}`}))];
   card.append(h('summary', {}, h('span', {class: 'model', text: manual.display_name || manual.model}),
     h('span', {class: 'what', text: [manual.description, manual.form_factor].filter(Boolean).join(' · ')}), h('span', {class: 'badges'}, badges)));
   const panel = h('div', {class: 'panel'});
