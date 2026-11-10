@@ -23,6 +23,9 @@ unchanged. Add language folders when translations are approved.
 | English (`en`) | 4U | CX4200e | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200e/v1.0/CX4200e-en-v1.0.pdf) |
 | English (`en`) | 4U | CX4200f | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200f/v1.0/CX4200f-en-v1.0.pdf) |
 | English (`en`) | 4U | CX4200i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200i/v1.0/CX4200i-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3150a | v1.1 | 2026-11-10 | [PDF](en/3u/CX3150a/v1.1/CX3150a-en-v1.1.pdf) |
+| English (`en`) | 3U | CX3150i | v1.0 | 2026-11-10 | [PDF](en/3u/CX3150i/v1.0/CX3150i-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3150x | v1.0 | 2026-11-10 | [PDF](en/3u/CX3150x/v1.0/CX3150x-en-v1.0.pdf) |
 
 Each version folder holds the PDF and a release record (`<model>-en-<version>.json`) with
 the release date and a content fingerprint of the build: a hash of its visible text and

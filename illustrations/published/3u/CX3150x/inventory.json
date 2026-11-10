@@ -246,6 +246,18 @@
       }
     },
     {
+      "id": "cx3150x-fb87b27af940",
+      "original_filename": "13g_CX3150x_CABLE_MANAGEMENT.jpg",
+      "local_path": "illustrations/3u/CX3150x/13g_CX3150x_CABLE_MANAGEMENT.jpg",
+      "width_px": 3926,
+      "height_px": 2804,
+      "format": "JPEG",
+      "size_bytes": 1055862,
+      "sha256": "5f45b826296417b90ab8d719236d9a1e88191264f41cfe4d438cd5b81ac60d65",
+      "selection_status": "candidate",
+      "note": "Supplied cable-management render; selected for the cable-management page at user request 2026-11-10."
+    },
+    {
       "id": "cx3150x-49957f535f9c",
       "original_filename": "14.jpg",
       "local_path": "illustrations/3u/CX3150x/14.jpg",
@@ -669,6 +681,29 @@
         "tolerance_per_channel": 4,
         "publication_format": "jpeg",
         "full_resolution_path": "_build/cleaned-renders/CX3150x/9_CX3150x_GPU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3150x-10944b04b0a0",
+      "original_filename": "CX3150x-CHASSIS_EXPLODE-REV20261106-OPAQUE.jpg",
+      "local_path": "illustrations/3u/CX3150x/CX3150x-CHASSIS_EXPLODE-REV20261106-OPAQUE.jpg",
+      "width_px": 5200,
+      "height_px": 3458,
+      "format": "JPEG",
+      "size_bytes": 2059546,
+      "sha256": "afdb5a2907058c11f09b77b6a9b19766958614e286e418b7dd57e40abfc7a388",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/CX3150x-CHASSIS_EXPLODE-REV20261106-OPAQUE-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
     },

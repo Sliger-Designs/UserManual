@@ -2,8 +2,10 @@
   "model": "CX3150a",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "Prototype 0.3",
-  "status": "Technical review draft",
+  "revision": "v1.1",
+  "status": "User guide",
+  "release_ready": true,
+  "release_date": "2026-11-10",
   "text_checks": {
     "required": [
       "381",
@@ -45,24 +47,37 @@
     },
     {
       "id": "exploded-view",
-      "title": "Exploded view",
+      "title": "Exploded assembly & part key",
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "reference/CX3150a/exploded-numbered.png"
+        "CX3150a-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg"
       ],
-      "layout": "exploded"
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX3150a-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
-      "title": "Outer dimensions",
+      "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
-        "reference/CX3150a/side-profile.png",
-        "reference/CX3150a/front-profile.png"
+        "_CX3150a_ADVANCED_TOP VIEW.jpg"
       ],
-      "layout": "dimensions"
+      "layout": "reference-drawing"
+    },
+    {
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "front-clearance.md",
+      "images": [
+        "_CX3150a_ADVANCED_FRONT VIEW.jpg"
+      ],
+      "layout": "reference-drawing"
     },
     {
       "id": "specifications",

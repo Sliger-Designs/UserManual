@@ -5,4 +5,4 @@ Build and installation guide
 
 **ENGLISH**
 
-{{ revision }} · Technical review draft
+{{ revision }} · User guide
