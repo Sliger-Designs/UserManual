@@ -2,8 +2,8 @@
   "model": "CX3150a",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "Prototype 0.3",
-  "status": "Technical review draft",
+  "revision": "v1.0",
+  "status": "User guide",
   "text_checks": {
     "required": [
       "381",
