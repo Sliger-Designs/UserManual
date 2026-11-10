@@ -4,6 +4,8 @@
   "language_label": "ENGLISH",
   "revision": "v1.1",
   "status": "User guide",
+  "release_ready": true,
+  "release_date": "2026-11-10",
   "text_checks": {
     "required": [
       "381",

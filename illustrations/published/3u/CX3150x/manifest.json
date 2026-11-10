@@ -897,5 +897,17 @@
       ],
       "full_resolution_sha256": "75cd4bf6351ad073ca42e2b63b546b83883311277147e1635f3d89695792b061"
     }
+  },
+  "13g_CX3150x_CABLE_MANAGEMENT.jpg": {
+    "path": "illustrations/published/3u/CX3150x/cx3150x-fb87b27af940.jpg",
+    "source_path": "illustrations/3u/CX3150x/13g_CX3150x_CABLE_MANAGEMENT.jpg",
+    "source_sha256": "5f45b826296417b90ab8d719236d9a1e88191264f41cfe4d438cd5b81ac60d65",
+    "sha256": "a06bfbed7445bbf65c5976834ae746c9a72034a42e31208d5f5dcc1368cfe4f1",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }
