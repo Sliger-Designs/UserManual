@@ -84,6 +84,18 @@
         0.92,
         0.8
       ]
+    },
+    {
+      "number": 7,
+      "label": "Motherboard tray",
+      "target": [
+        0.925,
+        0.46
+      ],
+      "badge": [
+        0.97,
+        0.27
+      ]
     }
   ]
 }
