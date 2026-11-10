@@ -898,6 +898,35 @@
       "full_resolution_sha256": "3989c3b59e587602af540d77208058cedd3f3737b749ad89ddb87d066d50c609"
     }
   },
+  "CX3150i-CHASSIS_EXPLODE.jpg": {
+    "path": "illustrations/published/3u/CX3150i/cx3150i-1af71b45f58a.jpg",
+    "source_path": "illustrations/3u/CX3150i/CX3150i-CHASSIS_EXPLODE.jpg",
+    "source_sha256": "f3ffc8f56a37f428257b8df5d57c60c30c24971a1f229014f71a4b794e79d1df",
+    "sha256": "dd3b544bc74d0d28f4844573695a214902ffb1cb8743a8e5dea84cc26699900d",
+    "dimensions_px": [
+      1800,
+      1184
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8707491,
+      "total_pixels": 17784000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150i/CX3150i-CHASSIS_EXPLODE-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        3420
+      ],
+      "full_resolution_sha256": "8e85390783b1804154bd3000642114bb1b651bb6cf7cb6ebb174e57300d85f5f"
+    }
+  },
   "_CX3150i_ADVANCED_FRONT VIEW.jpg": {
     "path": "illustrations/published/3u/CX3150i/cx3150i-f03a4dc01a3b.jpg",
     "source_path": "illustrations/3u/CX3150i/_CX3150i_ADVANCED_FRONT VIEW.jpg",

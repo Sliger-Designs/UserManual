@@ -673,6 +673,29 @@
       }
     },
     {
+      "id": "cx3150x-10944b04b0a0",
+      "original_filename": "CX3150x-CHASSIS_EXPLODE-REV20261106-OPAQUE.jpg",
+      "local_path": "illustrations/3u/CX3150x/CX3150x-CHASSIS_EXPLODE-REV20261106-OPAQUE.jpg",
+      "width_px": 5200,
+      "height_px": 3458,
+      "format": "JPEG",
+      "size_bytes": 2059546,
+      "sha256": "afdb5a2907058c11f09b77b6a9b19766958614e286e418b7dd57e40abfc7a388",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3150x/CX3150x-CHASSIS_EXPLODE-REV20261106-OPAQUE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx3150x-2a6d55f981ac",
       "original_filename": "OVERVIEW 1.jpg",
       "local_path": "illustrations/3u/CX3150x/OVERVIEW 1.jpg",

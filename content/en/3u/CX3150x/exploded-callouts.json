@@ -1,0 +1,89 @@
+{
+  "asset_key": "CX3150x-CHASSIS_EXPLODE-REV20261106-OPAQUE.jpg",
+  "source_sha256": "afdb5a2907058c11f09b77b6a9b19766958614e286e418b7dd57e40abfc7a388",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.5037593984962405,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Assembly callouts placed on the CX3150x exploded view (2026-11-10); review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.55,
+        0.2
+      ],
+      "badge": [
+        0.25,
+        0.12
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Filter foam",
+      "target": [
+        0.22,
+        0.505
+      ],
+      "badge": [
+        0.04,
+        0.36
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.13,
+        0.57
+      ],
+      "badge": [
+        0.025,
+        0.56
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Faceplate",
+      "target": [
+        0.35,
+        0.75
+      ],
+      "badge": [
+        0.15,
+        0.92
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Rack ear",
+      "target": [
+        0.555,
+        0.8
+      ],
+      "badge": [
+        0.58,
+        0.97
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Chassis wrap",
+      "target": [
+        0.8,
+        0.62
+      ],
+      "badge": [
+        0.92,
+        0.8
+      ]
+    }
+  ]
+}

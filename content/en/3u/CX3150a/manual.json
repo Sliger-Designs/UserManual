@@ -2,7 +2,7 @@
   "model": "CX3150a",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "v1.0",
+  "revision": "v1.1",
   "status": "User guide",
   "text_checks": {
     "required": [
@@ -45,13 +45,17 @@
     },
     {
       "id": "exploded-view",
-      "title": "Exploded view",
+      "title": "Exploded assembly & part key",
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "reference/CX3150a/exploded-numbered.png"
+        "CX3150a-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg"
       ],
-      "layout": "exploded"
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX3150a-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",

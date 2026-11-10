@@ -637,6 +637,35 @@
       "full_resolution_sha256": "cba4baa770d2cee9f429123fe2ce14d5817a6bc69ad6eca861179547ee5d6e54"
     }
   },
+  "CX3150a-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg": {
+    "path": "illustrations/published/3u/CX3150a/cx3150a-fff3148cbbfe.jpg",
+    "source_path": "illustrations/3u/CX3150a/CX3150a-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg",
+    "source_sha256": "7b3f61b1af568569656d428eb3ef2947bbe01f3901164949ef91e1b96c1794c0",
+    "sha256": "eae1ac96db8ac875d8fa679769370edf8e85f5beb90ff37d321bb9bc527a753a",
+    "dimensions_px": [
+      1800,
+      1163
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8220140,
+      "total_pixels": 17472000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150a/CX3150a-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        3360
+      ],
+      "full_resolution_sha256": "c6f6433223c480bc941a007a1622cab7478631fcb3315044ddc0a0b0ba8849b2"
+    }
+  },
   "_CX3150a_rendering.jpg": {
     "path": "illustrations/published/3u/CX3150a/cx3150a-cea6abf87908.jpg",
     "source_path": "illustrations/3u/CX3150a/_CX3150a_rendering.jpg",
@@ -665,18 +694,6 @@
       ],
       "full_resolution_sha256": "5ba62233a5865bb683e682d82ca1684fe0ef0034589aa7dc977e7549fbfb91f2"
     }
-  },
-  "reference/CX3150a/exploded-numbered.png": {
-    "path": "illustrations/published/3u/CX3150a/reference-3b47f8e7bcd1.png",
-    "source_path": "illustrations/reference/CX3150a/exploded-numbered.png",
-    "source_sha256": "f4267e15fe96eff658d1a41b70f86f3100ac70e1d0e0993e0b8523d9abe25624",
-    "sha256": "2568245cdce8f65f7216a9d31b59443ec73abb8446785989eb5c4c6f16af0894",
-    "dimensions_px": [
-      1800,
-      646
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
   },
   "reference/CX3150a/front-profile.png": {
     "path": "illustrations/published/3u/CX3150a/reference-5e184a527d17.png",
