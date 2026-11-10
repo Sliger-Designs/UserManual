@@ -881,6 +881,144 @@
       }
     },
     {
+      "id": "cx4712-36ace9f1ad19",
+      "original_filename": "CX4712_5a_TRAY_UNSCREW_R1_20261105.jpg",
+      "local_path": "illustrations/4u/CX4712/CX4712_5a_TRAY_UNSCREW_R1_20261105.jpg",
+      "width_px": 5200,
+      "height_px": 3862,
+      "format": "JPEG",
+      "size_bytes": 3084807,
+      "sha256": "b8a453e7522eb4c7515c0f4f3d026824c72943837ab2a50672492c6c7a597355",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5a_TRAY_UNSCREW_R1_20261105-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4712-b1030e639ed9",
+      "original_filename": "CX4712_5b_TRAY_SLIDE_BACK_R1_20261105.jpg",
+      "local_path": "illustrations/4u/CX4712/CX4712_5b_TRAY_SLIDE_BACK_R1_20261105.jpg",
+      "width_px": 5200,
+      "height_px": 3750,
+      "format": "JPEG",
+      "size_bytes": 3038100,
+      "sha256": "ebdde378608e0dca427e3a45103330881a72f816294128f682486d6fb3d24582",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5b_TRAY_SLIDE_BACK_R1_20261105-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4712-1ef6969c7940",
+      "original_filename": "CX4712_5c_TRAY_REMOVE_R1_20261105.jpg",
+      "local_path": "illustrations/4u/CX4712/CX4712_5c_TRAY_REMOVE_R1_20261105.jpg",
+      "width_px": 5200,
+      "height_px": 3262,
+      "format": "JPEG",
+      "size_bytes": 2237687,
+      "sha256": "5a4e0f0c5a5de197b070a80fed1380d08ed34afe33e32e86bf9813a5d58e2d9a",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5c_TRAY_REMOVE_R1_20261105-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4712-0c4f54a5560b",
+      "original_filename": "CX4712_5d_TRAY_INSTALL_R1_20261105.jpg",
+      "local_path": "illustrations/4u/CX4712/CX4712_5d_TRAY_INSTALL_R1_20261105.jpg",
+      "width_px": 5200,
+      "height_px": 3415,
+      "format": "JPEG",
+      "size_bytes": 2629225,
+      "sha256": "1b519b913d6b4f91ce8aee76d54094aa65fe6f20d107cd8f5ccd6e029f913b68",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5d_TRAY_INSTALL_R1_20261105-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4712-f46dda78ae5c",
+      "original_filename": "CX4712_5e_TRAY_SLIDE_FORWARD_R1_20261105.jpg",
+      "local_path": "illustrations/4u/CX4712/CX4712_5e_TRAY_SLIDE_FORWARD_R1_20261105.jpg",
+      "width_px": 5200,
+      "height_px": 3750,
+      "format": "JPEG",
+      "size_bytes": 3176046,
+      "sha256": "c078bf66e83937a24c2f9f9d9994e69f2816f65477643737f7cc4f2bf7faf235",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5e_TRAY_SLIDE_FORWARD_R1_20261105-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4712-4fe1bd7d342b",
+      "original_filename": "CX4712_5f_TRAY_SCREW_INSTALL_R1_20261105.jpg",
+      "local_path": "illustrations/4u/CX4712/CX4712_5f_TRAY_SCREW_INSTALL_R1_20261105.jpg",
+      "width_px": 5200,
+      "height_px": 3862,
+      "format": "JPEG",
+      "size_bytes": 3210867,
+      "sha256": "9709c9e75bf4cff76ddabc5702c8f44baa1bb958d8426184f7a886e6b887c9d1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4712/CX4712_5f_TRAY_SCREW_INSTALL_R1_20261105-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx4712-04601cb898a9",
       "original_filename": "CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
       "local_path": "illustrations/4u/CX4712/CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
@@ -927,6 +1065,29 @@
       "sha256": "b5492cca9b22fe7fbe30013c2f68df41481ff3c9ac5dc328119e49ba0fc84d2f",
       "selection_status": "not_used",
       "note": "Not used in the manuals (confirmed 2026-11-04)."
+    },
+    {
+      "id": "cx4712-a4ff4538ab85",
+      "original_filename": "_CX4712-Explode.jpg",
+      "local_path": "illustrations/4u/CX4712/_CX4712-Explode.jpg",
+      "width_px": 2079,
+      "height_px": 1200,
+      "format": "JPEG",
+      "size_bytes": 420533,
+      "sha256": "25508aaea533e64c6ffbba5e3add2fc3da1afd58147b2271d747571efa69a9a0",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4712/_CX4712-Explode-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx4712-23aaf70eabef",

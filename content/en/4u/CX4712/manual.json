@@ -48,8 +48,14 @@
       "title": "Exploded assembly & part key",
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
-      "images": [],
-      "layout": "exploded"
+      "images": [
+        "_CX4712-Explode.jpg"
+      ],
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "_CX4712-Explode.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -195,9 +201,20 @@
       "title": "Remove the motherboard tray",
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/tray-removal.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "Motherboard-tray removal renders pending"
+      "images": [
+        "CX4712_5a_TRAY_UNSCREW_R1_20261105.jpg",
+        "CX4712_5b_TRAY_SLIDE_BACK_R1_20261105.jpg",
+        "CX4712_5c_TRAY_REMOVE_R1_20261105.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        [],
+        []
+      ],
+      "layout_variant": "stacked"
     },
     {
       "id": "rack-ears",
@@ -524,9 +541,21 @@
       "title": "Reinstall the motherboard tray",
       "section": "04 / REASSEMBLY",
       "source": "../../shared/rackmount/tray-installation.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "Motherboard-tray reinstallation renders pending"
+      "images": [
+        "CX4712_5d_TRAY_INSTALL_R1_20261105.jpg",
+        "CX4712_5e_TRAY_SLIDE_FORWARD_R1_20261105.jpg",
+        "CX4712_5f_TRAY_SCREW_INSTALL_R1_20261105.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        [],
+        [
+          "E"
+        ]
+      ]
     },
     {
       "id": "cable-management",
@@ -583,20 +612,7 @@
     "width": 17,
     "height": 6.96
   },
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX4712 assemblies.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/4u/CX4712/"
-    },
-    {
-      "id": "M02",
-      "needed": "Motherboard tray removal and reinstallation renders (as CX4713 5a–5f); the CX4712 tray is removable. The tray pages are omitted until supplied.",
-      "section": "tray-removal",
-      "suggested_folder": "illustrations/4u/CX4712/"
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "25\" DEEP 4U CHASSIS",
   "cover_description_detail": [
     "2 × 5.25\" BAYS",
