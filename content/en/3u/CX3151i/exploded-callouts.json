@@ -60,6 +60,24 @@
         0.95,
         0.86
       ]
+    },
+    {
+      "number": 5,
+      "label": "Filter foam",
+      "target": [0.2,0.46],
+      "badge": [0.08,0.38]
+    },
+    {
+      "number": 6,
+      "label": "Motherboard tray",
+      "target": [0.9,0.4],
+      "badge": [0.96,0.36]
+    },
+    {
+      "number": 7,
+      "label": "Front I/O assembly",
+      "target": [0.57,0.8],
+      "badge": [0.61,0.91]
     }
   ]
 }
