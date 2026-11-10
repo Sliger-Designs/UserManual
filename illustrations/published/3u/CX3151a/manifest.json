@@ -938,5 +938,17 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "12e_CX3151a_cable_managment.jpg": {
+    "path": "illustrations/published/3u/CX3151a/cx3151a-2809d985a7b7.jpg",
+    "source_path": "illustrations/3u/CX3151a/12e_CX3151a_cable_managment.jpg",
+    "source_sha256": "4bc04b7fee5781ede0de93728dfc5e3d4a67035433ae1197e1050f03ab4ff685",
+    "sha256": "4ba58b00286c5ac51f4e5679eb2a5d370b7e854aea3559be5a1bc1955520a4cd",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }
