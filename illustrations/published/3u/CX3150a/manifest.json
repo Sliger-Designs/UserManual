@@ -666,6 +666,64 @@
       "full_resolution_sha256": "c6f6433223c480bc941a007a1622cab7478631fcb3315044ddc0a0b0ba8849b2"
     }
   },
+  "_CX3150a_ADVANCED_FRONT VIEW.jpg": {
+    "path": "illustrations/published/3u/CX3150a/cx3150a-ac4c719aefd8.jpg",
+    "source_path": "illustrations/3u/CX3150a/_CX3150a_ADVANCED_FRONT VIEW.jpg",
+    "source_sha256": "8e85fc41c0b3cc8ee4ed34900c80ac9876f125512067d4f91678645e1d22b4ef",
+    "sha256": "8ca2b77d7fbbe24a46e9fdac70b3cfdb6060694e72962f7cac926ae247113000",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11252272,
+      "total_pixels": 15930679,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150a/_CX3150a_ADVANCED_FRONT VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        4723,
+        3373
+      ],
+      "full_resolution_sha256": "32c40429fa9cd4a3b2df0cec52ecceb91b5c86f074e375a8445a6ebbbbfba42a"
+    }
+  },
+  "_CX3150a_ADVANCED_TOP VIEW.jpg": {
+    "path": "illustrations/published/3u/CX3150a/cx3150a-9c7c157fcf18.jpg",
+    "source_path": "illustrations/3u/CX3150a/_CX3150a_ADVANCED_TOP VIEW.jpg",
+    "source_sha256": "c486be6ba8da4cab7f165fb9fdf48133fb3a31849135820ea00462a52366ed66",
+    "sha256": "2558509ef561a34f8b050fbd453f4c79785e3dde87a577a972b2e636b376c281",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8960090,
+      "total_pixels": 12923652,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150a/_CX3150a_ADVANCED_TOP VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        4254,
+        3038
+      ],
+      "full_resolution_sha256": "b9bbfb400599ba728f012b5c90da10e19a66d82f021b60dd6bd45c9e7f11ab58"
+    }
+  },
   "_CX3150a_rendering.jpg": {
     "path": "illustrations/published/3u/CX3150a/cx3150a-cea6abf87908.jpg",
     "source_path": "illustrations/3u/CX3150a/_CX3150a_rendering.jpg",
@@ -694,29 +752,5 @@
       ],
       "full_resolution_sha256": "5ba62233a5865bb683e682d82ca1684fe0ef0034589aa7dc977e7549fbfb91f2"
     }
-  },
-  "reference/CX3150a/front-profile.png": {
-    "path": "illustrations/published/3u/CX3150a/reference-5e184a527d17.png",
-    "source_path": "illustrations/reference/CX3150a/front-profile.png",
-    "source_sha256": "3d26001ebc6d869b2a79b2d75b50530324fd6056e1cc596955570593484e88c4",
-    "sha256": "a03e305047166679943ed514907dfee72233938ba738d3cbf3ff5c2459425847",
-    "dimensions_px": [
-      1017,
-      309
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
-  },
-  "reference/CX3150a/side-profile.png": {
-    "path": "illustrations/published/3u/CX3150a/reference-0681ceeaeab4.png",
-    "source_path": "illustrations/reference/CX3150a/side-profile.png",
-    "source_sha256": "742b9fd311c477a4c210fab28acd9ed6e1666d1560ebcab550e9ee6cda35459f",
-    "sha256": "fa7bb9d6dc033da2534834324743868471c3f800c4d93a897e8088f87e869ba9",
-    "dimensions_px": [
-      888,
-      309
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
   }
 }
