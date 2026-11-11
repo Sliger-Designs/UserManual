@@ -1061,6 +1061,29 @@
       "sha256": "1fce16c1e29e6a05634cfd40a0609148611b7b0ec9ffbb1ae43f9a46e94548d5",
       "selection_status": "candidate",
       "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3151a-ecd00f439a78",
+      "original_filename": "CX3151a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+      "local_path": "illustrations/3u/CX3151a/CX3151a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+      "width_px": 5200,
+      "height_px": 2915,
+      "format": "JPEG",
+      "size_bytes": 1901307,
+      "sha256": "fcac9465a7d3c172a8b63991cb48ad50d4c479f95a1f6f3c8a87b1dd8a45fee0",
+      "selection_status": "candidate",
+      "note": "Exploded view with rack ears and pull handles, supplied 2026-11-11 to replace CX3151a_CHASSIS_EXPLODE.jpg; original unchanged.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged.",
+        "full_resolution_path": "_build/cleaned-renders/CX3151a/CX3151a-CHASSIS_EXPLODE-REV20261110-IOPEM-white.png"
+      }
     }
   ]
 }
