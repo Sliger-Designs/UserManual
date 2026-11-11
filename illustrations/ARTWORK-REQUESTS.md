@@ -54,9 +54,8 @@ Confirmed 2026-11-04:
 |  | CX3171i XL | Exploded view. Optional: 17-inch i and XL riser-tray renders (CX3150i, CX3151i and CX3151x ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
 |  | CX3172a XL | Exploded view | Exploded view omitted |
 |  | CX3172i XL | Exploded view. Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and bay steps (the CX3152i/CX3150i ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
-|  | CX3170a | Exploded view | Grey placeholder on the exploded-view page |
-|  | CX3171a | Exploded view. Optional: 17-inch renders for the tray, riser and GPU steps (the CX3151a ones are used) | Grey placeholder on the exploded-view page; those steps show the 15-inch chassis |
-|  | CX3172a | Exploded view. Optional: 17-inch renders for the tray, PSU, SSD and GPU steps (the CX3152a ones are used) | Grey placeholder on the exploded-view page; those steps show the 15-inch chassis |
+|  | CX3171a | Optional: 17-inch renders for the tray, riser and GPU steps (the CX3151a ones are used; magenta review dots in draft builds) | Those steps show the 15-inch chassis |
+|  | CX3172a | Optional: 17-inch renders for the tray, PSU, SSD and GPU steps (the CX3152a ones are used; magenta review dots in draft builds) | Those steps show the 15-inch chassis |
 |  | CX3701 | Exploded view; 92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket. Optional: NAS front-panel render (the shared 3U "a" front drawing is used) | Exploded view omitted; the AIO page is text only |
 |  | CX3702 | Exploded view. Optional: NAS front-panel render (the shared 3U "a" front drawing is used); locked-HDD render (the CX3701 one is used) | Exploded view omitted |
 |  | CX4170a | Optional: external side/front dimension profiles. CRPS installation will be covered in a separate manual | None (optional) |
@@ -70,14 +69,13 @@ Confirmed 2026-11-04:
 
 Wanted for every rackmount manual, but no manual waits for them: until supplied, the
 cable-management page is text only and refers to the cable-management bar on the top-view
-clearance drawing. Supplied so far: CX3150a/i/x, CX3151a/i/x, CX3152a/i, all ten 4U models and the
+clearance drawing. Supplied so far: CX3150a/i/x, CX3151a/i/x, CX3152a/i, CX3170a/CX3171a/CX3172a, all ten 4U models and the
 CX4712/CX4713 (the bar highlighted in green on the motherboard tray); the models below need an
 equivalent view.
 
 | Done | Model | Needed |
 |---|---|---|
 |  | CX3170a XL, CX3170i XL, CX3171a XL, CX3171i XL, CX3172a XL, CX3172i XL | Cable-management bar highlighted on the XL tray |
-|  | CX3170a, CX3171a, CX3172a | Cable-management bar highlighted on the tray (grey placeholder on the page until supplied) |
 |  | CX3701, CX3702 | Cable-management bar highlighted on the tray |
 
 Every 3U and 2U manual built later joins this list unless its render set includes the view.

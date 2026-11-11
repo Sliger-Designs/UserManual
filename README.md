@@ -82,6 +82,11 @@ standalone HTML, a landscape Letter PDF, a page overview and a validation report
 `_build/`, and fails if text overflows a page, a link breaks, an image is missing, or
 approved values or wording differ. Released manuals (`release_ready` with a `release_date`) build into
 `_build/releases/chassis/<model>/<revision>/`; drafts into `_build/unpublished/chassis/<model>/`.
+In English rackmount drafts, a render borrowed from another model (inventory note "Copied from
+illustrations/…") carries a review-only dot in its corner: blue when it comes from the same
+family (e.g. the CX3170a for the CX3171a), magenta from a different family or size (e.g. a
+15-inch CX3151a render in the 17-inch CX3171a). Release builds never show the dots, and the
+validation report lists them under `review_marks`.
 Builds never replace files in `releases/`; archiving an approved PDF is a separate,
 reviewed commit (see [releases/README.md](releases/README.md)).
 

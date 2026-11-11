@@ -18,6 +18,7 @@ from manual_assets import (LAYOUT_CHECK, build_directory, check_release, content
                            number_pdf_pages, retire_english_draft, split_contact, quantity_display, validate_template)
 from manual_localization import Localizer
 from manual_paths import MODEL_CATEGORIES, ROOT, content_directory, published_directory
+from review_marks import borrowed_sources, colour, marked_data_uri
 
 
 UNIT = re.compile(r'(?<=\d) (?=(?:mm|cm|inches|inch|kg|lbs?|W|Gbps|slots?)\b)|(?<=\d) (?=×)|(?<=×) (?=\d)')
@@ -140,6 +141,8 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     height_match = re.match(r'^(\d+)U\b', facts.get('height_description') or '')
     height_u = int(height_match.group(1)) if height_match else None
     applied_rules = []
+    # English drafts mark renders borrowed from other models (review only; never in a release build).
+    borrowed = borrowed_sources(model) if english and not manual.get('release_ready') else {}
     pages = []
     for number, item in enumerate(manual['pages'], 1):
         L.begin_page(number, item)
@@ -170,7 +173,9 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
             asset = assets[name]
             path = ROOT / asset['path']
             assert hashlib.sha256(path.read_bytes()).hexdigest() == asset['sha256']
-            page['images'].append({'src': ('data:image/png;base64,' if path.suffix == '.png' else 'data:image/jpeg;base64,') + base64.b64encode(path.read_bytes()).decode(),
+            src = (marked_data_uri(path, colour(model, borrowed[name])) if name in borrowed else
+                   ('data:image/png;base64,' if path.suffix == '.png' else 'data:image/jpeg;base64,') + base64.b64encode(path.read_bytes()).decode())
+            page['images'].append({'src': src,
                                    'review': item.get('image_reviews', {}).get(name), 'key': name, 'alt': name.rsplit('.', 1)[0].replace('_', ' '),
                                    'style': content_inset(path) if (item['layout'] == 'procedure' or top_view_drawing(item)) and not item.get('keep_margins') else ''})
             if name in item.get('image_annotations', {}):
@@ -309,6 +314,8 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
               'screwbag': screwbag['part_number'],
               'hardware_key': 'A–I; B corrected to red M3 × 0.5, 5 mm long',
               'missing_assets': manual.get('missing_assets', []),
+              'review_marks': {name: source for name, source in sorted(borrowed.items())
+                               if any(name in item['images'] for item in manual['pages'])},
               'release_ready': released, 'release_date': manual.get('release_date') if released else None,
               'content_fingerprint': fingerprint}
     report_prefix = model if english else f'{model}-{L.language}'
