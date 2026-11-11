@@ -6,7 +6,7 @@
 | 2 | Filter foam | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
 | 3 | Front I/O assembly | {{ ref('front-ports', 'Front ports & connections') }} |
 | 4 | Faceplate | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
-| 5 | Rack ear | {{ ref('rack-ears', 'Install rack ears & handles') }} |
+| 5 | Rack ear & pull handle | {{ ref('rack-ears', 'Install rack ears & handles') }} |
 | 6 | Chassis wrap | Main chassis body |
 | 7 | Motherboard tray | {{ ref('tray-removal', 'Remove the motherboard tray') }} |
 
