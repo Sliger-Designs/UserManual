@@ -3,8 +3,9 @@
   "display_name": "CX3171i XL",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "Prototype 0.1",
-  "status": "Technical review draft",
+  "revision": "v1.0",
+  "status": "User guide",
+  "release_ready": false,
   "text_checks": {
     "required": [
       "431.8",
@@ -56,6 +57,14 @@
       "source": "contents.md",
       "images": [],
       "layout": "contents"
+    },
+    {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [],
+      "layout": "exploded"
     },
     {
       "id": "dimensions",
@@ -514,7 +523,8 @@
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
       "images": [],
-      "layout": "text"
+      "layout": "text",
+      "illustration_pending": "Cable-management illustration pending"
     },
     {
       "id": "support",
@@ -567,8 +577,14 @@
   "missing_assets": [
     {
       "id": "M01",
-      "needed": "Exploded view of the CX3171i XL assemblies; the exploded-view page is omitted until supplied.",
+      "needed": "Exploded view of the CX3171i XL assemblies.",
       "section": "exploded-view",
+      "suggested_folder": "illustrations/3u/CX3171i XL/"
+    },
+    {
+      "id": "M02",
+      "needed": "Cable-management bar highlighted on the CX3171i XL motherboard tray.",
+      "section": "cable-management",
       "suggested_folder": "illustrations/3u/CX3171i XL/"
     }
   ]

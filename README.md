@@ -19,12 +19,12 @@ tools used to translate them.
 | CX3170a | 3U rackmount, 17-inch | Released v1.0 (2026-11-11) | [PDF](releases/en/3u/CX3170a/v1.0/CX3170a-en-v1.0.pdf) |
 | CX3171a | 3U rackmount, 17-inch, riser GPU | Released v1.0 (2026-11-11) | [PDF](releases/en/3u/CX3171a/v1.0/CX3171a-en-v1.0.pdf) |
 | CX3172a | 3U rackmount, 17-inch, ATX power supply | Released v1.0 (2026-11-11) | [PDF](releases/en/3u/CX3172a/v1.0/CX3172a-en-v1.0.pdf) |
-| CX3170a XL | 3U rackmount, 17-inch, XL tray, drive cage | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX3170i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX3171a XL | 3U rackmount, 17-inch, XL tray, riser GPU, drive cage | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX3171i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, riser GPU | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX3172a XL | 3U rackmount, 17-inch, XL tray, ATX power supply | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX3172i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, ATX power supply | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3170a XL | 3U rackmount, 17-inch, XL tray, drive cage | Review draft (v1.0) | built by CI and on the site |
+| CX3170i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay | Review draft (v1.0) | built by CI and on the site |
+| CX3171a XL | 3U rackmount, 17-inch, XL tray, riser GPU, drive cage | Review draft (v1.0) | built by CI and on the site |
+| CX3171i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, riser GPU | Review draft (v1.0) | built by CI and on the site |
+| CX3172a XL | 3U rackmount, 17-inch, XL tray, ATX power supply | Review draft (v1.0) | built by CI and on the site |
+| CX3172i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, ATX power supply | Review draft (v1.0) | built by CI and on the site |
 | CX3701 | 3U NAS, 15-inch, Mini-ITX, 10 × 3.5" hot-swap | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3702 | 3U NAS, 18-inch, MicroATX, 10 × 3.5" hot-swap | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX4150a | 4U rackmount | Released v1.0 (2026-11-09) | [PDF](releases/en/4u/CX4150a/v1.0/CX4150a-en-v1.0.pdf) |
