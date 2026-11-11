@@ -48,12 +48,11 @@ Confirmed 2026-11-04:
 |  | CX3150x | Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3150x folder) | None (optional) |
 |  | CX3151a | Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3151a folder) | None (optional) |
 |  | CX3151i | Optional: CX3151i renders for the standoff, I/O-shield, motherboard, PSU and SSD steps (the CX3151x ones are used; the CX3150i-named copies show the wrong rear) | None (optional) |
-|  | CX3170a XL | Exploded view. Optional: AIO + fans render (the CX3172a XL 3c is used) | Grey placeholder on the exploded-view page |
-|  | CX3170i XL | Exploded view. Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and 5.25-inch bay steps (the CX3150i ones are used) | Grey placeholder on the exploded-view page; those steps show the 15-inch chassis |
-|  | CX3171a XL | Exploded view. Optional: XL riser-tray renders for the I/O shield, motherboard, PSU, SSD, rear cover, brace and GPU steps (the CX3151a ones are used) | Grey placeholder on the exploded-view page; those steps show the 15-inch tray |
-|  | CX3171i XL | Exploded view. Optional: 17-inch i and XL riser-tray renders (CX3150i, CX3151i and CX3151x ones are used) | Grey placeholder on the exploded-view page; those steps show the 15-inch chassis |
-|  | CX3172a XL | Exploded view | Grey placeholder on the exploded-view page |
-|  | CX3172i XL | Exploded view. Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and bay steps (the CX3152i/CX3150i ones are used) | Grey placeholder on the exploded-view page; those steps show the 15-inch chassis |
+|  | CX3170a XL | Optional: AIO + fans render (the CX3172a XL 3c is used); drive-cage SSD render (the CX3150x 4d is used, magenta review dot) | None (optional) |
+|  | CX3170i XL | Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and 5.25-inch bay steps (the CX3150i ones are used) | Those steps show the 15-inch chassis |
+|  | CX3171a XL | Optional: XL riser-tray renders for the I/O shield, motherboard, PSU, SSD, rear cover, brace and GPU steps (the CX3151a ones are used) | Those steps show the 15-inch tray |
+|  | CX3171i XL | Optional: 17-inch i and XL riser-tray renders (CX3150i, CX3151i and CX3151x ones are used) | Those steps show the 15-inch chassis |
+|  | CX3172i XL | Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and bay steps (the CX3152i/CX3150i ones are used) | Those steps show the 15-inch chassis |
 |  | CX3171a | Optional: 17-inch renders for the tray, riser and GPU steps (the CX3151a ones are used; magenta review dots in draft builds) | Those steps show the 15-inch chassis |
 |  | CX3172a | Optional: 17-inch renders for the tray, PSU, SSD and GPU steps (the CX3152a ones are used; magenta review dots in draft builds) | Those steps show the 15-inch chassis |
 |  | CX3701 | Exploded view; 92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket. Optional: NAS front-panel render (the shared 3U "a" front drawing is used) | Exploded view omitted; the AIO page is text only |
@@ -69,13 +68,15 @@ Confirmed 2026-11-04:
 
 Wanted for every rackmount manual, but no manual waits for them: until supplied, the
 cable-management page is text only and refers to the cable-management bar on the top-view
-clearance drawing. Supplied so far: CX3150a/i/x, CX3151a/i/x, CX3152a/i, CX3170a/CX3171a/CX3172a, all ten 4U models and the
+clearance drawing. Supplied so far: CX3150a/i/x, CX3151a/i/x, CX3152a/i, the CX317 family (shared renders noted below), all ten 4U models and the
 CX4712/CX4713 (the bar highlighted in green on the motherboard tray); the models below need an
 equivalent view.
 
 | Done | Model | Needed |
 |---|---|---|
-|  | CX3170a XL, CX3170i XL, CX3171a XL, CX3171i XL, CX3172a XL, CX3172i XL | Cable-management bar highlighted on the XL tray (grey placeholder on the page until supplied) |
+|  | CX3171a, CX3172a | Their own cable-management renders (the CX3170a render is used; blue review dot in draft builds). Not a release blocker |
+|  | CX3170i XL, CX3171a XL, CX3171i XL | Their own cable-management renders (the CX3170a XL render is used; blue review dot in draft builds). Not a release blocker |
+|  | CX3172i XL | Its own cable-management render (the CX3172a XL render is used; blue review dot in draft builds). Not a release blocker |
 |  | CX3701, CX3702 | Cable-management bar highlighted on the tray |
 
 Every 3U and 2U manual built later joins this list unless its render set includes the view.

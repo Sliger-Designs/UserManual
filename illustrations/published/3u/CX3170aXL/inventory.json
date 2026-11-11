@@ -942,6 +942,52 @@
       "sha256": "1fce16c1e29e6a05634cfd40a0609148611b7b0ec9ffbb1ae43f9a46e94548d5",
       "selection_status": "candidate",
       "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3170axl-27ff8d236f62",
+      "original_filename": "CX3170a XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+      "local_path": "illustrations/3u/CX3170a XL/CX3170a XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+      "width_px": 5200,
+      "height_px": 2860,
+      "format": "JPEG",
+      "size_bytes": 1786673,
+      "sha256": "610bfd57fdfbbdc51c166e3ce5ff7ac10b77b84f95e26bde9b3cd64924c07c94",
+      "selection_status": "candidate",
+      "note": "Exploded view supplied and requested for review 2026-11-11; original unchanged.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged.",
+        "full_resolution_path": "_build/cleaned-renders/CX3170aXL/CX3170a XL-CHASSIS_EXPLODE-REV20261110-IOPEM-white.png"
+      }
+    },
+    {
+      "id": "cx3170axl-a424bb01aaf3",
+      "original_filename": "12e_CX3170a_XL_CableManage.jpg",
+      "local_path": "illustrations/3u/CX3170a XL/12e_CX3170a_XL_CableManage.jpg",
+      "width_px": 5208,
+      "height_px": 3720,
+      "format": "JPEG",
+      "size_bytes": 1826900,
+      "sha256": "861f56ac3e05f0328a245d40d82b31a041f052286cbcb2d43202722ca197a5fe",
+      "selection_status": "candidate",
+      "note": "Cable-management render supplied and requested for review 2026-11-11; original unchanged.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged.",
+        "full_resolution_path": "_build/cleaned-renders/CX3170aXL/12e_CX3170a_XL_CableManage-white.png"
+      }
     }
   ]
 }

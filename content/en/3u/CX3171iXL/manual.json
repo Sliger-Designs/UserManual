@@ -63,8 +63,14 @@
       "title": "Exploded assembly & part key",
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
-      "images": [],
-      "layout": "exploded"
+      "images": [
+        "CX3171i XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg"
+      ],
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX3171i XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -522,9 +528,10 @@
       "title": "Route cables & close the chassis",
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "Cable-management illustration pending"
+      "images": [
+        "12e_CX3170a_XL_CableManage.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "support",
@@ -574,18 +581,5 @@
   "cover_description": "17\" DEEP 3U CHASSIS",
   "cover_description_detail": "1 × 5.25\" BAY · RISER GPU",
   "cover_format": "landscape",
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX3171i XL assemblies.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/3u/CX3171i XL/"
-    },
-    {
-      "id": "M02",
-      "needed": "Cable-management bar highlighted on the CX3171i XL motherboard tray.",
-      "section": "cable-management",
-      "suggested_folder": "illustrations/3u/CX3171i XL/"
-    }
-  ]
+  "missing_assets": []
 }
