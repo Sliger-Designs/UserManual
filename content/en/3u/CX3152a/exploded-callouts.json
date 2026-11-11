@@ -88,7 +88,7 @@
     },
     {
       "number": 7,
-      "label": "Rack ear",
+      "label": "Rack ear & pull handle",
       "target": [
         0.548,
         0.66
@@ -96,18 +96,6 @@
       "badge": [
         0.624,
         0.907
-      ]
-    },
-    {
-      "number": 8,
-      "label": "Pull handle",
-      "target": [
-        0.521,
-        0.62
-      ],
-      "badge": [
-        0.43,
-        0.947
       ]
     }
   ]

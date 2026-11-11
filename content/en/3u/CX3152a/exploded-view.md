@@ -8,7 +8,6 @@
 | 4 | Chassis wrap | Main chassis body |
 | 5 | Filter foam | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
 | 6 | Motherboard tray | {{ ref('tray-removal', 'Remove the motherboard tray') }} |
-| 7 | Rack ear | {{ ref('rack-ears', 'Install rack ears & handles') }} |
-| 8 | Pull handle | {{ ref('rack-ears', 'Install rack ears & handles') }} |
+| 7 | Rack ear & pull handle | {{ ref('rack-ears', 'Install rack ears & handles') }} |
 
 See the hardware-kit page for the supplied fasteners and rack hardware.
