@@ -8,12 +8,12 @@ tools used to translate them.
 |---|---|---|---|
 | S630 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S630/v1.0/S630-en-v1.0.pdf) |
 | S640 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S640/v1.0/S640-en-v1.0.pdf) |
-| CX3150a | 3U rackmount | Released v1.1 (2026-11-10) | [PDF](releases/en/3u/CX3150a/v1.1/CX3150a-en-v1.1.pdf) |
-| CX3150i | 3U rackmount, one 5.25" bay | Released v1.0 (2026-11-10) | [PDF](releases/en/3u/CX3150i/v1.0/CX3150i-en-v1.0.pdf) |
-| CX3150x | 3U rackmount, internal drive bracket | Released v1.0 (2026-11-10) | [PDF](releases/en/3u/CX3150x/v1.0/CX3150x-en-v1.0.pdf) |
-| CX3151a | 3U rackmount, riser GPU | Released v1.0 (2026-11-10) | [PDF](releases/en/3u/CX3151a/v1.0/CX3151a-en-v1.0.pdf) |
-| CX3151i | 3U rackmount, one 5.25" bay, riser GPU | Released v1.0 (2026-11-10) | [PDF](releases/en/3u/CX3151i/v1.0/CX3151i-en-v1.0.pdf) |
-| CX3151x | 3U rackmount, internal drive bracket, riser GPU | Released v1.0 (2026-11-10) | [PDF](releases/en/3u/CX3151x/v1.0/CX3151x-en-v1.0.pdf) |
+| CX3150a | 3U rackmount | Released v1.2 (2026-11-11) | [PDF](releases/en/3u/CX3150a/v1.2/CX3150a-en-v1.2.pdf) |
+| CX3150i | 3U rackmount, one 5.25" bay | Released v1.1 (2026-11-11) | [PDF](releases/en/3u/CX3150i/v1.1/CX3150i-en-v1.1.pdf) |
+| CX3150x | 3U rackmount, internal drive bracket | Released v1.1 (2026-11-11) | [PDF](releases/en/3u/CX3150x/v1.1/CX3150x-en-v1.1.pdf) |
+| CX3151a | 3U rackmount, riser GPU | Released v1.1 (2026-11-11) | [PDF](releases/en/3u/CX3151a/v1.1/CX3151a-en-v1.1.pdf) |
+| CX3151i | 3U rackmount, one 5.25" bay, riser GPU | Released v1.1 (2026-11-11) | [PDF](releases/en/3u/CX3151i/v1.1/CX3151i-en-v1.1.pdf) |
+| CX3151x | 3U rackmount, internal drive bracket, riser GPU | Released v1.1 (2026-11-11) | [PDF](releases/en/3u/CX3151x/v1.1/CX3151x-en-v1.1.pdf) |
 | CX3152a | 3U rackmount, ATX power supply | Released v1.0 (2026-11-11) | [PDF](releases/en/3u/CX3152a/v1.0/CX3152a-en-v1.0.pdf) |
 | CX3152i | 3U rackmount, one 5.25" bay, ATX power supply | Released v1.0 (2026-11-11) | [PDF](releases/en/3u/CX3152i/v1.0/CX3152i-en-v1.0.pdf) |
 | CX3170a | 3U rackmount, 17-inch | Review draft (Prototype 0.1) | built by CI and on the site |

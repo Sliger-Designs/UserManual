@@ -2,10 +2,10 @@
   "model": "CX3151a",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "v1.0",
+  "revision": "v1.1",
   "status": "User guide",
   "release_ready": true,
-  "release_date": "2026-11-10",
+  "release_date": "2026-11-11",
   "text_checks": {
     "required": [
       "381",
@@ -59,12 +59,12 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "CX3151a_CHASSIS_EXPLODE.jpg"
+        "CX3151a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg"
       ],
       "layout": "exploded",
       "layout_variant": "exploded-side",
       "image_annotations": {
-        "CX3151a_CHASSIS_EXPLODE.jpg": "exploded-callouts.json"
+        "CX3151a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg": "exploded-callouts.json"
       }
     },
     {

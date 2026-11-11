@@ -1,51 +1,52 @@
 {
-  "asset_key": "CX3151i_CHASSIS_EXPLODE.jpg",
-  "source_sha256": "b479a1a7867fd118e6ed90112709e0f0e6979a0fccf9ffd0f04f43c270ca83b1",
+  "asset_key": "CX3151i-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+  "source_sha256": "125d3865e33b514897308730a64a7209bfba155e7d555d1b4503a9730999082c",
   "coordinate_space": "uncropped_image",
-  "aspect_ratio": 1.7141666666666666,
+  "aspect_ratio": 1.783876500857633,
+  "right_padding_fraction": 0.13,
   "view_box": [
     0,
     0,
-    1,
+    1.13,
     1
   ],
   "badge_radius_height_fraction": 0.024,
   "font_size_height_fraction": 0.032,
-  "review_status": "Callouts placed on supplied exploded view 2026-11-10; review before release.",
+  "review_status": "Callouts placed on the supplied exploded view 2026-11-11; review before release.",
   "callouts": [
     {
       "number": 1,
       "label": "Lid",
       "target": [
-        0.55,
+        0.51,
         0.24
       ],
       "badge": [
-        0.27,
-        0.07
+        0.35,
+        0.06
       ]
     },
     {
       "number": 2,
       "label": "Faceplate",
       "target": [
-        0.28,
-        0.65
+        0.27,
+        0.66
       ],
       "badge": [
-        0.07,
-        0.82
+        0.08,
+        0.86
       ]
     },
     {
       "number": 3,
       "label": "5.25-inch bay filler blank",
       "target": [
-        0.49,
-        0.76
+        0.37,
+        0.64
       ],
       "badge": [
-        0.57,
+        0.3,
         0.95
       ]
     },
@@ -53,31 +54,61 @@
       "number": 4,
       "label": "Chassis wrap",
       "target": [
-        0.8,
-        0.62
+        0.74,
+        0.66
       ],
       "badge": [
-        0.95,
-        0.86
+        0.93,
+        0.88
       ]
     },
     {
       "number": 5,
       "label": "Filter foam",
-      "target": [0.2,0.46],
-      "badge": [0.08,0.38]
+      "target": [
+        0.2,
+        0.44
+      ],
+      "badge": [
+        0.086,
+        0.313
+      ]
     },
     {
       "number": 6,
       "label": "Motherboard tray",
-      "target": [0.9,0.4],
-      "badge": [0.96,0.36]
+      "target": [
+        0.935,
+        0.52
+      ],
+      "badge": [
+        1.0,
+        0.35
+      ]
     },
     {
       "number": 7,
       "label": "Front I/O assembly",
-      "target": [0.57,0.8],
-      "badge": [0.61,0.91]
+      "target": [
+        0.495,
+        0.78
+      ],
+      "badge": [
+        0.58,
+        0.95
+      ]
+    },
+    {
+      "number": 8,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.548,
+        0.66
+      ],
+      "badge": [
+        0.624,
+        0.907
+      ]
     }
   ]
 }

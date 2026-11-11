@@ -9,5 +9,6 @@
 | 5 | Filter foam | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
 | 6 | Motherboard tray | {{ ref('tray-removal', 'Remove the motherboard tray') }} |
 | 7 | Front I/O assembly | {{ ref('front-ports', 'Front ports & connections') }} |
+| 8 | Rack ear & pull handle | {{ ref('rack-ears', 'Install rack ears & handles') }} |
 
 See the hardware-kit and GPU-support-kit pages for the supplied fasteners and GPU support hardware.

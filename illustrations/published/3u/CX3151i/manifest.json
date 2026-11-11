@@ -1356,5 +1356,34 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "CX3151i-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg": {
+    "path": "illustrations/published/3u/CX3151i/cx3151i-9652b476a6f2.jpg",
+    "source_path": "illustrations/3u/CX3151i/CX3151i-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+    "source_sha256": "125d3865e33b514897308730a64a7209bfba155e7d555d1b4503a9730999082c",
+    "sha256": "f4c12d4e9b94479570b266cd24150f2f1cf54e75fc4320f89af449d953b2333a",
+    "dimensions_px": [
+      1800,
+      1009
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7295097,
+      "total_pixels": 15158000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3151i/CX3151i-CHASSIS_EXPLODE-REV20261110-IOPEM-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        2915
+      ],
+      "full_resolution_sha256": "6886d2f2ebf42784a57b95693b9c2abbc29f20266ccb06e79b57c3d2cb835709"
+    }
   }
 }

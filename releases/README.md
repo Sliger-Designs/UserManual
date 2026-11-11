@@ -24,11 +24,17 @@ unchanged. Add language folders when translations are approved.
 | English (`en`) | 4U | CX4200f | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200f/v1.0/CX4200f-en-v1.0.pdf) |
 | English (`en`) | 4U | CX4200i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200i/v1.0/CX4200i-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3150a | v1.1 | 2026-11-10 | [PDF](en/3u/CX3150a/v1.1/CX3150a-en-v1.1.pdf) |
+| English (`en`) | 3U | CX3150a | v1.2 | 2026-11-11 | [PDF](en/3u/CX3150a/v1.2/CX3150a-en-v1.2.pdf) |
 | English (`en`) | 3U | CX3150i | v1.0 | 2026-11-10 | [PDF](en/3u/CX3150i/v1.0/CX3150i-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3150i | v1.1 | 2026-11-11 | [PDF](en/3u/CX3150i/v1.1/CX3150i-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3150x | v1.0 | 2026-11-10 | [PDF](en/3u/CX3150x/v1.0/CX3150x-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3150x | v1.1 | 2026-11-11 | [PDF](en/3u/CX3150x/v1.1/CX3150x-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3151a | v1.0 | 2026-11-10 | [PDF](en/3u/CX3151a/v1.0/CX3151a-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3151a | v1.1 | 2026-11-11 | [PDF](en/3u/CX3151a/v1.1/CX3151a-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3151i | v1.0 | 2026-11-10 | [PDF](en/3u/CX3151i/v1.0/CX3151i-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3151i | v1.1 | 2026-11-11 | [PDF](en/3u/CX3151i/v1.1/CX3151i-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3151x | v1.0 | 2026-11-10 | [PDF](en/3u/CX3151x/v1.0/CX3151x-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3151x | v1.1 | 2026-11-11 | [PDF](en/3u/CX3151x/v1.1/CX3151x-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3152a | v1.0 | 2026-11-11 | [PDF](en/3u/CX3152a/v1.0/CX3152a-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3152i | v1.0 | 2026-11-11 | [PDF](en/3u/CX3152i/v1.0/CX3152i-en-v1.0.pdf) |
 
