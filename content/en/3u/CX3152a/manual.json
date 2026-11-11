@@ -59,8 +59,14 @@
       "title": "Exploded assembly & part key",
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
-      "images": [],
-      "layout": "exploded"
+      "images": [
+        "CX3152a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg"
+      ],
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX3152a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -333,9 +339,10 @@
       "title": "Route cables & close the chassis",
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "Cable-management illustration pending"
+      "images": [
+        "12e_CX3152a_cableManage.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "support",
@@ -385,18 +392,5 @@
   "cover_description": "15\" DEEP 3U CHASSIS",
   "cover_description_detail": "ATX POWER SUPPLY",
   "cover_format": "landscape",
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX3152a assemblies.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/3u/CX3152a/"
-    },
-    {
-      "id": "M02",
-      "needed": "Cable-management bar highlighted on the CX3152a motherboard tray.",
-      "section": "cable-management",
-      "suggested_folder": "illustrations/3u/CX3152a/"
-    }
-  ]
+  "missing_assets": []
 }

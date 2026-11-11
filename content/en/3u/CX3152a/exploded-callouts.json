@@ -1,0 +1,90 @@
+{
+  "asset_key": "CX3152a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+  "source_sha256": "fdefa8f80e5b9d3a46d08df95a55ab21f09939e7126507f454ea8560e840a831",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.783876500857633,
+  "right_padding_fraction": 0.13,
+  "view_box": [
+    0,
+    0,
+    1.13,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on supplied exploded view 2026-11-11; review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.51,
+        0.24
+      ],
+      "badge": [
+        0.35,
+        0.06
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate",
+      "target": [
+        0.27,
+        0.66
+      ],
+      "badge": [
+        0.08,
+        0.86
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.503,
+        0.72
+      ],
+      "badge": [
+        0.58,
+        0.95
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap",
+      "target": [
+        0.74,
+        0.66
+      ],
+      "badge": [
+        0.93,
+        0.88
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Filter foam",
+      "target": [
+        0.2,
+        0.44
+      ],
+      "badge": [
+        0.07,
+        0.36
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Motherboard tray",
+      "target": [
+        0.935,
+        0.52
+      ],
+      "badge": [
+        1.0,
+        0.35
+      ]
+    }
+  ]
+}
