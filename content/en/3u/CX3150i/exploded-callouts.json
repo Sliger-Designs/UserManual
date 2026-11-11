@@ -1,88 +1,89 @@
 {
-  "asset_key": "CX3150i-CHASSIS_EXPLODE.jpg",
-  "source_sha256": "f3ffc8f56a37f428257b8df5d57c60c30c24971a1f229014f71a4b794e79d1df",
+  "asset_key": "CX3150i-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+  "source_sha256": "0c89317192ff5c88e885b492a2fe43918d125910f8df27469fa4525ff3ae034e",
   "coordinate_space": "uncropped_image",
-  "aspect_ratio": 1.5204678362573099,
+  "aspect_ratio": 1.783876500857633,
+  "right_padding_fraction": 0.13,
   "view_box": [
     0,
     0,
-    1,
+    1.13,
     1
   ],
   "badge_radius_height_fraction": 0.024,
   "font_size_height_fraction": 0.032,
-  "review_status": "Assembly callouts placed on the CX3150i exploded view (2026-11-10); review preview before release.",
+  "review_status": "Callouts placed on the supplied exploded view 2026-11-11; review before release.",
   "callouts": [
     {
       "number": 1,
       "label": "Lid",
       "target": [
-        0.55,
-        0.2
+        0.51,
+        0.24
       ],
       "badge": [
-        0.28,
-        0.12
+        0.35,
+        0.06
       ]
     },
     {
       "number": 2,
       "label": "Filter foam",
       "target": [
-        0.22,
-        0.49
+        0.2,
+        0.44
       ],
       "badge": [
-        0.04,
-        0.38
+        0.086,
+        0.313
       ]
     },
     {
       "number": 3,
       "label": "Faceplate",
       "target": [
-        0.3,
-        0.75
+        0.27,
+        0.66
       ],
       "badge": [
-        0.04,
-        0.85
+        0.08,
+        0.86
       ]
     },
     {
       "number": 4,
       "label": "5.25-inch bay filler blank",
       "target": [
-        0.45,
-        0.7
+        0.37,
+        0.64
       ],
       "badge": [
-        0.45,
-        0.97
+        0.3,
+        0.95
       ]
     },
     {
       "number": 5,
       "label": "Rack ear & pull handle",
       "target": [
-        0.575,
-        0.8
+        0.548,
+        0.66
       ],
       "badge": [
-        0.62,
-        0.97
+        0.624,
+        0.907
       ]
     },
     {
       "number": 6,
       "label": "Chassis wrap",
       "target": [
-        0.8,
-        0.65
+        0.74,
+        0.66
       ],
       "badge": [
-        0.92,
-        0.82
+        0.93,
+        0.88
       ]
     },
     {
@@ -90,11 +91,11 @@
       "label": "Motherboard tray",
       "target": [
         0.935,
-        0.47
+        0.52
       ],
       "badge": [
-        0.97,
-        0.27
+        1.0,
+        0.35
       ]
     }
   ]

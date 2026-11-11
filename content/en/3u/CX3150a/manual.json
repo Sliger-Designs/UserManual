@@ -50,12 +50,12 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "CX3150a-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg"
+        "CX3150a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg"
       ],
       "layout": "exploded",
       "layout_variant": "exploded-side",
       "image_annotations": {
-        "CX3150a-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg": "exploded-callouts.json"
+        "CX3150a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg": "exploded-callouts.json"
       }
     },
     {
