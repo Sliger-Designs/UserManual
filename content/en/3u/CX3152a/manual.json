@@ -2,8 +2,9 @@
   "model": "CX3152a",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "Prototype 0.1",
-  "status": "Technical review draft",
+  "revision": "v1.0",
+  "status": "User guide",
+  "release_ready": false,
   "text_checks": {
     "required": [
       "381",

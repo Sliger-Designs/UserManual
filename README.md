@@ -14,8 +14,8 @@ tools used to translate them.
 | CX3151a | 3U rackmount, riser GPU | Released v1.0 (2026-11-10) | [PDF](releases/en/3u/CX3151a/v1.0/CX3151a-en-v1.0.pdf) |
 | CX3151i | 3U rackmount, one 5.25" bay, riser GPU | Released v1.0 (2026-11-10) | [PDF](releases/en/3u/CX3151i/v1.0/CX3151i-en-v1.0.pdf) |
 | CX3151x | 3U rackmount, internal drive bracket, riser GPU | Released v1.0 (2026-11-10) | [PDF](releases/en/3u/CX3151x/v1.0/CX3151x-en-v1.0.pdf) |
-| CX3152a | 3U rackmount, ATX power supply | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX3152i | 3U rackmount, one 5.25" bay, ATX power supply | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3152a | 3U rackmount, ATX power supply | Review draft (v1.0) | built by CI and on the site |
+| CX3152i | 3U rackmount, one 5.25" bay, ATX power supply | Review draft (v1.0) | built by CI and on the site |
 | CX3170a | 3U rackmount, 17-inch | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3171a | 3U rackmount, 17-inch, riser GPU | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3172a | 3U rackmount, 17-inch, ATX power supply | Review draft (Prototype 0.1) | built by CI and on the site |
