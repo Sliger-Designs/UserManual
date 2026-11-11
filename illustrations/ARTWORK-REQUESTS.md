@@ -50,8 +50,8 @@ Confirmed 2026-11-04:
 |  | CX3151i | Optional: CX3151i renders for the standoff, I/O-shield, motherboard, PSU and SSD steps (the CX3151x ones are used; the CX3150i-named copies show the wrong rear) | None (optional) |
 |  | CX3170a XL | Optional: AIO + fans render (the CX3172a XL 3c is used); drive-cage SSD render (the CX3150x 4d is used, magenta review dot) | None (optional) |
 |  | CX3170i XL | Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and 5.25-inch bay steps (the CX3150i ones are used) | Those steps show the 15-inch chassis |
-|  | CX3171a XL | Optional: XL riser-tray renders for the I/O shield, motherboard, PSU, SSD, rear cover, brace and GPU steps (the CX3151a ones are used) | Those steps show the 15-inch tray |
-|  | CX3171i XL | Optional: 17-inch i and XL riser-tray renders (CX3150i, CX3151i and CX3151x ones are used) | Those steps show the 15-inch chassis |
+|  | CX3171a XL | Exploded view showing the riser, with rack ears and pull handles (the REV20261111 riser render has no ears or handles; the REV20261110 view without the riser is used). Optional: XL riser-tray renders for the I/O shield, motherboard, PSU, SSD, rear cover, brace and GPU steps (the CX3151a ones are used) | Those steps show the 15-inch tray |
+|  | CX3171i XL | Exploded view showing the riser, with rack ears and pull handles (the REV20261111 riser render has no ears or handles; the REV20261110 view without the riser is used). Optional: 17-inch i and XL riser-tray renders (CX3150i, CX3151i and CX3151x ones are used) | Those steps show the 15-inch chassis |
 |  | CX3172i XL | Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and bay steps (the CX3152i/CX3150i ones are used) | Those steps show the 15-inch chassis |
 |  | CX3171a | Optional: 17-inch renders for the tray, riser and GPU steps (the CX3151a ones are used; magenta review dots in draft builds) | Those steps show the 15-inch chassis |
 |  | CX3172a | Optional: 17-inch renders for the tray, PSU, SSD and GPU steps (the CX3152a ones are used; magenta review dots in draft builds) | Those steps show the 15-inch chassis |
