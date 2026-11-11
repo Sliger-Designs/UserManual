@@ -1135,6 +1135,29 @@
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged.",
         "full_resolution_path": "_build/cleaned-renders/CX3171aXL/12e_CX3170a_XL_CableManage-white.png"
       }
+    },
+    {
+      "id": "cx3171axl-97a67861ac03",
+      "original_filename": "CX3171a XL-CHASSIS_EXPLODE-REV20261111-IOPEM.jpg",
+      "local_path": "illustrations/3u/CX3171a XL/CX3171a XL-CHASSIS_EXPLODE-REV20261111-IOPEM.jpg",
+      "width_px": 9000,
+      "height_px": 5250,
+      "format": "JPEG",
+      "size_bytes": 3892716,
+      "sha256": "99de1f27bf2f48be07c83b3ee140815b33ca39dd962a1ff076b140e2dcb3dc8e",
+      "selection_status": "candidate",
+      "note": "Exploded view with the riser, rack ears and pull handles, supplied 2026-11-11 to replace CX3171a XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg; original unchanged.",
+      "background_cleanup": {
+        "reference_rgb": [
+          255,
+          255,
+          255
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged.",
+        "full_resolution_path": "_build/cleaned-renders/CX3171aXL/CX3171a XL-CHASSIS_EXPLODE-REV20261111-IOPEM-white.png"
+      }
     }
   ]
 }
