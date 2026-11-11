@@ -7,6 +7,23 @@ manuals or pages, or review callout positions.
 
 All three workflows call `scripts/ci.py`, which also runs locally with the same results.
 
+## Build environment (`docker/manual-builder/Dockerfile`)
+
+The workflows run in a prebuilt image instead of installing Python packages, Chromium, its
+system libraries and fonts on every run. `.github/workflows/build-image.yml` stores it in
+the repository's GitHub container registry (`ghcr.io/sliger-designs/usermanual/manual-builder`)
+and is called at the start of each workflow:
+
+- The tag is a hash of the Dockerfile and `requirements.txt`. Editing either (for example,
+  pinning a new Playwright version) builds a new image in that pull request's run; otherwise
+  the existing image is pulled.
+- The first run of each month rebuilds the image to pick up security updates. If that
+  rebuild fails (a package mirror is down, for instance), the previous image for the same
+  hash is used and the run shows a warning.
+- *Build image* can be run by hand from the Actions tab.
+
+The image needs no setup: the workflow token publishes it and links it to the repository.
+
 ## Manual checks (`.github/workflows/ci.yml`)
 
 Runs on every pull request and push to `main`.

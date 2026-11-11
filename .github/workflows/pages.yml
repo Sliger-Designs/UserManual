@@ -26,12 +26,29 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  image:
     if: >-
       vars.PAGES_ENABLED == 'true' && (github.event_name == 'workflow_dispatch' ||
       (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'push'))
+    uses: ./.github/workflows/build-image.yml
+    permissions:
+      contents: read
+      packages: write
+
+  build:
+    needs: image
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    permissions:
+      actions: read
+      contents: read
+      packages: read
+    container:
+      image: ${{ needs.image.outputs.image }}
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+      options: --ipc=host  # Chromium needs more shared memory than Docker's 64 MB default
     outputs:
       current: ${{ steps.commit.outputs.current }}
     env:
@@ -54,18 +71,6 @@ jobs:
         if: steps.commit.outputs.current == 'true'
         with:
           ref: ${{ env.COMMIT }}
-
-      - uses: actions/setup-python@v5
-        if: steps.commit.outputs.current == 'true'
-        with:
-          python-version: '3.13'
-          cache: pip
-
-      - name: Install Python packages and Chromium
-        if: steps.commit.outputs.current == 'true'
-        run: |
-          pip install -r requirements.txt
-          python -m playwright install --with-deps chromium
 
       - name: Download the checked PDFs
         if: steps.commit.outputs.current == 'true' && github.event_name == 'workflow_run'

@@ -16,23 +16,31 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  image:
+    uses: ./.github/workflows/build-image.yml
+    permissions:
+      contents: read
+      packages: write
+
   manuals:
+    needs: image
+    # Run (and fail) even if the image job failed: a skipped required check would let a PR merge.
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    permissions:
+      contents: read
+      packages: read
+    container:
+      image: ${{ needs.image.outputs.image }}
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+      options: --ipc=host  # Chromium needs more shared memory than Docker's 64 MB default
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.13'
-          cache: pip
-
-      - name: Install Python packages and Chromium
-        run: |
-          pip install -r requirements.txt
-          python -m playwright install --with-deps chromium
 
       - name: Plan
         env:
