@@ -40,6 +40,12 @@ unchanged. Add language folders when translations are approved.
 | English (`en`) | 3U | CX3170a | v1.0 | 2026-11-11 | [PDF](en/3u/CX3170a/v1.0/CX3170a-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3171a | v1.0 | 2026-11-11 | [PDF](en/3u/CX3171a/v1.0/CX3171a-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3172a | v1.0 | 2026-11-11 | [PDF](en/3u/CX3172a/v1.0/CX3172a-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3170a XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3170aXL/v1.0/CX3170aXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3170i XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3170iXL/v1.0/CX3170iXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3171a XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3171aXL/v1.0/CX3171aXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3171i XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3171iXL/v1.0/CX3171iXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3172a XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3172aXL/v1.0/CX3172aXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3172i XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3172iXL/v1.0/CX3172iXL-en-v1.0.pdf) |
 
 Each version folder holds the PDF and a release record (`<model>-en-<version>.json`) with
 the release date and a content fingerprint of the build: a hash of its visible text and
