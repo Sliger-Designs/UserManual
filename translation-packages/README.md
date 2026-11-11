@@ -6,6 +6,7 @@
 | [S630-S640-v1.0-en-20261109](S630-S640-v1.0-en-20261109/README.md) | S630, S640 v1.0 | 2026-11-09 |
 | [CX4150a-CX4150e-CX4150i-v1.0-en](CX4150a-CX4150e-CX4150i-v1.0-en/README.md) | CX4150a, CX4150e, CX4150i v1.0 (superseded by 4U-CX4150-CX4170-CX4200-v1.0-en; not sent) | 2026-11-09 |
 | [4U-CX4150-CX4170-CX4200-v1.0-en](4U-CX4150-CX4170-CX4200-v1.0-en/README.md) | CX4150a, CX4150e, CX4150i, CX4170a, CX4170e, CX4170i, CX4200a, CX4200e, CX4200f, CX4200i v1.0 | 2026-11-09 |
+| [3U-CX315-CX317-en](3U-CX315-CX317-en/README.md) | CX3150a v1.2; CX3150i, CX3150x, CX3151a, CX3151i, CX3151x v1.1; CX3152a, CX3152i, CX3170a, CX3171a, CX3172a, CX3170a XL, CX3170i XL, CX3171a XL, CX3171i XL, CX3172a XL, CX3172i XL v1.0 | 2026-11-11 |
 
 A package is the English snapshot of released manuals that are translated together:
 their Markdown and display/accessibility strings (shared text and identical labels once),
