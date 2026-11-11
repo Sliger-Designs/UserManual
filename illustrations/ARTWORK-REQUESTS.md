@@ -44,11 +44,10 @@ Confirmed 2026-11-04:
 
 | Done | Model | Needed | Effect until supplied |
 |---|---|---|---|
-|  | CX3150i | Optional: bay-bracket-top HDD render (as 4k) with green E screws; 4k shows blue D, while the text specifies E (2026-11-05). Exploded view added 2026-11-10 | The bracket-top HDD step shows blue screws |
-|  | CX3150x | Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3150x folder). Exploded view added 2026-11-10 | None (optional) |
-|  | CX3151a | Exploded view. Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3151a folder) | Exploded view omitted |
-|  | CX3151i | Exploded view. Optional: CX3151i renders for the standoff, I/O-shield, motherboard, PSU and SSD steps (the CX3151x ones are used; the CX3150i-named copies show the wrong rear) | Exploded view omitted |
-|  | CX3151x | Exploded view | Exploded view omitted |
+|  | CX3150i | Optional: bay-bracket-top HDD render (as 4k) with green E screws; 4k shows blue D, while the text specifies E (2026-11-05) | The bracket-top HDD step shows blue screws |
+|  | CX3150x | Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3150x folder) | None (optional) |
+|  | CX3151a | Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3151a folder) | None (optional) |
+|  | CX3151i | Optional: CX3151i renders for the standoff, I/O-shield, motherboard, PSU and SSD steps (the CX3151x ones are used; the CX3150i-named copies show the wrong rear) | None (optional) |
 |  | CX3152a | Exploded view | Exploded view omitted |
 |  | CX3152i | Exploded view | Exploded view omitted |
 |  | CX3170a XL | Exploded view. Optional: AIO + fans render (the CX3172a XL 3c is used) | Exploded view omitted |
@@ -73,21 +72,16 @@ Confirmed 2026-11-04:
 
 Wanted for every rackmount manual, but no manual waits for them: until supplied, the
 cable-management page is text only and refers to the cable-management bar on the top-view
-clearance drawing. The CX3150a already has one (`CABLE_MANAGEMENT_BAR_HIGHLIGHT.jpg`, the bar
-highlighted in green on the motherboard tray); the others need an equivalent view.
+clearance drawing. Supplied so far: CX3150a/i/x, CX3151a/i/x, all ten 4U models and the
+CX4712/CX4713 (the bar highlighted in green on the motherboard tray); the models below need an
+equivalent view.
 
 | Done | Model | Needed |
 |---|---|---|
-|  | CX3150i, CX3150x | Cable-management bar highlighted on the tray (the CX3150a view may apply if the tray and view match; to confirm) |
-|  | CX3151a, CX3151i, CX3151x | Cable-management bar highlighted on the tray |
 |  | CX3152a, CX3152i | Cable-management bar highlighted on the tray |
 |  | CX3170a XL, CX3170i XL, CX3171a XL, CX3171i XL, CX3172a XL, CX3172i XL | Cable-management bar highlighted on the XL tray |
 |  | CX3170a, CX3171a, CX3172a | Cable-management bar highlighted on the tray |
 |  | CX3701, CX3702 | Cable-management bar highlighted on the tray |
-|  | CX4150a, CX4150e, CX4150i | Cable-management bar highlighted on the tray |
-|  | CX4170a, CX4170e, CX4170i | Cable-management bar highlighted on the tray |
-|  | CX4200a, CX4200e, CX4200f, CX4200i | Cable-management bar highlighted on the tray |
-|  | CX4712, CX4713 | Cable-management bar highlighted on the tray |
 
 Every 3U and 2U manual built later joins this list unless its render set includes the view.
 
