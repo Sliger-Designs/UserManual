@@ -7,5 +7,3 @@ Choose your cooling configuration and check component clearances before starting
 **Maintenance:** Before opening a chassis that already has components installed, switch the system off and unplug it.
 
 **Fasteners:** Tighten chassis fasteners by hand. Do not force a screw that does not thread correctly.
-
-This prototype requires technical review before release.

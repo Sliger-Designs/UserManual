@@ -1096,6 +1096,75 @@
       "sha256": "42629d505071bff825b596f5689661e41b2e449bc285be21ef899ccb6737d1b8",
       "selection_status": "candidate",
       "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx3171ixl-96b41061a46c",
+      "original_filename": "CX3171i XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+      "local_path": "illustrations/3u/CX3171i XL/CX3171i XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+      "width_px": 5200,
+      "height_px": 2860,
+      "format": "JPEG",
+      "size_bytes": 1653728,
+      "sha256": "316cd97f34ff94a23329c7ec94755423df5481991c659093d268bf7e078f61eb",
+      "selection_status": "candidate",
+      "note": "Exploded view supplied and requested for review 2026-11-11; original unchanged.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged.",
+        "full_resolution_path": "_build/cleaned-renders/CX3171iXL/CX3171i XL-CHASSIS_EXPLODE-REV20261110-IOPEM-white.png"
+      }
+    },
+    {
+      "id": "cx3171ixl-a424bb01aaf3",
+      "original_filename": "12e_CX3170a_XL_CableManage.jpg",
+      "local_path": "illustrations/3u/CX3171i XL/12e_CX3170a_XL_CableManage.jpg",
+      "width_px": 5208,
+      "height_px": 3720,
+      "format": "JPEG",
+      "size_bytes": 1826900,
+      "sha256": "576dd0967754d13651994bfc040739adcdac2c82e603185dc864bc94c1b87d8b",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3170a XL/: the CX3170a XL cable-management render (pixel-identical), supplied 2026-11-11.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged.",
+        "full_resolution_path": "_build/cleaned-renders/CX3171iXL/12e_CX3170a_XL_CableManage-white.png"
+      }
+    },
+    {
+      "id": "cx3171ixl-a171f4079bda",
+      "original_filename": "CX3171i XL-CHASSIS_EXPLODE-REV20261111-IOPEM.jpg",
+      "local_path": "illustrations/3u/CX3171i XL/CX3171i XL-CHASSIS_EXPLODE-REV20261111-IOPEM.jpg",
+      "width_px": 9000,
+      "height_px": 5250,
+      "format": "JPEG",
+      "size_bytes": 3379236,
+      "sha256": "2e27b2f14b4dfdb214d9f6f45f270df8036df2607c24e0952ee0ba1806f55996",
+      "selection_status": "candidate",
+      "note": "Exploded view with the riser, rack ears and pull handles, supplied 2026-11-11 to replace CX3171i XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg; original unchanged.",
+      "background_cleanup": {
+        "reference_rgb": [
+          255,
+          255,
+          255
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged.",
+        "full_resolution_path": "_build/cleaned-renders/CX3171iXL/CX3171i XL-CHASSIS_EXPLODE-REV20261111-IOPEM-white.png"
+      }
     }
   ]
 }

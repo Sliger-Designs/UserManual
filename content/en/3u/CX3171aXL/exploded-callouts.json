@@ -1,0 +1,102 @@
+{
+  "asset_key": "CX3171a XL-CHASSIS_EXPLODE-REV20261111-IOPEM.jpg",
+  "source_sha256": "99de1f27bf2f48be07c83b3ee140815b33ca39dd962a1ff076b140e2dcb3dc8e",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7142857142857142,
+  "right_padding_fraction": 0.13,
+  "view_box": [
+    0,
+    0,
+    1.13,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the supplied riser exploded view 2026-11-11; review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.5,
+        0.24
+      ],
+      "badge": [
+        0.501,
+        0.087
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate",
+      "target": [
+        0.25,
+        0.62
+      ],
+      "badge": [
+        0.214,
+        0.827
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.48,
+        0.735
+      ],
+      "badge": [
+        0.494,
+        0.913
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap",
+      "target": [
+        0.72,
+        0.66
+      ],
+      "badge": [
+        0.735,
+        0.813
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Filter foam",
+      "target": [
+        0.2,
+        0.46
+      ],
+      "badge": [
+        0.097,
+        0.353
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Motherboard tray",
+      "target": [
+        0.915,
+        0.55
+      ],
+      "badge": [
+        0.956,
+        0.553
+      ]
+    },
+    {
+      "number": 7,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.512,
+        0.7
+      ],
+      "badge": [
+        0.568,
+        0.887
+      ]
+    }
+  ]
+}

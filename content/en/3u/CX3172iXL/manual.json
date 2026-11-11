@@ -3,8 +3,10 @@
   "display_name": "CX3172i XL",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "Prototype 0.1",
-  "status": "Technical review draft",
+  "revision": "v1.0",
+  "status": "User guide",
+  "release_ready": true,
+  "release_date": "2026-11-11",
   "text_checks": {
     "required": [
       "431.8",
@@ -57,6 +59,20 @@
       "source": "contents.md",
       "images": [],
       "layout": "contents"
+    },
+    {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "CX3172i XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg"
+      ],
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX3172i XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -447,8 +463,10 @@
       "title": "Route cables & close the chassis",
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
-      "images": [],
-      "layout": "text"
+      "images": [
+        "10e_CX3172a_XL_CableManage.jpg"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "support",
@@ -498,12 +516,5 @@
   "cover_description": "17\" DEEP 3U CHASSIS",
   "cover_description_detail": "1 × 5.25\" BAY · ATX PSU",
   "cover_format": "landscape",
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX3172i XL assemblies; the exploded-view page is omitted until supplied.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/3u/CX3172i XL/"
-    }
-  ]
+  "missing_assets": []
 }

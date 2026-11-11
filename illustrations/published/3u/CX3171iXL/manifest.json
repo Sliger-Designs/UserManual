@@ -1303,5 +1303,92 @@
       ],
       "full_resolution_sha256": "5060cbfce8c2e99a36e214a8427cbabeffa7325ad48938203ac8f2b244873d4d"
     }
+  },
+  "12e_CX3170a_XL_CableManage.jpg": {
+    "path": "illustrations/published/3u/CX3171iXL/cx3171ixl-a424bb01aaf3.jpg",
+    "source_path": "illustrations/3u/CX3171i XL/12e_CX3170a_XL_CableManage.jpg",
+    "source_sha256": "576dd0967754d13651994bfc040739adcdac2c82e603185dc864bc94c1b87d8b",
+    "sha256": "885d7a5d42537392959f42613b6b8fd04024d254023f696db43bb9f76e013011",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7324746,
+      "total_pixels": 19373760,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3171iXL/12e_CX3170a_XL_CableManage-white.png",
+      "full_resolution_dimensions_px": [
+        5208,
+        3720
+      ],
+      "full_resolution_sha256": "c381b2aa33616d67deaa345397989f8f7ba820e99f2253b6e37c86ab25ad860c"
+    }
+  },
+  "CX3171i XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg": {
+    "path": "illustrations/published/3u/CX3171iXL/cx3171ixl-96b41061a46c.jpg",
+    "source_path": "illustrations/3u/CX3171i XL/CX3171i XL-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+    "source_sha256": "316cd97f34ff94a23329c7ec94755423df5481991c659093d268bf7e078f61eb",
+    "sha256": "be2a74456ab4b0559fbd99cb723b5a357486f7ae8adf0560e0b597b3aab8d215",
+    "dimensions_px": [
+      1800,
+      990
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7253143,
+      "total_pixels": 14872000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3171iXL/CX3171i XL-CHASSIS_EXPLODE-REV20261110-IOPEM-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        2860
+      ],
+      "full_resolution_sha256": "9b4fa8abce8a7a136dc8b0168cdc884b8fdeedeb3778f80e4e8efa304690cc30"
+    }
+  },
+  "CX3171i XL-CHASSIS_EXPLODE-REV20261111-IOPEM.jpg": {
+    "path": "illustrations/published/3u/CX3171iXL/cx3171ixl-a171f4079bda.jpg",
+    "source_path": "illustrations/3u/CX3171i XL/CX3171i XL-CHASSIS_EXPLODE-REV20261111-IOPEM.jpg",
+    "source_sha256": "2e27b2f14b4dfdb214d9f6f45f270df8036df2607c24e0952ee0ba1806f55996",
+    "sha256": "343a121642861206fd44b59d4182c30bfe0ccff5b2d6061935c31516e93250ad",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        255,
+        255,
+        255
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 28038696,
+      "total_pixels": 47250000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3171iXL/CX3171i XL-CHASSIS_EXPLODE-REV20261111-IOPEM-white.png",
+      "full_resolution_dimensions_px": [
+        9000,
+        5250
+      ],
+      "full_resolution_sha256": "66095ca87002b79593ab9f5360c825dce9217aa8c675ded20e8b96c9486fd1a1"
+    }
   }
 }
