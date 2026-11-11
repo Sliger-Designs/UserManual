@@ -16,9 +16,9 @@ tools used to translate them.
 | CX3151x | 3U rackmount, internal drive bracket, riser GPU | Released v1.1 (2026-11-11) | [PDF](releases/en/3u/CX3151x/v1.1/CX3151x-en-v1.1.pdf) |
 | CX3152a | 3U rackmount, ATX power supply | Released v1.0 (2026-11-11) | [PDF](releases/en/3u/CX3152a/v1.0/CX3152a-en-v1.0.pdf) |
 | CX3152i | 3U rackmount, one 5.25" bay, ATX power supply | Released v1.0 (2026-11-11) | [PDF](releases/en/3u/CX3152i/v1.0/CX3152i-en-v1.0.pdf) |
-| CX3170a | 3U rackmount, 17-inch | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX3171a | 3U rackmount, 17-inch, riser GPU | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX3172a | 3U rackmount, 17-inch, ATX power supply | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3170a | 3U rackmount, 17-inch | Released v1.0 (2026-11-11) | [PDF](releases/en/3u/CX3170a/v1.0/CX3170a-en-v1.0.pdf) |
+| CX3171a | 3U rackmount, 17-inch, riser GPU | Released v1.0 (2026-11-11) | [PDF](releases/en/3u/CX3171a/v1.0/CX3171a-en-v1.0.pdf) |
+| CX3172a | 3U rackmount, 17-inch, ATX power supply | Released v1.0 (2026-11-11) | [PDF](releases/en/3u/CX3172a/v1.0/CX3172a-en-v1.0.pdf) |
 | CX3170a XL | 3U rackmount, 17-inch, XL tray, drive cage | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3170i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3171a XL | 3U rackmount, 17-inch, XL tray, riser GPU, drive cage | Review draft (Prototype 0.1) | built by CI and on the site |
@@ -82,6 +82,11 @@ standalone HTML, a landscape Letter PDF, a page overview and a validation report
 `_build/`, and fails if text overflows a page, a link breaks, an image is missing, or
 approved values or wording differ. Released manuals (`release_ready` with a `release_date`) build into
 `_build/releases/chassis/<model>/<revision>/`; drafts into `_build/unpublished/chassis/<model>/`.
+In English rackmount drafts, a render borrowed from another model (inventory note "Copied from
+illustrations/…") carries a review-only dot in its corner: blue when it comes from the same
+family (e.g. the CX3170a for the CX3171a), magenta from a different family or size (e.g. a
+15-inch CX3151a render in the 17-inch CX3171a). Release builds never show the dots, and the
+validation report lists them under `review_marks`.
 Builds never replace files in `releases/`; archiving an approved PDF is a separate,
 reviewed commit (see [releases/README.md](releases/README.md)).
 

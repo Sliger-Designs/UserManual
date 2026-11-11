@@ -781,5 +781,63 @@
       ],
       "full_resolution_sha256": "9c96be3a9403414cc85057c882996695d60a149754539719accf86abb8daa374"
     }
+  },
+  "10e_CX3170a_CableManage.jpg": {
+    "path": "illustrations/published/3u/CX3172a/cx3172a-5d02e105f20e.jpg",
+    "source_path": "illustrations/3u/CX3172a/10e_CX3170a_CableManage.jpg",
+    "source_sha256": "2f4fe6bb23ae47d265993d9e272c543eb2c277a6bde1e3047a3a0343a348e553",
+    "sha256": "a9f6fea260fca61c7f9f9cf5dececcc7191400cf9ba9ddd7d72782d21a9081d6",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1504821,
+      "total_pixels": 7943970,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3172a/10e_CX3170a_CableManage-white.png",
+      "full_resolution_dimensions_px": [
+        3335,
+        2382
+      ],
+      "full_resolution_sha256": "71a310432d542b7894d33c04f23e78fb5385a1ee720a83e88de3229bd3a24f04"
+    }
+  },
+  "CX3172a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg": {
+    "path": "illustrations/published/3u/CX3172a/cx3172a-13c7cd385de2.jpg",
+    "source_path": "illustrations/3u/CX3172a/CX3172a-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+    "source_sha256": "71093bdff633736df25a7b34cca87a5b1536bbdc523d53f7c1ee34ab7d7147ba",
+    "sha256": "71de650b99c723e821ff765a64f56783afc67a33b71946d69dc4e2904656d0ec",
+    "dimensions_px": [
+      1800,
+      988
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7293654,
+      "total_pixels": 14840800,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3172a/CX3172a-CHASSIS_EXPLODE-REV20261110-IOPEM-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        2854
+      ],
+      "full_resolution_sha256": "66ed6735209ec469f7e64a3fd8033b452e5eb414d0880ee9f00fc27967c36c32"
+    }
   }
 }
