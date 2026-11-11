@@ -909,5 +909,34 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "CX3150x-CHASSIS_EXPLODE-REV20261110-IOPEM-STD.jpg": {
+    "path": "illustrations/published/3u/CX3150x/cx3150x-57e6507a938c.jpg",
+    "source_path": "illustrations/3u/CX3150x/CX3150x-CHASSIS_EXPLODE-REV20261110-IOPEM-STD.jpg",
+    "source_sha256": "091c2e444114cb11251857eee68b287f7db35332abc2be8d88a8838ecd08959f",
+    "sha256": "eea6d3c7aea87353e56384407a2809f266a5aa1f41e1638190b89a0af3b8d63e",
+    "dimensions_px": [
+      1800,
+      1020
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7401769,
+      "total_pixels": 15324400,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3150x/CX3150x-CHASSIS_EXPLODE-REV20261110-IOPEM-STD-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        2947
+      ],
+      "full_resolution_sha256": "70161a60df909333fe4d3ad3a660e3b83817f3e1a15db18fb850c2c18950c3fb"
+    }
   }
 }

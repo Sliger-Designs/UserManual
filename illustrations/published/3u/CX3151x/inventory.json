@@ -1161,6 +1161,29 @@
         "full_resolution_path": "_build/cleaned-renders/CX3151x/_CX3151x_rendering-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "cx3151x-8da2bf611df6",
+      "original_filename": "CX3151x-CHASSIS_EXPLODE-REV20261110-IOPEM-STD.jpg",
+      "local_path": "illustrations/3u/CX3151x/CX3151x-CHASSIS_EXPLODE-REV20261110-IOPEM-STD.jpg",
+      "width_px": 5200,
+      "height_px": 2947,
+      "format": "JPEG",
+      "size_bytes": 1925488,
+      "sha256": "1636b2c88111240dc32d87f217723613e34f45af84de9ae6aae64c34a68e472d",
+      "selection_status": "candidate",
+      "note": "Exploded view matching the other 3U views, supplied 2026-11-11 to replace CX3151x-CHASSIS_EXPLODE-REV20261106-ALL-HARDWARE.jpg; original unchanged.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged.",
+        "full_resolution_path": "_build/cleaned-renders/CX3151x/CX3151x-CHASSIS_EXPLODE-REV20261110-IOPEM-STD-white.png"
+      }
     }
   ]
 }
