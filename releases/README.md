@@ -35,6 +35,8 @@ unchanged. Add language folders when translations are approved.
 | English (`en`) | 3U | CX3151i | v1.1 | 2026-11-11 | [PDF](en/3u/CX3151i/v1.1/CX3151i-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3151x | v1.0 | 2026-11-10 | [PDF](en/3u/CX3151x/v1.0/CX3151x-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3151x | v1.1 | 2026-11-11 | [PDF](en/3u/CX3151x/v1.1/CX3151x-en-v1.1.pdf) |
+| English (`en`) | 3U | CX3152a | v1.0 | 2026-11-11 | [PDF](en/3u/CX3152a/v1.0/CX3152a-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3152i | v1.0 | 2026-11-11 | [PDF](en/3u/CX3152i/v1.0/CX3152i-en-v1.0.pdf) |
 
 Each version folder holds the PDF and a release record (`<model>-en-<version>.json`) with
 the release date and a content fingerprint of the build: a hash of its visible text and

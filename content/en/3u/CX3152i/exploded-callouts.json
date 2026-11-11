@@ -1,0 +1,114 @@
+{
+  "asset_key": "CX3152i-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+  "source_sha256": "5cc78cf7c225029d1a021af5e4bc738980c60879ce66a2f36c82b2d45c1e7dbb",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.783876500857633,
+  "right_padding_fraction": 0.13,
+  "view_box": [
+    0,
+    0,
+    1.13,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on supplied exploded view 2026-11-11; review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.51,
+        0.24
+      ],
+      "badge": [
+        0.35,
+        0.06
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate",
+      "target": [
+        0.27,
+        0.66
+      ],
+      "badge": [
+        0.08,
+        0.86
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.495,
+        0.78
+      ],
+      "badge": [
+        0.58,
+        0.95
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap",
+      "target": [
+        0.74,
+        0.66
+      ],
+      "badge": [
+        0.93,
+        0.88
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Filter foam",
+      "target": [
+        0.2,
+        0.44
+      ],
+      "badge": [
+        0.086,
+        0.313
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Motherboard tray",
+      "target": [
+        0.935,
+        0.52
+      ],
+      "badge": [
+        1.0,
+        0.35
+      ]
+    },
+    {
+      "number": 7,
+      "label": "5.25-inch bay filler blank",
+      "target": [
+        0.37,
+        0.64
+      ],
+      "badge": [
+        0.3,
+        0.95
+      ]
+    },
+    {
+      "number": 8,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.548,
+        0.66
+      ],
+      "badge": [
+        0.624,
+        0.907
+      ]
+    }
+  ]
+}
