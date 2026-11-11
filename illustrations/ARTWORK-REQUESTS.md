@@ -48,8 +48,8 @@ Confirmed 2026-11-04:
 |  | CX3150x | Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3150x folder) | None (optional) |
 |  | CX3151a | Optional: the cover render renamed (supplied as `_CX3150a_rendering.jpg` in the CX3151a folder) | None (optional) |
 |  | CX3151i | Optional: CX3151i renders for the standoff, I/O-shield, motherboard, PSU and SSD steps (the CX3151x ones are used; the CX3150i-named copies show the wrong rear) | None (optional) |
-|  | CX3152a | Exploded view | Exploded view omitted |
-|  | CX3152i | Exploded view | Exploded view omitted |
+|  | CX3152a | Exploded view | Grey placeholder on the exploded-view page |
+|  | CX3152i | Exploded view | Grey placeholder on the exploded-view page |
 |  | CX3170a XL | Exploded view. Optional: AIO + fans render (the CX3172a XL 3c is used) | Exploded view omitted |
 |  | CX3170i XL | Exploded view. Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and 5.25-inch bay steps (the CX3150i ones are used) | Exploded view omitted; those steps show the 15-inch chassis |
 |  | CX3171a XL | Exploded view. Optional: XL riser-tray renders for the I/O shield, motherboard, PSU, SSD, rear cover, brace and GPU steps (the CX3151a ones are used) | Exploded view omitted; those steps show the 15-inch tray |
@@ -78,7 +78,7 @@ equivalent view.
 
 | Done | Model | Needed |
 |---|---|---|
-|  | CX3152a, CX3152i | Cable-management bar highlighted on the tray |
+|  | CX3152a, CX3152i | Cable-management bar highlighted on the tray (grey placeholder on the page until supplied) |
 |  | CX3170a XL, CX3170i XL, CX3171a XL, CX3171i XL, CX3172a XL, CX3172i XL | Cable-management bar highlighted on the XL tray |
 |  | CX3170a, CX3171a, CX3172a | Cable-management bar highlighted on the tray |
 |  | CX3701, CX3702 | Cable-management bar highlighted on the tray |

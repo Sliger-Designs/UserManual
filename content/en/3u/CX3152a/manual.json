@@ -55,6 +55,14 @@
       "layout": "contents"
     },
     {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [],
+      "layout": "exploded"
+    },
+    {
       "id": "dimensions",
       "title": "Clearance drawing — top view",
       "section": "01 / PRODUCT INFORMATION",
@@ -326,7 +334,8 @@
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
       "images": [],
-      "layout": "text"
+      "layout": "text",
+      "illustration_pending": "Cable-management illustration pending"
     },
     {
       "id": "support",
@@ -379,8 +388,14 @@
   "missing_assets": [
     {
       "id": "M01",
-      "needed": "Exploded view of the CX3152a assemblies; the exploded-view page is omitted until supplied.",
+      "needed": "Exploded view of the CX3152a assemblies.",
       "section": "exploded-view",
+      "suggested_folder": "illustrations/3u/CX3152a/"
+    },
+    {
+      "id": "M02",
+      "needed": "Cable-management bar highlighted on the CX3152a motherboard tray.",
+      "section": "cable-management",
       "suggested_folder": "illustrations/3u/CX3152a/"
     }
   ]
