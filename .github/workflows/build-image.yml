@@ -1,0 +1,59 @@
+name: Build image
+
+# Provides the build environment image (docker/manual-builder/Dockerfile) on GHCR for the other
+# workflows, building it only when no image exists yet for the current Dockerfile and
+# requirements.txt. Tags: <hash> and <yyyymm>-<hash>; the monthly tag makes the first run of
+# each month rebuild, which picks up security updates. If that rebuild fails (for example,
+# a package mirror is down), the last image for the same hash is used.
+on:
+  workflow_call:
+    outputs:
+      image:
+        description: Image reference for jobs.<id>.container.image
+        value: ${{ jobs.image.outputs.image }}
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: write
+
+jobs:
+  image:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      image: ${{ steps.build.outputs.image }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            docker/manual-builder
+            requirements.txt
+          sparse-checkout-cone-mode: false
+
+      - name: Build and push unless the image exists
+        id: build
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          repo="ghcr.io/${GITHUB_REPOSITORY,,}/manual-builder"
+          hash=$(cat docker/manual-builder/Dockerfile requirements.txt | sha256sum | cut -c1-12)
+          monthly="$repo:$(date -u +%Y%m)-$hash"
+          echo "$TOKEN" | docker login ghcr.io -u "$GITHUB_ACTOR" --password-stdin
+          if docker manifest inspect "$monthly" > /dev/null 2>&1; then
+            echo "Using $monthly"
+            echo "image=$monthly" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          context=$(mktemp -d)
+          cp requirements.txt "$context/"
+          if docker build -t "$monthly" -t "$repo:$hash" -f docker/manual-builder/Dockerfile "$context" \
+              && docker push "$monthly" && docker push "$repo:$hash"; then
+            echo "Built $monthly" >> "$GITHUB_STEP_SUMMARY"
+            echo "image=$monthly" >> "$GITHUB_OUTPUT"
+          elif docker manifest inspect "$repo:$hash" > /dev/null 2>&1; then
+            echo "::warning::Image rebuild failed; using the previous image $repo:$hash"
+            echo "image=$repo:$hash" >> "$GITHUB_OUTPUT"
+          else
+            exit 1
+          fi

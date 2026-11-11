@@ -30,7 +30,8 @@ from manual_paths import MODEL_CATEGORIES, ROOT, content_directory, published_di
 
 # Changes here can affect every manual (and every translation package's editor).
 GLOBAL_PREFIXES = ('scripts/', 'templates/', 'glossary/', 'products/shared/', 'illustrations/published/common/',
-                   'illustrations/published/covers/', 'sources/original/', 'requirements.txt', '.github/workflows/')
+                   'illustrations/published/covers/', 'sources/original/', 'requirements.txt', '.github/workflows/',
+                   'docker/')
 # The editor's translation file (.json); older editors returned a ZIP.
 ATTACHMENT = re.compile(r'https://github\.com/(?:user-attachments/files|[\w.-]+/[\w.-]+/files)/\d+/[^\s)\]>"\']+?\.(?:json|zip)')
 MAX_ATTACHMENT_BYTES = 25 * 1024 * 1024
@@ -80,7 +81,7 @@ def plan(changed=None):
         targets = sorted(MODEL_CATEGORIES) if touched else sorted(models)
         if targets:
             result_languages[lang] = {'models': targets, 'required': touched}
-    tooling = any(path.startswith(('scripts/', 'templates/', 'glossary/', '.github/workflows/')) for path in changed)
+    tooling = any(path.startswith(('scripts/', 'templates/', 'glossary/', '.github/workflows/', 'docker/')) for path in changed)
     result_packages = [name for name in packages()
                        if tooling or any(path.startswith(f'translation-packages/{name}/') for path in changed)]
     return {'models': sorted(models), 'languages': result_languages, 'packages': result_packages}
