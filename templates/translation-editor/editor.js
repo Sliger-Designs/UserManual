@@ -246,6 +246,22 @@ if (MEMORY && state.ui.memoryVersion !== MEMORY.version) {
   for (const [english, value] of Object.entries(MEMORY.entries)) if (!(english in state.tm)) state.tm[english] = value;
   state.ui.memoryVersion = MEMORY.version;
 }
+// Work saved in this browser by the other Sliger editors (any package) in the same language:
+// fill the items this package shares with them, so the manuals can be translated in any
+// order. Only items without an entry are filled; this editor's own edits (including a box
+// cleared on purpose) are never replaced.
+function fillFromOtherEditors() {
+  if (!LANGUAGE || LANGUAGE === Workspaces.UNDETERMINED) return 0;
+  let filled = 0;
+  for (const other of Workspaces.sameLanguage(LANGUAGE, STORAGE_KEY))
+    for (const [english, value] of Object.entries(other.tm))
+      if (UNITS.has(english) && !(english in state.tm) && typeof value === 'string' && value.trim()) {
+        state.tm[english] = value;
+        filled += 1;
+      }
+  return filled;
+}
+const FILLED_FROM_OTHER_EDITORS = fillFromOtherEditors();
 const fromMemory = english => MEMORY && MEMORY.entries[english] != null && state.tm[english] === MEMORY.entries[english];
 const translation = english => { const value = state.tm[english]; return typeof value === 'string' && value.trim() ? value : null; };
 
@@ -847,7 +863,8 @@ function renderProject(main) {
       h('li', {}, 'Fill in the details below.'),
       h('li', {}, 'Work through the pages on the left. Type each translation under its English text. The preview on the right shows the real page as you type.'),
       h('li', {}, 'Keep highlighted parts such as ', h('span', {class: 'tok'}, '**E**'), ', ', h('span', {class: 'tok'}, "{{ fact('…') }}"), ', numbers and model names exactly as written. Click a chip to insert it.'),
-      h('li', {}, MODELS.length > 1 ? 'Text shared by several manuals only needs translating once: later manuals fill in from your earlier work.' : 'Repeated text only needs translating once.'),
+      h('li', {}, (MODELS.length > 1 ? 'Text shared by several manuals only needs translating once: later manuals fill in from your earlier work.' : 'Repeated text only needs translating once.') +
+        ' This includes the other Sliger manuals you translate into this language in this browser, in any order.'),
       h('li', {}, h('b', {}, 'Download translation file'), ' regularly as a backup. When you are finished, ', h('b', {}, 'Send to Sliger'), ' explains how to send it. ', h('b', {}, 'Create PDF'), ' makes a printable manual from your translation.')),
     h('div', {class: 'form'},
       ...languageField,
@@ -1123,7 +1140,23 @@ async function start() {
   for (const button of document.querySelectorAll('.toggle button')) button.addEventListener('click', () => setMode(button.dataset.mode));
   window.addEventListener('beforeunload', saveNow);
   window.addEventListener('resize', debounce(fitPreviews, 100));
-  setSaved(Object.keys(state.tm).length ? 'Restored your saved work' : '');
+  if (FILLED_FROM_OTHER_EDITORS) {
+    saveNow();
+    setSaved(`Filled ${plural(FILLED_FROM_OTHER_EDITORS, 'item')} from your other Sliger translations in this browser`);
+  } else {
+    setSaved(Object.keys(state.tm).length ? 'Restored your saved work' : '');
+  }
+  // Another Sliger editor open in this browser saved work in the same language: fill from it now.
+  window.addEventListener('storage', event => {
+    if (event.key === STORAGE_KEY || !Workspaces.isLanguageKey(event.key, LANGUAGE)) return;
+    const filled = fillFromOtherEditors();
+    if (!filled) return;
+    saveNow();
+    setSaved(`Filled ${plural(filled, 'item')} from your other Sliger translations in this browser`);
+    renderNav();
+    renderMain();
+    renderPreviews();
+  });
   renderNav();
   renderMain();
   showPreviewFor();

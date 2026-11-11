@@ -49,7 +49,11 @@ the package's manuals as sentence-sized items beside a live preview of the real 
 headings, lists, tables, placeholders and hardware letters locked, checks protected text
 and page overflow as the translator types, and saves work in their browser, separately for
 each language. One editor serves every language: `index.html?lang=de` opens the German
-translation (pre-filled from `translations/de/` when Sliger has one). Images and fonts are
+translation (pre-filled from `translations/de/` when Sliger has one). The editors for different
+packages run on one origin, so each also fills the items its package shares with work saved in
+that browser by the other editors in the same language. Only empty items are filled; the
+translator's own edits are never replaced. Manuals can therefore be translated in any order.
+Images and fonts are
 shared files in `editors/assets/`, named by content hash, and each manual's preview loads
 only when one of its pages is opened. The translator instructions shown in the editor come
 from `docs/translation-handoff.md`.

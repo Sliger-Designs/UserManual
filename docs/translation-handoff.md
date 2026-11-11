@@ -8,7 +8,10 @@
 Translate in the Sliger translation editor (open a manual on the Sliger manuals
 site and choose a language under **Translate**). It shows each page of the manuals as sentence-sized
 items beside a live preview of the real page. Text shared by several manuals
-appears once and only needs translating once.
+appears once and only needs translating once. This also works across the other
+Sliger manuals you translate into the same language in the same browser: when you
+open another manual's editor, it fills in the text you have already translated,
+whichever manual you start with.
 
 ## How to work
 
