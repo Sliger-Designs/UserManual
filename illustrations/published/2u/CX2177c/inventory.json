@@ -153,7 +153,18 @@
       "size_bytes": 98112,
       "sha256": "2bf132776bfa62fb827da971bca8c1e3a163f80d4bb754fed938822f128b61dd",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177c/_CX2177c_ADVANCED_TOP VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx2177c-1a8432749ef8",
