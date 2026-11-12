@@ -2265,17 +2265,13 @@
       "note": "With 25 mm front fans; lower of the 1 mm-apart values (website 276)."
     },
     "gpu_length_fans_38mm_mm": {
-      "value": 263,
+      "value": 264,
       "source": {
-        "id": "website",
-        "path": "sources/web/cx2137a-specs.txt"
-      },
-      "approval": {
         "id": "decision",
         "date": "2026-11-12",
         "record": "sources/decisions/2026-11-12-CX2137-family.md"
       },
-      "note": "With 38 mm front fans (website); not part of the 2026-11-04 review."
+      "note": "With 38 mm front fans: 302 mm less 38 mm (confirmed 2026-11-12; the website's 263 mm is superseded)."
     },
     "psu_atx": {
       "value": false,
@@ -2361,17 +2357,13 @@
       "note": "With 25 mm front fans; lower of the 1 mm-apart values (website 276)."
     },
     "gpu_length_fans_38mm_mm": {
-      "value": 263,
+      "value": 264,
       "source": {
-        "id": "website",
-        "path": "sources/web/cx2137b-specs.txt"
-      },
-      "approval": {
         "id": "decision",
         "date": "2026-11-12",
         "record": "sources/decisions/2026-11-12-CX2137-family.md"
       },
-      "note": "With 38 mm front fans (website); not part of the 2026-11-04 review."
+      "note": "With 38 mm front fans: 302 mm less 38 mm (confirmed 2026-11-12; the website's 263 mm is superseded)."
     },
     "psu_atx": {
       "value": false,
@@ -2429,7 +2421,15 @@
         "date": "2026-11-12",
         "record": "sources/decisions/2026-11-12-CX2137-family.md"
       },
-      "note": "No AIO is listed for the CX2137b (three fan positions); not part of the 2026-11-04 review."
+      "note": "No AIO support on the CX2137b (confirmed 2026-11-12)."
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2137-family.md"
+      }
     }
   }
 }

@@ -6,7 +6,7 @@
 | Motherboard | Mini-ITX, Mini-DTX, FlexATX, MicroATX, ATX; EATX and SSI-CEB up to 12 × 10.5 inches |
 | CPU air cooler | Up to {{ facts.air_cooler_height_max_mm }} mm tall |
 | Front cooling | Three 80 mm fans, up to 38 mm thick |
-| Liquid cooling | No AIO is listed for this model |
+| Liquid cooling | Not supported |
 | Front bays | None |
 | Expansion | Seven half-height PCIe slots; cards up to {{ facts.gpu_height_max_mm }} mm tall including power connectors |
 | Storage | {{ facts.ssd_2_5_max }} × 2.5-inch and {{ facts.hdd_3_5_max }} × 3.5-inch mounting locations in the rear drive bracket: five 7 mm SSDs; or two 3.5-inch HDDs up to 20 mm thick; or one 3.5-inch HDD and one 2.5-inch SSD up to 15 mm thick |
