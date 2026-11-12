@@ -538,5 +538,35 @@
       1600,
       657
     ]
+  },
+  "CX2137a": {
+    "path": "illustrations/published/covers/CX2137a-8d6f96f7411f.jpg",
+    "sha256": "025123639543d4cabc846a3aeb63e6a5e19cbb873a94af97c32cf98889425a83",
+    "source_path": "sources/web/covers/CX2137a-8d6f96f7411f.webp",
+    "source_sha256": "8d6f96f7411ff6a3b5fd86d04441356c4ad3faa41f3bdc7bdbf71099567ab461",
+    "product_url": "https://sliger.com/products/cx2137a",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/744.webp",
+    "retrieved_at": "2026-11-12T17:20:01.518863+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      913
+    ]
+  },
+  "CX2137b": {
+    "path": "illustrations/published/covers/CX2137b-8d6f96f7411f.jpg",
+    "sha256": "025123639543d4cabc846a3aeb63e6a5e19cbb873a94af97c32cf98889425a83",
+    "source_path": "sources/web/covers/CX2137b-8d6f96f7411f.webp",
+    "source_sha256": "8d6f96f7411ff6a3b5fd86d04441356c4ad3faa41f3bdc7bdbf71099567ab461",
+    "product_url": "https://sliger.com/products/cx2137b",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/749.webp",
+    "retrieved_at": "2026-11-12T17:20:02.705496+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      913
+    ]
   }
 }

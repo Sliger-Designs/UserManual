@@ -47,6 +47,8 @@ NUMBERS = {'depth_in', 'width_in', 'volume_l', 'ssd_2_5_max', 'hdd_3_5_max',
            'air_cooler_height_max_mm', 'gpu_height_max_mm', 'gpu_length_baseline_mm',
            'gpu_length_fans_only_mm', 'gpu_length_fans_aio_mm', 'gpu_length_max_cooling_mm'}
 ISSUES = {
+    'CX2137a': [],
+    'CX2137b': [],
     'CX2177a': [],
     'CX2177c': [],
     'CX2177x': [],

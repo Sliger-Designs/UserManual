@@ -1,0 +1,47 @@
+{
+  "asset_key": "_CX2137b_FRONT.tif",
+  "source_sha256": "47ff681c4f140cd3eaeba00a077a8486f910eece1f87478772161ea467c1f5c4",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 2.000298685782557,
+  "view_box": [
+    0.8,
+    0.24,
+    0.2,
+    0.52
+  ],
+  "badge_radius_height_fraction": 0.02,
+  "font_size_height_fraction": 0.026,
+  "review_status": "Positions measured on the CX2137b front render 2026-11-12; review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Power switch and status light",
+      "target": [
+        0.874,
+        0.4146
+      ],
+      "badge": [
+        0.874,
+        0.28
+      ]
+    },
+    {
+      "number": 2,
+      "label": "USB Type-A ports",
+      "targets": [
+        [
+          0.8616,
+          0.5776
+        ],
+        [
+          0.8875,
+          0.5776
+        ]
+      ],
+      "badge": [
+        0.874,
+        0.73
+      ]
+    }
+  ]
+}

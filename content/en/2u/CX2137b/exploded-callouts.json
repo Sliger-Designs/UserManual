@@ -1,0 +1,77 @@
+{
+  "asset_key": "_CX2137b.jpg",
+  "source_sha256": "c4f6cc2de166624144726794822c2fec86cb1e3142bdc781fdebae8ad0c5d109",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.4991119005328597,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the supplied exploded view 2026-11-12; review before release. Rack ears and pull handles are not drawn.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.55,
+        0.38
+      ],
+      "badge": [
+        0.35,
+        0.2
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate",
+      "target": [
+        0.3,
+        0.62
+      ],
+      "badge": [
+        0.22,
+        0.74
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.535,
+        0.69
+      ],
+      "badge": [
+        0.55,
+        0.85
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap",
+      "target": [
+        0.75,
+        0.62
+      ],
+      "badge": [
+        0.82,
+        0.75
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Filter foam",
+      "target": [
+        0.33,
+        0.5
+      ],
+      "badge": [
+        0.1,
+        0.38
+      ]
+    }
+  ]
+}

@@ -181,6 +181,7 @@ h1 { font-weight:700; }
 .port-gap { width:100%; min-height:2.3in; }
 .text-gap { height:1.5in; margin-top:20px; }
 .figure-gap { width:100%; height:100%; box-sizing:border-box; }
+.exploded-side .asset-gap.exploded-diagram { height:5.7in; box-sizing:border-box; }
 
 .key-artwork-pending { position:absolute; right:0; bottom:15px; color:var(--muted); font-size:8pt; font-style:italic; }
 

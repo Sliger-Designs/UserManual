@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--models', nargs='+', default=['CX2177a', 'CX2177c', 'CX2177x', 'CX3150a', 'CX3150i', 'CX3150x', 'CX3151a', 'CX3151i', 'CX3151x', 'CX3152a', 'CX3152i', 'CX3170a', 'CX3171a', 'CX3172a', 'CX3701', 'CX3702', 'CX3170aXL', 'CX3170iXL', 'CX3171aXL', 'CX3171iXL', 'CX3172aXL', 'CX3172iXL', 'CX4150a', 'CX4150e', 'CX4150i', 'CX4170a', 'CX4170e', 'CX4170i', 'CX4200a', 'CX4200e', 'CX4200f', 'CX4200i', 'CX4712', 'CX4713', 'S630', 'S640'])
+    parser.add_argument('--models', nargs='+', default=['CX2137a', 'CX2137b', 'CX2177a', 'CX2177c', 'CX2177x', 'CX3150a', 'CX3150i', 'CX3150x', 'CX3151a', 'CX3151i', 'CX3151x', 'CX3152a', 'CX3152i', 'CX3170a', 'CX3171a', 'CX3172a', 'CX3701', 'CX3702', 'CX3170aXL', 'CX3170iXL', 'CX3171aXL', 'CX3171iXL', 'CX3172aXL', 'CX3172iXL', 'CX4150a', 'CX4150e', 'CX4150i', 'CX4170a', 'CX4170e', 'CX4170i', 'CX4200a', 'CX4200e', 'CX4200f', 'CX4200i', 'CX4712', 'CX4713', 'S630', 'S640'])
     args = parser.parse_args()
     archive = ROOT / 'sources/web/covers'
     output = ROOT / 'illustrations/published/covers'
