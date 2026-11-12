@@ -440,6 +440,29 @@
       }
     },
     {
+      "id": "cx2137a-6e76f0bc072c",
+      "original_filename": "CX2137a-CHASSIS_EXPLODE-REV20261112.jpg",
+      "local_path": "illustrations/2u/CX2137a/CX2137a-CHASSIS_EXPLODE-REV20261112.jpg",
+      "width_px": 5200,
+      "height_px": 2753,
+      "format": "JPEG",
+      "size_bytes": 1544393,
+      "sha256": "454cc8ea8e5b43c2f6158b091a26e4160511a8b050ff173053a745a99028100f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2137a/CX2137a-CHASSIS_EXPLODE-REV20261112-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx2137a-8b45f4bed440",
       "original_filename": "_CX2137a_ADVANCED_FRONT VIEW.jpg",
       "local_path": "illustrations/2u/CX2137a/_CX2137a_ADVANCED_FRONT VIEW.jpg",

@@ -69,12 +69,12 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "CX2177x-CHASSIS_EXPLODE.jpg"
+        "CX2177x-CHASSIS_EXPLODE-REV20261112.jpg"
       ],
       "layout": "exploded",
       "layout_variant": "exploded-side",
       "image_annotations": {
-        "CX2177x-CHASSIS_EXPLODE.jpg": "exploded-callouts.json"
+        "CX2177x-CHASSIS_EXPLODE-REV20261112.jpg": "exploded-callouts.json"
       }
     },
     {
@@ -436,12 +436,6 @@
     }
   ],
   "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view with the rack ears and pull handles (the supplied view shows neither; the part key leaves them out).",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/2u/CX2177x/"
-    },
     {
       "id": "M02",
       "needed": "Rear drive bracket with 2.5-inch SSDs (as CX2177a step 4c).",
