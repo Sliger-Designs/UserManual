@@ -356,10 +356,8 @@
       "title": "Route cables & close the chassis",
       "section": "03 / COMPONENT INSTALLATION",
       "source": "cable-management.md",
-      "images": [
-        "pending: Cable-management render needed (CX2151c)"
-      ],
-      "layout": "procedure"
+      "images": [],
+      "layout": "text"
     },
     {
       "id": "support",
@@ -406,12 +404,6 @@
       "id": "M01",
       "needed": "Exploded view with the rack ears and pull handles (the supplied view shows neither; the part key leaves them out).",
       "section": "exploded-view",
-      "suggested_folder": "illustrations/2u/CX2151c/"
-    },
-    {
-      "id": "M02",
-      "needed": "Cable-management render.",
-      "section": "cable-management",
       "suggested_folder": "illustrations/2u/CX2151c/"
     }
   ],
