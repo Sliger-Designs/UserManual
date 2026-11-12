@@ -2431,5 +2431,197 @@
       },
       "note": "No AIO is listed for the CX2137b (three fan positions); not part of the 2026-11-04 review."
     }
+  },
+  "CX2151a": {
+    "gpu_length_baseline_mm": {
+      "value": 353,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "No-fan internal depth confirmed for the 15-inch 2U (compatibility CSV 349 is low)."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 327,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 25 mm front fans."
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 314,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2151a-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 38 mm front fans (website and import CSV)."
+    },
+    "gpu_height_max_mm": {
+      "value": 120,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2151a-specs.txt"
+      },
+      "note": "Including power connectors."
+    },
+    "pcie_slot_covers": {
+      "value": 4,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": 266,
+      "configuration": {
+        "aio": "Dynatron L34",
+        "fan_count": 4,
+        "stack_thickness_mm": 86.5
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "353 mm less the 86.5 mm L34 stack, rounded down."
+    }
+  },
+  "CX2151c": {
+    "gpu_length_baseline_mm": {
+      "value": 353,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "No-fan internal depth confirmed for the 15-inch 2U (compatibility CSV 349 is low)."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 327,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 25 mm front fans."
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 314,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2151c-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 38 mm front fans (website and import CSV)."
+    },
+    "gpu_height_max_mm": {
+      "value": 120,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2151c-specs.txt"
+      },
+      "note": "Including power connectors."
+    },
+    "pcie_slot_covers": {
+      "value": 4,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": null,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "AIO not officially supported: three fan positions; the three-fan Dynatron L35 interferes with the brackets."
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      }
+    }
+  },
+  "CX2151x": {
+    "gpu_length_baseline_mm": {
+      "value": 353,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "No-fan internal depth confirmed for the 15-inch 2U (compatibility CSV 349 is low)."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 327,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 25 mm front fans."
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 314,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2151x-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 38 mm front fans (website and import CSV)."
+    },
+    "gpu_height_max_mm": {
+      "value": 120,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2151x-specs.txt"
+      },
+      "note": "Including power connectors."
+    },
+    "pcie_slot_covers": {
+      "value": 4,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": null,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "AIO not officially supported: three fan positions; the three-fan Dynatron L35 interferes with the brackets."
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      }
+    }
   }
 }

@@ -1539,5 +1539,113 @@
       },
       "note": "FlexATX power supply."
     }
+  },
+  "CX2151a": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 381,
+        "width": 431.8,
+        "height": 87.88
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2151a-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (15 \u00d7 17 \u00d7 3.46 inches); the bulk-create 330.2 mm depth was copied from the CX2130."
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 2U chassis use the same rack ears; two M4 screws per side."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    }
+  },
+  "CX2151c": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 381,
+        "width": 431.8,
+        "height": 87.88
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2151c-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (15 \u00d7 17 \u00d7 3.46 inches); the bulk-create 330.2 mm depth was copied from the CX2130."
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 2U chassis use the same rack ears; two M4 screws per side."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    }
+  },
+  "CX2151x": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 381,
+        "width": 431.8,
+        "height": 87.88
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2151x-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (15 \u00d7 17 \u00d7 3.46 inches); the bulk-create 330.2 mm depth was copied from the CX2130."
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 2U chassis use the same rack ears; two M4 screws per side."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    }
   }
 }

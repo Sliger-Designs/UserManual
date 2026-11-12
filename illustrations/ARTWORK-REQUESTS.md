@@ -76,6 +76,10 @@ Confirmed 2026-11-04:
 |  | CX2137a | Exploded view (none was in the CX2137a folder on 2026-11-12; the CX2137b one is `_CX2137b.jpg`) | Grey placeholder on the exploded-view page |
 |  | CX2137b | Exploded view with the rack ears and pull handles; a higher-resolution exploded view (the supplied one is 1688 px wide) | The part key leaves out the rack ear & pull handle callout |
 |  | CX2137a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
+|  | CX2151a, CX2151c, CX2151x | Exploded views with the rack ears and pull handles; higher-resolution CX2151c/x views (1688 px wide) | The part key leaves out the rack ear & pull handle callout |
+|  | CX2151a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
+|  | CX2151a | Optional: front render named for the model (the folder holds an identical copy named `_CX2177a_FRONT.tif`, which is used) | None (optional) |
+|  | CX2151x | Top-view and front-view clearance drawings; front-panel render (`_CX2151x_FRONT`); numbered step renders (confirm the mapping of the supplied unnumbered set in the draft) | Grey placeholders on the clearance and front-port pages |
 
 ## Cable management (not blocking V1)
 
@@ -92,6 +96,7 @@ equivalent view.
 |  | CX3172i XL | Its own cable-management render (the CX3172a XL render is used; blue review dot in draft builds). Not a release blocker |
 |  | CX3701, CX3702 | Cable-management bar highlighted on the tray |
 |  | CX2177a, CX2177c, CX2177x | Cable-management renders (grey placeholder in the drafts). Not a release blocker |
+|  | CX2151a, CX2151c, CX2151x | Cable-management renders (grey placeholder in the drafts). Not a release blocker |
 |  | CX2137a, CX2137b | Cable-management renders (grey placeholder in the drafts). Not a release blocker |
 
 Every 3U and 2U manual built later joins this list unless its render set includes the view.
@@ -116,4 +121,3 @@ built. No tray renders are needed (see above).
 |  | CX2130a | 10 | SSD and GPU steps (and standoffs/I/O shield if not shown in the motherboard renders); clearance drawings; cover render; front-panel render |
 |  | CX2130c | 18 | Standoffs/I/O shield, SSD and GPU steps; clearance drawings; cover render; front-panel render |
 |  | CX2130x | none | Everything |
-|  | CX2151a, CX2151c, CX2151x | 25 / 31 / 23 | SSD step (CX2151a/c); clearance drawings and cover render (CX2151x); exploded views |

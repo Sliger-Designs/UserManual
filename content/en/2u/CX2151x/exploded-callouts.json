@@ -1,0 +1,77 @@
+{
+  "asset_key": "CX2151x.jpg",
+  "source_sha256": "fcc99e837699b02ca96f7ac453bcea0970f5af25e7fa3cf001ebd25e9a38e67e",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.4991119005328597,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the supplied exploded view 2026-11-12; review before release. Rack ears and pull handles are not drawn.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.45,
+        0.33
+      ],
+      "badge": [
+        0.25,
+        0.22
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate",
+      "target": [
+        0.72,
+        0.7
+      ],
+      "badge": [
+        0.8,
+        0.86
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.465,
+        0.66
+      ],
+      "badge": [
+        0.4,
+        0.84
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap",
+      "target": [
+        0.25,
+        0.58
+      ],
+      "badge": [
+        0.1,
+        0.72
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Filter foam",
+      "target": [
+        0.7,
+        0.535
+      ],
+      "badge": [
+        0.9,
+        0.4
+      ]
+    }
+  ]
+}
