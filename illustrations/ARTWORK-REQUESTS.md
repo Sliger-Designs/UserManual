@@ -91,10 +91,10 @@ equivalent view.
 |  | CX3170i XL, CX3171a XL, CX3171i XL | Their own cable-management renders (the CX3170a XL render is used; blue review dot in draft builds). Not a release blocker |
 |  | CX3172i XL | Its own cable-management render (the CX3172a XL render is used; blue review dot in draft builds). Not a release blocker |
 |  | CX3701, CX3702 | Cable-management bar highlighted on the tray |
-|  | CX2177a, CX2177c, CX2177x | Cable-management renders (grey placeholder in the drafts). Not a release blocker |
-|  | CX2137a, CX2137b | Cable-management renders (grey placeholder in the drafts). Not a release blocker |
 
-Every 3U and 2U manual built later joins this list unless its render set includes the view.
+Every 3U manual built later joins this list unless its render set includes the view. 2U chassis have no
+motherboard tray to route cables to, so 2U manuals get no cable-management render; their page is text
+only (2026-11-12).
 
 ## 3U
 
