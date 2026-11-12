@@ -3,6 +3,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 MODEL_CATEGORIES = {
+    'CX2130a': '2u',
+    'CX2130c': '2u',
+    'CX2130x': '2u',
     'CX2151a': '2u',
     'CX2151c': '2u',
     'CX2151x': '2u',

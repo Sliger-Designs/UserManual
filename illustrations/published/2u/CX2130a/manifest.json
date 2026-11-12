@@ -1,0 +1,168 @@
+{
+  "CX2130a-CHASSIS_EXPLODE.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-48fd6eef2489.jpg",
+    "source_path": "illustrations/2u/CX2130a/CX2130a-CHASSIS_EXPLODE.jpg",
+    "source_sha256": "e24775956661f680e2e2f8e3359566a8cef19b2027d9ed452a2e3ce64afc6079",
+    "sha256": "5c577f60b31c826cf15bd093fd8746555deb0682475333e975aa07bbd711e573",
+    "dimensions_px": [
+      1800,
+      1126
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8546270,
+      "total_pixels": 16915600,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2130a/CX2130a-CHASSIS_EXPLODE-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        3253
+      ],
+      "full_resolution_sha256": "411c97205c5d417953d4140990cc71496dc888a57b72daca49ddfc77ee7df418"
+    }
+  },
+  "_CX2130a_FACEPLATE REMOVAL.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-6bcdf9f961d1.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_FACEPLATE REMOVAL.jpg",
+    "source_sha256": "e0d653b14867747b009fbfe0510bb3a274928165976d56c3ae7e0d8a9c89b3c0",
+    "sha256": "d303497e55037e9b946f1c70e38d16951743cdf196094aa1dd61c11633ac694a",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130a_FANAIO.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-a37e7d68515f.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_FANAIO.jpg",
+    "source_sha256": "22bade80ac5e7c775369b13e35b4d3e29284f9fbf9ee635023d4d5a6a6e44a90",
+    "sha256": "cddb4296d07583eb47ca2dddb1f2a3548bfa1c0d015ed26703570bc45343275d",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130a_LID REMOVAL1.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-6e21f7fc4d6e.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_LID REMOVAL1.jpg",
+    "source_sha256": "79035c84074ff79160285f4c633d444e779023a5745e25916d9dfb041ff093dc",
+    "sha256": "5619a1863f2dc7cf221e6b485eaff55b5f1432f42451d14f226ef4d6f048373b",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130a_LIDREMOVAL2.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-39c7e8379fba.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_LIDREMOVAL2.jpg",
+    "source_sha256": "d4cd4e1e924281c82057b2d1d506655121ad5c225ee9fc4f4c5c2df6c83f95cf",
+    "sha256": "f3ed122f3e215224fa32f83b5e61dd79343eb994a220d0c6b4777b64e9aba1fb",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130a_LIDREMOVAL3.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-bb8f3678fdef.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_LIDREMOVAL3.jpg",
+    "source_sha256": "abd6a87b6abfedf5dd3797ce58e9583eee92afb5f2c10667e4dce9dfbbcde852",
+    "sha256": "03ffb15edec042085ea862345e7c3eaa2c4a0d16542c4ac932898eaf875d2fa3",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130a_MOTHERBOARD1.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-3e55d5a076ac.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_MOTHERBOARD1.jpg",
+    "source_sha256": "5d0a916f2c7b1310e213e4a8bbd596ee088d4acb74edd0ae8925011cc54950fa",
+    "sha256": "55b8fb10b5cdc7de31504e4fbd3e5990caf87fcacdfc1c4610a8810d22b68a37",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130a_MOTHERBOARD2.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-767a11d867fa.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_MOTHERBOARD2.jpg",
+    "source_sha256": "226f0f1f969d98990ef723cc9cd6404fc6e8759d39038730d43b4b70b6d1bfb9",
+    "sha256": "ca4ecc30f35a68bd17f96d5a51f7795f99dfe4f9160fafc5f4923db57a6a86ef",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1552444,
+      "total_pixels": 1900688,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2130a/_CX2130a_MOTHERBOARD2-white.png",
+      "full_resolution_dimensions_px": [
+        1688,
+        1126
+      ],
+      "full_resolution_sha256": "f475b658ea357c3c0e11ab6f67eb78e9485df7b0b8712117d29b4562a16070cb"
+    }
+  },
+  "_CX2130a_MOTHERBOARD3.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-538f8ddb1936.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_MOTHERBOARD3.jpg",
+    "source_sha256": "3cd61389badd1fde6830352cd63c142721cbdc1d336c3956be7bf02cd46a7b37",
+    "sha256": "7cb3a1324f4d961af904f22ff810d44fcbc2c64c811f5739ba90092e09a7b5c3",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130a_PSU.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-6fa029b146b0.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_PSU.jpg",
+    "source_sha256": "24a1d1884f1316e3f08262c7309705948f784c0fa9dfe0aa7cdc93e8f67038ba",
+    "sha256": "04ad5a26fe3922350aa30ba6c009c11d6749a686b1817f629f085c68dfeae826",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130a_RACKEARPULLHANDLE.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-2545c805c718.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_RACKEARPULLHANDLE.jpg",
+    "source_sha256": "0294a9b875345e50b94a99d71a65286abb1f6a563a81965578cb7b4fab3eb41e",
+    "sha256": "9837d5fa786d6aabba4c24fa325d56da16dc0a57e18fa50f95bccfd05a50ba83",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  }
+}

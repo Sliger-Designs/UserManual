@@ -2623,5 +2623,182 @@
         "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
       }
     }
+  },
+  "CX2130a": {
+    "gpu_length_baseline_mm": {
+      "value": 302,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "No front fans; total internal depth (import CSV)."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 275,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 25 mm front fans; lower of the 1 mm-apart values (website 276)."
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 263,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2130a-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2130-family.md"
+      },
+      "note": "With 38 mm front fans (website); not part of the 2026-11-04 review."
+    },
+    "pcie_slot_covers": {
+      "value": 7,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": 215,
+      "configuration": {
+        "aio": "Dynatron L34",
+        "fan_count": 4,
+        "stack_thickness_mm": 86.5
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "302 mm less the 86.5 mm L34 stack, rounded down."
+    }
+  },
+  "CX2130c": {
+    "gpu_length_baseline_mm": {
+      "value": 302,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "No front fans; total internal depth (import CSV)."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 275,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 25 mm front fans; lower of the 1 mm-apart values (website 276)."
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 263,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2130c-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2130-family.md"
+      },
+      "note": "With 38 mm front fans (website); not part of the 2026-11-04 review."
+    },
+    "pcie_slot_covers": {
+      "value": 7,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": null,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2130-family.md"
+      },
+      "note": "Three fan positions; AIO treated as not officially supported, as for the other three-fan c/x models (2026-11-04 review note)."
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2130-family.md"
+      }
+    }
+  },
+  "CX2130x": {
+    "gpu_length_baseline_mm": {
+      "value": 302,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "No front fans; total internal depth (import CSV)."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 275,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 25 mm front fans; lower of the 1 mm-apart values (website 276)."
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 263,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2130x-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2130-family.md"
+      },
+      "note": "With 38 mm front fans (website); not part of the 2026-11-04 review."
+    },
+    "pcie_slot_covers": {
+      "value": 7,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": null,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2130-family.md"
+      },
+      "note": "Three fan positions; AIO treated as not officially supported, as for the other three-fan c/x models (2026-11-04 review note)."
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2130-family.md"
+      }
+    },
+    "ssd_2_5_max": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Two 2.5-inch mounting locations (import CSV and website)."
+    }
   }
 }

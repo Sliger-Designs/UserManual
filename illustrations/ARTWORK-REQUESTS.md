@@ -80,6 +80,10 @@ Confirmed 2026-11-04:
 |  | CX2151a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
 |  | CX2151a | Optional: front render named for the model (the folder holds an identical copy named `_CX2177a_FRONT.tif`, which is used) | None (optional) |
 |  | CX2151x | Top-view and front-view clearance drawings; front-panel render (`_CX2151x_FRONT`); numbered step renders (confirm the mapping of the supplied unnumbered set in the draft) | Grey placeholders on the clearance and front-port pages |
+|  | CX2130a, CX2130c, CX2130x | Exploded views with the rack ears and pull handles | The part key leaves out the rack ear & pull handle callout |
+|  | CX2130a, CX2130c | GPU / PCIe card step; top-view and front-view clearance drawings; front-panel render; numbered step renders (the supplied sets are unnumbered) | Grey placeholders on those pages |
+|  | CX2130a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
+|  | CX2130x | Every step render, clearance drawings and front-panel render (only the exploded view was supplied) | The draft is all grey placeholders apart from the exploded view |
 
 ## Cable management (not blocking V1)
 
@@ -96,6 +100,7 @@ equivalent view.
 |  | CX3172i XL | Its own cable-management render (the CX3172a XL render is used; blue review dot in draft builds). Not a release blocker |
 |  | CX3701, CX3702 | Cable-management bar highlighted on the tray |
 |  | CX2177a, CX2177c, CX2177x | Cable-management renders (grey placeholder in the drafts). Not a release blocker |
+|  | CX2130a, CX2130c, CX2130x | Cable-management renders (grey placeholder in the drafts). Not a release blocker |
 |  | CX2151a, CX2151c, CX2151x | Cable-management renders (grey placeholder in the drafts). Not a release blocker |
 |  | CX2137a, CX2137b | Cable-management renders (grey placeholder in the drafts). Not a release blocker |
 
@@ -111,13 +116,6 @@ The CX3150n, CX3180n, CX4250n and CX4280n are listed on the website as concepts 
 preorder. Their manuals are built once renders and specifications are available; none are
 requested yet.
 
-## 2U: not yet built
+## 2U
 
-2U render sets are named and grouped differently; these are confirmed when each family is
-built. No tray renders are needed (see above).
-
-| Done | Model | Have | Needed |
-|---|---|---|---|
-|  | CX2130a | 10 | SSD and GPU steps (and standoffs/I/O shield if not shown in the motherboard renders); clearance drawings; cover render; front-panel render |
-|  | CX2130c | 18 | Standoffs/I/O shield, SSD and GPU steps; clearance drawings; cover render; front-panel render |
-|  | CX2130x | none | Everything |
+Every listed 2U model has a prototype manual (November 12, 2026); open items are in the tables above.

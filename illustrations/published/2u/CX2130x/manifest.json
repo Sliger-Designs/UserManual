@@ -1,0 +1,31 @@
+{
+  "CX2130x-CHASSIS_EXPLODE.jpg": {
+    "path": "illustrations/published/2u/CX2130x/cx2130x-911d0a5e8d5c.jpg",
+    "source_path": "illustrations/2u/CX2130x/CX2130x-CHASSIS_EXPLODE.jpg",
+    "source_sha256": "cd2b206af203062c5d600820ec827ed2d08225a6740443fd00498b92ebb8c25f",
+    "sha256": "bc1e260f6ff42b8f96752951596b76c8f97c25e8c2e0157cd0403de5dd4d3bb3",
+    "dimensions_px": [
+      1800,
+      1137
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8571388,
+      "total_pixels": 17082000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130x-CHASSIS_EXPLODE-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        3285
+      ],
+      "full_resolution_sha256": "dd29fab6f4a76cb6565f4df220aeb6b85067dabe2b2e97f68cdebe4a78169455"
+    }
+  }
+}

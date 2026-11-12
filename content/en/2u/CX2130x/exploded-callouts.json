@@ -1,0 +1,77 @@
+{
+  "asset_key": "CX2130x-CHASSIS_EXPLODE.jpg",
+  "source_sha256": "cd2b206af203062c5d600820ec827ed2d08225a6740443fd00498b92ebb8c25f",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.582952815829528,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the supplied exploded view 2026-11-12; review before release. Rack ears and pull handles are not drawn.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.55,
+        0.25
+      ],
+      "badge": [
+        0.3,
+        0.12
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate",
+      "target": [
+        0.3,
+        0.76
+      ],
+      "badge": [
+        0.2,
+        0.89
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.13,
+        0.51
+      ],
+      "badge": [
+        0.03,
+        0.62
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap",
+      "target": [
+        0.82,
+        0.62
+      ],
+      "badge": [
+        0.9,
+        0.8
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Filter foam",
+      "target": [
+        0.3,
+        0.6
+      ],
+      "badge": [
+        0.04,
+        0.42
+      ]
+    }
+  ]
+}

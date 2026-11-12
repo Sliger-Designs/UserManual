@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "model": "CX2130x",
+  "items": [
+    {
+      "id": "cx2130x-911d0a5e8d5c",
+      "original_filename": "CX2130x-CHASSIS_EXPLODE.jpg",
+      "local_path": "illustrations/2u/CX2130x/CX2130x-CHASSIS_EXPLODE.jpg",
+      "width_px": 5200,
+      "height_px": 3285,
+      "format": "JPEG",
+      "size_bytes": 1718396,
+      "sha256": "cd2b206af203062c5d600820ec827ed2d08225a6740443fd00498b92ebb8c25f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130x-CHASSIS_EXPLODE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    }
+  ]
+}

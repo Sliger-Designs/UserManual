@@ -613,5 +613,50 @@
       1600,
       612
     ]
+  },
+  "CX2130a": {
+    "path": "illustrations/published/covers/CX2130a-e2eb166a4a8b.jpg",
+    "sha256": "450cb966602804d1c8bf1a3d7a9861d198e6c37d92496d3fccaa4c5cfd34ef61",
+    "source_path": "sources/web/covers/CX2130a-e2eb166a4a8b.webp",
+    "source_sha256": "e2eb166a4a8bcc4e69a5ba96adfcb98c7cc27841e38d8d651c5bfa4eeee04a7b",
+    "product_url": "https://sliger.com/products/cx2130a",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/29.webp",
+    "retrieved_at": "2026-11-12T17:28:26.475252+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      592
+    ]
+  },
+  "CX2130c": {
+    "path": "illustrations/published/covers/CX2130c-47f15c88ea67.jpg",
+    "sha256": "fca5c7f2209b9a17527ad7987f7d146f18cb9975003a6f8e82952f9b021e96af",
+    "source_path": "sources/web/covers/CX2130c-47f15c88ea67.webp",
+    "source_sha256": "47f15c88ea670ab4a30cd2e25c28c9adfbe62d4fe7fc10c876740322f8305d71",
+    "product_url": "https://sliger.com/products/cx2130c",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/41.webp",
+    "retrieved_at": "2026-11-12T17:28:27.125369+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      625
+    ]
+  },
+  "CX2130x": {
+    "path": "illustrations/published/covers/CX2130x-977ad0a06bfd.jpg",
+    "sha256": "b21bddeaaa0c139e0f47c22efe3fe6e71d7273ea4547d9c557a683e8d90c5995",
+    "source_path": "sources/web/covers/CX2130x-977ad0a06bfd.webp",
+    "source_sha256": "977ad0a06bfd8343280a3cda3b9464729b83f833caf609257f10d1df1f062a4b",
+    "product_url": "https://sliger.com/products/cx2130x",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/54.webp",
+    "retrieved_at": "2026-11-12T17:28:27.784493+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      640
+    ]
   }
 }
