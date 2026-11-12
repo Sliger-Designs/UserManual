@@ -1,0 +1,3787 @@
+{
+  "CX3150a": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3150a",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3150a/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3150a/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3150a/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3150a/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3150a/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3150a/aio-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3150a/psu-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3150a/cable-management.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3150a/revision-history.md"
+      ]
+    }
+  ],
+  "CX3150i": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3150i",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3150i/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3150i/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3150i/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3150i/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3150i/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3150i/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/two-fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3150i/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3150i/psu-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or the filler blank",
+      "markdown": [
+        "content/en/3u/CX3150i/bay-devices.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on the filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "bay-bracket-drives",
+      "title": "Mount drives on the bay bracket",
+      "markdown": [
+        "content/en/3u/CX3150i/bay-bracket-drives.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3150i/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3150i/cable-management.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3150i/revision-history.md"
+      ]
+    }
+  ],
+  "CX3150x": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3150x",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3150x/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3150x/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3150x/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3150x/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3150x/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "drive-bracket-removal",
+      "title": "Remove the drive bracket",
+      "markdown": [
+        "content/en/3u/CX3150x/drive-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/two-fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3150x/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3150x/psu-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "drive-bracket-drives",
+      "title": "Install drives in the bracket",
+      "markdown": [
+        "content/en/3u/CX3150x/drive-bracket-drives.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "drive-bracket-installation",
+      "title": "Reinstall the drive bracket",
+      "markdown": [
+        "content/en/3u/CX3150x/drive-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3150x/cable-management.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3150x/revision-history.md"
+      ]
+    }
+  ],
+  "CX3151a": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3151a",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3151a/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3151a/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3151a/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3151a/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3151a/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "hardware-gpukit",
+      "title": "GPU support kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware-gpukit.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3151a/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3151a/psu-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "rear-cover-removal",
+      "title": "Remove the rear slot cover",
+      "markdown": [
+        "content/en/shared/rackmount/riser-rear-cover-removal.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "gpu-brace",
+      "title": "Fit the GPU support brace",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-brace.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "gpu-installation",
+      "title": "Install the riser GPU",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-installation.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3151a/cable-management.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3151a/revision-history.md"
+      ]
+    }
+  ],
+  "CX3151i": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3151i",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3151i/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3151i/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3151i/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3151i/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3151i/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "hardware-gpukit",
+      "title": "GPU support kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware-gpukit.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3151i/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/two-fan-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3151i/aio-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3151i/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or the filler blank",
+      "markdown": [
+        "content/en/3u/CX3151i/bay-devices.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on the filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "bay-bracket-drives",
+      "title": "Mount drives on the bay bracket",
+      "markdown": [
+        "content/en/3u/CX3151i/bay-bracket-drives.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3151i/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "rear-cover-removal",
+      "title": "Remove the rear slot cover",
+      "markdown": [
+        "content/en/shared/rackmount/riser-rear-cover-removal.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "gpu-brace",
+      "title": "Fit the GPU support brace",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-brace.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "gpu-installation",
+      "title": "Install the riser GPU",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-installation.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3151i/cable-management.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 31,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 32,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3151i/revision-history.md"
+      ]
+    }
+  ],
+  "CX3151x": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3151x",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3151x/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3151x/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3151x/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3151x/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3151x/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "hardware-gpukit",
+      "title": "GPU support kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware-gpukit.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "drive-bracket-removal",
+      "title": "Remove the drive bracket",
+      "markdown": [
+        "content/en/3u/CX3151x/drive-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/two-fan-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3151x/aio-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3151x/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "drive-bracket-drives",
+      "title": "Install drives in the bracket",
+      "markdown": [
+        "content/en/3u/CX3151x/drive-bracket-drives.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "drive-bracket-installation",
+      "title": "Reinstall the drive bracket",
+      "markdown": [
+        "content/en/3u/CX3151x/drive-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "rear-cover-removal",
+      "title": "Remove the rear slot cover",
+      "markdown": [
+        "content/en/shared/rackmount/riser-rear-cover-removal.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "gpu-brace",
+      "title": "Fit the GPU support brace",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-brace.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "gpu-installation",
+      "title": "Install the riser GPU",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-installation.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3151x/cable-management.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3151x/revision-history.md"
+      ]
+    }
+  ],
+  "CX3152a": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3152a",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3152a/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3152a/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3152a/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3152a/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3152a/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3152a/aio-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/3u/CX3152a/ssd-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3152a/psu-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3152a/cable-management.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3152a/revision-history.md"
+      ]
+    }
+  ],
+  "CX3152i": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3152i",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3152i/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3152i/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3152i/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3152i/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3152i/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3152i/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/two-fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3152i/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/3u/CX3152i/ssd-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3152i/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or the filler blank",
+      "markdown": [
+        "content/en/3u/CX3152i/bay-devices.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on the filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "bay-bracket-drives",
+      "title": "Mount drives on the bay bracket",
+      "markdown": [
+        "content/en/3u/CX3152i/bay-bracket-drives.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3152i/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3152i/cable-management.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3152i/revision-history.md"
+      ]
+    }
+  ],
+  "CX3170a": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3170a",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3170a/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3170a/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3170a/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3170a/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3170a/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3170a/aio-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/3u/CX3170a/push-pull.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3170a/psu-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3170a/cable-management.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3170a/revision-history.md"
+      ]
+    }
+  ],
+  "CX3171a": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3171a",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3171a/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3171a/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3171a/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3171a/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3171a/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "hardware-gpukit",
+      "title": "GPU support kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware-gpukit.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3171a/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/3u/CX3171a/push-pull.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3171a/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "rear-cover-removal",
+      "title": "Remove the rear slot cover",
+      "markdown": [
+        "content/en/shared/rackmount/riser-rear-cover-removal.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "gpu-brace",
+      "title": "Fit the GPU support brace",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-brace.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "gpu-installation",
+      "title": "Install the riser GPU",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3171a/cable-management.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3171a/revision-history.md"
+      ]
+    }
+  ],
+  "CX3172a": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3172a",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3172a/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3172a/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3172a/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3172a/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3172a/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3172a/aio-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "push-pull",
+      "title": "Install push-pull cooling",
+      "markdown": [
+        "content/en/3u/CX3172a/push-pull.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/3u/CX3172a/ssd-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3172a/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3172a/cable-management.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3172a/revision-history.md"
+      ]
+    }
+  ],
+  "CX3170aXL": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3170a XL",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3170aXL/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3170aXL/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3170aXL/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3170aXL/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3170aXL/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "drive-cage-removal",
+      "title": "Remove the drive cage",
+      "markdown": [
+        "content/en/shared/rackmount/xl-drive-cage-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3170aXL/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3170aXL/psu-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "drive-cage-drives",
+      "title": "Install drives in the cage",
+      "markdown": [
+        "content/en/shared/rackmount/xl-drive-cage-drives.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "drive-cage-installation",
+      "title": "Reinstall the drive cage",
+      "markdown": [
+        "content/en/shared/rackmount/xl-drive-cage-installation.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3170aXL/cable-management.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3170aXL/revision-history.md"
+      ]
+    }
+  ],
+  "CX3170iXL": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3170i XL",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3170iXL/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3170iXL/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3170iXL/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3170iXL/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3170iXL/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3170iXL/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/two-fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3170iXL/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3170iXL/psu-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or the filler blank",
+      "markdown": [
+        "content/en/3u/CX3170iXL/bay-devices.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on the filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "bay-bracket-drives",
+      "title": "Mount drives on the bay bracket",
+      "markdown": [
+        "content/en/3u/CX3170iXL/bay-bracket-drives.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3170iXL/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3170iXL/cable-management.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3170iXL/revision-history.md"
+      ]
+    }
+  ],
+  "CX3171aXL": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3171a XL",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3171aXL/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3171aXL/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3171aXL/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3171aXL/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3171aXL/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "hardware-gpukit",
+      "title": "GPU support kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware-gpukit.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "drive-cage-removal",
+      "title": "Remove the drive cage",
+      "markdown": [
+        "content/en/shared/rackmount/xl-drive-cage-removal.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3171aXL/aio-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3171aXL/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "drive-cage-drives",
+      "title": "Install drives in the cage",
+      "markdown": [
+        "content/en/shared/rackmount/xl-drive-cage-drives.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "drive-cage-installation",
+      "title": "Reinstall the drive cage",
+      "markdown": [
+        "content/en/shared/rackmount/xl-drive-cage-installation.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "rear-cover-removal",
+      "title": "Remove the rear slot cover",
+      "markdown": [
+        "content/en/shared/rackmount/riser-rear-cover-removal.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "gpu-brace",
+      "title": "Fit the GPU support brace",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-brace.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "gpu-installation",
+      "title": "Install the riser GPU",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-installation.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3171aXL/cable-management.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3171aXL/revision-history.md"
+      ]
+    }
+  ],
+  "CX3171iXL": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3171i XL",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3171iXL/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3171iXL/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3171iXL/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3171iXL/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3171iXL/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "hardware-gpukit",
+      "title": "GPU support kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware-gpukit.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3171iXL/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/two-fan-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3171iXL/aio-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3171iXL/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/shared/rackmount/3u-ssd-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or the filler blank",
+      "markdown": [
+        "content/en/3u/CX3171iXL/bay-devices.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on the filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "bay-bracket-drives",
+      "title": "Mount drives on the bay bracket",
+      "markdown": [
+        "content/en/3u/CX3171iXL/bay-bracket-drives.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3171iXL/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "rear-cover-removal",
+      "title": "Remove the rear slot cover",
+      "markdown": [
+        "content/en/shared/rackmount/riser-rear-cover-removal.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "gpu-brace",
+      "title": "Fit the GPU support brace",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-brace.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "gpu-installation",
+      "title": "Install the riser GPU",
+      "markdown": [
+        "content/en/shared/rackmount/riser-gpu-installation.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3171iXL/cable-management.md"
+      ]
+    },
+    {
+      "page": 30,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 31,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 32,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3171iXL/revision-history.md"
+      ]
+    }
+  ],
+  "CX3172aXL": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3172a XL",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3172aXL/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3172aXL/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3172aXL/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3172aXL/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3172aXL/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/fan-installation.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3172aXL/aio-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/3u/CX3172aXL/ssd-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3172aXL/psu-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3172aXL/cable-management.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3172aXL/revision-history.md"
+      ]
+    }
+  ],
+  "CX3172iXL": [
+    {
+      "page": 1,
+      "id": "cover",
+      "title": "CX3172i XL",
+      "markdown": []
+    },
+    {
+      "page": 2,
+      "id": "contents",
+      "title": "In this guide",
+      "markdown": [
+        "content/en/3u/CX3172iXL/contents.md"
+      ]
+    },
+    {
+      "page": 3,
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "markdown": [
+        "content/en/3u/CX3172iXL/exploded-view.md"
+      ]
+    },
+    {
+      "page": 4,
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "markdown": [
+        "content/en/3u/CX3172iXL/dimensions.md"
+      ]
+    },
+    {
+      "page": 5,
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "markdown": [
+        "content/en/3u/CX3172iXL/front-clearance.md"
+      ]
+    },
+    {
+      "page": 6,
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "markdown": [
+        "content/en/3u/CX3172iXL/specifications.md"
+      ]
+    },
+    {
+      "page": 7,
+      "id": "hardware",
+      "title": "Hardware kit",
+      "markdown": [
+        "content/en/shared/rackmount/hardware.md"
+      ]
+    },
+    {
+      "page": 8,
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "markdown": [
+        "content/en/shared/rackmount/front-ports.md"
+      ]
+    },
+    {
+      "page": 9,
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "markdown": [
+        "content/en/shared/rackmount/lid-removal.md"
+      ]
+    },
+    {
+      "page": 10,
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "markdown": [
+        "content/en/shared/rackmount/faceplate-removal.md"
+      ]
+    },
+    {
+      "page": 11,
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-removal.md"
+      ]
+    },
+    {
+      "page": 12,
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "markdown": [
+        "content/en/shared/rackmount/rack-ears.md"
+      ]
+    },
+    {
+      "page": 13,
+      "id": "bay-bracket-removal",
+      "title": "Remove the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3172iXL/bay-bracket-removal.md"
+      ]
+    },
+    {
+      "page": 14,
+      "id": "fan-installation",
+      "title": "Install front fans",
+      "markdown": [
+        "content/en/shared/rackmount/two-fan-installation.md"
+      ]
+    },
+    {
+      "page": 15,
+      "id": "aio-installation",
+      "title": "Install a front AIO radiator",
+      "markdown": [
+        "content/en/3u/CX3172iXL/aio-installation.md"
+      ]
+    },
+    {
+      "page": 16,
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-preparation.md"
+      ]
+    },
+    {
+      "page": 17,
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "markdown": [
+        "content/en/shared/rackmount/motherboard-installation.md"
+      ]
+    },
+    {
+      "page": 18,
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "markdown": [
+        "content/en/3u/CX3172iXL/ssd-installation.md"
+      ]
+    },
+    {
+      "page": 19,
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "markdown": [
+        "content/en/3u/CX3172iXL/psu-installation.md"
+      ]
+    },
+    {
+      "page": 20,
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "markdown": [
+        "content/en/shared/rackmount/gpu-installation.md"
+      ]
+    },
+    {
+      "page": 21,
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or the filler blank",
+      "markdown": [
+        "content/en/3u/CX3172iXL/bay-devices.md"
+      ]
+    },
+    {
+      "page": 22,
+      "id": "bay-blank-drives",
+      "title": "Mount drives on the filler blank",
+      "markdown": [
+        "content/en/shared/rackmount/bay-blank-drives.md"
+      ]
+    },
+    {
+      "page": 23,
+      "id": "bay-bracket-drives",
+      "title": "Mount drives on the bay bracket",
+      "markdown": [
+        "content/en/3u/CX3172iXL/bay-bracket-drives.md"
+      ]
+    },
+    {
+      "page": 24,
+      "id": "bay-bracket-installation",
+      "title": "Reinstall the 5.25-inch bay bracket",
+      "markdown": [
+        "content/en/3u/CX3172iXL/bay-bracket-installation.md"
+      ]
+    },
+    {
+      "page": 25,
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "markdown": [
+        "content/en/shared/rackmount/tray-installation.md"
+      ]
+    },
+    {
+      "page": 26,
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "markdown": [
+        "content/en/3u/CX3172iXL/cable-management.md"
+      ]
+    },
+    {
+      "page": 27,
+      "id": "support",
+      "title": "Warranty & support",
+      "markdown": [
+        "content/en/shared/warranty.md",
+        "content/en/shared/support.md"
+      ]
+    },
+    {
+      "page": 28,
+      "id": "regulations",
+      "title": "Regulations",
+      "markdown": [
+        "content/en/shared/regulations.md"
+      ]
+    },
+    {
+      "page": 29,
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "markdown": [
+        "content/en/3u/CX3172iXL/revision-history.md"
+      ]
+    }
+  ]
+}

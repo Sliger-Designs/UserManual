@@ -40,6 +40,22 @@ const Workspaces = (() => {
 
   function remove(pkg, commit, language) { localStorage.removeItem(key(pkg, commit, language)); }
 
+  /** Saved work in one language from every package's editor (this origin), except `exceptKey`. */
+  function sameLanguage(language, exceptKey) {
+    const found = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const storageKey = localStorage.key(i);
+      if (!storageKey || storageKey === exceptKey || !isLanguageKey(storageKey, language)) continue;
+      const saved = read(storageKey);
+      if (saved && saved.tm) found.push(saved);
+    }
+    return found.sort((a, b) => (b.savedAt || '').localeCompare(a.savedAt || ''));  // Newest first.
+  }
+
+  /** True for a workspace key (`sliger-translation:<package>:<commit>:<language>`) in this language. */
+  const isLanguageKey = (storageKey, language) =>
+    !!storageKey && storageKey.startsWith(PREFIX) && storageKey.split(':').length === 4 && storageKey.endsWith(':' + language);
+
   function languageName(code) {
     if (!code || code === UNDETERMINED) return '';
     try {
@@ -51,5 +67,5 @@ const Workspaces = (() => {
   const label = (code, name) => code === UNDETERMINED ? 'Translation without a language' : `${name || languageName(code) || code} (${code})`;
   const editorLink = (href, language, fresh) => `${href}?lang=${encodeURIComponent(language)}${fresh ? '&fresh=1' : ''}`;
 
-  return {CODE, UNDETERMINED, key, valid, read, list, migrate, remove, languageName, label, editorLink};
+  return {CODE, UNDETERMINED, key, valid, read, list, migrate, remove, sameLanguage, isLanguageKey, languageName, label, editorLink};
 })();
