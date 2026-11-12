@@ -1122,5 +1122,29 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/2UPullHandles.jpg": {
+    "path": "illustrations/published/common/common-3b388716e656.jpg",
+    "source_path": "illustrations/common/hardware/2UPullHandles.jpg",
+    "source_sha256": "3b388716e656659429d900a3c5aead81d4bcc03097887e6ffb78e9ec977aaad9",
+    "sha256": "9adeff6fe961388bf27b99eb53c9f3324575adf0658bc471c8a188d1c0b9c1ce",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/2URackEars.jpg": {
+    "path": "illustrations/published/common/common-0a0cb8fa2fec.jpg",
+    "source_path": "illustrations/common/hardware/2URackEars.jpg",
+    "source_sha256": "0a0cb8fa2fece5a67418a411ed7b2ecb5ef82ef20092b98b01d4a64242cdc4a9",
+    "sha256": "2bac4403ac89532ff6cf9ed0e5559d9d610b5177d6b270c87266df2db5bc45e0",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

@@ -493,5 +493,50 @@
       1200,
       515
     ]
+  },
+  "CX2177a": {
+    "path": "illustrations/published/covers/CX2177a-69530153b792.jpg",
+    "sha256": "043cec79e370f522803efe009dfb339f1862212fe09791cef8ac3653d1272691",
+    "source_path": "sources/web/covers/CX2177a-69530153b792.webp",
+    "source_sha256": "69530153b792bc93240c90c5e428d0aaf4fbe106bb016f4b1df61048a90aabce",
+    "product_url": "https://sliger.com/products/cx2177a",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/123.webp",
+    "retrieved_at": "2026-11-12T16:44:09.357103+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      623
+    ]
+  },
+  "CX2177c": {
+    "path": "illustrations/published/covers/CX2177c-76852e374b45.jpg",
+    "sha256": "1bb7be68a0a33d46cf06514ab56b4ec400fb9e72aa63ce9e7ba3347ec80f7945",
+    "source_path": "sources/web/covers/CX2177c-76852e374b45.webp",
+    "source_sha256": "76852e374b457f30f08a45b109066bc807a1d0a977250d44d61c391ee78dbdf7",
+    "product_url": "https://sliger.com/products/cx2177c",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/152.webp",
+    "retrieved_at": "2026-11-12T16:44:10.032364+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      643
+    ]
+  },
+  "CX2177x": {
+    "path": "illustrations/published/covers/CX2177x-d0f2d4c195b0.jpg",
+    "sha256": "f31337dda306a3d018166e524ea4c205d236bbd05b6ed2c98974cc66dce31515",
+    "source_path": "sources/web/covers/CX2177x-d0f2d4c195b0.webp",
+    "source_sha256": "d0f2d4c195b0a7b9c21f3b996771454762cab0ddd868ca9e1f50c8aaf863bbe2",
+    "product_url": "https://sliger.com/products/cx2177x",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/168.webp",
+    "retrieved_at": "2026-11-12T16:44:10.723906+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      657
+    ]
   }
 }

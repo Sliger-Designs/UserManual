@@ -1933,5 +1933,316 @@
       },
       "note": "Four full-height slots (import CSV and website)."
     }
+  },
+  "CX2177a": {
+    "gpu_length_baseline_mm": {
+      "value": 404,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "No front fans; total internal depth (import CSV)."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 378,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 25 mm front fans."
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 366,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 38 mm front fans."
+    },
+    "psu_atx": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "The website specifies a FlexATX power supply."
+    },
+    "psu_flex_atx": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      }
+    },
+    "pcie_slot_covers": {
+      "value": 7,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": 317,
+      "configuration": {
+        "aio": "Dynatron L34",
+        "fan_count": 4,
+        "stack_thickness_mm": 86.5
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "404 mm less the 86.5 mm L34 stack (radiator, fans and fan guards), rounded down."
+    },
+    "ssd_2_5_max": {
+      "value": 5,
+      "configuration": {
+        "rear_drive_bracket": 5
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Five 7 mm SSDs only when the 3.5-inch mounts are unused; otherwise one 3.5-inch HDD and one 2.5-inch SSD up to 15 mm."
+    },
+    "motherboard_xl_atx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12.8,
+        13
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "XL-ATX/EATX 12.8 × 13 inches (website)."
+    }
+  },
+  "CX2177c": {
+    "gpu_length_baseline_mm": {
+      "value": 404,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "No front fans; total internal depth (import CSV)."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 378,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 25 mm front fans."
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 366,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 38 mm front fans."
+    },
+    "psu_atx": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "The website specifies a FlexATX power supply."
+    },
+    "psu_flex_atx": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      }
+    },
+    "pcie_slot_covers": {
+      "value": 7,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": null,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "AIO not officially supported: three fan positions; the three-fan Dynatron L35 interferes with the drive brackets."
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "AIO not officially supported on the c and x models."
+    },
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches."
+    },
+    "ssd_2_5_max": {
+      "value": 7,
+      "configuration": {
+        "front_drive_cage": 2,
+        "rear_drive_bracket": 5
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Front cage: one above the 3.5-inch drives up to 15 mm, one below 7 mm. Rear five 7 mm only when the 3.5-inch HDD mounts are unused."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "front_drive_cage": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Up to 25 mm thick; plus two external 3.5-inch adapter bays."
+    }
+  },
+  "CX2177x": {
+    "gpu_length_baseline_mm": {
+      "value": 404,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "No front fans; total internal depth (import CSV)."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 378,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 25 mm front fans."
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 366,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 38 mm front fans."
+    },
+    "psu_atx": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "The website specifies a FlexATX power supply."
+    },
+    "psu_flex_atx": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      }
+    },
+    "pcie_slot_covers": {
+      "value": 7,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": null,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "AIO not officially supported: three fan positions; the three-fan Dynatron L35 interferes with the drive brackets."
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "AIO not officially supported on the c and x models."
+    },
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches."
+    },
+    "ssd_2_5_max": {
+      "value": 12,
+      "configuration": {
+        "front_drive_cage": 7,
+        "rear_drive_bracket": 5
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2177-family.md"
+      },
+      "note": "Website: seven 7 mm in the front cage and five 7 mm in the rear bracket when their 3.5-inch mounts are unused."
+    },
+    "hdd_3_5_max": {
+      "value": 4,
+      "configuration": {
+        "front_drive_cage": 2,
+        "rear_drive_bracket": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2177-family.md"
+      },
+      "note": "Front up to 25 mm, rear up to 20 mm thick (website)."
+    }
   }
 }

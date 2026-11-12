@@ -1,0 +1,77 @@
+{
+  "asset_key": "CX2177x-CHASSIS_EXPLODE.jpg",
+  "source_sha256": "85b630d1e5ab546f7223ee3b0ecb7b8369e1f60628844839de17e96efdafc994",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.595581466707579,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on supplied exploded view 2026-11-12; review before release. Rack ears and pull handles are not drawn.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.55,
+        0.25
+      ],
+      "badge": [
+        0.3,
+        0.12
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate",
+      "target": [
+        0.3,
+        0.75
+      ],
+      "badge": [
+        0.2,
+        0.88
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.125,
+        0.548
+      ],
+      "badge": [
+        0.03,
+        0.62
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap",
+      "target": [
+        0.8,
+        0.62
+      ],
+      "badge": [
+        0.88,
+        0.8
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Filter foam",
+      "target": [
+        0.3,
+        0.6
+      ],
+      "badge": [
+        0.04,
+        0.42
+      ]
+    }
+  ]
+}

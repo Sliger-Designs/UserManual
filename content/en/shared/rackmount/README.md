@@ -19,3 +19,5 @@ Front connectors default to the supplied grayscale drawings. The front-panel loc
 `xl-drive-cage-removal.md`, `xl-drive-cage-drives.md` and `xl-drive-cage-installation.md` cover the drive cage on the CX3170a XL and CX3171a XL motherboard trays (confirmed 2026-11-05).
 
 `motherboard-preparation-no-standoffs.md` and `motherboard-installation-no-standoffs.md` are for chassis whose boards mount without standoffs (CX3701, CX3702; confirmed 2026-11-04).
+
+`2u-lid-removal.md`, `2u-motherboard-preparation.md`, `2u-gpu-installation.md` and `2u-front-ports.md` are the 2U versions of the shared pages: 2U chassis have no motherboard tray (boards mount on standoffs in the chassis floor) and their front panel has a power switch and two USB Type-A ports, without USB-C (CX2177 family, 2026-11-12).

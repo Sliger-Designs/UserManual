@@ -15,7 +15,7 @@ from PIL import Image
 
 from image_callouts import with_callouts
 from manual_assets import (LAYOUT_CHECK, build_directory, check_release, content_fingerprint, cover_photo, front_io_content,
-                           number_pdf_pages, retire_english_draft, split_contact, quantity_display, validate_template)
+                           number_pdf_pages, pending_image, retire_english_draft, split_contact, quantity_display, validate_template)
 from manual_localization import Localizer
 from manual_paths import MODEL_CATEGORIES, ROOT, content_directory, published_directory
 from review_marks import borrowed_sources, colour, marked_data_uri
@@ -56,7 +56,7 @@ def content_inset(path, pad=0.03):
 def top_view_drawing(item):
     """Top-view clearance drawings are tall: their notes go in a left column and the drawing's
     empty margins are cropped so it fills the rest of the page."""
-    return item['layout'] == 'reference-drawing' and any('TOP VIEW' in name.upper() for name in item['images'])
+    return item['layout'] == 'reference-drawing' and any('TOP VIEW' in name.upper() for name in item['images'] if not pending_image(name))
 
 
 def load(model):
@@ -170,6 +170,10 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
         page['images'] = []
         page['side_notes'] = top_view_drawing(item)
         for name in item['images']:
+            if pending_image(name) is not None:
+                text = L.text(pending_image(name), 'pending illustration placeholder', number)
+                page['images'].append({'pending': text, 'key': name, 'src': '', 'alt': text, 'review': None, 'style': ''})
+                continue
             asset = assets[name]
             path = ROOT / asset['path']
             assert hashlib.sha256(path.read_bytes()).hexdigest() == asset['sha256']
@@ -224,6 +228,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     if english:
         check_release(model, MODEL_CATEGORIES[model], manual['revision'], fingerprint)
     if released:
+        assert not any(pending_image(name) is not None for item in manual['pages'] for name in item['images']), 'A release cannot contain pending-illustration placeholders'
         assert manual.get('release_date') and re.fullmatch(r'v\d+\.\d+', manual['revision']), 'A release needs release_date and a vN.N revision'
         out = ROOT / '_build/releases/chassis' / model / manual['revision']
         retire_english_draft(model)
@@ -307,7 +312,8 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     assert all(letter in hardware_by_letter for item in manual['pages'] for group in item.get('hardware_callouts', []) for letter in group)
     assert len(next(item for item in manual['pages'] if item['id'] == 'regulations')['images']) == 4
     report = {'model': manual['model'], 'revision': manual['revision'], 'pages': len(pdf), 'language': L.language,
-              'selected_images': len({name for item in manual['pages'] for name in item['images']}),
+              'selected_images': len({name for item in manual['pages'] for name in item['images'] if pending_image(name) is None}),
+              'pending_images': sorted({pending_image(name) for item in manual['pages'] for name in item['images'] if pending_image(name) is not None}),
               'checks': ['image hashes and loading', 'hardware A–I key and procedure references', 'internal links and generated page references', 'all four source regulatory images included', 'no page overflow or footer collisions', 'expected PDF page count and titles', 'landscape Letter page size', 'approved values present (text_checks.required)', 'superseded or unsupported values absent (text_checks.forbidden)',
                          'reference sections 4.1–4.3 body wording and repeated contact details match verbatim (whitespace normalized)' if english else 'translated text from ' + L.describe()],
               'applied_compatibility_rules': [{'id': rule['id'], 'page_id': rule['page_id']} for rule in applied_rules],

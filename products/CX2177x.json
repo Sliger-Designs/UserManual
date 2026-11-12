@@ -1,0 +1,768 @@
+{
+  "schema_version": 1,
+  "sku": "CX2177x",
+  "status": "draft",
+  "release_ready": false,
+  "review_issues": [],
+  "authority": "Explicit decisions in products/overrides.json take precedence, then populated compatibility entries; blanks mean unknown.",
+  "facts": {
+    "product_type": {
+      "value": "Rackmount",
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Product Type"
+      },
+      "raw": "Rackmount"
+    },
+    "height_description": {
+      "value": "2U (3.46\")",
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Height"
+      },
+      "raw": "2U (3.46\")"
+    },
+    "depth_in": {
+      "value": 17,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Depth(in.)"
+      },
+      "raw": "17"
+    },
+    "width_in": {
+      "value": 17,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Width(in.)"
+      },
+      "raw": "17"
+    },
+    "volume_l": {
+      "value": 16.4,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Volume(L)"
+      },
+      "raw": "16.4"
+    },
+    "material": {
+      "value": "Galvanized steel",
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Material"
+      },
+      "raw": "Galvanized steel"
+    },
+    "feature": {
+      "value": "3.5in HDD cage",
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Main feature"
+      },
+      "raw": "3.5in HDD cage"
+    },
+    "front_bays": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Front Bay(s)"
+      },
+      "raw": ""
+    },
+    "ssd_2_5_max": {
+      "value": 12,
+      "configuration": {
+        "front_drive_cage": 7,
+        "rear_drive_bracket": 5
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2177-family.md"
+      },
+      "note": "Website: seven 7 mm in the front cage and five 7 mm in the rear bracket when their 3.5-inch mounts are unused."
+    },
+    "hdd_3_5_max": {
+      "value": 4,
+      "configuration": {
+        "front_drive_cage": 2,
+        "rear_drive_bracket": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2177-family.md"
+      },
+      "note": "Front up to 25 mm, rear up to 20 mm thick (website)."
+    },
+    "fans_max_description": {
+      "value": "3x 80mm",
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Max Supported Fans"
+      },
+      "raw": "3x 80mm"
+    },
+    "front_fans_default": {
+      "value": "3x 80mm",
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Front Fan Support(default)"
+      },
+      "raw": "3x 80mm"
+    },
+    "front_fans_max": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Front Fan Support(Max)"
+      },
+      "raw": ""
+    },
+    "mid_fans_default": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Mid Chassis Fan Support"
+      },
+      "raw": ""
+    },
+    "mid_fans_max": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Mid-Chassis Fans(Max)"
+      },
+      "raw": ""
+    },
+    "exhaust_fans": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Exhaust Fan Support"
+      },
+      "raw": ""
+    },
+    "rear_fan_kit": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "KIT-REARFAN Support"
+      },
+      "raw": "FALSE"
+    },
+    "top_fan_kit": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "KIT-TOPFAN Support"
+      },
+      "raw": "FALSE"
+    },
+    "air_cooler_height_max_mm": {
+      "value": 66,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Max Air Cooler Height (mm)"
+      },
+      "raw": "66"
+    },
+    "aio_2u": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "AIO not officially supported on the c and x models."
+    },
+    "aio_92": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "92mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_120": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "120mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_140": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "140mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_240": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "240mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_280": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "280mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "aio_360": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "360mm AIO"
+      },
+      "raw": "FALSE"
+    },
+    "psu_flex_atx": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      }
+    },
+    "psu_sfx_sfx_l": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "SFX/SFX-L PSU"
+      },
+      "raw": "FALSE"
+    },
+    "psu_crps": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "CRPS PSU"
+      },
+      "raw": "FALSE"
+    },
+    "psu_atx": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "The website specifies a FlexATX power supply."
+    },
+    "motherboard_mini_itx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Mini-ITX MoBo"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_micro_atx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "MicroATX MoBo"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_atx": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "ATX MoBo(10.5\" deep max)"
+      },
+      "raw": "TRUE"
+    },
+    "motherboard_eatx_13in": {
+      "value": true,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "EATX MoBo(13\" deep max)"
+      },
+      "raw": "TRUE"
+    },
+    "riser_pcie_5": {
+      "value": false,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "5.0 Riser"
+      },
+      "raw": "FALSE"
+    },
+    "riser_bifurcation": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Bifurcation Riser"
+      },
+      "raw": ""
+    },
+    "pcie_slots": {
+      "value": "7x Half Height",
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "PCIe Slots"
+      },
+      "raw": "7x Half Height"
+    },
+    "gpu_height_max_mm": {
+      "value": 72,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "Max GPU Height (mm)"
+      },
+      "raw": "72"
+    },
+    "gpu_length_baseline_mm": {
+      "value": 404,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "No front fans; total internal depth (import CSV)."
+    },
+    "gpu_length_fans_only_mm": {
+      "value": 378,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 25 mm front fans."
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": null,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "AIO not officially supported: three fan positions; the three-fan Dynatron L35 interferes with the drive brackets."
+    },
+    "gpu_length_max_cooling_mm": {
+      "value": null,
+      "source": {
+        "id": "compatibility",
+        "record": 41,
+        "column": "MAX GPU Length (Max cooling)"
+      },
+      "raw": ""
+    },
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 431.8,
+        "width": 431.8,
+        "height": 87.88
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2177x-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (17 × 17 × 3.46 inches); the bulk-create 330.2 mm depth was copied from the CX2130."
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 2U chassis use the same rack ears; the CX2177a/x renders show two M4 screws per side."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    },
+    "psu_length_max_mm": {
+      "value": 250,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2177x-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "FlexATX power supply. Longer units interfere with the c and x drive hardware."
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 366,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "With 38 mm front fans."
+    },
+    "pcie_slot_covers": {
+      "value": 7,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches."
+    },
+    "hardware_bag_part_number": {
+      "value": "SBAG-HWKIT",
+      "source": {
+        "id": "decision",
+        "date": "2026-10-27",
+        "record": "products/shared/SBAG-HWKIT.json"
+      },
+      "note": "All rackmount chassis share this screwbag as confirmed."
+    }
+  },
+  "manual_copy_candidates": {
+    "Slug": {
+      "text": "17\" DEEP 2U CHASSIS WITH DRIVE CAGE",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Slug"
+      },
+      "status": "needs_review"
+    },
+    "Chassis Depth": {
+      "text": "13in / 330.20mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Chassis Depth"
+      },
+      "status": "needs_review"
+    },
+    "Chassis Width": {
+      "text": "17in / 431.8mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Chassis Width"
+      },
+      "status": "needs_review"
+    },
+    "Chassis Height": {
+      "text": "3.46in / 87.88mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Chassis Height"
+      },
+      "status": "needs_review"
+    },
+    "Mobo Support": {
+      "text": "Mini-ITX, MicroATX, ATX, EATX, SSI-CEB, SSI-EEB",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Mobo Support"
+      },
+      "status": "needs_review"
+    },
+    "PSU Support": {
+      "text": "ATX form factor",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "PSU Support"
+      },
+      "status": "needs_review"
+    },
+    "Storage Support": {
+      "text": "Mounting locations for: 12x 2.5\" SSD, 4x 3.5\" HDD",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Storage Support"
+      },
+      "status": "needs_review"
+    },
+    "Storage Disclaimer": {
+      "text": "*The above lists mounting locations. Not every mounting location can be use simultaneously.",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Storage Disclaimer"
+      },
+      "status": "needs_review"
+    },
+    "Front Bays": {
+      "text": "Internal 3.5\" HDD Cage",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Front Bays"
+      },
+      "status": "needs_review"
+    },
+    "GPU / PCIe Card Support": {
+      "text": "7x Half Height Slots",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "GPU / PCIe Card Support"
+      },
+      "status": "needs_review"
+    },
+    "Max Card Height": {
+      "text": "72mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Max Card Height"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with x Fans": {
+      "text": "25mm fans: 376mm - including power connectors",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Max Length with x Fans"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with AIO push": {
+      "text": "38mm fan: 363mm - including power connectors",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Max Length with AIO push"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with AIO push-pull": {
+      "text": null,
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Max Length with AIO push-pull"
+      },
+      "status": "needs_review"
+    },
+    "AIO Disclaimer": {
+      "text": null,
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "AIO Disclaimer"
+      },
+      "status": "needs_review"
+    },
+    "Max Length with no AIO/Fans": {
+      "text": "404mm",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Max Length with no AIO/Fans"
+      },
+      "status": "needs_review"
+    },
+    "CPU Air Compatibility": {
+      "text": "66mm tall",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "CPU Air Compatibility"
+      },
+      "status": "needs_review"
+    },
+    "AIO Compatibility": {
+      "text": null,
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "AIO Compatibility"
+      },
+      "status": "needs_review"
+    },
+    "Front Fans": {
+      "text": "3x 80mm fans up to 38mm thick",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Front Fans"
+      },
+      "status": "needs_review"
+    },
+    "Rear Fans": {
+      "text": null,
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Rear Fans"
+      },
+      "status": "needs_review"
+    },
+    "Front IO": {
+      "text": "2x USB 3.0 Type A",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "Front IO"
+      },
+      "status": "needs_review"
+    },
+    "G - Slot Covers": {
+      "text": "7",
+      "source": {
+        "id": "bulk_create",
+        "record": 43,
+        "column": "G - Slot Covers"
+      },
+      "status": "needs_review"
+    }
+  },
+  "source_records": {
+    "compatibility": {
+      "record": 41,
+      "fields": {
+        "SKU": "CX2177x",
+        "Name": "Sliger CX2177x, 2U 17in Rackmount Server Case - 3.5in Cage, EEB/EATX/CEB/ATX and FlexATX PSU Support",
+        "Product Type": "Rackmount",
+        "Height": "2U (3.46\")",
+        "Depth(in.)": "17",
+        "Width(in.)": "17",
+        "Volume(L)": "16.4",
+        "Material": "Galvanized steel",
+        "Main feature": "3.5in HDD cage",
+        "Front Bay(s)": "",
+        "Internal 2.5 SSD (Max)": "12",
+        "Internal 3.5 HDD (Max)": "4",
+        "Max Supported Fans": "3x 80mm",
+        "Front Fan Support(default)": "3x 80mm",
+        "Front Fan Support(Max)": "",
+        "Mid Chassis Fan Support": "",
+        "Mid-Chassis Fans(Max)": "",
+        "Exhaust Fan Support": "",
+        "KIT-REARFAN Support": "FALSE",
+        "KIT-TOPFAN Support": "FALSE",
+        "Max Air Cooler Height (mm)": "66",
+        "2U AIO": "FALSE",
+        "92mm AIO": "FALSE",
+        "120mm AIO": "FALSE",
+        "140mm AIO": "FALSE",
+        "240mm AIO": "FALSE",
+        "280mm AIO": "FALSE",
+        "360mm AIO": "FALSE",
+        "FlexATX PSU": "TRUE",
+        "SFX/SFX-L PSU": "FALSE",
+        "CRPS PSU": "FALSE",
+        "ATX PSU": "FALSE",
+        "Mini-ITX MoBo": "TRUE",
+        "MicroATX MoBo": "TRUE",
+        "ATX MoBo(10.5\" deep max)": "TRUE",
+        "EATX MoBo(13\" deep max)": "TRUE",
+        "5.0 Riser": "FALSE",
+        "Bifurcation Riser": "",
+        "PCIe Slots": "7x Half Height",
+        "Max GPU Height (mm)": "72",
+        "Max GPU Length Baseline(mm)": "395",
+        "Max GPU Length(Only Fans)(mm)": "375",
+        "Max GPU Length(fans+AIO)(mm)": "364",
+        "MAX GPU Length (Max cooling)": "",
+        "Chassis Weight": "12",
+        "Shipped Weight": "15.25",
+        "Item Package Length": "20.5",
+        "Item Package Width": "20.5",
+        "Item Package Height": "7.5",
+        "User Manual": "FALSE",
+        "Data Sheet": "FALSE",
+        "Dimension Dwg": "FALSE",
+        "NC CAD Model": "TRUE"
+      }
+    },
+    "bulk_create": {
+      "record": 43,
+      "fields": {
+        "Chassis Model": "CX2177x",
+        "Slug": "17\" DEEP 2U CHASSIS WITH DRIVE CAGE\n",
+        "Chassis Depth": "13in / 330.20mm",
+        "Chassis Width": "17in / 431.8mm",
+        "Chassis Height": "3.46in / 87.88mm",
+        "Mobo Support": "Mini-ITX, MicroATX, ATX, EATX, SSI-CEB, SSI-EEB",
+        "PSU Support": "ATX form factor",
+        "Storage Support": "Mounting locations for: 12x 2.5\" SSD, 4x 3.5\" HDD\n",
+        "Storage Disclaimer": "*The above lists mounting locations. Not every mounting location can be use simultaneously.",
+        "Front Bays": "Internal 3.5\" HDD Cage",
+        "GPU / PCIe Card Support": "7x Half Height Slots\n",
+        "Max Card Height": "72mm",
+        "Max Length with x Fans": "25mm fans: 376mm - including power connectors",
+        "Max Length with AIO push": "38mm fan: 363mm - including power connectors",
+        "Max Length with AIO push-pull": "",
+        "AIO Disclaimer": "",
+        "Max Length with no AIO/Fans": "404mm",
+        "CPU Air Compatibility": "66mm tall",
+        "AIO Compatibility": "",
+        "Front Fans": "3x 80mm fans up to 38mm thick",
+        "Rear Fans": "",
+        "Front IO": "2x USB 3.0 Type A\n",
+        "G - Slot Covers": "7"
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "asset_key": "_CX2177x_FRONT.tif",
+  "source_sha256": "0c8960a2a3fa2ff35e6b3d9d5163221d0b1e0e28c82baccd3d6f9dcd511fb85d",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 2.0,
+  "view_box": [
+    0.0,
+    0.24,
+    0.2,
+    0.52
+  ],
+  "badge_radius_height_fraction": 0.02,
+  "font_size_height_fraction": 0.026,
+  "review_status": "Positions measured on the CX2177x front render 2026-11-12; review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Power switch and status light",
+      "target": [
+        0.12,
+        0.5675
+      ],
+      "badge": [
+        0.12,
+        0.72
+      ]
+    },
+    {
+      "number": 2,
+      "label": "USB Type-A ports",
+      "targets": [
+        [
+          0.1071,
+          0.4025
+        ],
+        [
+          0.1329,
+          0.4025
+        ]
+      ],
+      "badge": [
+        0.12,
+        0.27
+      ]
+    }
+  ]
+}

@@ -22,7 +22,7 @@ Confirmed 2026-11-04:
 - Rack ears and pull handles are shared within each height: one 2U, one 3U and one 4U pair
   (`illustrations/common/hardware/{2U,3U,4U}{RackEars,PullHandles}.jpg`).
 - 2U chassis have no motherboard tray, so they need no tray renders. 2U AIO renders may be
-  supplied later; until then 2U manuals describe AIO installation in text.
+  supplied later; until then 2U manuals describe AIO installation in text beside a grey placeholder.
 - The CX3701 and CX3702 do not use motherboard standoffs. Of their successors (website concepts),
   the CX3150n (CX3701 "v2") uses no standoffs and the CX3180n (CX3702 "v2") uses standoffs.
 - The CX3151i standoff, I/O-shield, motherboard, PSU and SSD steps use the CX3151x renders
@@ -64,6 +64,16 @@ Confirmed 2026-11-04:
 |  | CX4712 | Exploded view; motherboard-tray removal and reinstallation renders (as CX4713 5a–5f; the tray is removable) | Grey placeholders on the exploded-view and tray pages |
 |  | CX4713 | Exploded view; product render | Grey placeholder on the exploded-view page |
 
+## 2U prototypes: open items
+
+| Done | Model | Needed | Effect until supplied |
+|---|---|---|---|
+|  | CX2177a, CX2177c, CX2177x | Exploded views with the rack ears and pull handles (the supplied views show neither) | The part key leaves out the "Rack ear & pull handle" callout |
+|  | CX2177a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
+|  | CX2177x | Rear drive bracket with 2.5-inch SSDs (as CX2177a step 4c) | Grey placeholder on the rear-bracket drive page |
+|  | CX2177c | Top-view and front-view clearance drawings; front-panel render (`_CX2177c_FRONT`) | Grey placeholders on the clearance and front-port pages |
+|  | CX2177c | Numbered step renders of the current design (the supplied renders are unnumbered and several show an earlier layout); confirm the step mapping in the draft, e.g. `_CX2177c_BRACKET INSTALL` used for the GPU and slot-cover step | The draft uses the supplied renders as mapped |
+
 ## Cable management (not blocking V1)
 
 Wanted for every rackmount manual, but no manual waits for them: until supplied, the
@@ -78,6 +88,7 @@ equivalent view.
 |  | CX3170i XL, CX3171a XL, CX3171i XL | Their own cable-management renders (the CX3170a XL render is used; blue review dot in draft builds). Not a release blocker |
 |  | CX3172i XL | Its own cable-management render (the CX3172a XL render is used; blue review dot in draft builds). Not a release blocker |
 |  | CX3701, CX3702 | Cable-management bar highlighted on the tray |
+|  | CX2177a, CX2177c, CX2177x | Cable-management renders (grey placeholder in the drafts). Not a release blocker |
 
 Every 3U and 2U manual built later joins this list unless its render set includes the view.
 
@@ -103,4 +114,3 @@ built. No tray renders are needed (see above).
 |  | CX2130x | none | Everything |
 |  | CX2137a, CX2137b | 29 / 31 | To confirm (cover render and exploded view for CX2137a) |
 |  | CX2151a, CX2151c, CX2151x | 25 / 31 / 23 | SSD step (CX2151a/c); clearance drawings and cover render (CX2151x); exploded views |
-|  | CX2177a, CX2177c, CX2177x | 29 / 27 / 31 | To confirm; CX2177c also clearance drawings, cover and front-panel renders |
