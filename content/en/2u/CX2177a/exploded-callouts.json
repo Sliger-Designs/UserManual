@@ -1,8 +1,8 @@
 {
-  "asset_key": "CX2177a-CHASSIS_EXPLODE.jpg",
-  "source_sha256": "9b45d4abf12b211a7faeab9c6b76876d8d1819457cd7c133a15d75bd18eb6293",
+  "asset_key": "CX2177a-CHASSIS_EXPLODE-REV20261112.jpg",
+  "source_sha256": "1b64ed311a63d644e6d75f9dc18474d84187c652ca65734c770a09e05f0c5d19",
   "coordinate_space": "uncropped_image",
-  "aspect_ratio": 1.609907120743034,
+  "aspect_ratio": 1.965230536659108,
   "view_box": [
     0,
     0,
@@ -11,7 +11,7 @@
   ],
   "badge_radius_height_fraction": 0.024,
   "font_size_height_fraction": 0.032,
-  "review_status": "Callouts placed on supplied exploded view 2026-11-12; review before release. Rack ears and pull handles are not drawn.",
+  "review_status": "Callouts placed on the REV20261112 exploded view (with rack ears and pull handles) 2026-11-12; review before release.",
   "callouts": [
     {
       "number": 1,
@@ -30,23 +30,23 @@
       "label": "Faceplate",
       "target": [
         0.25,
-        0.74
+        0.7
       ],
       "badge": [
         0.15,
-        0.88
+        0.92
       ]
     },
     {
       "number": 3,
       "label": "Front I/O assembly",
       "target": [
-        0.57,
-        0.8
+        0.508,
+        0.72
       ],
       "badge": [
-        0.6,
-        0.96
+        0.505,
+        0.97
       ]
     },
     {
@@ -66,11 +66,23 @@
       "label": "Filter foam",
       "target": [
         0.3,
-        0.59
+        0.555
       ],
       "badge": [
-        0.04,
-        0.42
+        0.06,
+        0.36
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.548,
+        0.8
+      ],
+      "badge": [
+        0.628,
+        0.95
       ]
     }
   ]

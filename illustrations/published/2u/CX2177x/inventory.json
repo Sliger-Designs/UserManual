@@ -521,6 +521,29 @@
       "note": "Supplied original; configuration applicability requires reference review."
     },
     {
+      "id": "cx2177x-be434143ac61",
+      "original_filename": "CX2177x-CHASSIS_EXPLODE-REV20261112.jpg",
+      "local_path": "illustrations/2u/CX2177x/CX2177x-CHASSIS_EXPLODE-REV20261112.jpg",
+      "width_px": 5200,
+      "height_px": 2672,
+      "format": "JPEG",
+      "size_bytes": 1473712,
+      "sha256": "66e580cb2c430449ab3c8bf11ed319bb37ad49545c436e8d3dbfa408628a2363",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177x/CX2177x-CHASSIS_EXPLODE-REV20261112-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx2177x-2e498be6d56d",
       "original_filename": "CX2177x-CHASSIS_EXPLODE.jpg",
       "local_path": "illustrations/2u/CX2177x/CX2177x-CHASSIS_EXPLODE.jpg",

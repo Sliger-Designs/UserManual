@@ -3,6 +3,29 @@
   "model": "CX2177c",
   "items": [
     {
+      "id": "cx2177c-b42808130693",
+      "original_filename": "CX2177c-CHASSIS_EXPLODE-REV20261112.jpg",
+      "local_path": "illustrations/2u/CX2177c/CX2177c-CHASSIS_EXPLODE-REV20261112.jpg",
+      "width_px": 5200,
+      "height_px": 2646,
+      "format": "JPEG",
+      "size_bytes": 1281846,
+      "sha256": "d97447c19d9e898a363181a0b3ed4a531366b8bb2e6e5dfe182e1ed5a2251c40",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177c/CX2177c-CHASSIS_EXPLODE-REV20261112-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx2177c-d94c64a8cca9",
       "original_filename": "CX2177c-CHASSIS_EXPLODE.jpg",
       "local_path": "illustrations/2u/CX2177c/CX2177c-CHASSIS_EXPLODE.jpg",
@@ -94,6 +117,41 @@
       "format": "JPEG",
       "size_bytes": 137050,
       "sha256": "6d7d44dec8875ae95b68563c775711625b8ede665b9052cfe03357bc31507326",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2177c-690b1c6093db",
+      "original_filename": "_CX2177c_ADVANCED_FRONT VIEW.jpg",
+      "local_path": "illustrations/2u/CX2177c/_CX2177c_ADVANCED_FRONT VIEW.jpg",
+      "width_px": 5345,
+      "height_px": 3818,
+      "format": "JPEG",
+      "size_bytes": 945241,
+      "sha256": "fcf5fffff71bab08b16e9167b7e33193aae57d1d6d26a1e0d1abea29a58620a0",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177c/_CX2177c_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177c-3c81a96448f3",
+      "original_filename": "_CX2177c_ADVANCED_TOP VIEW.webp",
+      "local_path": "illustrations/2u/CX2177c/_CX2177c_ADVANCED_TOP VIEW.webp",
+      "width_px": 1600,
+      "height_px": 1143,
+      "format": "WEBP",
+      "size_bytes": 98112,
+      "sha256": "2bf132776bfa62fb827da971bca8c1e3a163f80d4bb754fed938822f128b61dd",
       "selection_status": "candidate",
       "note": "Supplied original; configuration applicability requires reference review."
     },
