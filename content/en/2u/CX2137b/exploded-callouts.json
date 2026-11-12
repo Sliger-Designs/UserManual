@@ -1,8 +1,8 @@
 {
-  "asset_key": "_CX2137b.jpg",
-  "source_sha256": "c4f6cc2de166624144726794822c2fec86cb1e3142bdc781fdebae8ad0c5d109",
+  "asset_key": "CX2137b-CHASSIS_EXPLODE-REV20261112.jpg",
+  "source_sha256": "e34f888dce0341ab28a8d8373275ba76c19ca0083a1888cc086dfb78fd9b005a",
   "coordinate_space": "uncropped_image",
-  "aspect_ratio": 1.4991119005328597,
+  "aspect_ratio": 1.888848528877588,
   "view_box": [
     0,
     0,
@@ -11,66 +11,78 @@
   ],
   "badge_radius_height_fraction": 0.024,
   "font_size_height_fraction": 0.032,
-  "review_status": "Callouts placed on the supplied exploded view 2026-11-12; review before release. Rack ears and pull handles are not drawn.",
+  "review_status": "Callouts placed on the REV20261112 exploded view (with rack ears and pull handles) 2026-11-12; review before release.",
   "callouts": [
     {
       "number": 1,
       "label": "Lid",
       "target": [
         0.55,
-        0.38
+        0.25
       ],
       "badge": [
-        0.35,
-        0.2
+        0.3,
+        0.12
       ]
     },
     {
       "number": 2,
       "label": "Faceplate",
       "target": [
-        0.3,
-        0.62
+        0.25,
+        0.68
       ],
       "badge": [
-        0.22,
-        0.74
+        0.15,
+        0.92
       ]
     },
     {
       "number": 3,
       "label": "Front I/O assembly",
       "target": [
-        0.535,
-        0.69
+        0.565,
+        0.72
       ],
       "badge": [
-        0.55,
-        0.85
+        0.56,
+        0.97
       ]
     },
     {
       "number": 4,
       "label": "Chassis wrap",
       "target": [
-        0.75,
+        0.8,
         0.62
       ],
       "badge": [
-        0.82,
-        0.75
+        0.88,
+        0.8
       ]
     },
     {
       "number": 5,
       "label": "Filter foam",
       "target": [
-        0.33,
-        0.5
+        0.3,
+        0.515
       ],
       "badge": [
-        0.1,
-        0.38
+        0.06,
+        0.36
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.615,
+        0.8
+      ],
+      "badge": [
+        0.695,
+        0.95
       ]
     }
   ]

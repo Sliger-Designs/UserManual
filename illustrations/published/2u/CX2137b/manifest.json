@@ -492,14 +492,14 @@
       "full_resolution_sha256": "863f7ab9fa2d15b2aa9332b73e01d95f28e65695e6d7ba9c5a964b4494f0eff4"
     }
   },
-  "_CX2137b.jpg": {
-    "path": "illustrations/published/2u/CX2137b/cx2137b-31a62a9809cc.jpg",
-    "source_path": "illustrations/2u/CX2137b/_CX2137b.jpg",
-    "source_sha256": "c4f6cc2de166624144726794822c2fec86cb1e3142bdc781fdebae8ad0c5d109",
-    "sha256": "d6fa5f7c259fbfe9aaf600102f6cf3d2ad27e16b59c18adaff6388c4f5a6ff49",
+  "CX2137b-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2137b/cx2137b-64b0139b7aef.jpg",
+    "source_path": "illustrations/2u/CX2137b/CX2137b-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "e34f888dce0341ab28a8d8373275ba76c19ca0083a1888cc086dfb78fd9b005a",
+    "sha256": "2a0c9b71353db2714642e16336a78c853e9f5ba3330b4e03b17da98f23e50fcb",
     "dimensions_px": [
-      1688,
-      1126
+      1800,
+      953
     ],
     "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
@@ -510,15 +510,15 @@
         251
       ],
       "tolerance_per_channel": 4,
-      "background_pixels_replaced": 1397901,
-      "total_pixels": 1900688,
+      "background_pixels_replaced": 7454463,
+      "total_pixels": 14315600,
       "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX2137b/_CX2137b-white.png",
+      "full_resolution_path": "_build/cleaned-renders/CX2137b/CX2137b-CHASSIS_EXPLODE-REV20261112-white.png",
       "full_resolution_dimensions_px": [
-        1688,
-        1126
+        5200,
+        2753
       ],
-      "full_resolution_sha256": "83dd11a61bc6aab2d97e0cc9f79069a894ab416af8a969eff8e6db73326669e0"
+      "full_resolution_sha256": "ea0f4d05ac518d2596d716a5eb23d00668c57914d059972b4bead024fc508998"
     }
   },
   "_CX2137b_ADVANCED_FRONT VIEW.jpg": {

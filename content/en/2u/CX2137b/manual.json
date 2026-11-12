@@ -64,12 +64,12 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "_CX2137b.jpg"
+        "CX2137b-CHASSIS_EXPLODE-REV20261112.jpg"
       ],
       "layout": "exploded",
       "layout_variant": "exploded-side",
       "image_annotations": {
-        "_CX2137b.jpg": "exploded-callouts.json"
+        "CX2137b-CHASSIS_EXPLODE-REV20261112.jpg": "exploded-callouts.json"
       }
     },
     {
@@ -380,14 +380,7 @@
       "layout": "text"
     }
   ],
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view with the rack ears and pull handles (the supplied view shows neither; the part key leaves them out).",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/2u/CX2137b/"
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "13\" DEEP 2U CHASSIS",
   "cover_description_detail": [
     "3 × 80 MM FAN MOUNTS"

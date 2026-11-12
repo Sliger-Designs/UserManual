@@ -492,6 +492,35 @@
       "full_resolution_sha256": "308e6a62c81dab7457f5c2e098ad17f9967e871f43ab66b3c5446dc7de92f5d2"
     }
   },
+  "CX2137a-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2137a/cx2137a-6e76f0bc072c.jpg",
+    "source_path": "illustrations/2u/CX2137a/CX2137a-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "454cc8ea8e5b43c2f6158b091a26e4160511a8b050ff173053a745a99028100f",
+    "sha256": "ed0a5b6fc38e6469618a5f16e191cdf23f0bc8ed5556f29bf609c372331321e7",
+    "dimensions_px": [
+      1800,
+      953
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7454463,
+      "total_pixels": 14315600,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2137a/CX2137a-CHASSIS_EXPLODE-REV20261112-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        2753
+      ],
+      "full_resolution_sha256": "909ebc81a98788c67a738b1ee931e544bed864a14c7135681f839c89b356e492"
+    }
+  },
   "_CX2137a_ADVANCED_FRONT VIEW.jpg": {
     "path": "illustrations/published/2u/CX2137a/cx2137a-8b45f4bed440.jpg",
     "source_path": "illustrations/2u/CX2137a/_CX2137a_ADVANCED_FRONT VIEW.jpg",
