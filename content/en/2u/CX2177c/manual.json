@@ -67,12 +67,12 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "CX2177c-CHASSIS_EXPLODE.jpg"
+        "CX2177c-CHASSIS_EXPLODE-REV20261112.jpg"
       ],
       "layout": "exploded",
       "layout_variant": "exploded-side",
       "image_annotations": {
-        "CX2177c-CHASSIS_EXPLODE.jpg": "exploded-callouts.json"
+        "CX2177c-CHASSIS_EXPLODE-REV20261112.jpg": "exploded-callouts.json"
       }
     },
     {
@@ -81,7 +81,7 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
-        "pending: Top-view clearance drawing needed (as _CX2177x_ADVANCED_TOP VIEW)"
+        "_CX2177c_ADVANCED_TOP VIEW.webp"
       ],
       "layout": "reference-drawing"
     },
@@ -91,7 +91,7 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "front-clearance.md",
       "images": [
-        "pending: Front-view clearance drawing needed (as _CX2177x_ADVANCED_FRONT VIEW)"
+        "_CX2177c_ADVANCED_FRONT VIEW.jpg"
       ],
       "layout": "reference-drawing"
     },
@@ -406,18 +406,6 @@
     }
   ],
   "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view with the rack ears and pull handles (the supplied view shows neither; the part key leaves them out).",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/2u/CX2177c/"
-    },
-    {
-      "id": "M02",
-      "needed": "Top-view and front-view clearance drawings.",
-      "section": "dimensions",
-      "suggested_folder": "illustrations/2u/CX2177c/"
-    },
     {
       "id": "M03",
       "needed": "Front-panel render (_CX2177c_FRONT) for the numbered port locations.",
