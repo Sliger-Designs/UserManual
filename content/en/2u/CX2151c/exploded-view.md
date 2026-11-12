@@ -8,5 +8,6 @@
 | 4 | Chassis wrap | Main chassis body |
 | 5 | Filter foam | {{ ref('faceplate-removal', 'Remove the faceplate & filter') }} |
 | 6 | External 3.5-inch bays | {{ ref('drive-cage-removal', 'Remove the drive cage') }} |
+| 7 | Rack ear & pull handle | {{ ref('rack-ears', 'Install rack ears & handles') }} |
 
 See the hardware-kit page for the supplied fasteners and rack hardware.

@@ -1,12 +1,12 @@
 {
-  "CX2177c-CHASSIS_EXPLODE.jpg": {
-    "path": "illustrations/published/2u/CX2177c/cx2177c-d94c64a8cca9.jpg",
-    "source_path": "illustrations/2u/CX2177c/CX2177c-CHASSIS_EXPLODE.jpg",
-    "source_sha256": "57c62d892abd56ea41a86d048e299fd2ea5b10b145959164b8d86313877e1863",
-    "sha256": "a1590b5ca09bf419ab7e97d8f871d0e1a39e0befc2c1bdec085bae2781c0d22a",
+  "CX2177c-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2177c/cx2177c-b42808130693.jpg",
+    "source_path": "illustrations/2u/CX2177c/CX2177c-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "d97447c19d9e898a363181a0b3ed4a531366b8bb2e6e5dfe182e1ed5a2251c40",
+    "sha256": "3b0e003c265c3e7663fb06d3e4ff8485aef3d2ca29c0aeb017ee53650140a754",
     "dimensions_px": [
       1800,
-      1116
+      916
     ],
     "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
@@ -17,15 +17,15 @@
         251
       ],
       "tolerance_per_channel": 4,
-      "background_pixels_replaced": 8419338,
-      "total_pixels": 16764800,
+      "background_pixels_replaced": 7127365,
+      "total_pixels": 13759200,
       "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX2177c/CX2177c-CHASSIS_EXPLODE-white.png",
+      "full_resolution_path": "_build/cleaned-renders/CX2177c/CX2177c-CHASSIS_EXPLODE-REV20261112-white.png",
       "full_resolution_dimensions_px": [
         5200,
-        3224
+        2646
       ],
-      "full_resolution_sha256": "20a27fa1721ec20be814cab8d0a18fd9c8491dbd6931acc741ecdde3fe9af74c"
+      "full_resolution_sha256": "b269a9fb2319fa66cafe2b1ac4cd9b300947493ea63f353ff2f71a08f0beba2f"
     }
   },
   "_CX2177c._REAR DRIVE BRACKET FULLjpg.jpg": {
@@ -51,6 +51,64 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "_CX2177c_ADVANCED_FRONT VIEW.jpg": {
+    "path": "illustrations/published/2u/CX2177c/cx2177c-690b1c6093db.jpg",
+    "source_path": "illustrations/2u/CX2177c/_CX2177c_ADVANCED_FRONT VIEW.jpg",
+    "source_sha256": "fcf5fffff71bab08b16e9167b7e33193aae57d1d6d26a1e0d1abea29a58620a0",
+    "sha256": "3e4f9537d374d61083ac6144679ce88fce96011a45bf640dca5f8caecf6f2465",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 16065084,
+      "total_pixels": 20407210,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2177c/_CX2177c_ADVANCED_FRONT VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        5345,
+        3818
+      ],
+      "full_resolution_sha256": "1d3fe01e3b1d9a9f65f72183bfb6cdaca1f71e747983a3caf88de8c4de5f58ee"
+    }
+  },
+  "_CX2177c_ADVANCED_TOP VIEW.webp": {
+    "path": "illustrations/published/2u/CX2177c/cx2177c-3c81a96448f3.jpg",
+    "source_path": "illustrations/2u/CX2177c/_CX2177c_ADVANCED_TOP VIEW.webp",
+    "source_sha256": "2bf132776bfa62fb827da971bca8c1e3a163f80d4bb754fed938822f128b61dd",
+    "sha256": "4e0b566e44d23adbcdb8d97d085e023a0dc7b418c6ff178b0774ade35d1005db",
+    "dimensions_px": [
+      1600,
+      1143
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1130948,
+      "total_pixels": 1828800,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2177c/_CX2177c_ADVANCED_TOP VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        1600,
+        1143
+      ],
+      "full_resolution_sha256": "152194852086f0a52d64f3d00a0c784aff553083a65271759eb7bcaf8bf52f85"
+    }
   },
   "_CX2177c_BRACKET INSTALL.jpg": {
     "path": "illustrations/published/2u/CX2177c/cx2177c-1a8432749ef8.jpg",

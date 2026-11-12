@@ -64,10 +64,13 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "pending: Exploded view needed (CX2137a; as the CX2137b view)"
+        "CX2137a-CHASSIS_EXPLODE-REV20261112.jpg"
       ],
       "layout": "exploded",
-      "layout_variant": "exploded-side"
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX2137a-CHASSIS_EXPLODE-REV20261112.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -388,12 +391,6 @@
     }
   ],
   "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view (none in the CX2137a folder on 2026-11-12); the part key is shown without callouts.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/2u/CX2137a/"
-    },
     {
       "id": "M02",
       "needed": "AIO installation render: Dynatron L34 radiator with four 80 mm fans on the front fan panel.",

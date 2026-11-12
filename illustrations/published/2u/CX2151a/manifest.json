@@ -383,14 +383,14 @@
       "full_resolution_sha256": "0261a5588216b27458c7c4e3d4dd1ac9836aba3bf25fcac17bd3daea5576bfe4"
     }
   },
-  "CX2151a-CHASSIS_EXPLODE.jpg": {
-    "path": "illustrations/published/2u/CX2151a/cx2151a-50cfcebeb9c9.jpg",
-    "source_path": "illustrations/2u/CX2151a/CX2151a-CHASSIS_EXPLODE.jpg",
-    "source_sha256": "fbc8833ce5024e2f73264ffe985c070b8620f08d2a99af0c0d0b981221c8c7e8",
-    "sha256": "ed51f8ae3a3c04840629b7e7b65b64471ee0dec0e72c9432f589f8f82e02da20",
+  "CX2151a-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2151a/cx2151a-94c0d0cdaa4c.jpg",
+    "source_path": "illustrations/2u/CX2151a/CX2151a-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "7f21b1b2173b4d8972b09905b350ed5b47cc49ef7b63850b9c1a5db0fa36467d",
+    "sha256": "9338ef56c9457154219ca28a94dc27b8afa730dfb32716ba5ca10bbcc392b9ee",
     "dimensions_px": [
       1800,
-      1117
+      936
     ],
     "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
@@ -401,15 +401,15 @@
         251
       ],
       "tolerance_per_channel": 4,
-      "background_pixels_replaced": 8481250,
-      "total_pixels": 16780400,
+      "background_pixels_replaced": 7379131,
+      "total_pixels": 14060800,
       "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX2151a/CX2151a-CHASSIS_EXPLODE-white.png",
+      "full_resolution_path": "_build/cleaned-renders/CX2151a/CX2151a-CHASSIS_EXPLODE-REV20261112-white.png",
       "full_resolution_dimensions_px": [
         5200,
-        3227
+        2704
       ],
-      "full_resolution_sha256": "dadd2c44682405ff03899c83f38d43648fb925341739c501728d2923c2fae413"
+      "full_resolution_sha256": "724809d58687ce633f4f9b23b80b1786ecb810e636edab4d1302570a7cd8b4ae"
     }
   },
   "_CX2151a_ADVANCED_FRONT VIEW.jpg": {

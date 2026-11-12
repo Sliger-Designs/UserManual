@@ -1,8 +1,8 @@
 {
-  "asset_key": "CX2151c.jpg",
-  "source_sha256": "2d8ef1dff66debdec3030a98fa292bbc40ce661f039023f683e01c20d09ec9df",
+  "asset_key": "CX2151c-CHASSIS_EXPLODE-REV20261112.jpg",
+  "source_sha256": "b0b678945a5dc24efbe6c05fe2126bf9f654a9d437b9e8c32c515e19d2f16918",
   "coordinate_space": "uncropped_image",
-  "aspect_ratio": 1.4991119005328597,
+  "aspect_ratio": 1.9294990723562153,
   "view_box": [
     0,
     0,
@@ -11,78 +11,90 @@
   ],
   "badge_radius_height_fraction": 0.024,
   "font_size_height_fraction": 0.032,
-  "review_status": "Callouts placed on the supplied exploded view 2026-11-12; review before release. Rack ears and pull handles are not drawn.",
+  "review_status": "Callouts placed on the REV20261112 exploded view (with rack ears and pull handles) 2026-11-12; review before release.",
   "callouts": [
     {
       "number": 1,
       "label": "Lid",
       "target": [
-        0.5,
-        0.3
+        0.55,
+        0.25
       ],
       "badge": [
         0.3,
-        0.2
+        0.12
       ]
     },
     {
       "number": 2,
       "label": "Faceplate",
       "target": [
-        0.7,
-        0.7
+        0.25,
+        0.68
       ],
       "badge": [
-        0.78,
-        0.85
+        0.15,
+        0.92
       ]
     },
     {
       "number": 3,
       "label": "Front I/O assembly",
       "target": [
-        0.475,
-        0.69
+        0.168,
+        0.495
       ],
       "badge": [
-        0.42,
-        0.86
+        0.025,
+        0.47
       ]
     },
     {
       "number": 4,
       "label": "Chassis wrap",
       "target": [
-        0.25,
-        0.58
+        0.8,
+        0.62
       ],
       "badge": [
-        0.1,
-        0.72
+        0.88,
+        0.8
       ]
     },
     {
       "number": 5,
       "label": "Filter foam",
       "target": [
-        0.65,
-        0.56
+        0.3,
+        0.53
       ],
       "badge": [
-        0.9,
-        0.38
+        0.06,
+        0.36
       ]
     },
     {
       "number": 6,
       "label": "External 3.5-inch bays",
       "target": [
-        0.85,
-        0.58
+        0.45,
+        0.78
       ],
       "badge": [
-        0.97,
-        0.62
+        0.43,
+        0.97
+      ]
+    },
+    {
+      "number": 7,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.585,
+        0.8
+      ],
+      "badge": [
+        0.6649999999999999,
+        0.95
       ]
     }
   ]
