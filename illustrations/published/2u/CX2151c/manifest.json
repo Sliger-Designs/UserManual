@@ -528,17 +528,34 @@
       "full_resolution_sha256": "9bac617fc6806b53271b3b947e888c2b4581c575b48f916e3502d23234ff1e33"
     }
   },
-  "CX2151c.jpg": {
-    "path": "illustrations/published/2u/CX2151c/cx2151c-01948d08f6d3.jpg",
-    "source_path": "illustrations/2u/CX2151c/CX2151c.jpg",
-    "source_sha256": "2d8ef1dff66debdec3030a98fa292bbc40ce661f039023f683e01c20d09ec9df",
-    "sha256": "cd917e6a3d6fba8426e36cd81b61e47a4381a58eddb369464f323cc79da355ba",
+  "CX2151c-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-af3d8dd360fb.jpg",
+    "source_path": "illustrations/2u/CX2151c/CX2151c-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "b0b678945a5dc24efbe6c05fe2126bf9f654a9d437b9e8c32c515e19d2f16918",
+    "sha256": "d0fdc20d3d4da9f10a0d1ee71f4eeee5fbdb4353179657da991310f58595adc8",
     "dimensions_px": [
-      1688,
-      1126
+      1800,
+      933
     ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7300483,
+      "total_pixels": 14014000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/CX2151c-CHASSIS_EXPLODE-REV20261112-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        2695
+      ],
+      "full_resolution_sha256": "670825ab7ba9022d83657345530b8f0053b4a32acf787cc906fe654c5e7e53e8"
+    }
   },
   "_CX2151c_ADVANCED_FRONT VIEW.jpg": {
     "path": "illustrations/published/2u/CX2151c/cx2151c-c0921977e4d5.jpg",

@@ -3,6 +3,29 @@
   "model": "CX2151x",
   "items": [
     {
+      "id": "cx2151x-fba2d6fde36c",
+      "original_filename": "CX2151x-CHASSIS_EXPLODE-REV20261112.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x-CHASSIS_EXPLODE-REV20261112.jpg",
+      "width_px": 5200,
+      "height_px": 2721,
+      "format": "JPEG",
+      "size_bytes": 1524463,
+      "sha256": "4c88e88f595e2039d64c160bb780f12ff0ac33e9dfd6cfc43d1c74740db16fb6",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2151x/CX2151x-CHASSIS_EXPLODE-REV20261112-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx2151x-7efcf7b2e003",
       "original_filename": "CX2151x.jpg",
       "local_path": "illustrations/2u/CX2151x/CX2151x.jpg",
@@ -288,6 +311,52 @@
       "sha256": "975a84df186522b61062561e8e9ed83f5837e29731a40ad4e4034e908e0de026",
       "selection_status": "candidate",
       "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-ba2ecf8d7222",
+      "original_filename": "_CX2151x_ADVANCED_FRONT VIEW.webp",
+      "local_path": "illustrations/2u/CX2151x/_CX2151x_ADVANCED_FRONT VIEW.webp",
+      "width_px": 1600,
+      "height_px": 1143,
+      "format": "WEBP",
+      "size_bytes": 54690,
+      "sha256": "a961300729c82f7908b6f3017bc27c89eaa4660bed85b9b914578080841adcad",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2151x/_CX2151x_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2151x-eb3cb54cf25b",
+      "original_filename": "_CX2151x_ADVANCED_TOP VIEW.webp",
+      "local_path": "illustrations/2u/CX2151x/_CX2151x_ADVANCED_TOP VIEW.webp",
+      "width_px": 1600,
+      "height_px": 1143,
+      "format": "WEBP",
+      "size_bytes": 100958,
+      "sha256": "cd758b4115e92242b5527853c8eb73167b5cbd3dd2a8fe03ef93f94eabeec4da",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2151x/_CX2151x_ADVANCED_TOP VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     }
   ]
 }

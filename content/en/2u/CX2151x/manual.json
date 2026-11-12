@@ -64,12 +64,12 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "CX2151x.jpg"
+        "CX2151x-CHASSIS_EXPLODE-REV20261112.jpg"
       ],
       "layout": "exploded",
       "layout_variant": "exploded-side",
       "image_annotations": {
-        "CX2151x.jpg": "exploded-callouts.json"
+        "CX2151x-CHASSIS_EXPLODE-REV20261112.jpg": "exploded-callouts.json"
       }
     },
     {
@@ -78,7 +78,7 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
-        "pending: Top-view clearance drawing needed (as _CX2151c_ADVANCED_TOP VIEW)"
+        "_CX2151x_ADVANCED_TOP VIEW.webp"
       ],
       "layout": "reference-drawing"
     },
@@ -88,7 +88,7 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "front-clearance.md",
       "images": [
-        "pending: Front-view clearance drawing needed (as _CX2151c_ADVANCED_FRONT VIEW)"
+        "_CX2151x_ADVANCED_FRONT VIEW.webp"
       ],
       "layout": "reference-drawing"
     },
@@ -395,18 +395,6 @@
     }
   ],
   "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view with the rack ears and pull handles (the supplied view shows neither; the part key leaves them out).",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/2u/CX2151x/"
-    },
-    {
-      "id": "M02",
-      "needed": "Top-view and front-view clearance drawings.",
-      "section": "dimensions",
-      "suggested_folder": "illustrations/2u/CX2151x/"
-    },
     {
       "id": "M03",
       "needed": "Front-panel render (_CX2151x_FRONT) for the numbered port locations.",
