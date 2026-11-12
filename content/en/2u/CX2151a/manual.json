@@ -314,10 +314,8 @@
       "title": "Route cables & close the chassis",
       "section": "03 / COMPONENT INSTALLATION",
       "source": "cable-management.md",
-      "images": [
-        "pending: Cable-management render needed (CX2151a)"
-      ],
-      "layout": "procedure"
+      "images": [],
+      "layout": "text"
     },
     {
       "id": "support",
@@ -376,12 +374,6 @@
       "id": "M03",
       "needed": "Front render named for the model (the CX2151a folder holds an identical copy named _CX2177a_FRONT.tif).",
       "section": "front-ports",
-      "suggested_folder": "illustrations/2u/CX2151a/"
-    },
-    {
-      "id": "M04",
-      "needed": "Cable-management render.",
-      "section": "cable-management",
       "suggested_folder": "illustrations/2u/CX2151a/"
     }
   ],
