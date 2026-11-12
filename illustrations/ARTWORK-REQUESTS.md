@@ -68,19 +68,14 @@ Confirmed 2026-11-04:
 
 | Done | Model | Needed | Effect until supplied |
 |---|---|---|---|
-|  | CX2177a, CX2177c, CX2177x | Exploded views with the rack ears and pull handles (the supplied views show neither) | The part key leaves out the "Rack ear & pull handle" callout |
 |  | CX2177a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
 |  | CX2177x | Rear drive bracket with 2.5-inch SSDs (as CX2177a step 4c) | Grey placeholder on the rear-bracket drive page |
-|  | CX2177c | Top-view and front-view clearance drawings; front-panel render (`_CX2177c_FRONT`) | Grey placeholders on the clearance and front-port pages |
+|  | CX2177c | Front-panel render (`_CX2177c_FRONT`); the clearance drawings were supplied 2026-11-12 | Grey placeholder on the front-port page |
 |  | CX2177c | Numbered step renders of the current design (the supplied renders are unnumbered and several show an earlier layout); confirm the step mapping in the draft, e.g. `_CX2177c_BRACKET INSTALL` used for the GPU and slot-cover step | The draft uses the supplied renders as mapped |
-|  | CX2137a | Exploded view (none was in the CX2137a folder on 2026-11-12; the CX2137b one is `_CX2137b.jpg`) | Grey placeholder on the exploded-view page |
-|  | CX2137b | Exploded view with the rack ears and pull handles; a higher-resolution exploded view (the supplied one is 1688 px wide) | The part key leaves out the rack ear & pull handle callout |
 |  | CX2137a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
-|  | CX2151a, CX2151c, CX2151x | Exploded views with the rack ears and pull handles; higher-resolution CX2151c/x views (1688 px wide) | The part key leaves out the rack ear & pull handle callout |
 |  | CX2151a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
 |  | CX2151a | Optional: front render named for the model (the folder holds an identical copy named `_CX2177a_FRONT.tif`, which is used) | None (optional) |
-|  | CX2151x | Top-view and front-view clearance drawings; front-panel render (`_CX2151x_FRONT`); numbered step renders (confirm the mapping of the supplied unnumbered set in the draft) | Grey placeholders on the clearance and front-port pages |
-|  | CX2130a, CX2130c, CX2130x | Exploded views with the rack ears and pull handles | The part key leaves out the rack ear & pull handle callout |
+|  | CX2151x | Front-panel render (`_CX2151x_FRONT`); numbered step renders (confirm the mapping of the supplied unnumbered set in the draft); the clearance drawings were supplied 2026-11-12 | Grey placeholder on the front-port page |
 |  | CX2130a, CX2130c | GPU / PCIe card step; top-view and front-view clearance drawings; front-panel render; numbered step renders (the supplied sets are unnumbered) | Grey placeholders on those pages |
 |  | CX2130a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
 |  | CX2130x | Every step render, clearance drawings and front-panel render (only the exploded view was supplied; the drive-cage step shares the CX2151x and CX2177x renders) | Grey placeholders apart from the exploded view and drive-cage step |
