@@ -3,6 +3,29 @@
   "model": "CX2130x",
   "items": [
     {
+      "id": "cx2130x-9f57fface10d",
+      "original_filename": "4d_CX2177x_DRIVE SCREWS.jpg",
+      "local_path": "illustrations/2u/CX2130x/4d_CX2177x_DRIVE SCREWS.jpg",
+      "width_px": 3542,
+      "height_px": 2530,
+      "format": "JPEG",
+      "size_bytes": 467452,
+      "sha256": "20ef3b4b54be482fa80195aac7308c2fd04978033b216d528f44693f2068355c",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/2u/CX2177x/4d_CX2177x_DRIVE SCREWS.jpg: same drive-cage drive mounting, shared with the CX2130x (2026-11-12).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130x/4d_CX2177x_DRIVE SCREWS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx2130x-911d0a5e8d5c",
       "original_filename": "CX2130x-CHASSIS_EXPLODE.jpg",
       "local_path": "illustrations/2u/CX2130x/CX2130x-CHASSIS_EXPLODE.jpg",
@@ -24,6 +47,18 @@
         "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130x-CHASSIS_EXPLODE-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "cx2130x-d4611fddaaeb",
+      "original_filename": "CX2151x_DRIVE CAGE WITH DRIVES.jpg",
+      "local_path": "illustrations/2u/CX2130x/CX2151x_DRIVE CAGE WITH DRIVES.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 249225,
+      "sha256": "706b84ccdf5e7331fc1b9e08df3eb8f07be9932277334ea5ab51b8aba19a2ad8",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/2u/CX2151x/CX2151x_DRIVE CAGE WITH DRIVES.jpg: same drive-cage drive mounting, shared with the CX2130x (2026-11-12)."
     }
   ]
 }

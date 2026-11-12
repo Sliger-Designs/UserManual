@@ -79,13 +79,16 @@
       "raw": "2x 3.5"
     },
     "ssd_2_5_max": {
-      "value": 2,
+      "value": 7,
+      "configuration": {
+        "drive_cage": 7
+      },
       "source": {
         "id": "decision",
-        "date": "2026-11-04",
-        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+        "date": "2026-11-12",
+        "record": "sources/decisions/2026-11-12-CX2130-family.md"
       },
-      "note": "Two 2.5-inch mounting locations (import CSV and website)."
+      "note": "Up to seven 7 mm SSDs when the 3.5-inch mounts are unused (confirmed 2026-11-12; replaces the 2026-11-04 value of 2)."
     },
     "hdd_3_5_max": {
       "value": 2,
@@ -372,7 +375,7 @@
         "date": "2026-11-12",
         "record": "sources/decisions/2026-11-12-CX2130-family.md"
       },
-      "note": "Three fan positions; AIO treated as not officially supported, as for the other three-fan c/x models (2026-11-04 review note)."
+      "note": "AIO not officially supported (confirmed 2026-11-12)."
     },
     "gpu_length_max_cooling_mm": {
       "value": 214,
@@ -418,17 +421,13 @@
       }
     },
     "gpu_length_fans_38mm_mm": {
-      "value": 263,
+      "value": 264,
       "source": {
-        "id": "website",
-        "path": "sources/web/cx2130x-specs.txt"
-      },
-      "approval": {
         "id": "decision",
         "date": "2026-11-12",
         "record": "sources/decisions/2026-11-12-CX2130-family.md"
       },
-      "note": "With 38 mm front fans (website); not part of the 2026-11-04 review."
+      "note": "With 38 mm front fans: 302 mm less 38 mm (confirmed 2026-11-12; the website's 263 mm is superseded)."
     },
     "pcie_slot_covers": {
       "value": 7,

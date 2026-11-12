@@ -10,7 +10,7 @@
       "87.88",
       "302 mm",
       "275 mm",
-      "263 mm",
+      "264 mm",
       "72 mm",
       "66 mm",
       "SFX",
@@ -19,6 +19,7 @@
       "not officially supported"
     ],
     "forbidden": [
+      "263 mm",
       "276 mm",
       "300 mm",
       "238 mm",
@@ -292,10 +293,15 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "drive-cage-drives.md",
       "images": [
-        "pending: Drive cage with drives render needed (CX2130x)"
+        "CX2151x_DRIVE CAGE WITH DRIVES.jpg",
+        "4d_CX2177x_DRIVE SCREWS.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
+        [
+          "A",
+          "D"
+        ],
         [
           "A",
           "D"

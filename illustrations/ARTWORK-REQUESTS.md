@@ -83,7 +83,7 @@ Confirmed 2026-11-04:
 |  | CX2130a, CX2130c, CX2130x | Exploded views with the rack ears and pull handles | The part key leaves out the rack ear & pull handle callout |
 |  | CX2130a, CX2130c | GPU / PCIe card step; top-view and front-view clearance drawings; front-panel render; numbered step renders (the supplied sets are unnumbered) | Grey placeholders on those pages |
 |  | CX2130a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
-|  | CX2130x | Every step render, clearance drawings and front-panel render (only the exploded view was supplied) | The draft is all grey placeholders apart from the exploded view |
+|  | CX2130x | Every step render, clearance drawings and front-panel render (only the exploded view was supplied; the drive-cage step shares the CX2151x and CX2177x renders) | Grey placeholders apart from the exploded view and drive-cage step |
 
 ## Cable management (not blocking V1)
 

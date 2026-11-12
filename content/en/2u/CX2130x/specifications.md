@@ -9,7 +9,7 @@
 | Liquid cooling | Not officially supported |
 | Front bays | None (internal 3.5-inch drive cage) |
 | Expansion | Five half-height PCIe slots; cards up to {{ facts.gpu_height_max_mm }} mm tall including power connectors |
-| Storage | Internal drive cage: two 3.5-inch drives and two 2.5-inch drives |
+| Storage | Internal drive cage: two 3.5-inch drives, or up to seven 7 mm 2.5-inch SSDs when the 3.5-inch mounts are unused |
 
 ### GPU length by cooling configuration
 
