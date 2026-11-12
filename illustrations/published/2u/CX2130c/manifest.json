@@ -1,12 +1,12 @@
 {
-  "CX2130c-CHASSIS_EXPLODE.jpg": {
-    "path": "illustrations/published/2u/CX2130c/cx2130c-4d3a318f84d1.jpg",
-    "source_path": "illustrations/2u/CX2130c/CX2130c-CHASSIS_EXPLODE.jpg",
-    "source_sha256": "8af485c5189c295179adf9c7577f4345b44f7c9bf64e0b0aa7ab1e97abe4bda3",
-    "sha256": "8e6430e18d773ed2b152b2115231a0f9ce1f2efe801e8d135166b1143fb1eec0",
+  "CX2130c-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-3baf2a71bf1f.jpg",
+    "source_path": "illustrations/2u/CX2130c/CX2130c-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "fec08dc5db2876911162f18cbeaabf91a83b86e20e3eca92574e71dad9616a47",
+    "sha256": "f1c053fa8d15fb435697996f375a4be9db14885ba38ef28d37628f9b684578e7",
     "dimensions_px": [
       1800,
-      1124
+      949
     ],
     "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
@@ -17,15 +17,15 @@
         251
       ],
       "tolerance_per_channel": 4,
-      "background_pixels_replaced": 8438852,
-      "total_pixels": 16884400,
+      "background_pixels_replaced": 7406531,
+      "total_pixels": 14258400,
       "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX2130c/CX2130c-CHASSIS_EXPLODE-white.png",
+      "full_resolution_path": "_build/cleaned-renders/CX2130c/CX2130c-CHASSIS_EXPLODE-REV20261112-white.png",
       "full_resolution_dimensions_px": [
         5200,
-        3247
+        2742
       ],
-      "full_resolution_sha256": "769a29bf5cf6e598a97d7d1e8d29a5e536949f693ba23bcc818025bfbf63bec6"
+      "full_resolution_sha256": "4cc06721e93fbda4fe0dda7ff7e18c272b136bcfde4cc48db3a09f4c01ec0f96"
     }
   },
   "_CX2130c_LID REMOVAL 2.jpg": {

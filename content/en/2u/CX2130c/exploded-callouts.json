@@ -1,8 +1,8 @@
 {
-  "asset_key": "CX2130c-CHASSIS_EXPLODE.jpg",
-  "source_sha256": "8af485c5189c295179adf9c7577f4345b44f7c9bf64e0b0aa7ab1e97abe4bda3",
+  "asset_key": "CX2130c-CHASSIS_EXPLODE-REV20261112.jpg",
+  "source_sha256": "fec08dc5db2876911162f18cbeaabf91a83b86e20e3eca92574e71dad9616a47",
   "coordinate_space": "uncropped_image",
-  "aspect_ratio": 1.6014782876501386,
+  "aspect_ratio": 1.8964259664478482,
   "view_box": [
     0,
     0,
@@ -11,7 +11,7 @@
   ],
   "badge_radius_height_fraction": 0.024,
   "font_size_height_fraction": 0.032,
-  "review_status": "Callouts placed on the supplied exploded view 2026-11-12; review before release. Rack ears and pull handles are not drawn.",
+  "review_status": "Callouts placed on the REV20261112 exploded view (with rack ears and pull handles) 2026-11-12; review before release.",
   "callouts": [
     {
       "number": 1,
@@ -29,35 +29,35 @@
       "number": 2,
       "label": "Faceplate",
       "target": [
-        0.3,
-        0.75
+        0.25,
+        0.68
       ],
       "badge": [
-        0.2,
-        0.88
+        0.15,
+        0.92
       ]
     },
     {
       "number": 3,
       "label": "Front I/O assembly",
       "target": [
-        0.15,
-        0.51
+        0.177,
+        0.49
       ],
       "badge": [
-        0.03,
-        0.62
+        0.025,
+        0.47
       ]
     },
     {
       "number": 4,
       "label": "Chassis wrap",
       "target": [
-        0.82,
+        0.8,
         0.62
       ],
       "badge": [
-        0.9,
+        0.88,
         0.8
       ]
     },
@@ -66,23 +66,35 @@
       "label": "Filter foam",
       "target": [
         0.3,
-        0.6
+        0.53
       ],
       "badge": [
-        0.04,
-        0.42
+        0.06,
+        0.36
       ]
     },
     {
       "number": 6,
       "label": "External 3.5-inch bays",
       "target": [
-        0.5,
-        0.82
+        0.47,
+        0.78
       ],
       "badge": [
-        0.45,
-        0.96
+        0.44999999999999996,
+        0.97
+      ]
+    },
+    {
+      "number": 7,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.615,
+        0.8
+      ],
+      "badge": [
+        0.695,
+        0.95
       ]
     }
   ]

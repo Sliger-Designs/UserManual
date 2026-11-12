@@ -1,8 +1,8 @@
 {
-  "asset_key": "CX2130x-CHASSIS_EXPLODE.jpg",
-  "source_sha256": "cd2b206af203062c5d600820ec827ed2d08225a6740443fd00498b92ebb8c25f",
+  "asset_key": "CX2130x-CHASSIS_EXPLODE-REV20261112.jpg",
+  "source_sha256": "71828cb680c5724d7c840150d66389ca2f873a8294de4e05f15b2a8ffada1e80",
   "coordinate_space": "uncropped_image",
-  "aspect_ratio": 1.582952815829528,
+  "aspect_ratio": 1.867145421903052,
   "view_box": [
     0,
     0,
@@ -11,7 +11,7 @@
   ],
   "badge_radius_height_fraction": 0.024,
   "font_size_height_fraction": 0.032,
-  "review_status": "Callouts placed on the supplied exploded view 2026-11-12; review before release. Rack ears and pull handles are not drawn.",
+  "review_status": "Callouts placed on the REV20261112 exploded view (with rack ears and pull handles) 2026-11-12; review before release.",
   "callouts": [
     {
       "number": 1,
@@ -29,35 +29,35 @@
       "number": 2,
       "label": "Faceplate",
       "target": [
-        0.3,
-        0.76
+        0.25,
+        0.68
       ],
       "badge": [
-        0.2,
-        0.89
+        0.15,
+        0.92
       ]
     },
     {
       "number": 3,
       "label": "Front I/O assembly",
       "target": [
-        0.13,
-        0.51
+        0.161,
+        0.475
       ],
       "badge": [
-        0.03,
-        0.62
+        0.025,
+        0.47
       ]
     },
     {
       "number": 4,
       "label": "Chassis wrap",
       "target": [
-        0.82,
+        0.8,
         0.62
       ],
       "badge": [
-        0.9,
+        0.88,
         0.8
       ]
     },
@@ -66,11 +66,23 @@
       "label": "Filter foam",
       "target": [
         0.3,
-        0.6
+        0.53
       ],
       "badge": [
-        0.04,
-        0.42
+        0.06,
+        0.36
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.61,
+        0.8
+      ],
+      "badge": [
+        0.69,
+        0.95
       ]
     }
   ]

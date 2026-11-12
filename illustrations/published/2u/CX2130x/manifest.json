@@ -28,14 +28,14 @@
       "full_resolution_sha256": "4a3645f1da4e6aaeb57895ae9c31444a7d7762354aa747291be73ba0d20cdaaf"
     }
   },
-  "CX2130x-CHASSIS_EXPLODE.jpg": {
-    "path": "illustrations/published/2u/CX2130x/cx2130x-911d0a5e8d5c.jpg",
-    "source_path": "illustrations/2u/CX2130x/CX2130x-CHASSIS_EXPLODE.jpg",
-    "source_sha256": "cd2b206af203062c5d600820ec827ed2d08225a6740443fd00498b92ebb8c25f",
-    "sha256": "bc1e260f6ff42b8f96752951596b76c8f97c25e8c2e0157cd0403de5dd4d3bb3",
+  "CX2130x-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2130x/cx2130x-3ec59ba7f9d0.jpg",
+    "source_path": "illustrations/2u/CX2130x/CX2130x-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "71828cb680c5724d7c840150d66389ca2f873a8294de4e05f15b2a8ffada1e80",
+    "sha256": "2006eb56a156b2acecc5c4bedb81f455889cc0a7f68601f099536b8eebf69127",
     "dimensions_px": [
       1800,
-      1137
+      964
     ],
     "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
@@ -46,15 +46,15 @@
         251
       ],
       "tolerance_per_channel": 4,
-      "background_pixels_replaced": 8571388,
-      "total_pixels": 17082000,
+      "background_pixels_replaced": 7479506,
+      "total_pixels": 14482000,
       "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130x-CHASSIS_EXPLODE-white.png",
+      "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130x-CHASSIS_EXPLODE-REV20261112-white.png",
       "full_resolution_dimensions_px": [
         5200,
-        3285
+        2785
       ],
-      "full_resolution_sha256": "dd29fab6f4a76cb6565f4df220aeb6b85067dabe2b2e97f68cdebe4a78169455"
+      "full_resolution_sha256": "0c3520b5dc02001758f5bd0ab1099d7d55c5ed3dd5737eb5d0edb9997716f1dd"
     }
   },
   "CX2151x_DRIVE CAGE WITH DRIVES.jpg": {

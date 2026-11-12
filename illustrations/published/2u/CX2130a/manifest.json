@@ -1,12 +1,12 @@
 {
-  "CX2130a-CHASSIS_EXPLODE.jpg": {
-    "path": "illustrations/published/2u/CX2130a/cx2130a-48fd6eef2489.jpg",
-    "source_path": "illustrations/2u/CX2130a/CX2130a-CHASSIS_EXPLODE.jpg",
-    "source_sha256": "e24775956661f680e2e2f8e3359566a8cef19b2027d9ed452a2e3ce64afc6079",
-    "sha256": "5c577f60b31c826cf15bd093fd8746555deb0682475333e975aa07bbd711e573",
+  "CX2130a-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-e7160a79bc9f.jpg",
+    "source_path": "illustrations/2u/CX2130a/CX2130a-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "80b4ff99189db0b24665709beebf3b75de286b0567766c21c6efc6df09952746",
+    "sha256": "67439fa8bd07134906ca48e5bc69eb8edc130d274fb4868bdcac4175f6c8b049",
     "dimensions_px": [
       1800,
-      1126
+      953
     ],
     "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
     "status": "prototype_selection_needs_review",
@@ -17,15 +17,15 @@
         251
       ],
       "tolerance_per_channel": 4,
-      "background_pixels_replaced": 8546270,
-      "total_pixels": 16915600,
+      "background_pixels_replaced": 7472523,
+      "total_pixels": 14315600,
       "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX2130a/CX2130a-CHASSIS_EXPLODE-white.png",
+      "full_resolution_path": "_build/cleaned-renders/CX2130a/CX2130a-CHASSIS_EXPLODE-REV20261112-white.png",
       "full_resolution_dimensions_px": [
         5200,
-        3253
+        2753
       ],
-      "full_resolution_sha256": "411c97205c5d417953d4140990cc71496dc888a57b72daca49ddfc77ee7df418"
+      "full_resolution_sha256": "dbf0c97206252bd2aa44089a123b13ce734e8e26d6a038342a9162abfa0e7ed8"
     }
   },
   "_CX2130a_FACEPLATE REMOVAL.jpg": {
