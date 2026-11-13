@@ -90,7 +90,8 @@
       "images": [
         "CX2130_frontAdvanced.webp"
       ],
-      "layout": "reference-drawing"
+      "layout": "reference-drawing",
+      "crop_margins": true
     },
     {
       "id": "specifications",
