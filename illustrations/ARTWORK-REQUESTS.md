@@ -74,6 +74,7 @@ Confirmed 2026-11-04:
 |  | CX2177c | Numbered step renders of the current design (the supplied renders are unnumbered and several show an earlier layout); confirm the step mapping in the draft, e.g. `_CX2177c_BRACKET INSTALL` used for the GPU and slot-cover step | The draft uses the supplied renders as mapped |
 |  | CX2151x | Numbered step renders (confirm the mapping of the supplied unnumbered set in the draft) | The draft uses the supplied renders as mapped |
 |  | CX2130a, CX2130c, CX2130x | Optional: numbered step renders (the supplied sets are unnumbered; confirm the step mapping in the draft) | The draft uses the supplied renders as mapped |
+|  | CX2130c | Optional: full-resolution renders in the current style for the lid, faceplate, rack-ear, fan and three drive-cage steps (the 1688 px greyscale screenshots are used) | None (optional) |
 
 ## Cable management (not blocking V1)
 
