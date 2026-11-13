@@ -323,7 +323,18 @@
       "size_bytes": 825770,
       "sha256": "b35d747ff0d9618e5fc595fe43454d7c991ac3ed19b2f01376274f763cbc20b5",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2151a/8b_CX2151a_GPU BRACKET SLIDE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx2151a-9a0fb53071ba",
@@ -335,7 +346,18 @@
       "size_bytes": 685071,
       "sha256": "9df96177b42cbe9431d8a5db2bd2e4727f30000fa38261b69c5bf06573695159",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2151a/8c_CX2151a_GPU BRACKET REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx2151a-70f47fceaa96",
