@@ -401,5 +401,6 @@
   "cover_description_detail": [
     "4 × 80 MM FAN MOUNTS"
   ],
-  "cover_format": "landscape"
+  "cover_format": "landscape",
+  "cover_copy": "centred"
 }
