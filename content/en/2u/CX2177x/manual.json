@@ -340,8 +340,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "drive-bracket-drives.md",
       "images": [
-        "pending: Render needed: CX2177x rear drive bracket with 2.5-inch SSDs (as CX2177a step 4c)",
-        "4d_CX2177_DRIVE BRACKET HDD INSTALL.jpg"
+        "4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg",
+        "4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -435,14 +435,7 @@
       "layout": "text"
     }
   ],
-  "missing_assets": [
-    {
-      "id": "M02",
-      "needed": "Rear drive bracket with 2.5-inch SSDs (as CX2177a step 4c).",
-      "section": "drive-bracket-drives",
-      "suggested_folder": "illustrations/2u/CX2177x/"
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "17\" DEEP 2U CHASSIS",
   "cover_description_detail": [
     "INTERNAL 3.5\" DRIVE CAGE"
