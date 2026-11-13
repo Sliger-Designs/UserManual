@@ -1,0 +1,47 @@
+{
+  "asset_key": "common/front-io/2Ucx_frontIO.jpg",
+  "source_sha256": "41eb933a55c55dcad2040370f12a9a0b99fc8b522f6701e4a4e40a89ab636ce5",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7142857142857142,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.035,
+  "font_size_height_fraction": 0.045,
+  "review_status": "Positions measured on the supplied 2U front I/O drawing 2026-11-13; review preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Power switch and status light",
+      "target": [
+        0.338,
+        0.27
+      ],
+      "badge": [
+        0.055,
+        0.27
+      ]
+    },
+    {
+      "number": 2,
+      "label": "USB Type-A ports",
+      "targets": [
+        [
+          0.302,
+          0.664
+        ],
+        [
+          0.374,
+          0.664
+        ]
+      ],
+      "badge": [
+        0.055,
+        0.664
+      ]
+    }
+  ]
+}

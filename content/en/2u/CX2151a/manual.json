@@ -147,13 +147,13 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "../../shared/rackmount/2u-front-ports.md",
       "images": [
-        "_CX2177a_FRONT.tif",
+        "common/front-io/2Ua_frontIO.jpg",
         "common/front-io/PowerAndLED_greyscale.png",
         "common/front-io/20pinUSB3_greyscale.png"
       ],
       "layout": "front-io",
       "image_annotations": {
-        "_CX2177a_FRONT.tif": "fpio-callouts.json"
+        "common/front-io/2Ua_frontIO.jpg": "../../shared/rackmount/fpio-2u-a-callouts.json"
       }
     },
     {
@@ -358,14 +358,7 @@
       "layout": "text"
     }
   ],
-  "missing_assets": [
-    {
-      "id": "M03",
-      "needed": "Front render named for the model (the CX2151a folder holds an identical copy named _CX2177a_FRONT.tif).",
-      "section": "front-ports",
-      "suggested_folder": "illustrations/2u/CX2151a/"
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "15\" DEEP 2U CHASSIS",
   "cover_description_detail": [
     "RISER GPU · 4 × 80 MM FANS"

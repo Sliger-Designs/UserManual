@@ -615,18 +615,6 @@
       "full_resolution_sha256": "ae68ad0fcad3941269e6d7b93003fa6ba7893dd7f9b11871db37cbee9eeaf614"
     }
   },
-  "_CX2151c_FRONT.tif": {
-    "path": "illustrations/published/2u/CX2151c/cx2151c-b0c349296789.jpg",
-    "source_path": "illustrations/2u/CX2151c/_CX2151c_FRONT.tif",
-    "source_sha256": "52f85bbeab6c8aed4f385dabdf045325f5eead38ac35de1c93d53d7064d241bc",
-    "sha256": "0670ac7c7c813375a90d232a3e0bef22f28401eda1f4921f86cd99627a414716",
-    "dimensions_px": [
-      1800,
-      900
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
-  },
   "_CX2151c_rendering.jpg": {
     "path": "illustrations/published/2u/CX2151c/cx2151c-9eb8cd099c6f.jpg",
     "source_path": "illustrations/2u/CX2151c/_CX2151c_rendering.jpg",
