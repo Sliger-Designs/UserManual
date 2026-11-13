@@ -181,7 +181,7 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
                    ('data:image/png;base64,' if path.suffix == '.png' else 'data:image/jpeg;base64,') + base64.b64encode(path.read_bytes()).decode())
             page['images'].append({'src': src,
                                    'review': item.get('image_reviews', {}).get(name), 'key': name, 'alt': name.rsplit('.', 1)[0].replace('_', ' '),
-                                   'style': content_inset(path) if (item['layout'] == 'procedure' or top_view_drawing(item)) and not item.get('keep_margins') else ''})
+                                   'style': content_inset(path) if (item['layout'] == 'procedure' or top_view_drawing(item) or item.get('crop_margins')) and not item.get('keep_margins') else ''})
             if name in item.get('image_annotations', {}):
                 page['images'][-1] = with_callouts(page['images'][-1], content_directory(model) / item['image_annotations'][name], asset,
                                                    label=lambda text: L.text(text, 'diagram accessibility label', number))
