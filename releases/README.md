@@ -14,38 +14,65 @@ unchanged. Add language folders when translations are approved.
 | English (`en`) | Desktop | S630 | v1.0 | 2026-11-02 | [PDF](en/desktop/S630/v1.0/S630-en-v1.0.pdf) |
 | English (`en`) | Desktop | S640 | v1.0 | 2026-11-02 | [PDF](en/desktop/S640/v1.0/S640-en-v1.0.pdf) |
 | English (`en`) | 4U | CX4150a | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150a/v1.0/CX4150a-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4150a | v1.1 | 2026-11-13 | [PDF](en/4u/CX4150a/v1.1/CX4150a-en-v1.1.pdf) |
 | English (`en`) | 4U | CX4150e | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150e/v1.0/CX4150e-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4150e | v1.1 | 2026-11-13 | [PDF](en/4u/CX4150e/v1.1/CX4150e-en-v1.1.pdf) |
 | English (`en`) | 4U | CX4150i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4150i/v1.0/CX4150i-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4150i | v1.1 | 2026-11-13 | [PDF](en/4u/CX4150i/v1.1/CX4150i-en-v1.1.pdf) |
 | English (`en`) | 4U | CX4170a | v1.0 | 2026-11-09 | [PDF](en/4u/CX4170a/v1.0/CX4170a-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4170a | v1.1 | 2026-11-13 | [PDF](en/4u/CX4170a/v1.1/CX4170a-en-v1.1.pdf) |
 | English (`en`) | 4U | CX4170e | v1.0 | 2026-11-09 | [PDF](en/4u/CX4170e/v1.0/CX4170e-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4170e | v1.1 | 2026-11-13 | [PDF](en/4u/CX4170e/v1.1/CX4170e-en-v1.1.pdf) |
 | English (`en`) | 4U | CX4170i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4170i/v1.0/CX4170i-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4170i | v1.1 | 2026-11-13 | [PDF](en/4u/CX4170i/v1.1/CX4170i-en-v1.1.pdf) |
 | English (`en`) | 4U | CX4200a | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200a/v1.0/CX4200a-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4200a | v1.1 | 2026-11-13 | [PDF](en/4u/CX4200a/v1.1/CX4200a-en-v1.1.pdf) |
 | English (`en`) | 4U | CX4200e | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200e/v1.0/CX4200e-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4200e | v1.1 | 2026-11-13 | [PDF](en/4u/CX4200e/v1.1/CX4200e-en-v1.1.pdf) |
 | English (`en`) | 4U | CX4200f | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200f/v1.0/CX4200f-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4200f | v1.1 | 2026-11-13 | [PDF](en/4u/CX4200f/v1.1/CX4200f-en-v1.1.pdf) |
 | English (`en`) | 4U | CX4200i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200i/v1.0/CX4200i-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4200i | v1.1 | 2026-11-13 | [PDF](en/4u/CX4200i/v1.1/CX4200i-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3150a | v1.1 | 2026-11-10 | [PDF](en/3u/CX3150a/v1.1/CX3150a-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3150a | v1.2 | 2026-11-11 | [PDF](en/3u/CX3150a/v1.2/CX3150a-en-v1.2.pdf) |
+| English (`en`) | 3U | CX3150a | v1.3 | 2026-11-13 | [PDF](en/3u/CX3150a/v1.3/CX3150a-en-v1.3.pdf) |
 | English (`en`) | 3U | CX3150i | v1.0 | 2026-11-10 | [PDF](en/3u/CX3150i/v1.0/CX3150i-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3150i | v1.1 | 2026-11-11 | [PDF](en/3u/CX3150i/v1.1/CX3150i-en-v1.1.pdf) |
+| English (`en`) | 3U | CX3150i | v1.2 | 2026-11-13 | [PDF](en/3u/CX3150i/v1.2/CX3150i-en-v1.2.pdf) |
 | English (`en`) | 3U | CX3150x | v1.0 | 2026-11-10 | [PDF](en/3u/CX3150x/v1.0/CX3150x-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3150x | v1.1 | 2026-11-11 | [PDF](en/3u/CX3150x/v1.1/CX3150x-en-v1.1.pdf) |
+| English (`en`) | 3U | CX3150x | v1.2 | 2026-11-13 | [PDF](en/3u/CX3150x/v1.2/CX3150x-en-v1.2.pdf) |
 | English (`en`) | 3U | CX3151a | v1.0 | 2026-11-10 | [PDF](en/3u/CX3151a/v1.0/CX3151a-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3151a | v1.1 | 2026-11-11 | [PDF](en/3u/CX3151a/v1.1/CX3151a-en-v1.1.pdf) |
+| English (`en`) | 3U | CX3151a | v1.2 | 2026-11-13 | [PDF](en/3u/CX3151a/v1.2/CX3151a-en-v1.2.pdf) |
 | English (`en`) | 3U | CX3151i | v1.0 | 2026-11-10 | [PDF](en/3u/CX3151i/v1.0/CX3151i-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3151i | v1.1 | 2026-11-11 | [PDF](en/3u/CX3151i/v1.1/CX3151i-en-v1.1.pdf) |
+| English (`en`) | 3U | CX3151i | v1.2 | 2026-11-13 | [PDF](en/3u/CX3151i/v1.2/CX3151i-en-v1.2.pdf) |
 | English (`en`) | 3U | CX3151x | v1.0 | 2026-11-10 | [PDF](en/3u/CX3151x/v1.0/CX3151x-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3151x | v1.1 | 2026-11-11 | [PDF](en/3u/CX3151x/v1.1/CX3151x-en-v1.1.pdf) |
+| English (`en`) | 3U | CX3151x | v1.2 | 2026-11-13 | [PDF](en/3u/CX3151x/v1.2/CX3151x-en-v1.2.pdf) |
 | English (`en`) | 3U | CX3152a | v1.0 | 2026-11-11 | [PDF](en/3u/CX3152a/v1.0/CX3152a-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3152a | v1.1 | 2026-11-13 | [PDF](en/3u/CX3152a/v1.1/CX3152a-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3152i | v1.0 | 2026-11-11 | [PDF](en/3u/CX3152i/v1.0/CX3152i-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3152i | v1.1 | 2026-11-13 | [PDF](en/3u/CX3152i/v1.1/CX3152i-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3170a | v1.0 | 2026-11-11 | [PDF](en/3u/CX3170a/v1.0/CX3170a-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3170a | v1.1 | 2026-11-13 | [PDF](en/3u/CX3170a/v1.1/CX3170a-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3171a | v1.0 | 2026-11-11 | [PDF](en/3u/CX3171a/v1.0/CX3171a-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3171a | v1.1 | 2026-11-13 | [PDF](en/3u/CX3171a/v1.1/CX3171a-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3172a | v1.0 | 2026-11-11 | [PDF](en/3u/CX3172a/v1.0/CX3172a-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3172a | v1.1 | 2026-11-13 | [PDF](en/3u/CX3172a/v1.1/CX3172a-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3170a XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3170aXL/v1.0/CX3170aXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3170a XL | v1.1 | 2026-11-13 | [PDF](en/3u/CX3170aXL/v1.1/CX3170aXL-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3170i XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3170iXL/v1.0/CX3170iXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3170i XL | v1.1 | 2026-11-13 | [PDF](en/3u/CX3170iXL/v1.1/CX3170iXL-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3171a XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3171aXL/v1.0/CX3171aXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3171a XL | v1.1 | 2026-11-13 | [PDF](en/3u/CX3171aXL/v1.1/CX3171aXL-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3171i XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3171iXL/v1.0/CX3171iXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3171i XL | v1.1 | 2026-11-13 | [PDF](en/3u/CX3171iXL/v1.1/CX3171iXL-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3172a XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3172aXL/v1.0/CX3172aXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3172a XL | v1.1 | 2026-11-13 | [PDF](en/3u/CX3172aXL/v1.1/CX3172aXL-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3172i XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3172iXL/v1.0/CX3172iXL-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3172i XL | v1.1 | 2026-11-13 | [PDF](en/3u/CX3172iXL/v1.1/CX3172iXL-en-v1.1.pdf) |
 | English (`en`) | 2U | CX2177a | v1.0 | 2026-11-13 | [PDF](en/2u/CX2177a/v1.0/CX2177a-en-v1.0.pdf) |
 | English (`en`) | 2U | CX2177c | v1.0 | 2026-11-13 | [PDF](en/2u/CX2177c/v1.0/CX2177c-en-v1.0.pdf) |
 | English (`en`) | 2U | CX2177x | v1.0 | 2026-11-13 | [PDF](en/2u/CX2177x/v1.0/CX2177x-en-v1.0.pdf) |
