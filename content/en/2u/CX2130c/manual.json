@@ -378,5 +378,6 @@
   "cover_description_detail": [
     "2 × 3.5\" EXTERNAL BAYS"
   ],
-  "cover_format": "landscape"
+  "cover_format": "landscape",
+  "cover_copy": "centred"
 }
