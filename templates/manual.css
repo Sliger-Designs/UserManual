@@ -60,6 +60,9 @@ tr:nth-child(even) td { background:#f5f7f8; }
 .cover-copy { position:absolute; left:1.0in; bottom:1.0in; z-index:2; }
 /* Opt-in (manual.json "cover_copy": "centred"): text centred in the banner instead of 1 in from the edge. */
 .cover-copy.cover-copy-centred { left:.45in; }
+/* Three description lines lift the model name to where the banner narrows: nudge it left. */
+.cover-copy.cover-copy-centred-tall { left:.45in; }
+.cover .cover-copy-centred-tall h1 { margin-left:-.12in; }
 .cover h1 { font-size:43pt; letter-spacing:-1px; line-height:1.05; margin:0 0 3px; color:black; }
 /* Long model names (e.g. "CX3171i XL") start further left so the whole name stays inside the red banner. */
 .cover h1.cover-title-long { margin-left:-.75in; }
@@ -197,6 +200,8 @@ h1 { font-weight:700; }
 .notes-above .drawing-with-notes { grid-template-columns:1fr; grid-template-rows:auto 1fr; gap:.12in; }
 .notes-above .drawing-with-notes article p { margin-bottom:4px; }
 .notes-above .drawing-with-notes .reference-drawing-image { height:5.45in; }
+/* Top-view drawings that keep the notes beside them, with a narrower notes column. */
+.notes-narrow .drawing-with-notes { grid-template-columns:1.85in 1fr; gap:.2in; }
 
 [id^="drive-cage-layouts-"] .cards-6 .illustration-card img { height:1.65in; }
 
