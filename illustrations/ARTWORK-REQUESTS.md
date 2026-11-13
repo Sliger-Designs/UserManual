@@ -19,6 +19,9 @@ Confirmed 2026-11-04:
 - A render can be reused by another model when it shows the same part and view, for example
   the CX3170a XL lid render for the CX3171a. Reused renders are noted in the manual's
   inventory, and each reuse is listed in its pull request for review.
+- Chassis with half-height slots (the 2U CX2177, CX2137 and CX2130 families) ship half-height
+  vented slot covers; their hardware pages use `common/hardware/half-height-slot-covers-reference.png`
+  (confirmed 2026-11-13). Full-height slot chassis keep `slot-covers-reference.png`.
 - Rack ears and pull handles are shared within each height: one 2U, one 3U and one 4U pair
   (`illustrations/common/hardware/{2U,3U,4U}{RackEars,PullHandles}.jpg`).
 - 2U chassis have no motherboard tray, so they need no tray renders. Every 2U "a" model uses
