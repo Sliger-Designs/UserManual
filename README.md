@@ -8,14 +8,14 @@ tools used to translate them.
 |---|---|---|---|
 | S630 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S630/v1.0/S630-en-v1.0.pdf) |
 | S640 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S640/v1.0/S640-en-v1.0.pdf) |
-| CX2137a | 2U rackmount, 13-inch, four 80 mm fans | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX2137b | 2U rackmount, 13-inch, three 80 mm fans | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX2137a | 2U rackmount, 13-inch, four 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2137a/v1.0/CX2137a-en-v1.0.pdf) |
+| CX2137b | 2U rackmount, 13-inch, three 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2137b/v1.0/CX2137b-en-v1.0.pdf) |
 | CX2151a | 2U rackmount, 15-inch, riser GPU, four 80 mm fans | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX2151c | 2U rackmount, 15-inch, riser GPU, two external 3.5" bays | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX2151x | 2U rackmount, 15-inch, riser GPU, internal 3.5" drive cage | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX2177a | 2U rackmount, 17-inch, four 80 mm fans | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX2177c | 2U rackmount, 17-inch, two external 3.5" bays | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX2177x | 2U rackmount, 17-inch, internal 3.5" drive cage | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX2177a | 2U rackmount, 17-inch, four 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2177a/v1.0/CX2177a-en-v1.0.pdf) |
+| CX2177c | 2U rackmount, 17-inch, two external 3.5" bays | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2177c/v1.0/CX2177c-en-v1.0.pdf) |
+| CX2177x | 2U rackmount, 17-inch, internal 3.5" drive cage | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2177x/v1.0/CX2177x-en-v1.0.pdf) |
 | CX3150a | 3U rackmount | Released v1.2 (2026-11-11) | [PDF](releases/en/3u/CX3150a/v1.2/CX3150a-en-v1.2.pdf) |
 | CX3150i | 3U rackmount, one 5.25" bay | Released v1.1 (2026-11-11) | [PDF](releases/en/3u/CX3150i/v1.1/CX3150i-en-v1.1.pdf) |
 | CX3150x | 3U rackmount, internal drive bracket | Released v1.1 (2026-11-11) | [PDF](releases/en/3u/CX3150x/v1.1/CX3150x-en-v1.1.pdf) |
