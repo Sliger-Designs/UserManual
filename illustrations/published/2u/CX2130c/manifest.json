@@ -105,26 +105,26 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "_CX2130c_MOTHERBOARD 1.jpg": {
-    "path": "illustrations/published/2u/CX2130c/cx2130c-65d7ce522773.jpg",
-    "source_path": "illustrations/2u/CX2130c/_CX2130c_MOTHERBOARD 1.jpg",
-    "source_sha256": "4bb86203346477dd67c4255ce7dda886fbfa634332b3483533da6b85f4ef4851",
-    "sha256": "39c5b6dc9c04de4ac05a0f0061041f2a31931b454f637a2e9ac88939adadee55",
+  "_CX2130c_MOTHERBOARD1_standoffs.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-ccda3f60ab4a.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_MOTHERBOARD1_standoffs.jpg",
+    "source_sha256": "29ee6699e139df8ccd76c13d56080b8d3b541de11770bf488427784a5303173f",
+    "sha256": "de7d412d37354be4eb7b8763d540de1c2d3211161b326f50a6c9f6ff7783bebc",
     "dimensions_px": [
-      1688,
-      1126
+      1800,
+      1039
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "_CX2130c_MOTHERBOARD INSTALL 2.jpg": {
-    "path": "illustrations/published/2u/CX2130c/cx2130c-db27df2050b6.jpg",
-    "source_path": "illustrations/2u/CX2130c/_CX2130c_MOTHERBOARD INSTALL 2.jpg",
-    "source_sha256": "b5b1420aaa7cad2a537d7757ce5141d4e1ee8e57470caace3ee89cac31cc654b",
-    "sha256": "86eb75d8526fe200e4b5a18bea1c43065292649031dfe4753c6087b0b6af1828",
+  "_CX2130c_MOTHERBOARD2_IOshield.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-ed563c918dfb.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_MOTHERBOARD2_IOshield.jpg",
+    "source_sha256": "d78b196bc09a07a9d28e3a40bfbce00993f260d2ba56af7093b6568889e9c844",
+    "sha256": "497788b99dc9743b3edd3ca6aefd07ff9897f1d4af6bf23fc4476c0a3f48066d",
     "dimensions_px": [
-      1688,
-      1126
+      1800,
+      1039
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
@@ -141,14 +141,14 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "_CX2130c_PSU.jpg": {
-    "path": "illustrations/published/2u/CX2130c/cx2130c-f67b22285113.jpg",
-    "source_path": "illustrations/2u/CX2130c/_CX2130c_PSU.jpg",
-    "source_sha256": "375d088d6bc4fdcc7e2a7f6ae262d00d557ef05f0b47a82c08f8ba8a0d9bfba6",
-    "sha256": "4392d7c3b63777573273f3dbd26b35ef26dee8d7156fd220098700d59e137c1c",
+  "_CX2130c_PSU1.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-6f034442b41f.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_PSU1.jpg",
+    "source_sha256": "e556b93ee96692504a8f1d21c636efefe202bc5151bbdafc431250513d42bffb",
+    "sha256": "b66a422cb1f03a680ea1c4db5611e088080312b1efe522ee44b39872201ad9a7",
     "dimensions_px": [
-      1688,
-      1126
+      1800,
+      1039
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
@@ -254,14 +254,14 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "_CX2130c_motherboard3.jpg": {
-    "path": "illustrations/published/2u/CX2130c/cx2130c-85f017e412cc.jpg",
-    "source_path": "illustrations/2u/CX2130c/_CX2130c_motherboard3.jpg",
-    "source_sha256": "3cafde83bec7f13c54a86cc4c9e600d4df6e3df4af615a561f26de02cd6d2a93",
-    "sha256": "392925af6968fbc2c06871a754df41b3b99a58d0478cdd2c4fbeb48049620d91",
+  "_CX2130c_motherboard3_mobo.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-51d15e286cc8.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_motherboard3_mobo.jpg",
+    "source_sha256": "2bd11d3945313df45d43261c80e1f7c296ceae12d2e8ca8f98fdc2447fcddcf8",
+    "sha256": "3d740f307c229f9f3d3e1d17e213156d0bb3043bdff67b6dd2ce06f0fa91a36e",
     "dimensions_px": [
-      1688,
-      1126
+      1800,
+      1039
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"

@@ -234,8 +234,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/2u-motherboard-preparation.md",
       "images": [
-        "_CX2130c_MOTHERBOARD 1.jpg",
-        "_CX2130c_MOTHERBOARD INSTALL 2.jpg"
+        "_CX2130c_MOTHERBOARD1_standoffs.jpg",
+        "_CX2130c_MOTHERBOARD2_IOshield.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -251,7 +251,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/motherboard-installation.md",
       "images": [
-        "_CX2130c_motherboard3.jpg"
+        "_CX2130c_motherboard3_mobo.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -267,7 +267,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "psu-installation.md",
       "images": [
-        "_CX2130c_PSU.jpg"
+        "_CX2130c_PSU1.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [

@@ -156,6 +156,30 @@
       "note": "Supplied original; configuration applicability requires reference review."
     },
     {
+      "id": "cx2130c-ccda3f60ab4a",
+      "original_filename": "_CX2130c_MOTHERBOARD1_standoffs.jpg",
+      "local_path": "illustrations/2u/CX2130c/_CX2130c_MOTHERBOARD1_standoffs.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 4882999,
+      "sha256": "29ee6699e139df8ccd76c13d56080b8d3b541de11770bf488427784a5303173f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130c-ed563c918dfb",
+      "original_filename": "_CX2130c_MOTHERBOARD2_IOshield.jpg",
+      "local_path": "illustrations/2u/CX2130c/_CX2130c_MOTHERBOARD2_IOshield.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 4764088,
+      "sha256": "d78b196bc09a07a9d28e3a40bfbce00993f260d2ba56af7093b6568889e9c844",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
       "id": "cx2130c-b5ccc6ec0098",
       "original_filename": "_CX2130c_PCIeCARD.jpg",
       "local_path": "illustrations/2u/CX2130c/_CX2130c_PCIeCARD.jpg",
@@ -176,6 +200,18 @@
       "format": "JPEG",
       "size_bytes": 537162,
       "sha256": "375d088d6bc4fdcc7e2a7f6ae262d00d557ef05f0b47a82c08f8ba8a0d9bfba6",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130c-6f034442b41f",
+      "original_filename": "_CX2130c_PSU1.jpg",
+      "local_path": "illustrations/2u/CX2130c/_CX2130c_PSU1.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 6060282,
+      "sha256": "e556b93ee96692504a8f1d21c636efefe202bc5151bbdafc431250513d42bffb",
       "selection_status": "candidate",
       "note": "Supplied original; configuration applicability requires reference review."
     },
@@ -307,6 +343,18 @@
       "format": "JPEG",
       "size_bytes": 408219,
       "sha256": "3cafde83bec7f13c54a86cc4c9e600d4df6e3df4af615a561f26de02cd6d2a93",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130c-51d15e286cc8",
+      "original_filename": "_CX2130c_motherboard3_mobo.jpg",
+      "local_path": "illustrations/2u/CX2130c/_CX2130c_motherboard3_mobo.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 5095349,
+      "sha256": "2bd11d3945313df45d43261c80e1f7c296ceae12d2e8ca8f98fdc2447fcddcf8",
       "selection_status": "candidate",
       "note": "Supplied original; configuration applicability requires reference review."
     },
