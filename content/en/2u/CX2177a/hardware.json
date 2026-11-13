@@ -10,7 +10,7 @@
       "name": "Slot covers",
       "quantity": "7",
       "description": "Cover unused PCIe slots (half-height, vented).",
-      "image": "common/hardware/slot-covers-reference.png",
+      "image": "common/hardware/half-height-slot-covers-reference.png",
       "reference": "slot covers",
       "specification_status": "reference_table"
     },
