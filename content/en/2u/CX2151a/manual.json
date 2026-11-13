@@ -80,7 +80,8 @@
       "images": [
         "_CX2151a_ADVANCED_TOP VIEW.jpg"
       ],
-      "layout": "reference-drawing"
+      "layout": "reference-drawing",
+      "layout_variant": "notes-narrow"
     },
     {
       "id": "front-clearance",
@@ -361,7 +362,9 @@
   "missing_assets": [],
   "cover_description": "15\" DEEP 2U CHASSIS",
   "cover_description_detail": [
-    "RISER GPU · 4 × 80 MM FANS"
+    "RISER GPU",
+    "4 × 80 MM FANS"
   ],
-  "cover_format": "landscape"
+  "cover_format": "landscape",
+  "cover_copy": "centred-tall"
 }

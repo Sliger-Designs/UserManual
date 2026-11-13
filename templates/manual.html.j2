@@ -12,7 +12,7 @@
  <div class="cover-edition">{{ manual.revision }} · {{ manual.status }}</div>
  {% if page.images %}<img class="cover-image" src="{{ page.images[0].src }}" alt="{{ page.images[0].alt }}">{% endif %}
  <div class="cover-banner" aria-hidden="true"></div>
- <div class="cover-copy"><h1{% if manual.get('display_name', manual.model)|length > 8 %} class="cover-title-long"{% endif %}>{{ manual.get('display_name', manual.model) }}</h1><p>{{ manual.cover_description }}{% if manual.get("cover_description_detail") %}{% for line in ([manual.cover_description_detail] if manual.cover_description_detail is string else manual.cover_description_detail) %}<span class="cover-detail">{{ line }}</span>{% endfor %}{% endif %}</p></div>
+ <div class="cover-copy{% if manual.get('cover_copy') %} cover-copy-{{ manual.cover_copy }}{% endif %}"><h1{% if manual.get('display_name', manual.model)|length > 8 %} class="cover-title-long"{% endif %}>{{ manual.get('display_name', manual.model) }}</h1><p>{{ manual.cover_description }}{% if manual.get("cover_description_detail") %}{% for line in ([manual.cover_description_detail] if manual.cover_description_detail is string else manual.cover_description_detail) %}<span class="cover-detail">{{ line }}</span>{% endfor %}{% endif %}</p></div>
  <div class="language-tag">{{ manual.language_label }}</div>
 {% else %}
  <header><div><div class="eyebrow">{{ page.section }}</div><h1>{{ page.title }}</h1></div><span class="model">{{ manual.get('display_name', manual.model) }}</span></header>
