@@ -216,9 +216,10 @@
       "id": "aio-installation",
       "title": "Install an AIO cooler",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "aio-installation.md",
+      "source": "../../shared/rackmount/2u-aio-installation.md",
       "images": [
-        "pending: AIO render needed: Dynatron L34 radiator with four 80 mm fans on the front fan panel"
+        "common/2u-l34-install/1a-L34install_removeScrewsandGuards.jpg",
+        "common/2u-l34-install/2a-L34install_installRadiator_2.jpg"
       ],
       "layout": "procedure"
     },
@@ -358,12 +359,6 @@
     }
   ],
   "missing_assets": [
-    {
-      "id": "M02",
-      "needed": "AIO installation render: Dynatron L34 radiator with four 80 mm fans on the front fan panel.",
-      "section": "aio-installation",
-      "suggested_folder": "illustrations/2u/CX2151a/"
-    },
     {
       "id": "M03",
       "needed": "Front render named for the model (the CX2151a folder holds an identical copy named _CX2177a_FRONT.tif).",
