@@ -334,9 +334,18 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "drive-bracket-drives.md",
       "images": [
-        "_CX2177c_BRACKETFILLER.jpg"
+        "4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg",
+        "4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg"
       ],
-      "layout": "procedure"
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "D"
+        ],
+        [
+          "A"
+        ]
+      ]
     },
     {
       "id": "drive-bracket-installation",

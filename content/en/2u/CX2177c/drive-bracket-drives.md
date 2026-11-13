@@ -1,5 +1,11 @@
-The rear drive bracket takes up to five 7 mm 2.5-inch SSDs when the 3.5-inch HDD mounts are unused.
+The rear drive bracket takes five 7 mm 2.5-inch SSDs, two 3.5-inch drives up to 20 mm thick, or one 3.5-inch drive and one 2.5-inch SSD up to 15 mm thick.
 
-### Mount the drives
+### 1. Mount 2.5-inch SSDs
 
-Fasten 2.5-inch SSDs with {{ hw('D') }} and 3.5-inch drives with {{ hw('A') }} through the bracket side walls.
+Stack the SSDs in the bracket and fasten each with {{ hw('D') }} through the bracket side walls.
+
+### 2. Mount 3.5-inch drives
+
+Fasten each 3.5-inch drive with {{ hw('A') }} through the bracket side walls.
+
+<p class="info-note" role="note">Connect data and power cables before reinstalling the bracket if access is limited.</p>
