@@ -8,6 +8,6 @@ Align the three additional fans with the rear of the radiator. Secure them using
 
 ### 3. Mount the complete assembly
 
-Align the front fan bank, radiator, and mounting panel. Install the specified screws through the panel and front fans into the radiator.
+Align the front fan bank, radiator, and subfront. Install the specified screws through the subfront and front fans into the radiator.
 
 The assembly must clear the motherboard tray, front I/O, and all installed components. With the specified Asetek radiator and six 25 mm fans, maximum GPU length is **{{ facts.gpu_length_max_cooling_mm }} mm**.
