@@ -3,13 +3,30 @@
     "path": "illustrations/published/2u/CX2130a/cx2130a-45813b0335a3.jpg",
     "source_path": "illustrations/2u/CX2130a/CX2130_frontAdvanced.webp",
     "source_sha256": "9168cb0358b7a1db9b7c85b7a504866a0ad7fd5554f5e1fca91312a244b02b11",
-    "sha256": "4c363d24701e353e713c75ed27761a73e2daee961e8bd74fd8ef858290ad6397",
+    "sha256": "ffd1bb0be15bb32f7d8b57ae1f9ca23dfe63f0d57ee53b2db850ad968e687d6a",
     "dimensions_px": [
       1600,
       477
     ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 332247,
+      "total_pixels": 763200,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2130a/CX2130_frontAdvanced-white.png",
+      "full_resolution_dimensions_px": [
+        1600,
+        477
+      ],
+      "full_resolution_sha256": "3539ad54ab58f7a1a3e56178cbcf68fcfd880847749b5d303ce915a1edeeed66"
+    }
   },
   "CX2130a-CHASSIS_EXPLODE-REV20261112.jpg": {
     "path": "illustrations/published/2u/CX2130a/cx2130a-e7160a79bc9f.jpg",
@@ -44,13 +61,30 @@
     "path": "illustrations/published/2u/CX2130a/cx2130a-86cc7ef4e863.jpg",
     "source_path": "illustrations/2u/CX2130a/CX2130a_topAdvanced.webp",
     "source_sha256": "45c265706402edffdb64abfbe73b4731586d5c3c59e6b12f66d01d3882e32a2d",
-    "sha256": "71181c60274f5fe15214351afe236cbe9eefdfe13b6ba5aa0ae7a6d92719feb3",
+    "sha256": "aea30ef4ac37c2afc1496008fa9437947b5dce6e6078adbf5962ddfba876dfd9",
     "dimensions_px": [
       1600,
       926
     ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 882354,
+      "total_pixels": 1481600,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2130a/CX2130a_topAdvanced-white.png",
+      "full_resolution_dimensions_px": [
+        1600,
+        926
+      ],
+      "full_resolution_sha256": "6bb07641ed9dc9b56e71301b9b6be520e0cd83087f9413cdc00e81c40078b75b"
+    }
   },
   "_CX2130a_FACEPLATE REMOVAL.jpg": {
     "path": "illustrations/published/2u/CX2130a/cx2130a-6bcdf9f961d1.jpg",

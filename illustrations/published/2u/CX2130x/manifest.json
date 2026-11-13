@@ -32,13 +32,30 @@
     "path": "illustrations/published/2u/CX2130x/cx2130x-45813b0335a3.jpg",
     "source_path": "illustrations/2u/CX2130x/CX2130_frontAdvanced.webp",
     "source_sha256": "9168cb0358b7a1db9b7c85b7a504866a0ad7fd5554f5e1fca91312a244b02b11",
-    "sha256": "4c363d24701e353e713c75ed27761a73e2daee961e8bd74fd8ef858290ad6397",
+    "sha256": "ffd1bb0be15bb32f7d8b57ae1f9ca23dfe63f0d57ee53b2db850ad968e687d6a",
     "dimensions_px": [
       1600,
       477
     ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 332247,
+      "total_pixels": 763200,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130_frontAdvanced-white.png",
+      "full_resolution_dimensions_px": [
+        1600,
+        477
+      ],
+      "full_resolution_sha256": "3539ad54ab58f7a1a3e56178cbcf68fcfd880847749b5d303ce915a1edeeed66"
+    }
   },
   "CX2130x-CHASSIS_EXPLODE-REV20261112.jpg": {
     "path": "illustrations/published/2u/CX2130x/cx2130x-3ec59ba7f9d0.jpg",
