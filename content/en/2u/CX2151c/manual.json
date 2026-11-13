@@ -149,13 +149,13 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "../../shared/rackmount/2u-front-ports.md",
       "images": [
-        "_CX2151c_FRONT.tif",
+        "common/front-io/2Ucx_frontIO.jpg",
         "common/front-io/PowerAndLED_greyscale.png",
         "common/front-io/20pinUSB3_greyscale.png"
       ],
       "layout": "front-io",
       "image_annotations": {
-        "_CX2151c_FRONT.tif": "fpio-callouts.json"
+        "common/front-io/2Ucx_frontIO.jpg": "../../shared/rackmount/fpio-2u-cx-callouts.json"
       }
     },
     {
