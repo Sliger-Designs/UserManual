@@ -1170,5 +1170,17 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/2u-l34-install/2a-L34install_installRadiator_2.jpg": {
+    "path": "illustrations/published/common/common-d60ff42dd562.jpg",
+    "source_path": "illustrations/common/2u-l34-install/2a-L34install_installRadiator_2.jpg",
+    "source_sha256": "9b2768bad4ba2f0e4a53b9cd39f37eb1eea1690c8d29b3307073369e5cfbca2f",
+    "sha256": "a5dda50c76ba9bd575131af612635f622913e8a3064ce403c8072adc5f7df530",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }
