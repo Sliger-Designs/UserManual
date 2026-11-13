@@ -213,9 +213,10 @@
       "id": "aio-installation",
       "title": "Install an AIO cooler",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "aio-installation.md",
+      "source": "../../shared/rackmount/2u-aio-installation.md",
       "images": [
-        "pending: AIO render needed: Dynatron L34 radiator with four 80 mm fans on the front fan panel"
+        "common/2u-l34-install/1a-L34install_removeScrewsandGuards.jpg",
+        "common/2u-l34-install/2a-L34install_installRadiator.jpg"
       ],
       "layout": "procedure"
     },
@@ -348,12 +349,6 @@
       "id": "M04",
       "needed": "GPU / PCIe card installation render; numbered step renders (the supplied set is unnumbered).",
       "section": "gpu-installation",
-      "suggested_folder": "illustrations/2u/CX2130a/"
-    },
-    {
-      "id": "M05",
-      "needed": "AIO installation render: Dynatron L34 radiator with four 80 mm fans on the front fan panel.",
-      "section": "aio-installation",
       "suggested_folder": "illustrations/2u/CX2130a/"
     }
   ],
