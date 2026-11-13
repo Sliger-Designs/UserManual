@@ -1,0 +1,15 @@
+### 1. Align the fans
+
+Align three 120 mm fans with the subfront. Each fan uses four mounting points, twelve in total.
+
+### 2. Secure the fans
+
+Use the self-tapping fan screws supplied with your fans. Pass them through the subfront and into the fan frames.
+
+Tighten sufficiently to prevent movement and vibration.
+
+### Check GPU clearance
+
+With three 25 mm front fans, maximum GPU length is **{{ facts.gpu_length_fans_only_mm }} mm**. Thicker fans reduce available space.
+
+For an AIO configuration, continue to the next section before selecting mounting screws.
