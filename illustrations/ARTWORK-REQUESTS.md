@@ -21,8 +21,8 @@ Confirmed 2026-11-04:
   inventory, and each reuse is listed in its pull request for review.
 - Rack ears and pull handles are shared within each height: one 2U, one 3U and one 4U pair
   (`illustrations/common/hardware/{2U,3U,4U}{RackEars,PullHandles}.jpg`).
-- 2U chassis have no motherboard tray, so they need no tray renders. 2U AIO renders may be
-  supplied later; until then 2U manuals describe AIO installation in text beside a grey placeholder.
+- 2U chassis have no motherboard tray, so they need no tray renders. Every 2U "a" model uses
+  the shared Dynatron L34 renders (`common/2u-l34-install/`, supplied 2026-11-13).
 - The CX3701 and CX3702 do not use motherboard standoffs. Of their successors (website concepts),
   the CX3150n (CX3701 "v2") uses no standoffs and the CX3180n (CX3702 "v2") uses standoffs.
 - The CX3151i standoff, I/O-shield, motherboard, PSU and SSD steps use the CX3151x renders
@@ -68,16 +68,12 @@ Confirmed 2026-11-04:
 
 | Done | Model | Needed | Effect until supplied |
 |---|---|---|---|
-|  | CX2177a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
 |  | CX2177x | Rear drive bracket with 2.5-inch SSDs (as CX2177a step 4c) | Grey placeholder on the rear-bracket drive page |
 |  | CX2177c | Front-panel render (`_CX2177c_FRONT`); the clearance drawings were supplied 2026-11-12 | Grey placeholder on the front-port page |
 |  | CX2177c | Numbered step renders of the current design (the supplied renders are unnumbered and several show an earlier layout); confirm the step mapping in the draft, e.g. `_CX2177c_BRACKET INSTALL` used for the GPU and slot-cover step | The draft uses the supplied renders as mapped |
-|  | CX2137a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
-|  | CX2151a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
 |  | CX2151a | Optional: front render named for the model (the folder holds an identical copy named `_CX2177a_FRONT.tif`, which is used) | None (optional) |
 |  | CX2151x | Front-panel render (`_CX2151x_FRONT`); numbered step renders (confirm the mapping of the supplied unnumbered set in the draft); the clearance drawings were supplied 2026-11-12 | Grey placeholder on the front-port page |
 |  | CX2130a, CX2130c | GPU / PCIe card step; top-view and front-view clearance drawings; front-panel render; numbered step renders (the supplied sets are unnumbered) | Grey placeholders on those pages |
-|  | CX2130a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
 |  | CX2130x | Every step render, clearance drawings and front-panel render (only the exploded view was supplied; the drive-cage step shares the CX2151x and CX2177x renders) | Grey placeholders apart from the exploded view and drive-cage step |
 
 ## Cable management (not blocking V1)
