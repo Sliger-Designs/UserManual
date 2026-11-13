@@ -8,9 +8,9 @@ tools used to translate them.
 |---|---|---|---|
 | S630 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S630/v1.0/S630-en-v1.0.pdf) |
 | S640 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S640/v1.0/S640-en-v1.0.pdf) |
-| CX2130a | 2U rackmount, 13-inch, five half-height slots, four 80 mm fans | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX2130c | 2U rackmount, 13-inch, two external 3.5" bays | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX2130x | 2U rackmount, 13-inch, internal 3.5" drive cage | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX2130a | 2U rackmount, 13-inch, five half-height slots, four 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2130a/v1.0/CX2130a-en-v1.0.pdf) |
+| CX2130c | 2U rackmount, 13-inch, two external 3.5" bays | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2130c/v1.0/CX2130c-en-v1.0.pdf) |
+| CX2130x | 2U rackmount, 13-inch, internal 3.5" drive cage | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2130x/v1.0/CX2130x-en-v1.0.pdf) |
 | CX2137a | 2U rackmount, 13-inch, four 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2137a/v1.0/CX2137a-en-v1.0.pdf) |
 | CX2137b | 2U rackmount, 13-inch, three 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2137b/v1.0/CX2137b-en-v1.0.pdf) |
 | CX2151a | 2U rackmount, 15-inch, riser GPU, four 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2151a/v1.0/CX2151a-en-v1.0.pdf) |
