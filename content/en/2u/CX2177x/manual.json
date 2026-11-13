@@ -1,0 +1,447 @@
+{
+  "model": "CX2177x",
+  "language": "en",
+  "language_label": "ENGLISH",
+  "revision": "Prototype 0.1",
+  "status": "Technical review draft",
+  "text_checks": {
+    "required": [
+      "431.8",
+      "87.88",
+      "404 mm",
+      "378 mm",
+      "366 mm",
+      "72 mm",
+      "66 mm",
+      "FlexATX",
+      "SBAG-HWKIT",
+      "250 mm",
+      "not officially supported",
+      "SSI-EEB"
+    ],
+    "forbidden": [
+      "330.2",
+      "376 mm",
+      "363 mm",
+      "395 mm",
+      "375 mm",
+      "364 mm",
+      "to the tray",
+      "on the tray",
+      "USB Type-C",
+      "120 mm fans",
+      "317 mm",
+      "312 mm"
+    ]
+  },
+  "nominal_dimensions_in": {
+    "depth": 17,
+    "width": 17,
+    "height": 3.46
+  },
+  "omitted_pages": [
+    "tray-removal",
+    "tray-installation",
+    "ssd-installation"
+  ],
+  "pages": [
+    {
+      "id": "cover",
+      "title": "CX2177x",
+      "section": "USER GUIDE",
+      "source": "cover.md",
+      "images": [
+        "_CX2177x_rendering.jpg"
+      ],
+      "layout": "cover"
+    },
+    {
+      "id": "contents",
+      "title": "In this guide",
+      "section": "START HERE",
+      "source": "contents.md",
+      "images": [],
+      "layout": "contents"
+    },
+    {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "CX2177x-CHASSIS_EXPLODE-REV20261112.jpg"
+      ],
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX2177x-CHASSIS_EXPLODE-REV20261112.jpg": "exploded-callouts.json"
+      }
+    },
+    {
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "dimensions.md",
+      "images": [
+        "_CX2177x_ADVANCED_TOP VIEW.jpg"
+      ],
+      "layout": "reference-drawing",
+      "layout_variant": "notes-above"
+    },
+    {
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "front-clearance.md",
+      "images": [
+        "_CX2177x_ADVANCED_FRONT VIEW.jpg"
+      ],
+      "layout": "reference-drawing",
+      "crop_margins": true
+    },
+    {
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "specifications.md",
+      "images": [],
+      "layout": "specifications"
+    },
+    {
+      "id": "hardware",
+      "title": "Hardware kit",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/hardware.md",
+      "images": [
+        "common/hardware/YELLOW PATCHED SCREWS.jpg",
+        "common/hardware/RED PATCHED SCREWS.jpg",
+        "common/hardware/BLACK HEX STANDOFFS.jpg",
+        "common/hardware/BLUE PATCHED SCREWS.jpg",
+        "common/hardware/GREEN PATCHED SCREWS.jpg",
+        "common/hardware/M4 THREAD SCREWS.jpg",
+        "common/hardware/half-height-slot-covers-reference.png",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_side.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Top.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Side.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_top.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_side.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
+        "common/hardware/2URackEars.jpg",
+        "common/hardware/2UPullHandles.jpg"
+      ],
+      "layout": "hardware-key",
+      "hardware_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ]
+    },
+    {
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/2u-front-ports.md",
+      "images": [
+        "common/front-io/2Ucx_frontIO.jpg",
+        "common/front-io/PowerAndLED_greyscale.png",
+        "common/front-io/20pinUSB3_greyscale.png"
+      ],
+      "layout": "front-io",
+      "image_annotations": {
+        "common/front-io/2Ucx_frontIO.jpg": "../../shared/rackmount/fpio-2u-cx-callouts.json"
+      }
+    },
+    {
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/2u-lid-removal.md",
+      "images": [
+        "1a_CX2177x_LID UNSCREW.jpg",
+        "1b_CX2177x_LID SLIDE BACK.jpg",
+        "1c_CX2177x_LID REMOVE.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/faceplate-removal.md",
+      "images": [
+        "2_CX2177x_FACEPLATE REMOVE.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/rack-ears.md",
+      "images": [
+        "10_CX2177x_RACK EARS.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "F",
+          "H",
+          "I"
+        ]
+      ]
+    },
+    {
+      "id": "fan-installation",
+      "title": "Install fans",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "fan-installation.md",
+      "images": [
+        "3_CX2177x_FAN INSTALL.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "front-drive-cage-removal",
+      "title": "Remove the front drive cage",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "front-drive-cage-removal.md",
+      "images": [
+        "4a_CX2177x_FRONT DRIVE BRACKET UNSCREW.jpg",
+        "4b_CX2177x_FRONT DRIVE BRACKET SLIDE BACK.jpg",
+        "4c_CX2177x_FRONT DRIVE BRACKET REMOVE.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "drive-bracket-removal",
+      "title": "Remove the rear drive bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "drive-bracket-removal.md",
+      "images": [
+        "4d_CX2177x_REAR DRIVE BRACKET UNSCREW.jpg",
+        "4e_CX2177x_REAR DRIVE BRACKET REMOVE.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "E"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard area",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/2u-motherboard-preparation.md",
+      "images": [
+        "5a_CX2177x_STANDOFF INSTALL.jpg",
+        "6a_CX2177x_MOTHERBOARD IO SHIELD.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "C"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/motherboard-installation.md",
+      "images": [
+        "6b_CX2177x_MOTHERBOARD.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "C"
+        ]
+      ]
+    },
+    {
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "psu-installation.md",
+      "images": [
+        "7_CX2177x_PSU.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ]
+      ]
+    },
+    {
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/2u-gpu-installation.md",
+      "images": [
+        "8_CX2177x_GPU.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "G"
+        ]
+      ]
+    },
+    {
+      "id": "front-drive-cage-drives",
+      "title": "Mount drives in the front drive cage",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "front-drive-cage-drives.md",
+      "images": [
+        "4d_CX2177x_DRIVE SCREWS.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "D"
+        ]
+      ]
+    },
+    {
+      "id": "drive-bracket-drives",
+      "title": "Mount drives in the rear drive bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "drive-bracket-drives.md",
+      "images": [
+        "4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg",
+        "4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "D"
+        ],
+        [
+          "A"
+        ]
+      ]
+    },
+    {
+      "id": "drive-bracket-installation",
+      "title": "Reinstall the rear drive bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "drive-bracket-installation.md",
+      "images": [
+        "9a_CX2177x_DRIVE BKT 2 REAR SCREW.jpg",
+        "9b_CX2177x_DRIVE BKT 2 SIDE SCREW.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [
+          "E"
+        ]
+      ]
+    },
+    {
+      "id": "front-drive-cage-installation",
+      "title": "Reinstall the front drive cage",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "front-drive-cage-installation.md",
+      "images": [
+        "9c_CX2177x_DRIVE BKT 1 INSTALL.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ]
+      ]
+    },
+    {
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "cable-management.md",
+      "images": [],
+      "layout": "text"
+    },
+    {
+      "id": "support",
+      "title": "Warranty & support",
+      "section": "04 / SUPPORT & COMPLIANCE",
+      "source": [
+        "../../shared/warranty.md",
+        "../../shared/support.md"
+      ],
+      "images": [],
+      "layout": "reference-columns",
+      "reference_sections": [
+        "4.1",
+        "4.2"
+      ]
+    },
+    {
+      "id": "regulations",
+      "title": "Regulations",
+      "section": "04 / SUPPORT & COMPLIANCE",
+      "source": "../../shared/regulations.md",
+      "images": [
+        "common/icons/RoHScompliant.png",
+        "common/icons/REACHcompliant.png",
+        "common/icons/ResponsibleMineralsInitive.png",
+        "common/icons/MadeInUSA-reference.png"
+      ],
+      "layout": "regulations",
+      "reference_sections": [
+        "4.3"
+      ]
+    },
+    {
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "section": "04 / SUPPORT & COMPLIANCE",
+      "source": "revision-history.md",
+      "images": [],
+      "layout": "text"
+    }
+  ],
+  "missing_assets": [],
+  "cover_description": "17\" DEEP 2U CHASSIS",
+  "cover_description_detail": [
+    "INTERNAL 3.5\" DRIVE CAGE"
+  ],
+  "cover_format": "landscape",
+  "cover_copy": "centred"
+}

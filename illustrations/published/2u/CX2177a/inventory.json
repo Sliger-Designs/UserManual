@@ -1,0 +1,697 @@
+{
+  "schema_version": 1,
+  "model": "CX2177a",
+  "items": [
+    {
+      "id": "cx2177a-710ece4916d9",
+      "original_filename": "10_CX2177a_RACK EARS.jpg",
+      "local_path": "illustrations/2u/CX2177a/10_CX2177a_RACK EARS.jpg",
+      "width_px": 4360,
+      "height_px": 3114,
+      "format": "JPEG",
+      "size_bytes": 821973,
+      "sha256": "3dccfd78790b2fc4b1dde9175617b0d12a8f45613622d1793bf0d2a47b1f0185",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/10_CX2177a_RACK EARS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-e975ea8d5436",
+      "original_filename": "1a_CX2177a_LID UNSCREW.jpg",
+      "local_path": "illustrations/2u/CX2177a/1a_CX2177a_LID UNSCREW.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 847067,
+      "sha256": "d7512972d5b4994b6c30adcfba382cdc39cfae0a156a01b11bc3b7217a174c9c",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/1a_CX2177a_LID UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-6cd049b6d86c",
+      "original_filename": "1b_CX2177a_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/2u/CX2177a/1b_CX2177a_LID SLIDE BACK.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 608162,
+      "sha256": "dcd63a315640bd6be35508fb970e7a016ab02405dec803ab58f2e33684d311ac",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/1b_CX2177a_LID SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-48cb2270426e",
+      "original_filename": "1c_CX2177a_LID REMOVE.jpg",
+      "local_path": "illustrations/2u/CX2177a/1c_CX2177a_LID REMOVE.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 1385832,
+      "sha256": "26567414ac24c4ab231ce95ac7c6b123277fca595114aa09eea26860cfc3ee19",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/1c_CX2177a_LID REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-2144d7f19955",
+      "original_filename": "2_CX2177a_FACEPLATE REMOVE.jpg",
+      "local_path": "illustrations/2u/CX2177a/2_CX2177a_FACEPLATE REMOVE.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 1843860,
+      "sha256": "7a43aca19e1144cc651999fc7f5a82e9a17d4fd4a0c9f9742ae43d6a88c38135",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/2_CX2177a_FACEPLATE REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-2b79bcc6d6e6",
+      "original_filename": "3_CX2177a_FAN INSTALL.jpg",
+      "local_path": "illustrations/2u/CX2177a/3_CX2177a_FAN INSTALL.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 1407340,
+      "sha256": "b553c9aee50a6b07c0f4c646ed198bda5f64251abcafdc1da23ea06165eb5775",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/3_CX2177a_FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-1c14f25db89a",
+      "original_filename": "4a_CX2177a_DRIVE BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/2u/CX2177a/4a_CX2177a_DRIVE BRACKET UNSCREW.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1320566,
+      "sha256": "d5437835c58665de45134d99b498ec113fbc16b32afe0128595e77551f9037dc",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/4a_CX2177a_DRIVE BRACKET UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-db5f5d97fa57",
+      "original_filename": "4b_CX2177a_DRIVE BRACKET REMOVE.jpg",
+      "local_path": "illustrations/2u/CX2177a/4b_CX2177a_DRIVE BRACKET REMOVE.jpg",
+      "width_px": 5197,
+      "height_px": 3712,
+      "format": "JPEG",
+      "size_bytes": 1002147,
+      "sha256": "66689da1e7f579aac776ff5f9641c17c4f6eef3be48bd80ed6aaf2d58483e6f0",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/4b_CX2177a_DRIVE BRACKET REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-51030aaeb760",
+      "original_filename": "4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg",
+      "local_path": "illustrations/2u/CX2177a/4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 590670,
+      "sha256": "f451bdfd1d225364277f66df41fec25ee71ff428fa357586bd829487dc827efb",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/4c_CX2177a_DRIVE BRACKET SSD INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-989a6ba6b662",
+      "original_filename": "4d_CX2137b_DRIVE BRACKET HDD INSTALL.jpg",
+      "local_path": "illustrations/2u/CX2177a/4d_CX2137b_DRIVE BRACKET HDD INSTALL.jpg",
+      "width_px": 3346,
+      "height_px": 2390,
+      "format": "JPEG",
+      "size_bytes": 389424,
+      "sha256": "5bdb2711e201565600d35b88013045d842d7aedc7afbe339d62497b7243269f4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/4d_CX2137b_DRIVE BRACKET HDD INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-8b3795d832dd",
+      "original_filename": "4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg",
+      "local_path": "illustrations/2u/CX2177a/4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg",
+      "width_px": 4006,
+      "height_px": 2861,
+      "format": "JPEG",
+      "size_bytes": 486660,
+      "sha256": "d9cfe73bcf1283be4c51c01afae8af9df8441c5c43a20974161154fc96a1a1ba",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/4d_CX2177a_DRIVE BRACKET HDD INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-8446fe9fd7d2",
+      "original_filename": "5a_CX2177a_STANDOFF INSTALL.jpg",
+      "local_path": "illustrations/2u/CX2177a/5a_CX2177a_STANDOFF INSTALL.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 1534023,
+      "sha256": "953b0652962b73663434bfe94dcfac71872e02e22b3bc88b45a7e1ef67ea3955",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/5a_CX2177a_STANDOFF INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-41a5a104fe05",
+      "original_filename": "5b_CX2177a_STANDOFF INSTALL 180.jpg",
+      "local_path": "illustrations/2u/CX2177a/5b_CX2177a_STANDOFF INSTALL 180.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1236635,
+      "sha256": "2f7dab9271713ffabcdca3529093e46671b419c860da2b4e38877120d1336c65",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/5b_CX2177a_STANDOFF INSTALL 180-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-6307e9fdfbec",
+      "original_filename": "5c_CX2177a_STANDOFF INSTALLED.jpg",
+      "local_path": "illustrations/2u/CX2177a/5c_CX2177a_STANDOFF INSTALLED.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 902129,
+      "sha256": "1c03b970faebe767442b9bf52fb7908f575c41737a40653113025fc307900033",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/5c_CX2177a_STANDOFF INSTALLED-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-7da511ac2852",
+      "original_filename": "6a_CX2177a_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/2u/CX2177a/6a_CX2177a_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1007058,
+      "sha256": "3f3f3b171fab6330dc2a5ba51bb7d4f60150bf7a181169b33cad49cc962907bb",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/6a_CX2177a_MOTHERBOARD IO SHIELD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-f28232552281",
+      "original_filename": "6b_CX2177a_MOTHERBOARD.jpg",
+      "local_path": "illustrations/2u/CX2177a/6b_CX2177a_MOTHERBOARD.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1253508,
+      "sha256": "5ae90dd243df1f877c9440a81d13c4640c4dd2193c08edc53f255e77d9025ef0",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/6b_CX2177a_MOTHERBOARD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-3602f82105df",
+      "original_filename": "7_CX2177a_PSU.jpg",
+      "local_path": "illustrations/2u/CX2177a/7_CX2177a_PSU.jpg",
+      "width_px": 5702,
+      "height_px": 4073,
+      "format": "JPEG",
+      "size_bytes": 1864191,
+      "sha256": "314e42cd7c6b21314e95a136ca5c92092b765881a8d0e500fb5e9074d08fa3df",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/7_CX2177a_PSU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-a928a0e2b684",
+      "original_filename": "8_CX2177a_GPU.jpg",
+      "local_path": "illustrations/2u/CX2177a/8_CX2177a_GPU.jpg",
+      "width_px": 4377,
+      "height_px": 3126,
+      "format": "JPEG",
+      "size_bytes": 1327074,
+      "sha256": "74f5f994c52ddd54b6f31c6c124e747cd9e72265c5d3cdd0d88c0dad07a0e294",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/8_CX2177a_GPU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-cf708030f25d",
+      "original_filename": "9a_CX2177a_DRIVE BRACKET SCREW IN.jpg",
+      "local_path": "illustrations/2u/CX2177a/9a_CX2177a_DRIVE BRACKET SCREW IN.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1604502,
+      "sha256": "def0def42b912a46b19e78b708096f95e052b05e914147d0a6b711f9005e54f8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/9a_CX2177a_DRIVE BRACKET SCREW IN-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-6737e66383c2",
+      "original_filename": "9b_CX2177a_DRIVE BRACKET SIDE SCREW IN.jpg",
+      "local_path": "illustrations/2u/CX2177a/9b_CX2177a_DRIVE BRACKET SIDE SCREW IN.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1350541,
+      "sha256": "5081b7f81a7ba0f34fb52442bbb7f8230d3cc2761d5db370384a0606aa770dd5",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/9b_CX2177a_DRIVE BRACKET SIDE SCREW IN-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-b381310eafef",
+      "original_filename": "CX2177a-CHASSIS_EXPLODE-REV20261112.jpg",
+      "local_path": "illustrations/2u/CX2177a/CX2177a-CHASSIS_EXPLODE-REV20261112.jpg",
+      "width_px": 5200,
+      "height_px": 2646,
+      "format": "JPEG",
+      "size_bytes": 1417694,
+      "sha256": "1b64ed311a63d644e6d75f9dc18474d84187c652ca65734c770a09e05f0c5d19",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/CX2177a-CHASSIS_EXPLODE-REV20261112-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-b0911f3609ce",
+      "original_filename": "CX2177a-CHASSIS_EXPLODE.jpg",
+      "local_path": "illustrations/2u/CX2177a/CX2177a-CHASSIS_EXPLODE.jpg",
+      "width_px": 5200,
+      "height_px": 3230,
+      "format": "JPEG",
+      "size_bytes": 1636271,
+      "sha256": "9b45d4abf12b211a7faeab9c6b76876d8d1819457cd7c133a15d75bd18eb6293",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/CX2177a-CHASSIS_EXPLODE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-6d87657efd42",
+      "original_filename": "_CX2177a.jpg",
+      "local_path": "illustrations/2u/CX2177a/_CX2177a.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 326520,
+      "sha256": "46181f5d58b65d7ed58910ce224bb321d0a86510470961cb6caf2e23a560b7e9",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/_CX2177a-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-0644b04eb4ed",
+      "original_filename": "_CX2177a_ADVANCED_FRONT VIEW.jpg",
+      "local_path": "illustrations/2u/CX2177a/_CX2177a_ADVANCED_FRONT VIEW.jpg",
+      "width_px": 5597,
+      "height_px": 3998,
+      "format": "JPEG",
+      "size_bytes": 1008738,
+      "sha256": "e56447a7b859870257342524fe1b24eb1daa81982ab78ad49d13bd8bbca9a28a",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/_CX2177a_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-dbf295fa1c03",
+      "original_filename": "_CX2177a_ADVANCED_TOP VIEW.jpg",
+      "local_path": "illustrations/2u/CX2177a/_CX2177a_ADVANCED_TOP VIEW.jpg",
+      "width_px": 5042,
+      "height_px": 3602,
+      "format": "JPEG",
+      "size_bytes": 1144042,
+      "sha256": "04cc2e01a5f044aa4bf39ce383bcaeb726a1fa5bb5bdf658cea3fa29fdbcbed1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/_CX2177a_ADVANCED_TOP VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-0e7ec842593b",
+      "original_filename": "_CX2177a_CORNER 180.jpg",
+      "local_path": "illustrations/2u/CX2177a/_CX2177a_CORNER 180.jpg",
+      "width_px": 4601,
+      "height_px": 3286,
+      "format": "JPEG",
+      "size_bytes": 1160074,
+      "sha256": "655f8fd4fdcc3316a6c1c57dbaf1e3faa263b1fbb9197109263ed5e2158028d3",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/_CX2177a_CORNER 180-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-3b52cca758f0",
+      "original_filename": "_CX2177a_CORNER.jpg",
+      "local_path": "illustrations/2u/CX2177a/_CX2177a_CORNER.jpg",
+      "width_px": 4631,
+      "height_px": 3308,
+      "format": "JPEG",
+      "size_bytes": 1166155,
+      "sha256": "8d618132d337fdddaf371358989c05c47e62bf0b529474191ded1b22e2942064",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/_CX2177a_CORNER-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-c51e229abf2b",
+      "original_filename": "_CX2177a_FRONT.tif",
+      "local_path": "illustrations/2u/CX2177a/_CX2177a_FRONT.tif",
+      "width_px": 9401,
+      "height_px": 4701,
+      "format": "TIFF",
+      "size_bytes": 4938160,
+      "sha256": "92824b91e77cd34138965cf67f588fa7d51c71d172d7837aa3ff947cc3418ff1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2177a-1599b13262cc",
+      "original_filename": "_CX2177a_REAR.tif",
+      "local_path": "illustrations/2u/CX2177a/_CX2177a_REAR.tif",
+      "width_px": 7507,
+      "height_px": 3753,
+      "format": "TIFF",
+      "size_bytes": 1802424,
+      "sha256": "b97a60ba9bba68f93f71100b6f54408b6c297aba6bc214487c2bd0cea903f485",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2177a-2e473e8ae85c",
+      "original_filename": "_CX2177a_rendering.jpg",
+      "local_path": "illustrations/2u/CX2177a/_CX2177a_rendering.jpg",
+      "width_px": 4360,
+      "height_px": 3114,
+      "format": "JPEG",
+      "size_bytes": 609436,
+      "sha256": "ab19d7badaa9608561245c898fc469a3aa5b8064addbcfee610c3751c3bc68c4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/_CX2177a_rendering-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177a-5cd3e0f91ccb",
+      "original_filename": "gpu.jpg.jpg",
+      "local_path": "illustrations/2u/CX2177a/gpu.jpg.jpg",
+      "width_px": 4377,
+      "height_px": 3126,
+      "format": "JPEG",
+      "size_bytes": 1327074,
+      "sha256": "74f5f994c52ddd54b6f31c6c124e747cd9e72265c5d3cdd0d88c0dad07a0e294",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177a/gpu.jpg-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    }
+  ]
+}

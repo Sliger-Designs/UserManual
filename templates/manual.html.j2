@@ -12,7 +12,7 @@
  <div class="cover-edition">{{ manual.revision }} · {{ manual.status }}</div>
  {% if page.images %}<img class="cover-image" src="{{ page.images[0].src }}" alt="{{ page.images[0].alt }}">{% endif %}
  <div class="cover-banner" aria-hidden="true"></div>
- <div class="cover-copy"><h1{% if manual.get('display_name', manual.model)|length > 8 %} class="cover-title-long"{% endif %}>{{ manual.get('display_name', manual.model) }}</h1><p>{{ manual.cover_description }}{% if manual.get("cover_description_detail") %}{% for line in ([manual.cover_description_detail] if manual.cover_description_detail is string else manual.cover_description_detail) %}<span class="cover-detail">{{ line }}</span>{% endfor %}{% endif %}</p></div>
+ <div class="cover-copy{% if manual.get('cover_copy') %} cover-copy-{{ manual.cover_copy }}{% endif %}"><h1{% if manual.get('display_name', manual.model)|length > 8 %} class="cover-title-long"{% endif %}>{{ manual.get('display_name', manual.model) }}</h1><p>{{ manual.cover_description }}{% if manual.get("cover_description_detail") %}{% for line in ([manual.cover_description_detail] if manual.cover_description_detail is string else manual.cover_description_detail) %}<span class="cover-detail">{{ line }}</span>{% endfor %}{% endif %}</p></div>
  <div class="language-tag">{{ manual.language_label }}</div>
 {% else %}
  <header><div><div class="eyebrow">{{ page.section }}</div><h1>{{ page.title }}</h1></div><span class="model">{{ manual.get('display_name', manual.model) }}</span></header>
@@ -42,7 +42,7 @@
  </article>{% endfor %}</div>
  <div class="catalog-note">{{ page.html.split('</p>', 1)[1] }}</div>
  {% elif page.layout == 'exploded' %}
- {% if page.images and page.images[0].get('svg') %}<div class="exploded-diagram">{{ page.images[0].svg }}</div>{% elif page.images %}<img class="exploded-diagram" src="{{ page.images[0].src }}" alt="{{ t('Numbered exploded view of chassis assemblies 1–10', 'exploded view description for screen readers', page_number) }}">{% else %}<div class="asset-gap exploded-diagram">Exploded-view illustration pending</div>{% endif %}
+ {% if page.images and page.images[0].get('pending') %}<div class="asset-gap exploded-diagram">{{ page.images[0].pending }}</div>{% elif page.images and page.images[0].get('svg') %}<div class="exploded-diagram">{{ page.images[0].svg }}</div>{% elif page.images %}<img class="exploded-diagram" src="{{ page.images[0].src }}" alt="{{ t('Numbered exploded view of chassis assemblies 1–10', 'exploded view description for screen readers', page_number) }}">{% else %}<div class="asset-gap exploded-diagram">Exploded-view illustration pending</div>{% endif %}
  <article>{{ page.html }}</article>
  {% elif page.layout == 'dimensions' %}
  {% if not page.images %}<div class="asset-gap dimension-gap">Model-specific side and front dimension drawings pending</div>{% endif %}
@@ -53,8 +53,8 @@
  <figcaption>{% if loop.first %}{{ t('Side · depth', 'dimension drawing caption', page_number) }}{% else %}{{ t('Front · width and height', 'dimension drawing caption', page_number) }}{% endif %}</figcaption></figure>{% endfor %}
  </div><article class="dimension-notes">{{ page.html }}</article>
  {% elif page.layout == 'reference-drawing' %}
- {% if page.get('side_notes') %}<div class="drawing-with-notes"><article>{{ page.html }}</article><img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}"{% if page.images[0].style %} style="{{ page.images[0].style }}"{% endif %}></div>
- {% else %}<img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}"><article>{{ page.html }}</article>{% endif %}
+ {% if page.get('side_notes') %}<div class="drawing-with-notes"><article>{{ page.html }}</article>{% if page.images[0].get('pending') %}<div class="asset-gap reference-drawing-image">{{ page.images[0].pending }}</div>{% else %}<img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}"{% if page.images[0].style %} style="{{ page.images[0].style }}"{% endif %}>{% endif %}</div>
+ {% else %}{% if page.images[0].get('pending') %}<div class="asset-gap reference-drawing-image">{{ page.images[0].pending }}</div>{% else %}<img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}"{% if page.images[0].style %} style="{{ page.images[0].style }}"{% endif %}>{% endif %}<article>{{ page.html }}</article>{% endif %}
  {% elif page.layout == 'regulations' %}
  <div class="regulatory-icons">{% for img in page.images %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endfor %}</div>
  <article>{{ page.html }}</article>
@@ -73,7 +73,7 @@
  {% endfor %}</div>
  {% if page.id == 'hardware' %}<p class="catalog-note">Prototype review: confirm kit quantities, screw specifications, and final callout letters before release. Illustrations are not to scale. Fan and radiator fasteners are supplied with the cooling components.</p>{% endif %}
  {% elif page.layout == 'procedure' %}
- <div class="visuals count-{{ page.images|length }}">{% for img in page.images %}<figure><img src="{{ img.src }}" alt="{{ img.alt }}"{% if img.get('style') %} style="{{ img.style }}"{% endif %}>{% if page.figure_keys[loop.index0] %}<div class="figure-hardware">{% for entry in page.figure_keys[loop.index0] %}<a href="#hardware-{{ entry.letter }}" data-hardware-color="{{ entry.color|default('neutral') }}"><b>{{ entry.letter }}</b>{% if entry.color is defined %} {{ t(entry.color|capitalize, 'hardware chip color; translate display text, keep internal color key', page_number) }}{% endif %}</a>{% endfor %}</div>{% endif %}{% if page.images|length > 1 %}<figcaption>{{ loop.index }}</figcaption>{% endif %}</figure>{% endfor %}</div>
+ <div class="visuals count-{{ page.images|length }}">{% for img in page.images %}<figure>{% if img.get('pending') %}<div class="asset-gap figure-gap">{{ img.pending }}</div>{% else %}<img src="{{ img.src }}" alt="{{ img.alt }}"{% if img.get('style') %} style="{{ img.style }}"{% endif %}>{% endif %}{% if page.figure_keys[loop.index0] %}<div class="figure-hardware">{% for entry in page.figure_keys[loop.index0] %}<a href="#hardware-{{ entry.letter }}" data-hardware-color="{{ entry.color|default('neutral') }}"><b>{{ entry.letter }}</b>{% if entry.color is defined %} {{ t(entry.color|capitalize, 'hardware chip color; translate display text, keep internal color key', page_number) }}{% endif %}</a>{% endfor %}</div>{% endif %}{% if page.images|length > 1 %}<figcaption>{{ loop.index }}</figcaption>{% endif %}</figure>{% endfor %}</div>
  <article>{{ page.html }}</article>
  {% else %}<article>{{ page.html }}</article>{% if page.get('contact_html') %}<div class="contact-block">{{ page.contact_html }}</div>{% endif %}{% if page.get("illustration_pending") %}<div class="asset-gap text-gap">{{ page.illustration_pending }}</div>{% endif %}{% endif %}
  </div>

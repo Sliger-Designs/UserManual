@@ -12,6 +12,16 @@ ROOT = Path(__file__).resolve().parents[1]
 LAYOUT_CHECK = (ROOT / 'scripts/manual_layout_check.js').read_text(encoding='utf-8')
 
 
+# An image entry "pending: <what is needed>" in manual.json draws a grey placeholder box in the
+# image's place (drafts only; a release build refuses it). It is not an asset.
+PENDING_IMAGE = 'pending:'
+
+
+def pending_image(name):
+    """The placeholder text of a "pending: ..." image entry, or None for a real asset."""
+    return name[len(PENDING_IMAGE):].strip() if name.startswith(PENDING_IMAGE) else None
+
+
 def quantity_display(quantity, localizer, use, page):
     """'20' -> '20 ×'; worded quantities such as '1 pair' are translatable text."""
     if not quantity:
@@ -98,7 +108,8 @@ def front_io_content(rendered, images, location_pending=False):
     """Use one connector drawing/numbered legend convention for every family."""
     parts = re.split(r'^### (.+)$', rendered, flags=re.MULTILINE)
     connectors = images if location_pending else images[1:]
-    assert len(connectors) == 3 and len(parts) == 7, 'Front I/O requires three numbered connector references'
+    # Three connectors on most chassis; 2U front panels have no USB-C (power switch and USB Type-A only).
+    assert len(connectors) in (2, 3) and len(parts) == 1 + 2 * len(connectors), 'Front I/O requires a numbered reference per connector'
     return {
         'html': markdown.markdown(parts[0]),
         'cards': [{'image': image, 'title': re.sub(r'^\d+\.\s*', '', parts[1 + index * 2]),
@@ -132,8 +143,9 @@ def validate_template(page, cover_alt='primary product photograph'):
         for (const step of document.querySelectorAll('.paired-step'))
             if (!step.querySelector('article') || !step.querySelector('.paired-images')) errors.push('Unpaired instruction/reference');
         const io = document.querySelector('.page#front-ports, .page#ports');
-        if (!io || !io.classList.contains('front-io') || io.querySelectorAll('.io-connector img').length !== 3 || io.querySelectorAll('.io-legend tbody tr').length !== 3)
-            errors.push('Front I/O requires location image, three connector drawings and numbered legend');
+        const connectors = io ? io.querySelectorAll('.io-connector img').length : 0;  // 2U front panels: two
+        if (!io || !io.classList.contains('front-io') || connectors < 2 || connectors > 3 || io.querySelectorAll('.io-legend tbody tr').length !== connectors)
+            errors.push('Front I/O requires location image, a drawing per connector and numbered legend');
         return errors;
     }''', cover_alt)
     assert not errors, '\n'.join(errors)

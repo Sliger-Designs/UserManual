@@ -4,6 +4,7 @@ import hashlib
 import argparse
 import json
 from pathlib import Path
+from manual_assets import pending_image
 from manual_paths import MODEL_CATEGORIES, REFERENCE_INVENTORY, content_directory, inventory_path, published_directory
 from PIL import Image, ImageOps
 from background_cleanup import white_background
@@ -26,7 +27,8 @@ def main():
     entries.update({x['asset_key']: x for x in common['items']})
     reference = json.loads(REFERENCE_INVENTORY.read_text())
     entries.update({x['asset_key']: x for x in reference['items']})
-    names = sorted({name for page in manual['pages'] for group in [page, *page.get('steps', [])] for name in group.get('images', [])})
+    names = sorted({name for page in manual['pages'] for group in [page, *page.get('steps', [])] for name in group.get('images', [])
+                    if pending_image(name) is None})
     # Vector compositions can reference a detail from a second unchanged render.
     for page in manual['pages']:
         for group in [page, *page.get('steps', [])]:

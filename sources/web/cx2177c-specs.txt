@@ -1,0 +1,172 @@
+Technical Specifications
+Motherboard
+Mini-ITX (L x W: 170mm x 170mm) [6.7" x 6.7"]
+Mini-DTX (L x W: 203mm x 170mm) [8" x 6.7"]
+FlexATX (L x W: 229mm x 191mm) [9" x 7.5"]
+MicroATX (L x W: 245mm x 245mm) [9.6" x 9.6"]
+ATX (L x W: 305mm x 244mm) [12" x 9.6"]
+EATX (L x W: 305mm x 267mm) [12" x 10.5"]
+SSI-CEB (L x W: 305mm x 267mm) [12" x 10.5"]
+SSI-EEB (L x W: 305mm x 330mm) [12" x 13"]
+CPU Air Coolers
+Max Height: 66mm
+RECOMMENDED CPU COOLERS
+Sliger recommends the
+ID Cooling IS-55 CPU Cooler
+for most builds.
+Performance and reliability of the IS-55 can be enhanced by swapping the stock fan for a
+A12x15 120mm Slim Fan
+.
+Server grade and HEDT 2U CPU coolers are available for all CPUs and sockets through
+Dynatron
+or
+CoolJag USA
+.
+For more options, see this
+PCPartPicker.com
+list of compatible retail CPU coolers.
+CAUTION: 60mm or taller "Top Down Coolers" such as Noctua L65 are NOT recommended.
+Filter Foam
+Includes one (1) washable / reusable dust filter
+30 ppi open cell reticulated polyether filter foam with flame resistant rating, UL94 HF1, UL FILE NO E93229(N)
+Alternate density and/or materials such as aluminum mesh available for OEM projects
+Fan Mounting
+Front
+Mounting for three (3) 80mm fans
+Mounts up to 3x 80mm fans up to 38mm thick
+NOTE: SSI-CEB and 10.5" deep EATX motherboards are incompatible with 38mm thick fans
+RECOMMENDED FANS
+Noctua NF-A8 PWM
+Thermalright TL-B8
+Arctic P8 MAX
+Server and HEDT CPUs may require very high airflow fans such as
+ARCTIC S8038-10K
+or equivalent.
+GPU / PCIe Cards
+Seven (7) Half height PCIe card slot cutouts
+7x Half Height PCIe card slots
+Maximum card height: 72mm - measured from bottom edge of PCIe finger tab to lid of case
+Max Length with 25mm fans: 376mm - including power connectors
+Max Length with 38mm fan: 363mm - including power connectors
+Total Internal Depth: 404mm
+Thickness of case fans + GPU/PCIe card length must equal less than 404mm total.
+Half height vented slot covers are provided with case
+Note: Cards may be referred to as: 2U height, low-profile, or MD1/MD2/MD3 form factor
+Compatible GPUs
+Gigabyte 4060 TI 8GB Low Profile
+Intel ARC A310 single slot
+A380 dual slot
+AMD RX 550 LP
+Nvidia A4000 SFF
+Nvidia A2000
+Storage
+Two (2) 2.5" drives
+One(1) SSD mounts above 3.5" drives - up to 15mm thick
+One(1) SSD mounts below 3.5" drives - limited to 7mm thick
+Five (5) 2.5" drives up to 7mm thick
+Up to five(5) 7mm 2.5" SSDs in the rear drive cage when not using 3.5" HDD mounts
+Two (2) 3.5" drives up to 25mm thick
+Front drive cage allows for mounting of two(2) 3.5" drives - up to 25mm thick
+3.5" Bays
+Two (2) 3.5" drives up to 15mm thick
+Two(2) front accessible 3.5" adapter bays for
+IcyDock
+or
+CRU storage
+devices
+3.5" bay filler blanks are available as add-ons
+Each filler blank can mount 1x 2.5" SSD or 1x HDD up to 15mm thick
+Front Panel I/O
+One (1) Momentary Switch / Power Status LED (Ring Shape, White)
+Two (2) USB 3.0 Type A Port
+Power Supply
+One (1) FlexATX power supply
+Maximum Length: 250mm
+Note: FlexATX PSUs over 250mm long will interfere with hardware for 'c' and 'x' variants
+Recommended Models:
+SilverStone SST-FX600-PT 600W
+FSP FSP500-57FDB 500W
+FSP FSP300-57FCB 300W
+Rack Rails
+General Devices C300-S Series
+Rack Rails are not included by default, must be purchased on the configuration or parts page.
+Other Brand Compatibility
+Brands such as
+iStarUSA TC Rails
+are natively compatible.
+Please contact our support team for any compatibility questions.
+Warranty
+Case
+5 Years
+Chassis, USB cables, Power Button(s), Power Cable(s)
+5 Years
+Liquid Coolers & Fans
+3 Years
+Please see our warranty policy for additional conditions, exclusions, and limitations.
+Warranty Policy
+Rack Rails
+3 Years
+Weight & Dimensions
+Chassis Weight
+11.75 lbs [5.33 kg]
+Chassis Outer Dimensions
+17" x 17" x 3.46" [DxWxH]
+431.80mm x 431.80mm x 87.88mm [DxWxH]
+Rack Slide Kits
+Rack Slide Kits - All Rail Kits Will Ship In Separate Box
+GDRAIL-14XX - 5.25lbs [2.38kg]
+GDRAIL-20XX - 7.5lbs [3.4kg]
+GDRAIL-26XX - 8.75lbs [3.97kg]
+Fans
+.3lbs per fan
+Three(3) fans
+.9lbs [.41kg] total
+Coolers
+Liquid Coolers
+Asetek 612X-M2 120mm AIO - 1.7lbs [.77kg]
+Asetek 624S-M2 240mm AIO - 1.6lbs [.73kg]
+Asetek 636S-M2 360mm AIO - 1.9lbs [.86kg]
+Asetek 836SA 360mm Threadripper AIO - 2.35lbs [1.07kg]
+Retention kits - .25lbs [.11kg]
+Brackets
+Fan Brackets
+Rear Fan - .25lbs [.11kg]
+Rear Fan w/ A12x25 - .95lbs [.43kg]
+Packaging Materials
+Packaging Materials (Box, Tape, Foam Corners)
+3.25lbs [1.47kg]
+Shipping Box Outside Dimensions
+20.5" x 20.5" x 7.5"
+Shipping box is ECT52, Double Wall, Kraft Brown
+Standard SLIGER branded tape, optional unbranded kraft brown tape for business customers
+Regulatory & Homologation
+Product Lifecycle
+Planned availability through 2032
+Extended availability beyond 8 years as built-to-order(BTO) with a 25 unit MOQ
+EMI / Safety
+Case cannot be certified as a standalone item. Certifications must be sought as a fully integrated system.
+Contact us before using case for FCC, CE, UL, IEC, or other safety / regulatory compliance.
+Alternate vent sizes, brackets, EMI springs, and/or powder coat masking, may be required depending on certifications sought.
+UL listed wire, fans, coolers, and materials where possible
+Industry Standards
+19-inch rack standard
+Electronic Industries Alliance EIA-310-D
+International Electrotechnical Commission IEC 60297-1 / IEC 60297-3-100
+Consumer Electronics Association CEA-310-E
+Deutsches Institut für Normung DIN 41494
+Environmental
+Compliant with RoHS Directive 2002/95/EC, 2015/863 RoHS2, RoHS3 (EU) with all applicable exemptions
+Regulation (EC) No 1907/2006 Registration, Evaluation, Authorization and Restriction of Chemicals (REACH)
+Compliant for all Substances of Very High Concern (SVHC)
+Conflict–Free Sourcing Initiative (CFSI) with Conflict-Minerals Report (CMRT) available upon request
+Compliant with US EPA PBT Section 6 Toxic Substances Control Act (TSCA)
+Import / Export
+Harmonized Tariff Schedule (HTS) / HS Schedule B
+8473.30.1500 - COMPUTER CASES AND ACCESSORIES
+Export Control Classification Number [ECCN]
+EAR99 - LOW-TECHNOLOGY CONSUMER GOODS
+Country of Origin
+United States of America
+"Made in USA" per Federal Trade Commission (FTC) subchapter C title 16 Code of Federal Regulations Part 323
+TAA (Trade Agreements Act) Compliant for GSA Schedules, IDIQ contracts, and DoD contracts
+Compliant with Section 889 of Federal Acquisition Regulation (FAR) of National Defense Authorization Act (NDAA)

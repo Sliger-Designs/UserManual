@@ -1122,5 +1122,89 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/2UPullHandles.jpg": {
+    "path": "illustrations/published/common/common-3b388716e656.jpg",
+    "source_path": "illustrations/common/hardware/2UPullHandles.jpg",
+    "source_sha256": "3b388716e656659429d900a3c5aead81d4bcc03097887e6ffb78e9ec977aaad9",
+    "sha256": "9adeff6fe961388bf27b99eb53c9f3324575adf0658bc471c8a188d1c0b9c1ce",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/2URackEars.jpg": {
+    "path": "illustrations/published/common/common-0a0cb8fa2fec.jpg",
+    "source_path": "illustrations/common/hardware/2URackEars.jpg",
+    "source_sha256": "0a0cb8fa2fece5a67418a411ed7b2ecb5ef82ef20092b98b01d4a64242cdc4a9",
+    "sha256": "2bac4403ac89532ff6cf9ed0e5559d9d610b5177d6b270c87266df2db5bc45e0",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/2u-l34-install/1a-L34install_removeScrewsandGuards.jpg": {
+    "path": "illustrations/published/common/common-91729801e02e.jpg",
+    "source_path": "illustrations/common/2u-l34-install/1a-L34install_removeScrewsandGuards.jpg",
+    "source_sha256": "a863b0f696b5060ca5f3a284f1b34dcfb1481c0cdfe4e312cbe1027e8e047e15",
+    "sha256": "a0447b672c7c7d6fa62cd792938c4f42592a322bf66c65c7bedcaf53d7b920d6",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/2u-l34-install/2a-L34install_installRadiator.jpg": {
+    "path": "illustrations/published/common/common-9cf578740927.jpg",
+    "source_path": "illustrations/common/2u-l34-install/2a-L34install_installRadiator.jpg",
+    "source_sha256": "a89be38678800dfb391cee136d1a94f1e1ef8bb2a9c199ccc86244475f325bf8",
+    "sha256": "c9909ef47c1acd7371cbd0a2cadbf4650255361b7591a4df57a57cf381690609",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/front-io/2Ua_frontIO.jpg": {
+    "path": "illustrations/published/common/common-60893d2f8eb1.jpg",
+    "source_path": "illustrations/common/front-io/2Ua_frontIO.jpg",
+    "source_sha256": "50dd3f50aadec2b04aac501b84ab9bc7c643410dd2ed4cf635b1b7eef3e1a9d3",
+    "sha256": "66f81012e22f08a01dc306cb4581b52a45fb9778d0333dd17bcd495ffe1c831c",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/front-io/2Ucx_frontIO.jpg": {
+    "path": "illustrations/published/common/common-f32ade1d2671.jpg",
+    "source_path": "illustrations/common/front-io/2Ucx_frontIO.jpg",
+    "source_sha256": "41eb933a55c55dcad2040370f12a9a0b99fc8b522f6701e4a4e40a89ab636ce5",
+    "sha256": "6d8514a73375fe3177813c255c9e73191816d80d5154af56f607e55d88932a66",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/half-height-slot-covers-reference.png": {
+    "path": "illustrations/published/common/common-ad33b90dcff3.png",
+    "source_path": "illustrations/common/hardware/half-height-slot-covers-reference.png",
+    "source_sha256": "2752761871be2f1daf7504f569cc905a83e029fa3d4a2dafa372553633a2eee7",
+    "sha256": "471a850ab5c8d5408f002260ebef1c05c79372fc1ba8549432f56e4489305388",
+    "dimensions_px": [
+      594,
+      247
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

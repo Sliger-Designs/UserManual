@@ -58,6 +58,8 @@ tr:nth-child(even) td { background:#f5f7f8; }
 .cover-format-portrait .cover-image { right:.7in; top:1.25in; width:6.2in; height:5.3in; }
 .cover-banner { position:absolute; inset:0; background:var(--accent); clip-path:polygon(0 39%, 48% 100%, 14% 100%, 0 82%); z-index:1; }
 .cover-copy { position:absolute; left:1.0in; bottom:1.0in; z-index:2; }
+/* Opt-in (manual.json "cover_copy": "centred"): text centred in the banner instead of 1 in from the edge. */
+.cover-copy.cover-copy-centred { left:.45in; }
 .cover h1 { font-size:43pt; letter-spacing:-1px; line-height:1.05; margin:0 0 3px; color:black; }
 /* Long model names (e.g. "CX3171i XL") start further left so the whole name stays inside the red banner. */
 .cover h1.cover-title-long { margin-left:-.75in; }
@@ -180,6 +182,7 @@ h1 { font-weight:700; }
 .asset-gap.dimension-gap { height:2.3in; margin-top:.3in; }
 .port-gap { width:100%; min-height:2.3in; }
 .text-gap { height:1.5in; margin-top:20px; }
+.figure-gap { width:100%; height:100%; box-sizing:border-box; }
 
 .key-artwork-pending { position:absolute; right:0; bottom:15px; color:var(--muted); font-size:8pt; font-style:italic; }
 
@@ -189,6 +192,10 @@ h1 { font-weight:700; }
 .drawing-with-notes { display:grid; grid-template-columns:2.6in 1fr; gap:.3in; height:100%; }
 .drawing-with-notes article { align-self:start; }
 .drawing-with-notes .reference-drawing-image { width:100%; height:6.1in; margin:0; }
+/* Wide top-view drawings: notes above at full width, so the drawing can use the page width. */
+.notes-above .drawing-with-notes { grid-template-columns:1fr; grid-template-rows:auto 1fr; gap:.12in; }
+.notes-above .drawing-with-notes article p { margin-bottom:4px; }
+.notes-above .drawing-with-notes .reference-drawing-image { height:5.45in; }
 
 [id^="drive-cage-layouts-"] .cards-6 .illustration-card img { height:1.65in; }
 

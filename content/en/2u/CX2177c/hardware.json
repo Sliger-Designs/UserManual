@@ -1,0 +1,39 @@
+{
+  "source": "products/CX2177c.json (bulk-create \"G - Slot Covers\"); items H and I are the shared 2U rack ears and pull handles.",
+  "quantities_status": "Screwbag quantities are confirmed (SBAG-HWKIT). Slot-cover quantity 7 from the catalog; H–I pending review.",
+  "corrections": {
+    "B": "M3-.5 x 5, red; confirmed 2026-10-27."
+  },
+  "items": [
+    {
+      "letter": "G",
+      "name": "Slot covers",
+      "quantity": "7",
+      "description": "Cover unused PCIe slots (half-height, vented).",
+      "image": "common/hardware/half-height-slot-covers-reference.png",
+      "reference": "slot covers",
+      "specification_status": "reference_table"
+    },
+    {
+      "letter": "H",
+      "name": "Rack ears",
+      "quantity": "1 pair",
+      "description": "Secure the chassis to the rack.",
+      "image": "common/hardware/2URackEars.jpg",
+      "reference": "rack ears",
+      "specification_status": "reference_table",
+      "note": "Supplied 2U render of the left and right rack ears; shared by every 2U chassis (2026-11-04)."
+    },
+    {
+      "letter": "I",
+      "name": "Pull handles",
+      "quantity": "1 pair",
+      "description": "Optional handles make pulling the chassis from the rack easier.",
+      "image": "common/hardware/2UPullHandles.jpg",
+      "reference": "pull handles",
+      "specification_status": "reference_table",
+      "note": "Supplied 2U render of the left and right pull handles; shared by every 2U chassis (2026-11-04)."
+    }
+  ],
+  "screwbag": "products/shared/SBAG-HWKIT.json"
+}
