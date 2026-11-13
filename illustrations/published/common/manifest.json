@@ -1170,5 +1170,29 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/front-io/2Ua_frontIO.jpg": {
+    "path": "illustrations/published/common/common-60893d2f8eb1.jpg",
+    "source_path": "illustrations/common/front-io/2Ua_frontIO.jpg",
+    "source_sha256": "50dd3f50aadec2b04aac501b84ab9bc7c643410dd2ed4cf635b1b7eef3e1a9d3",
+    "sha256": "66f81012e22f08a01dc306cb4581b52a45fb9778d0333dd17bcd495ffe1c831c",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/front-io/2Ucx_frontIO.jpg": {
+    "path": "illustrations/published/common/common-f32ade1d2671.jpg",
+    "source_path": "illustrations/common/front-io/2Ucx_frontIO.jpg",
+    "source_sha256": "41eb933a55c55dcad2040370f12a9a0b99fc8b522f6701e4a4e40a89ab636ce5",
+    "sha256": "6d8514a73375fe3177813c255c9e73191816d80d5154af56f607e55d88932a66",
+    "dimensions_px": [
+      1800,
+      1050
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }
