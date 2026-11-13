@@ -77,7 +77,7 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
-        "pending: Top-view clearance drawing needed (CX2130x)"
+        "CX2130x_topAdvanced.webp"
       ],
       "layout": "reference-drawing"
     },
@@ -87,7 +87,7 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "front-clearance.md",
       "images": [
-        "pending: Front-view clearance drawing needed (CX2130x)"
+        "CX2130_frontAdvanced.webp"
       ],
       "layout": "reference-drawing"
     },
@@ -146,11 +146,14 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "../../shared/rackmount/2u-front-ports.md",
       "images": [
+        "common/front-io/2Ucx_frontIO.jpg",
         "common/front-io/PowerAndLED_greyscale.png",
         "common/front-io/20pinUSB3_greyscale.png"
       ],
       "layout": "front-io",
-      "port_diagram_pending": true
+      "image_annotations": {
+        "common/front-io/2Ucx_frontIO.jpg": "../../shared/rackmount/fpio-2u-cx-callouts.json"
+      }
     },
     {
       "id": "lid-removal",
@@ -372,18 +375,6 @@
     }
   ],
   "missing_assets": [
-    {
-      "id": "M02",
-      "needed": "Top-view and front-view clearance drawings.",
-      "section": "dimensions",
-      "suggested_folder": "illustrations/2u/CX2130x/"
-    },
-    {
-      "id": "M03",
-      "needed": "Front-panel render for the numbered port locations.",
-      "section": "front-ports",
-      "suggested_folder": "illustrations/2u/CX2130x/"
-    },
     {
       "id": "M04",
       "needed": "Every step render (only the exploded view was supplied).",

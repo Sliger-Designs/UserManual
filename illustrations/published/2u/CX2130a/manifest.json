@@ -1,4 +1,16 @@
 {
+  "CX2130_frontAdvanced.webp": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-45813b0335a3.jpg",
+    "source_path": "illustrations/2u/CX2130a/CX2130_frontAdvanced.webp",
+    "source_sha256": "9168cb0358b7a1db9b7c85b7a504866a0ad7fd5554f5e1fca91312a244b02b11",
+    "sha256": "4c363d24701e353e713c75ed27761a73e2daee961e8bd74fd8ef858290ad6397",
+    "dimensions_px": [
+      1600,
+      477
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
   "CX2130a-CHASSIS_EXPLODE-REV20261112.jpg": {
     "path": "illustrations/published/2u/CX2130a/cx2130a-e7160a79bc9f.jpg",
     "source_path": "illustrations/2u/CX2130a/CX2130a-CHASSIS_EXPLODE-REV20261112.jpg",
@@ -27,6 +39,18 @@
       ],
       "full_resolution_sha256": "dbf0c97206252bd2aa44089a123b13ce734e8e26d6a038342a9162abfa0e7ed8"
     }
+  },
+  "CX2130a_topAdvanced.webp": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-86cc7ef4e863.jpg",
+    "source_path": "illustrations/2u/CX2130a/CX2130a_topAdvanced.webp",
+    "source_sha256": "45c265706402edffdb64abfbe73b4731586d5c3c59e6b12f66d01d3882e32a2d",
+    "sha256": "71181c60274f5fe15214351afe236cbe9eefdfe13b6ba5aa0ae7a6d92719feb3",
+    "dimensions_px": [
+      1600,
+      926
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "_CX2130a_FACEPLATE REMOVAL.jpg": {
     "path": "illustrations/published/2u/CX2130a/cx2130a-6bcdf9f961d1.jpg",

@@ -26,6 +26,18 @@
       }
     },
     {
+      "id": "cx2130x-45813b0335a3",
+      "original_filename": "CX2130_frontAdvanced.webp",
+      "local_path": "illustrations/2u/CX2130x/CX2130_frontAdvanced.webp",
+      "width_px": 1600,
+      "height_px": 477,
+      "format": "WEBP",
+      "size_bytes": 46072,
+      "sha256": "9168cb0358b7a1db9b7c85b7a504866a0ad7fd5554f5e1fca91312a244b02b11",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
       "id": "cx2130x-3ec59ba7f9d0",
       "original_filename": "CX2130x-CHASSIS_EXPLODE-REV20261112.jpg",
       "local_path": "illustrations/2u/CX2130x/CX2130x-CHASSIS_EXPLODE-REV20261112.jpg",
@@ -72,6 +84,29 @@
       }
     },
     {
+      "id": "cx2130x-be8f4d144b7c",
+      "original_filename": "CX2130x_topAdvanced.webp",
+      "local_path": "illustrations/2u/CX2130x/CX2130x_topAdvanced.webp",
+      "width_px": 1600,
+      "height_px": 1143,
+      "format": "WEBP",
+      "size_bytes": 94082,
+      "sha256": "abd8a67bdda88531c9695c6c28a1f114138f3852abf79d087b9a6636aa8ed61c",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130x_topAdvanced-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx2130x-d4611fddaaeb",
       "original_filename": "CX2151x_DRIVE CAGE WITH DRIVES.jpg",
       "local_path": "illustrations/2u/CX2130x/CX2151x_DRIVE CAGE WITH DRIVES.jpg",
@@ -82,6 +117,54 @@
       "sha256": "706b84ccdf5e7331fc1b9e08df3eb8f07be9932277334ea5ab51b8aba19a2ad8",
       "selection_status": "candidate",
       "note": "Copied from illustrations/2u/CX2151x/CX2151x_DRIVE CAGE WITH DRIVES.jpg: same drive-cage drive mounting, shared with the CX2130x (2026-11-12)."
+    },
+    {
+      "id": "cx2130x-2366946f277e",
+      "original_filename": "_CX2130x_FACEPLATE REMOVAL.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_FACEPLATE REMOVAL.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 6166345,
+      "sha256": "e54d329950dcf88d5e3f2ae56b5512ea6b62977179331ea7667f397062b277b2",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-4e2510474754",
+      "original_filename": "_CX2130x_LID REMOVAL1.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_LID REMOVAL1.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 2489194,
+      "sha256": "a9bd81143e42f776fe63902370ec0af8eaf78b8673a468eec39acd1265f52575",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-6f4e6421dd99",
+      "original_filename": "_CX2130x_LID REMOVAL2.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_LID REMOVAL2.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 3819279,
+      "sha256": "cd14606c32a6e666064c3320badbe79f8232558a651c1f0f0d922a82c36b7579",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-6d0a69e4553b",
+      "original_filename": "_CX2130x_LID REMOVAL3.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_LID REMOVAL3.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 4290718,
+      "sha256": "170178f8134680b5086b2f2215e45f13480cf4cd6d8f4a1cee363559401234df",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
     }
   ]
 }

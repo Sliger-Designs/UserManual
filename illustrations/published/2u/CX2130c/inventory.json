@@ -3,6 +3,18 @@
   "model": "CX2130c",
   "items": [
     {
+      "id": "cx2130c-45813b0335a3",
+      "original_filename": "CX2130_frontAdvanced.webp",
+      "local_path": "illustrations/2u/CX2130c/CX2130_frontAdvanced.webp",
+      "width_px": 1600,
+      "height_px": 477,
+      "format": "WEBP",
+      "size_bytes": 46072,
+      "sha256": "9168cb0358b7a1db9b7c85b7a504866a0ad7fd5554f5e1fca91312a244b02b11",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
       "id": "cx2130c-3baf2a71bf1f",
       "original_filename": "CX2130c-CHASSIS_EXPLODE-REV20261112.jpg",
       "local_path": "illustrations/2u/CX2130c/CX2130c-CHASSIS_EXPLODE-REV20261112.jpg",
@@ -45,6 +57,29 @@
         "tolerance_per_channel": 4,
         "publication_format": "jpeg",
         "full_resolution_path": "_build/cleaned-renders/CX2130c/CX2130c-CHASSIS_EXPLODE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130c-eaae2e341fc8",
+      "original_filename": "CX2130c_topAdvanced.webp",
+      "local_path": "illustrations/2u/CX2130c/CX2130c_topAdvanced.webp",
+      "width_px": 1600,
+      "height_px": 905,
+      "format": "WEBP",
+      "size_bytes": 92184,
+      "sha256": "ba12b8bedeeeaf30e3ecf833947cdb6f375ccd6ba3bd8f4d3126e7ccaf60ae45",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130c/CX2130c_topAdvanced-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
     },

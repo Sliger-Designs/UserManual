@@ -69,12 +69,10 @@ Confirmed 2026-11-04:
 | Done | Model | Needed | Effect until supplied |
 |---|---|---|---|
 |  | CX2177x | Rear drive bracket with 2.5-inch SSDs (as CX2177a step 4c) | Grey placeholder on the rear-bracket drive page |
-|  | CX2177c | Front-panel render (`_CX2177c_FRONT`); the clearance drawings were supplied 2026-11-12 | Grey placeholder on the front-port page |
 |  | CX2177c | Numbered step renders of the current design (the supplied renders are unnumbered and several show an earlier layout); confirm the step mapping in the draft, e.g. `_CX2177c_BRACKET INSTALL` used for the GPU and slot-cover step | The draft uses the supplied renders as mapped |
-|  | CX2151a | Optional: front render named for the model (the folder holds an identical copy named `_CX2177a_FRONT.tif`, which is used) | None (optional) |
-|  | CX2151x | Front-panel render (`_CX2151x_FRONT`); numbered step renders (confirm the mapping of the supplied unnumbered set in the draft); the clearance drawings were supplied 2026-11-12 | Grey placeholder on the front-port page |
-|  | CX2130a, CX2130c | GPU / PCIe card step; top-view and front-view clearance drawings; front-panel render; numbered step renders (the supplied sets are unnumbered) | Grey placeholders on those pages |
-|  | CX2130x | Every step render, clearance drawings and front-panel render (only the exploded view was supplied; the drive-cage step shares the CX2151x and CX2177x renders) | Grey placeholders apart from the exploded view and drive-cage step |
+|  | CX2151x | Numbered step renders (confirm the mapping of the supplied unnumbered set in the draft) | The draft uses the supplied renders as mapped |
+|  | CX2130a, CX2130c | GPU / PCIe card step; numbered step renders (the supplied sets are unnumbered) | Grey placeholder on the GPU page |
+|  | CX2130x | Every step render (the drive-cage step shares the CX2151x and CX2177x renders; the front-view clearance drawing is the CX2130a/c one) | Grey placeholders on the step pages |
 
 ## Cable management (not blocking V1)
 
