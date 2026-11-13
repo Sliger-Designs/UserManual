@@ -83,7 +83,8 @@
       "images": [
         "_CX2177c_ADVANCED_TOP VIEW.webp"
       ],
-      "layout": "reference-drawing"
+      "layout": "reference-drawing",
+      "layout_variant": "notes-above"
     },
     {
       "id": "front-clearance",
