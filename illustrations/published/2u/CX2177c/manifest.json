@@ -264,18 +264,6 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "_CX2177c_FILL DRIVE BRACKET.jpg": {
-    "path": "illustrations/published/2u/CX2177c/cx2177c-64f3316a0180.jpg",
-    "source_path": "illustrations/2u/CX2177c/_CX2177c_FILL DRIVE BRACKET.jpg",
-    "source_sha256": "8c53cf7051a0764d96c49b6b464b6dfefee57515b2d6e0af9accbd9d76c3cb2f",
-    "sha256": "73492ca3e09383cd12545692058d6e46e4b65f2b665f63e175b43078694e0523",
-    "dimensions_px": [
-      1688,
-      1126
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
-  },
   "_CX2177c_INSERTDRIVEBRACKETWITHDRIVES.jpg": {
     "path": "illustrations/published/2u/CX2177c/cx2177c-241ca890c2cb.jpg",
     "source_path": "illustrations/2u/CX2177c/_CX2177c_INSERTDRIVEBRACKETWITHDRIVES.jpg",
