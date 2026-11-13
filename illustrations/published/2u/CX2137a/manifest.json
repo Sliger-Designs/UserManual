@@ -578,17 +578,5 @@
       ],
       "full_resolution_sha256": "1eefdb59da8e806bdcde9bf47cb5afe4bb9cfc6519e8d4c9e59629d000c58477"
     }
-  },
-  "_CX2137a_FRONT.tif": {
-    "path": "illustrations/published/2u/CX2137a/cx2137a-ad978af321a2.jpg",
-    "source_path": "illustrations/2u/CX2137a/_CX2137a_FRONT.tif",
-    "source_sha256": "92824b91e77cd34138965cf67f588fa7d51c71d172d7837aa3ff947cc3418ff1",
-    "sha256": "90f35e08c7e1b25f3ce01084e6ccc161263456c07e334a930cf9a2ffb33e5b41",
-    "dimensions_px": [
-      1800,
-      900
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
   }
 }

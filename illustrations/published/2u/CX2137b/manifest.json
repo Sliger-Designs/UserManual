@@ -579,18 +579,6 @@
       "full_resolution_sha256": "058730e092d1ef12f5edea7139ad49ba05980151dd207120f1a51565aa7ea5c6"
     }
   },
-  "_CX2137b_FRONT.tif": {
-    "path": "illustrations/published/2u/CX2137b/cx2137b-9a7c02a4fa7c.jpg",
-    "source_path": "illustrations/2u/CX2137b/_CX2137b_FRONT.tif",
-    "source_sha256": "47ff681c4f140cd3eaeba00a077a8486f910eece1f87478772161ea467c1f5c4",
-    "sha256": "51ccbc145bf4ed87f1fa422898d5dfe384d8de5084ed10331ff50ebd89fc4456",
-    "dimensions_px": [
-      1800,
-      900
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
-  },
   "_CX2137b_rendering.jpg": {
     "path": "illustrations/published/2u/CX2137b/cx2137b-3eefda527aae.jpg",
     "source_path": "illustrations/2u/CX2137b/_CX2137b_rendering.jpg",
