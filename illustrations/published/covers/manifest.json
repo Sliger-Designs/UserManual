@@ -538,5 +538,125 @@
       1600,
       657
     ]
+  },
+  "CX2137a": {
+    "path": "illustrations/published/covers/CX2137a-8d6f96f7411f.jpg",
+    "sha256": "025123639543d4cabc846a3aeb63e6a5e19cbb873a94af97c32cf98889425a83",
+    "source_path": "sources/web/covers/CX2137a-8d6f96f7411f.webp",
+    "source_sha256": "8d6f96f7411ff6a3b5fd86d04441356c4ad3faa41f3bdc7bdbf71099567ab461",
+    "product_url": "https://sliger.com/products/cx2137a",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/744.webp",
+    "retrieved_at": "2026-11-12T17:20:01.518863+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      913
+    ]
+  },
+  "CX2137b": {
+    "path": "illustrations/published/covers/CX2137b-8d6f96f7411f.jpg",
+    "sha256": "025123639543d4cabc846a3aeb63e6a5e19cbb873a94af97c32cf98889425a83",
+    "source_path": "sources/web/covers/CX2137b-8d6f96f7411f.webp",
+    "source_sha256": "8d6f96f7411ff6a3b5fd86d04441356c4ad3faa41f3bdc7bdbf71099567ab461",
+    "product_url": "https://sliger.com/products/cx2137b",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/749.webp",
+    "retrieved_at": "2026-11-12T17:20:02.705496+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      913
+    ]
+  },
+  "CX2151a": {
+    "path": "illustrations/published/covers/CX2151a-9aba0aa476a9.jpg",
+    "sha256": "00cb67cf0f8e5a4c900d6a9adfbba578f0535dbe380b59f946a30b0ee844eba4",
+    "source_path": "sources/web/covers/CX2151a-9aba0aa476a9.webp",
+    "source_sha256": "9aba0aa476a949cbc393d274c7345d87ca38dda4259f78e62c4fbd22fe6d4ae1",
+    "product_url": "https://sliger.com/products/cx2151a",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/65.webp",
+    "retrieved_at": "2026-11-12T17:25:14.106420+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      600
+    ]
+  },
+  "CX2151c": {
+    "path": "illustrations/published/covers/CX2151c-47f15c88ea67.jpg",
+    "sha256": "fca5c7f2209b9a17527ad7987f7d146f18cb9975003a6f8e82952f9b021e96af",
+    "source_path": "sources/web/covers/CX2151c-47f15c88ea67.webp",
+    "source_sha256": "47f15c88ea670ab4a30cd2e25c28c9adfbe62d4fe7fc10c876740322f8305d71",
+    "product_url": "https://sliger.com/products/cx2151c",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/77.webp",
+    "retrieved_at": "2026-11-12T17:25:15.082757+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      625
+    ]
+  },
+  "CX2151x": {
+    "path": "illustrations/published/covers/CX2151x-1d0e1e7ce3ab.jpg",
+    "sha256": "ff117e3be17493497df47282c58dd5acfc4e8eeeaa66c3e0b5310f95b3a4a866",
+    "source_path": "sources/web/covers/CX2151x-1d0e1e7ce3ab.webp",
+    "source_sha256": "1d0e1e7ce3ab173d06c009865178d34174041ce6f730351b6a7e468578ae7558",
+    "product_url": "https://sliger.com/products/cx2151x",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/91.webp",
+    "retrieved_at": "2026-11-12T17:25:15.781496+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      612
+    ]
+  },
+  "CX2130a": {
+    "path": "illustrations/published/covers/CX2130a-e2eb166a4a8b.jpg",
+    "sha256": "450cb966602804d1c8bf1a3d7a9861d198e6c37d92496d3fccaa4c5cfd34ef61",
+    "source_path": "sources/web/covers/CX2130a-e2eb166a4a8b.webp",
+    "source_sha256": "e2eb166a4a8bcc4e69a5ba96adfcb98c7cc27841e38d8d651c5bfa4eeee04a7b",
+    "product_url": "https://sliger.com/products/cx2130a",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/29.webp",
+    "retrieved_at": "2026-11-12T17:28:26.475252+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      592
+    ]
+  },
+  "CX2130c": {
+    "path": "illustrations/published/covers/CX2130c-47f15c88ea67.jpg",
+    "sha256": "fca5c7f2209b9a17527ad7987f7d146f18cb9975003a6f8e82952f9b021e96af",
+    "source_path": "sources/web/covers/CX2130c-47f15c88ea67.webp",
+    "source_sha256": "47f15c88ea670ab4a30cd2e25c28c9adfbe62d4fe7fc10c876740322f8305d71",
+    "product_url": "https://sliger.com/products/cx2130c",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/41.webp",
+    "retrieved_at": "2026-11-12T17:28:27.125369+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      625
+    ]
+  },
+  "CX2130x": {
+    "path": "illustrations/published/covers/CX2130x-977ad0a06bfd.jpg",
+    "sha256": "b21bddeaaa0c139e0f47c22efe3fe6e71d7273ea4547d9c557a683e8d90c5995",
+    "source_path": "sources/web/covers/CX2130x-977ad0a06bfd.webp",
+    "source_sha256": "977ad0a06bfd8343280a3cda3b9464729b83f833caf609257f10d1df1f062a4b",
+    "product_url": "https://sliger.com/products/cx2130x",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/54.webp",
+    "retrieved_at": "2026-11-12T17:28:27.784493+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      640
+    ]
   }
 }

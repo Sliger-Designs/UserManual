@@ -46,6 +46,17 @@ unchanged. Add language folders when translations are approved.
 | English (`en`) | 3U | CX3171i XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3171iXL/v1.0/CX3171iXL-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3172a XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3172aXL/v1.0/CX3172aXL-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3172i XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3172iXL/v1.0/CX3172iXL-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2177a | v1.0 | 2026-11-13 | [PDF](en/2u/CX2177a/v1.0/CX2177a-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2177c | v1.0 | 2026-11-13 | [PDF](en/2u/CX2177c/v1.0/CX2177c-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2177x | v1.0 | 2026-11-13 | [PDF](en/2u/CX2177x/v1.0/CX2177x-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2137a | v1.0 | 2026-11-13 | [PDF](en/2u/CX2137a/v1.0/CX2137a-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2137b | v1.0 | 2026-11-13 | [PDF](en/2u/CX2137b/v1.0/CX2137b-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2151a | v1.0 | 2026-11-13 | [PDF](en/2u/CX2151a/v1.0/CX2151a-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2151c | v1.0 | 2026-11-13 | [PDF](en/2u/CX2151c/v1.0/CX2151c-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2151x | v1.0 | 2026-11-13 | [PDF](en/2u/CX2151x/v1.0/CX2151x-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2130a | v1.0 | 2026-11-13 | [PDF](en/2u/CX2130a/v1.0/CX2130a-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2130c | v1.0 | 2026-11-13 | [PDF](en/2u/CX2130c/v1.0/CX2130c-en-v1.0.pdf) |
+| English (`en`) | 2U | CX2130x | v1.0 | 2026-11-13 | [PDF](en/2u/CX2130x/v1.0/CX2130x-en-v1.0.pdf) |
 
 Each version folder holds the PDF and a release record (`<model>-en-<version>.json`) with
 the release date and a content fingerprint of the build: a hash of its visible text and

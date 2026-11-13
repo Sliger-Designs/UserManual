@@ -1,0 +1,346 @@
+{
+  "CX2151x-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-fba2d6fde36c.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "4c88e88f595e2039d64c160bb780f12ff0ac33e9dfd6cfc43d1c74740db16fb6",
+    "sha256": "e8609987b4b912b971ed21a78df916d7d0ca725801ede3993d35c321ba29d9ef",
+    "dimensions_px": [
+      1800,
+      942
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7336342,
+      "total_pixels": 14149200,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151x/CX2151x-CHASSIS_EXPLODE-REV20261112-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        2721
+      ],
+      "full_resolution_sha256": "a84eb1cec925e6ea654399c0f6dc5722b16e73842d3678c6c18aae87dd4d2dbe"
+    }
+  },
+  "CX2151x_DRIVE BRACKET REMOVAL.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-3729dcd5bd80.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_DRIVE BRACKET REMOVAL.jpg",
+    "source_sha256": "419ba5975011f7abe09c573609f2b91966e3ce618b5c4ca943e05d3c31d7e9c6",
+    "sha256": "4c68ec19b3661143de8f857af36adfd2f4360932d030253b63e3bb84900a20cd",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_DRIVE BRACKET UNSCREW.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-5a26ca89572d.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_DRIVE BRACKET UNSCREW.jpg",
+    "source_sha256": "dcf6152716ae74eb9475d027da55162fa76c207ef983f9d7f81a318d143cb168",
+    "sha256": "cb03ad57ef040dd1093cb47c77bb4e433903dd8cbb7813a7729424b938e5a4b6",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_DRIVE CAGE WITH DRIVES.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-d4611fddaaeb.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_DRIVE CAGE WITH DRIVES.jpg",
+    "source_sha256": "706b84ccdf5e7331fc1b9e08df3eb8f07be9932277334ea5ab51b8aba19a2ad8",
+    "sha256": "0a0391a37de7d2a08996df06aa574c8c461d581331de65e6d95800d2a2cee7ff",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_GPU BRACKET REMOVE.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-e5a30e488c6f.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_GPU BRACKET REMOVE.jpg",
+    "source_sha256": "cc60c35b7baecbe758a5902131e6b6c5dc38a50a4d8d0a3752311338a7637021",
+    "sha256": "adbc2bc6c5e1944f0cfe1b07864ca2a8a93119aa74b66c117ebf77d648e5adca",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_GPU BRACKET SLIDE.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-16c83ca54fd7.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_GPU BRACKET SLIDE.jpg",
+    "source_sha256": "016879395bbb9b3afbc718b148c471aa745833e9e19181f220bfa276d955b775",
+    "sha256": "a6658d313b0c68bad1d6e92e749a6d40228cfceb13dc00e9e0526b8f4803ee8b",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_GPU INSTALL2.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-fa5abf0b8494.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_GPU INSTALL2.jpg",
+    "source_sha256": "22a56019230af354d9095282002d337eceb7410a05369e0b54d85c57f489ae39",
+    "sha256": "67f245fa191fe0881b17ed95ce7d92d3cfc6f54ae52c87f39e340f0b119f7566",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_LID REMOVAL 1.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-e602561b78ba.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_LID REMOVAL 1.jpg",
+    "source_sha256": "cacac4e05b176c9c771bd4950f9b7fc7eebd6639fb27c6440c4dd4ebabad212d",
+    "sha256": "e41c2d14f4655ac5e584b4d8d155c567d245fffca09a66429a8998f1e8429351",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_SSDDRIVEBRACKETINSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-220fd4b7f792.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_SSDDRIVEBRACKETINSTALL.jpg",
+    "source_sha256": "51e79f3f6dbb6eb3b88975796d9ab27cca5d15901a89b0e0238fe2afb949ada0",
+    "sha256": "c886ee1c855fd7117231b950a6e3acb3fc5d10269eb491cf800f7a589bbbb0df",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_drivebracketinstall2.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-7693a7d83254.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_drivebracketinstall2.jpg",
+    "source_sha256": "4d75522df67ba39061787eeebe7731f5bc055d8d7e1e0b9e7d092829519f7ce8",
+    "sha256": "d7332359f6c6bc6bbe1a1c340fd2256c478fb7eb141ed0791fe08ccc0b2d3ce8",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_faceplate removal.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-6bdbfd234c83.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_faceplate removal.jpg",
+    "source_sha256": "995dd6fa25a87913fb34ca5d9a43488923b47f3944cb6a9b2a992c2b4a5c883c",
+    "sha256": "4c3eef2fbadacfcabd1b4589952809fb9de7599ba114740666f678c21e2006fa",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_faninstall.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-bf2ad40121a3.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_faninstall.jpg",
+    "source_sha256": "3034054998d4ee5b729e62ccc2c18db90960e09c4ebb25e1620e4da85c7e53c1",
+    "sha256": "268ecf08bf3646b3361945d50d0293e69a16e52a6398d4cc1f3dbe7a11252f41",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_gpu bracket unscrew.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-05eb84c91047.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_gpu bracket unscrew.jpg",
+    "source_sha256": "4666d09b862b82b672367293d298bd341fe7bfccaa0d4596fe778e24e3db0e55",
+    "sha256": "ea7cf7dd361bf1385f1f9a82b18afc6863e36060bdaad97e986adcc87ae94024",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_gpuinstall.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-52c5779f9f90.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_gpuinstall.jpg",
+    "source_sha256": "3688867c7764c00e20bebb65d23d2fba39a53bb6fdbfbc9690eb6ee3f32f55f5",
+    "sha256": "0364d5eebd3f3d80b2b559af9a15526c9edc8e45ecaaf7536c4ae22ed946668d",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_lid removal 2.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-e563ad857c08.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_lid removal 2.jpg",
+    "source_sha256": "34399b5ead642e9a2482aa1250113d620490a8c5f0da9a2396a2498fd964f9ca",
+    "sha256": "36715087937ec1ae256b08af8d2298a00e7409457f56469c421be3a31cd7369d",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_lid removal 3.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-f27f4b7be77d.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_lid removal 3.jpg",
+    "source_sha256": "836fad4e1f8d767288b7b5828dc36ce7d2a11ab5f354312f72012897bb4de460",
+    "sha256": "685ba444ec0032d042678b50e3e45d799c8591c080f12b4e6feaffd2315c4f97",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_motherboard install 1.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-216073c38275.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_motherboard install 1.jpg",
+    "source_sha256": "848201acbcaea0880182d620b98f882b693b4c5130fcd64e75b44177bd517d9b",
+    "sha256": "e3c73c1bff66d4b45c37b7e2f74dd679d2a0cafafd203227eb3174275d5026bd",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_motherboardinstall2.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-0f6edb5f8d09.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_motherboardinstall2.jpg",
+    "source_sha256": "bc8fcedbef711be92d13b2c813314e0bb53732d75a286518a8b7ec70ce46c82c",
+    "sha256": "e0fc580bb5b3d6c79ca9849e6dc1a97d9d63fef045e6a554fa4b4d7964535fa5",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1316491,
+      "total_pixels": 1900688,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151x/CX2151x_motherboardinstall2-white.png",
+      "full_resolution_dimensions_px": [
+        1688,
+        1126
+      ],
+      "full_resolution_sha256": "f6a408a6b1851ea6e8ea8b0b20af10b04870c39defe4586836132e8da9019984"
+    }
+  },
+  "CX2151x_motherboardinstall3.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-7349cf68bbda.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_motherboardinstall3.jpg",
+    "source_sha256": "66be4267b73c8e9935f4087c6ff9db1c35129050a4d9d536134763ac012510c3",
+    "sha256": "cd2e5b4cb57f32c425f048c4910044bf195a474b672f1125c39667e6cca7a2da",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_psu.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-310a56e8b2bd.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_psu.jpg",
+    "source_sha256": "4338de081d2bfa6be52570ca56813150dd647f25aa058148c973139786dfe53e",
+    "sha256": "926554afa2d34802c68778b54138665ecc70aedc398fe6050cb3c5118b4bef92",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2151x_rack ear & pull handle.jpg": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-ca6375016aa0.jpg",
+    "source_path": "illustrations/2u/CX2151x/CX2151x_rack ear & pull handle.jpg",
+    "source_sha256": "975a84df186522b61062561e8e9ed83f5837e29731a40ad4e4034e908e0de026",
+    "sha256": "62a7c0a302cbde95d009c97ab348fdd8b1d15c32b883b67f3f8fdadd1cde9a29",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2151x_ADVANCED_FRONT VIEW.webp": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-ba2ecf8d7222.jpg",
+    "source_path": "illustrations/2u/CX2151x/_CX2151x_ADVANCED_FRONT VIEW.webp",
+    "source_sha256": "a961300729c82f7908b6f3017bc27c89eaa4660bed85b9b914578080841adcad",
+    "sha256": "c45bc6c6dfb69b6e9f52b15a48c998cee74f57d7a7c44565c5e7820e7d951436",
+    "dimensions_px": [
+      1600,
+      1143
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1330707,
+      "total_pixels": 1828800,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151x/_CX2151x_ADVANCED_FRONT VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        1600,
+        1143
+      ],
+      "full_resolution_sha256": "6b4b6f9bd1521bd11a53edc8f7a56337fcde905c177582e88afd25489707a225"
+    }
+  },
+  "_CX2151x_ADVANCED_TOP VIEW.webp": {
+    "path": "illustrations/published/2u/CX2151x/cx2151x-eb3cb54cf25b.jpg",
+    "source_path": "illustrations/2u/CX2151x/_CX2151x_ADVANCED_TOP VIEW.webp",
+    "source_sha256": "cd758b4115e92242b5527853c8eb73167b5cbd3dd2a8fe03ef93f94eabeec4da",
+    "sha256": "7c129de3d7a5035d77ba1ab24777076fb3245c73b176b4ad58926c7b0352adef",
+    "dimensions_px": [
+      1600,
+      1143
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1205081,
+      "total_pixels": 1828800,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151x/_CX2151x_ADVANCED_TOP VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        1600,
+        1143
+      ],
+      "full_resolution_sha256": "6b58948662a22460f78f6defc01753784b4aaaa82dfac5708902ad777ad2dbf4"
+    }
+  }
+}

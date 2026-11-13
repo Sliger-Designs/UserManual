@@ -19,10 +19,13 @@ Confirmed 2026-11-04:
 - A render can be reused by another model when it shows the same part and view, for example
   the CX3170a XL lid render for the CX3171a. Reused renders are noted in the manual's
   inventory, and each reuse is listed in its pull request for review.
+- Chassis with half-height slots (the 2U CX2177, CX2137 and CX2130 families) ship half-height
+  vented slot covers; their hardware pages use `common/hardware/half-height-slot-covers-reference.png`
+  (confirmed 2026-11-13). Full-height slot chassis keep `slot-covers-reference.png`.
 - Rack ears and pull handles are shared within each height: one 2U, one 3U and one 4U pair
   (`illustrations/common/hardware/{2U,3U,4U}{RackEars,PullHandles}.jpg`).
-- 2U chassis have no motherboard tray, so they need no tray renders. 2U AIO renders may be
-  supplied later; until then 2U manuals describe AIO installation in text beside a grey placeholder.
+- 2U chassis have no motherboard tray, so they need no tray renders. Every 2U "a" model uses
+  the shared Dynatron L34 renders (`common/2u-l34-install/`, supplied 2026-11-13).
 - The CX3701 and CX3702 do not use motherboard standoffs. Of their successors (website concepts),
   the CX3150n (CX3701 "v2") uses no standoffs and the CX3180n (CX3702 "v2") uses standoffs.
 - The CX3151i standoff, I/O-shield, motherboard, PSU and SSD steps use the CX3151x renders
@@ -64,15 +67,15 @@ Confirmed 2026-11-04:
 |  | CX4712 | Exploded view; motherboard-tray removal and reinstallation renders (as CX4713 5a–5f; the tray is removable) | Grey placeholders on the exploded-view and tray pages |
 |  | CX4713 | Exploded view; product render | Grey placeholder on the exploded-view page |
 
-## 2U prototypes: open items
+## 2U published manuals: open items
 
 | Done | Model | Needed | Effect until supplied |
 |---|---|---|---|
-|  | CX2177a, CX2177c, CX2177x | Exploded views with the rack ears and pull handles (the supplied views show neither) | The part key leaves out the "Rack ear & pull handle" callout |
-|  | CX2177a | AIO render: Dynatron L34 radiator with four 80 mm fans on the front fan panel | Grey placeholder on the AIO page |
-|  | CX2177x | Rear drive bracket with 2.5-inch SSDs (as CX2177a step 4c) | Grey placeholder on the rear-bracket drive page |
-|  | CX2177c | Top-view and front-view clearance drawings; front-panel render (`_CX2177c_FRONT`) | Grey placeholders on the clearance and front-port pages |
-|  | CX2177c | Numbered step renders of the current design (the supplied renders are unnumbered and several show an earlier layout); confirm the step mapping in the draft, e.g. `_CX2177c_BRACKET INSTALL` used for the GPU and slot-cover step | The draft uses the supplied renders as mapped |
+|  | CX2177c | Optional: numbered step renders of the current design (the supplied renders are unnumbered and several show an earlier layout); confirm the step mapping in the draft, e.g. `_CX2177c_BRACKET INSTALL` used for the GPU and slot-cover step | The draft uses the supplied renders as mapped |
+|  | CX2177c | Optional (does not block v1.0): front drive cage and rear drive bracket renders without the motherboard and PCIe cards in view (`_CX2177c_DRIVE BRACKET REMOVAL`, `_BRACKET PLACEMENT`, `_DRIVE BRACKET SCREWS`, `_INSERTDRIVEBRACKETWITHDRIVES`); rear drive bracket reinstall as two renders in the style and angles of the CX2177a/CX2177x 9a and 9b renders (two yellow screws through the rear panel, then one green screw through the side; replaces `_REAR DRIVE BRACKET FULL` and `_DRIVE BRACKET REAR INSTALL`); a motherboard-install render with one board size (`_CX2177c_motherboardinstall3` shows two boards at different heights; each PCB size as its own file) | The draft uses the current renders |
+|  | CX2151x | Optional: numbered step renders (confirm the mapping of the supplied unnumbered set in the draft) | The draft uses the supplied renders as mapped |
+|  | CX2130a, CX2130c, CX2130x | Optional: numbered step renders (the supplied sets are unnumbered; confirm the step mapping in the draft) | The draft uses the supplied renders as mapped |
+|  | CX2130c | Optional: full-resolution renders in the current style for the lid, faceplate, rack-ear, fan and three drive-cage steps (the 1688 px greyscale screenshots are used) | None (optional) |
 
 ## Cable management (not blocking V1)
 
@@ -103,15 +106,6 @@ The CX3150n, CX3180n, CX4250n and CX4280n are listed on the website as concepts 
 preorder. Their manuals are built once renders and specifications are available; none are
 requested yet.
 
-## 2U: not yet built
+## 2U
 
-2U render sets are named and grouped differently; these are confirmed when each family is
-built. No tray renders are needed (see above).
-
-| Done | Model | Have | Needed |
-|---|---|---|---|
-|  | CX2130a | 10 | SSD and GPU steps (and standoffs/I/O shield if not shown in the motherboard renders); clearance drawings; cover render; front-panel render |
-|  | CX2130c | 18 | Standoffs/I/O shield, SSD and GPU steps; clearance drawings; cover render; front-panel render |
-|  | CX2130x | none | Everything |
-|  | CX2137a, CX2137b | 29 / 31 | To confirm (cover render and exploded view for CX2137a) |
-|  | CX2151a, CX2151c, CX2151x | 25 / 31 / 23 | SSD step (CX2151a/c); clearance drawings and cover render (CX2151x); exploded views |
+Every listed 2U model has a released v1.0 manual (November 13, 2026); open items are in the tables above.

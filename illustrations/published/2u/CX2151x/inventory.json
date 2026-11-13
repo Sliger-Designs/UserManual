@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "model": "CX2151x",
+  "items": [
+    {
+      "id": "cx2151x-fba2d6fde36c",
+      "original_filename": "CX2151x-CHASSIS_EXPLODE-REV20261112.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x-CHASSIS_EXPLODE-REV20261112.jpg",
+      "width_px": 5200,
+      "height_px": 2721,
+      "format": "JPEG",
+      "size_bytes": 1524463,
+      "sha256": "4c88e88f595e2039d64c160bb780f12ff0ac33e9dfd6cfc43d1c74740db16fb6",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2151x/CX2151x-CHASSIS_EXPLODE-REV20261112-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2151x-7efcf7b2e003",
+      "original_filename": "CX2151x.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 252953,
+      "sha256": "fcc99e837699b02ca96f7ac453bcea0970f5af25e7fa3cf001ebd25e9a38e67e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-3729dcd5bd80",
+      "original_filename": "CX2151x_DRIVE BRACKET REMOVAL.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_DRIVE BRACKET REMOVAL.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 278058,
+      "sha256": "419ba5975011f7abe09c573609f2b91966e3ce618b5c4ca943e05d3c31d7e9c6",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-5a26ca89572d",
+      "original_filename": "CX2151x_DRIVE BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_DRIVE BRACKET UNSCREW.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 240350,
+      "sha256": "dcf6152716ae74eb9475d027da55162fa76c207ef983f9d7f81a318d143cb168",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-d4611fddaaeb",
+      "original_filename": "CX2151x_DRIVE CAGE WITH DRIVES.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_DRIVE CAGE WITH DRIVES.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 249225,
+      "sha256": "706b84ccdf5e7331fc1b9e08df3eb8f07be9932277334ea5ab51b8aba19a2ad8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-e5a30e488c6f",
+      "original_filename": "CX2151x_GPU BRACKET REMOVE.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_GPU BRACKET REMOVE.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 626134,
+      "sha256": "cc60c35b7baecbe758a5902131e6b6c5dc38a50a4d8d0a3752311338a7637021",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-16c83ca54fd7",
+      "original_filename": "CX2151x_GPU BRACKET SLIDE.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_GPU BRACKET SLIDE.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 581628,
+      "sha256": "016879395bbb9b3afbc718b148c471aa745833e9e19181f220bfa276d955b775",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-fa5abf0b8494",
+      "original_filename": "CX2151x_GPU INSTALL2.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_GPU INSTALL2.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 527386,
+      "sha256": "22a56019230af354d9095282002d337eceb7410a05369e0b54d85c57f489ae39",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-e602561b78ba",
+      "original_filename": "CX2151x_LID REMOVAL 1.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_LID REMOVAL 1.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 176394,
+      "sha256": "cacac4e05b176c9c771bd4950f9b7fc7eebd6639fb27c6440c4dd4ebabad212d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-220fd4b7f792",
+      "original_filename": "CX2151x_SSDDRIVEBRACKETINSTALL.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_SSDDRIVEBRACKETINSTALL.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 377588,
+      "sha256": "51e79f3f6dbb6eb3b88975796d9ab27cca5d15901a89b0e0238fe2afb949ada0",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-7693a7d83254",
+      "original_filename": "CX2151x_drivebracketinstall2.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_drivebracketinstall2.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 409339,
+      "sha256": "4d75522df67ba39061787eeebe7731f5bc055d8d7e1e0b9e7d092829519f7ce8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-6bdbfd234c83",
+      "original_filename": "CX2151x_faceplate removal.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_faceplate removal.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 394764,
+      "sha256": "995dd6fa25a87913fb34ca5d9a43488923b47f3944cb6a9b2a992c2b4a5c883c",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-bf2ad40121a3",
+      "original_filename": "CX2151x_faninstall.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_faninstall.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 408361,
+      "sha256": "3034054998d4ee5b729e62ccc2c18db90960e09c4ebb25e1620e4da85c7e53c1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-05eb84c91047",
+      "original_filename": "CX2151x_gpu bracket unscrew.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_gpu bracket unscrew.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 322094,
+      "sha256": "4666d09b862b82b672367293d298bd341fe7bfccaa0d4596fe778e24e3db0e55",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-52c5779f9f90",
+      "original_filename": "CX2151x_gpuinstall.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_gpuinstall.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 437728,
+      "sha256": "3688867c7764c00e20bebb65d23d2fba39a53bb6fdbfbc9690eb6ee3f32f55f5",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-e563ad857c08",
+      "original_filename": "CX2151x_lid removal 2.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_lid removal 2.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 87743,
+      "sha256": "34399b5ead642e9a2482aa1250113d620490a8c5f0da9a2396a2498fd964f9ca",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-f27f4b7be77d",
+      "original_filename": "CX2151x_lid removal 3.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_lid removal 3.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 217500,
+      "sha256": "836fad4e1f8d767288b7b5828dc36ce7d2a11ab5f354312f72012897bb4de460",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-216073c38275",
+      "original_filename": "CX2151x_motherboard install 1.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_motherboard install 1.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 233136,
+      "sha256": "848201acbcaea0880182d620b98f882b693b4c5130fcd64e75b44177bd517d9b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-921c8985b56b",
+      "original_filename": "CX2151x_motherboard install 2.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_motherboard install 2.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 241638,
+      "sha256": "035dccbc3a576debad8c34e8db1fc6b50db41b04de183dc1a6da6a851948c8e8",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-862a37d58281",
+      "original_filename": "CX2151x_motherboardinstall1.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_motherboardinstall1.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 308528,
+      "sha256": "c372915fc812749262fc6ceb47b4e58de1bfa011f65915439af30389353a484b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-0f6edb5f8d09",
+      "original_filename": "CX2151x_motherboardinstall2.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_motherboardinstall2.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 412777,
+      "sha256": "bc8fcedbef711be92d13b2c813314e0bb53732d75a286518a8b7ec70ce46c82c",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2151x/CX2151x_motherboardinstall2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2151x-7349cf68bbda",
+      "original_filename": "CX2151x_motherboardinstall3.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_motherboardinstall3.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 401112,
+      "sha256": "66be4267b73c8e9935f4087c6ff9db1c35129050a4d9d536134763ac012510c3",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-310a56e8b2bd",
+      "original_filename": "CX2151x_psu.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_psu.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 432848,
+      "sha256": "4338de081d2bfa6be52570ca56813150dd647f25aa058148c973139786dfe53e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-ca6375016aa0",
+      "original_filename": "CX2151x_rack ear & pull handle.jpg",
+      "local_path": "illustrations/2u/CX2151x/CX2151x_rack ear & pull handle.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 204052,
+      "sha256": "975a84df186522b61062561e8e9ed83f5837e29731a40ad4e4034e908e0de026",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2151x-ba2ecf8d7222",
+      "original_filename": "_CX2151x_ADVANCED_FRONT VIEW.webp",
+      "local_path": "illustrations/2u/CX2151x/_CX2151x_ADVANCED_FRONT VIEW.webp",
+      "width_px": 1600,
+      "height_px": 1143,
+      "format": "WEBP",
+      "size_bytes": 54690,
+      "sha256": "a961300729c82f7908b6f3017bc27c89eaa4660bed85b9b914578080841adcad",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2151x/_CX2151x_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2151x-eb3cb54cf25b",
+      "original_filename": "_CX2151x_ADVANCED_TOP VIEW.webp",
+      "local_path": "illustrations/2u/CX2151x/_CX2151x_ADVANCED_TOP VIEW.webp",
+      "width_px": 1600,
+      "height_px": 1143,
+      "format": "WEBP",
+      "size_bytes": 100958,
+      "sha256": "cd758b4115e92242b5527853c8eb73167b5cbd3dd2a8fe03ef93f94eabeec4da",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2151x/_CX2151x_ADVANCED_TOP VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    }
+  ]
+}

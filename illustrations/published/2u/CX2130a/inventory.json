@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "model": "CX2130a",
+  "items": [
+    {
+      "id": "cx2130a-45813b0335a3",
+      "original_filename": "CX2130_frontAdvanced.webp",
+      "local_path": "illustrations/2u/CX2130a/CX2130_frontAdvanced.webp",
+      "width_px": 1600,
+      "height_px": 477,
+      "format": "WEBP",
+      "size_bytes": 46072,
+      "sha256": "9168cb0358b7a1db9b7c85b7a504866a0ad7fd5554f5e1fca91312a244b02b11",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130a/CX2130_frontAdvanced-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130a-e7160a79bc9f",
+      "original_filename": "CX2130a-CHASSIS_EXPLODE-REV20261112.jpg",
+      "local_path": "illustrations/2u/CX2130a/CX2130a-CHASSIS_EXPLODE-REV20261112.jpg",
+      "width_px": 5200,
+      "height_px": 2753,
+      "format": "JPEG",
+      "size_bytes": 1515496,
+      "sha256": "80b4ff99189db0b24665709beebf3b75de286b0567766c21c6efc6df09952746",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130a/CX2130a-CHASSIS_EXPLODE-REV20261112-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130a-48fd6eef2489",
+      "original_filename": "CX2130a-CHASSIS_EXPLODE.jpg",
+      "local_path": "illustrations/2u/CX2130a/CX2130a-CHASSIS_EXPLODE.jpg",
+      "width_px": 5200,
+      "height_px": 3253,
+      "format": "JPEG",
+      "size_bytes": 1664755,
+      "sha256": "e24775956661f680e2e2f8e3359566a8cef19b2027d9ed452a2e3ce64afc6079",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130a/CX2130a-CHASSIS_EXPLODE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130a-86cc7ef4e863",
+      "original_filename": "CX2130a_topAdvanced.webp",
+      "local_path": "illustrations/2u/CX2130a/CX2130a_topAdvanced.webp",
+      "width_px": 1600,
+      "height_px": 926,
+      "format": "WEBP",
+      "size_bytes": 81888,
+      "sha256": "45c265706402edffdb64abfbe73b4731586d5c3c59e6b12f66d01d3882e32a2d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130a/CX2130a_topAdvanced-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130a-6bcdf9f961d1",
+      "original_filename": "_CX2130a_FACEPLATE REMOVAL.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_FACEPLATE REMOVAL.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 296283,
+      "sha256": "e0d653b14867747b009fbfe0510bb3a274928165976d56c3ae7e0d8a9c89b3c0",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130a-a37e7d68515f",
+      "original_filename": "_CX2130a_FANAIO.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_FANAIO.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 328737,
+      "sha256": "22bade80ac5e7c775369b13e35b4d3e29284f9fbf9ee635023d4d5a6a6e44a90",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130a-6e21f7fc4d6e",
+      "original_filename": "_CX2130a_LID REMOVAL1.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_LID REMOVAL1.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 73797,
+      "sha256": "79035c84074ff79160285f4c633d444e779023a5745e25916d9dfb041ff093dc",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130a-39c7e8379fba",
+      "original_filename": "_CX2130a_LIDREMOVAL2.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_LIDREMOVAL2.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 160297,
+      "sha256": "d4cd4e1e924281c82057b2d1d506655121ad5c225ee9fc4f4c5c2df6c83f95cf",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130a-bb8f3678fdef",
+      "original_filename": "_CX2130a_LIDREMOVAL3.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_LIDREMOVAL3.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 210180,
+      "sha256": "abd6a87b6abfedf5dd3797ce58e9583eee92afb5f2c10667e4dce9dfbbcde852",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130a-3e55d5a076ac",
+      "original_filename": "_CX2130a_MOTHERBOARD1.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_MOTHERBOARD1.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 224468,
+      "sha256": "5d0a916f2c7b1310e213e4a8bbd596ee088d4acb74edd0ae8925011cc54950fa",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130a-767a11d867fa",
+      "original_filename": "_CX2130a_MOTHERBOARD2.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_MOTHERBOARD2.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 321647,
+      "sha256": "226f0f1f969d98990ef723cc9cd6404fc6e8759d39038730d43b4b70b6d1bfb9",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130a/_CX2130a_MOTHERBOARD2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130a-538f8ddb1936",
+      "original_filename": "_CX2130a_MOTHERBOARD3.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_MOTHERBOARD3.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 336521,
+      "sha256": "3cd61389badd1fde6830352cd63c142721cbdc1d336c3956be7bf02cd46a7b37",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130a-a685a61d5b29",
+      "original_filename": "_CX2130a_PCIeCARD.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_PCIeCARD.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 5869111,
+      "sha256": "5032a9c2c3f897967f0f2a93e449dbe4aa3cd0c1e043221d64bca109b76f26bd",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130a-6fa029b146b0",
+      "original_filename": "_CX2130a_PSU.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_PSU.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 300889,
+      "sha256": "24a1d1884f1316e3f08262c7309705948f784c0fa9dfe0aa7cdc93e8f67038ba",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130a-2545c805c718",
+      "original_filename": "_CX2130a_RACKEARPULLHANDLE.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_RACKEARPULLHANDLE.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 243515,
+      "sha256": "0294a9b875345e50b94a99d71a65286abb1f6a563a81965578cb7b4fab3eb41e",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    }
+  ]
+}

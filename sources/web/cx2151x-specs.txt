@@ -1,0 +1,146 @@
+Technical Specifications
+Motherboard
+Mini-ITX (L x W: 170mm x 170mm) [6.7" x 6.7"]
+Mini-DTX (L x W: 203mm x 170mm) [8" x 6.7"]
+Deep Mini-ITX (L x W: 170mm x 209mm) [6.7" x 8.2"]
+FlexATX (L x W: 229mm x 191mm) [9" x 7.5"]
+MicroATX (L x W: 245mm x 245mm) [9.6" x 9.6"]
+Deep MicroATX (L x W: 265mm x 267mm) [10.4" x 10.5"]
+CPU Air Coolers
+Max Height: 66mm
+RECOMMENDED CPU COOLERS
+Sliger recommends the
+ID Cooling IS-55 CPU Cooler
+for most builds.
+Performance and reliability of the IS-55 can be enhanced by swapping the stock fan for a
+A12x15 120mm Slim Fan
+.
+Server grade and HEDT 2U CPU coolers are available for all CPUs and sockets through
+Dynatron
+or
+CoolJag USA
+.
+For more options, see this
+PCPartPicker.com
+list of compatible retail CPU coolers.
+CAUTION: 60mm or taller "Top Down Coolers" such as Noctua L65 are NOT recommended.
+Filter Foam
+Includes one (1) washable / reusable dust filter
+30 ppi open cell reticulated polyether filter foam with flame resistant rating, UL94 HF1, UL FILE NO E93229(N)
+Alternate density and/or materials such as aluminum mesh available for OEM projects
+Fan Mounting
+Front
+Mounting for three (3) 80mm fans
+RECOMMENDED FANS
+Noctua NF-A8 PWM
+Thermalright TL-B8
+Arctic P8 MAX
+Server and HEDT CPUs may require very high airflow fans such as
+ARCTIC S8038-10K
+or equivalent.
+GPU / PCIe Cards
+Two (2) Full height PCIe card slot cutouts
+Maximum card height: 120 (including power connectors)
+Maximum card length with 3x 25mm thick front fans: 327mm
+Maximum card length with 3x 38mm thick front fans: 314mm
+Maximum card width: 50mm - 2.7-slot or 2.75-slot not supported
+Internal support bracket available for select GPU models upon request.
+Storage
+Two (2) 2.5" drives
+Up to seven(7) 7mm 2.5" SSDs when not using 3.5" HDD mounts
+Two (2) 3.5" drives
+Front Panel I/O
+One (1) Momentary Switch / Power Status LED (Ring Shape, White)
+Two (2) USB 3.0 Type A Port
+Power Supply
+One (1) SFX / SFX-L power supply
+Supports up to 1x SFX or 1x SFX-L form factor PSU
+Recommended Models:
+Cooler Master V1100 SFX Platinum 1100W
+CORSAIR SF1000 1000W
+Seasonic FOCUS SPX-750 750W
+FSP Dagger Pro 850W
+FSP Dagger Pro 650W
+FSP SFX Pro 450W
+Rack Rails
+General Devices C300-S Series
+Rack Rails are not included by default, must be purchased on the configuration or parts page.
+Other Brand Compatibility
+Brands such as
+iStarUSA TC Rails
+are natively compatible.
+Please contact our support team for any compatibility questions.
+Warranty
+Case
+5 Years
+Chassis, USB cables, Power Button(s), Power Cable(s)
+5 Years
+Liquid Coolers & Fans
+3 Years
+Please see our warranty policy for additional conditions, exclusions, and limitations.
+Warranty Policy
+Rack Rails
+3 Years
+Weight & Dimensions
+Chassis Weight
+9.75 lbs [4.42 kg]
+Chassis Outer Dimensions
+15" x 17" x 3.46" [DxWxH]
+381.00mm x 431.80mm x 87.88mm [DxWxH]
+Rack Slide Kits
+Rack Slide Kits - All Rail Kits Will Ship In Separate Box
+GDRAIL-14XX - 6lbs [2.72kg]
+GDRAIL-20XX - 7.5lbs [3.4kg]
+GDRAIL-26XX - 8.75lbs [3.97kg]
+Fans
+.3lbs per fan
+Three(3) fans - .9lbs [.41kg]
+Coolers
+Liquid Coolers
+Asetek 612X-M2 120mm AIO - 1.7lbs [.77kg]
+Asetek 624S-M2 240mm AIO - 1.6lbs [.73kg]
+Asetek 636S-M2 360mm AIO - 1.9lbs [.86kg]
+Asetek 836SA 360mm Threadripper AIO - 2.35lbs [1.07kg]
+Retention kits - .25lbs [.11kg]
+Brackets
+Fan Brackets
+Rear Fan - .25lbs [.11kg]
+Rear Fan w/ A12x25 - .95lbs [.43kg]
+Packaging Materials
+Packaging Materials (Box, Tape, Foam Corners)
+3lbs [1.4kg]
+Shipping Box Outside Dimensions
+20.5" x 18.5" x 7.5"
+Shipping box is ECT52, Double Wall, Kraft Brown
+Standard SLIGER branded tape, optional unbranded kraft brown tape for business customers
+Regulatory & Homologation
+Product Lifecycle
+Planned availability through 2032
+Extended availability beyond 8 years as built-to-order(BTO) with a 25 unit MOQ
+EMI / Safety
+Case cannot be certified as a standalone item. Certifications must be sought as a fully integrated system.
+Contact us before using case for FCC, CE, UL, IEC, or other safety / regulatory compliance.
+Alternate vent sizes, brackets, EMI springs, and/or powder coat masking, may be required depending on certifications sought.
+UL listed wire, fans, coolers, and materials where possible
+Industry Standards
+19-inch rack standard
+Electronic Industries Alliance EIA-310-D
+International Electrotechnical Commission IEC 60297-1 / IEC 60297-3-100
+Consumer Electronics Association CEA-310-E
+Deutsches Institut für Normung DIN 41494
+Environmental
+Compliant with RoHS Directive 2002/95/EC, 2015/863 RoHS2, RoHS3 (EU) with all applicable exemptions
+Regulation (EC) No 1907/2006 Registration, Evaluation, Authorization and Restriction of Chemicals (REACH)
+Compliant for all Substances of Very High Concern (SVHC)
+Conflict–Free Sourcing Initiative (CFSI) with Conflict-Minerals Report (CMRT) available upon request
+Compliant with US EPA PBT Section 6 Toxic Substances Control Act (TSCA)
+Import / Export
+Harmonized Tariff Schedule (HTS) / HS Schedule B
+8473.30.1500 - COMPUTER CASES AND ACCESSORIES
+Export Control Classification Number [ECCN]
+EAR99 - LOW-TECHNOLOGY CONSUMER GOODS
+Country of Origin
+United States of America
+"Made in USA" per Federal Trade Commission (FTC) subchapter C title 16 Code of Federal Regulations Part 323
+TAA (Trade Agreements Act) Compliant for GSA Schedules, IDIQ contracts, and DoD contracts
+Compliant with Section 889 of Federal Acquisition Regulation (FAR) of National Defense Authorization Act (NDAA)

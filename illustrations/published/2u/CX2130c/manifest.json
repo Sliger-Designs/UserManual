@@ -1,0 +1,298 @@
+{
+  "CX2130_frontAdvanced.webp": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-45813b0335a3.jpg",
+    "source_path": "illustrations/2u/CX2130c/CX2130_frontAdvanced.webp",
+    "source_sha256": "9168cb0358b7a1db9b7c85b7a504866a0ad7fd5554f5e1fca91312a244b02b11",
+    "sha256": "ffd1bb0be15bb32f7d8b57ae1f9ca23dfe63f0d57ee53b2db850ad968e687d6a",
+    "dimensions_px": [
+      1600,
+      477
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 332247,
+      "total_pixels": 763200,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2130c/CX2130_frontAdvanced-white.png",
+      "full_resolution_dimensions_px": [
+        1600,
+        477
+      ],
+      "full_resolution_sha256": "3539ad54ab58f7a1a3e56178cbcf68fcfd880847749b5d303ce915a1edeeed66"
+    }
+  },
+  "CX2130c-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-3baf2a71bf1f.jpg",
+    "source_path": "illustrations/2u/CX2130c/CX2130c-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "fec08dc5db2876911162f18cbeaabf91a83b86e20e3eca92574e71dad9616a47",
+    "sha256": "f1c053fa8d15fb435697996f375a4be9db14885ba38ef28d37628f9b684578e7",
+    "dimensions_px": [
+      1800,
+      949
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7406531,
+      "total_pixels": 14258400,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2130c/CX2130c-CHASSIS_EXPLODE-REV20261112-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        2742
+      ],
+      "full_resolution_sha256": "4cc06721e93fbda4fe0dda7ff7e18c272b136bcfde4cc48db3a09f4c01ec0f96"
+    }
+  },
+  "CX2130c_topAdvanced.webp": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-eaae2e341fc8.jpg",
+    "source_path": "illustrations/2u/CX2130c/CX2130c_topAdvanced.webp",
+    "source_sha256": "ba12b8bedeeeaf30e3ecf833947cdb6f375ccd6ba3bd8f4d3126e7ccaf60ae45",
+    "sha256": "ce974643a07b6533e774363687dcbed0a6bec097ed392d1fb21b4ddd4d61441e",
+    "dimensions_px": [
+      1600,
+      905
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 870552,
+      "total_pixels": 1448000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2130c/CX2130c_topAdvanced-white.png",
+      "full_resolution_dimensions_px": [
+        1600,
+        905
+      ],
+      "full_resolution_sha256": "a3021c41f7e77339881a87a9b450170993d89fc79f38ba235ba85473ec16b08b"
+    }
+  },
+  "_CX2130c_LID REMOVAL 2.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-89b3832d582e.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_LID REMOVAL 2.jpg",
+    "source_sha256": "9ce5ca99812318a7c1cb4ce038bae6c257401a27185b89b35a8170d06cec6085",
+    "sha256": "0416daf59252a94371cff1d39b6aef47ecf11592dbaba450fc03cc47fd0d9c76",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_LID REMOVAL 3.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-97827671bc21.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_LID REMOVAL 3.jpg",
+    "source_sha256": "8d0c89f6e6fae468522d8196cb976b47ee611890a0b016ddcf5dd8d70bdd3962",
+    "sha256": "3499c5dd1ec5bdc9d180ac4b2058c11b12deeee1966488bcadac8411b0e1928c",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_LIDREMOVAL1.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-66a52ab4aac6.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_LIDREMOVAL1.jpg",
+    "source_sha256": "68a31e31c5928ac123547cfc785221448ebf044fcd097cc318f63dd42c809d73",
+    "sha256": "cd54d7efabd635eaaffba77951f7937be249671d6ce84779da2f1d807ff58ca5",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_MOTHERBOARD1_standoffs.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-ccda3f60ab4a.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_MOTHERBOARD1_standoffs.jpg",
+    "source_sha256": "29ee6699e139df8ccd76c13d56080b8d3b541de11770bf488427784a5303173f",
+    "sha256": "de7d412d37354be4eb7b8763d540de1c2d3211161b326f50a6c9f6ff7783bebc",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_MOTHERBOARD2_IOshield.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-ed563c918dfb.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_MOTHERBOARD2_IOshield.jpg",
+    "source_sha256": "d78b196bc09a07a9d28e3a40bfbce00993f260d2ba56af7093b6568889e9c844",
+    "sha256": "497788b99dc9743b3edd3ca6aefd07ff9897f1d4af6bf23fc4476c0a3f48066d",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_PCIeCARD.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-b5ccc6ec0098.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_PCIeCARD.jpg",
+    "source_sha256": "a98941da7593e49b001e0ae792657bc78a6faed26585b3dc8f1cf11676824691",
+    "sha256": "5228aa5c04622fe37c088aa4310e04e9c490f1cfbd85ce20cd527e096ec6a97a",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_PSU1.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-6f034442b41f.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_PSU1.jpg",
+    "source_sha256": "e556b93ee96692504a8f1d21c636efefe202bc5151bbdafc431250513d42bffb",
+    "sha256": "b66a422cb1f03a680ea1c4db5611e088080312b1efe522ee44b39872201ad9a7",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_drive bracket lift.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-9a5115eed67f.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_drive bracket lift.jpg",
+    "source_sha256": "abd8ebd2020cb2fc8a5e305430dbf56279f3a407443068195e13da1738555226",
+    "sha256": "bb9094526598b1630f1f16f06bb1e1b1ca6acc5097263c812e916f50d03be3a0",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_drive bracket unscrew.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-eb141463b8a2.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_drive bracket unscrew.jpg",
+    "source_sha256": "86b62098a45c2323077bd917fb2b8f30e3bb1afa7b505b28c418a884297df57d",
+    "sha256": "826d7aac53c12a5d5d27622b8e788f664e21c9b40da59414175f4c0331767f0e",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_drive bracket with drives insert.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-3c3d2491f9f5.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_drive bracket with drives insert.jpg",
+    "source_sha256": "440314efb6aea6a12c56ec58afdacdaaec680ff4309148f2e2e9e06d3a7c34c6",
+    "sha256": "acca613a93fcbd4ac05df1d8e9d9713fd0931e62e21fd76fbfa7eef4ac357ccf",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_drive install with drives.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-1df82453ed97.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_drive install with drives.jpg",
+    "source_sha256": "a7b5302e952a5690be17a61f8d4490a8dcf128cca6cb416b73a2e9f39b085a0a",
+    "sha256": "7a80bcd59d271938500d115cfdfa1bd995039a1a09d3806f388f717dfd8ae5d8",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_drives install.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-d8829f057d5c.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_drives install.jpg",
+    "source_sha256": "722d6a9b1254d8a695ab0489f5445b40bcf448e65794a5a2a4552e6206ab0acd",
+    "sha256": "c64d9d5ac214716ed0fd47fdaa58f9c292a23fb7c004337349ddb341a0dd948b",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 1586382,
+      "total_pixels": 1900688,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2130c/_CX2130c_drives install-white.png",
+      "full_resolution_dimensions_px": [
+        1688,
+        1126
+      ],
+      "full_resolution_sha256": "2752c1e30d86e6420e520dd8c0853746c1fd22591c5a1243ef1e292be59b77d4"
+    }
+  },
+  "_CX2130c_faceplater removal.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-ce20c34e1495.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_faceplater removal.jpg",
+    "source_sha256": "491daed480e760d979b2ae1b863127ffbdb345d44a2c8f85cb9ce684b9e5f3be",
+    "sha256": "514a5b095c0cb83a5e03ca890bc09ead540be086cf888446f29b174d46e2c0b1",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_fan&aio2.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-daecd6ecfac3.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_fan&aio2.jpg",
+    "source_sha256": "67dbaedecce4b8f5a132f256b93b3b3031e6d3a4cae06da223005af584e90abb",
+    "sha256": "66e61ff3831321afca0e79f94917a83a5c177d3ba9e501c05d54f2ce342b53bf",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_motherboard3_mobo.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-51d15e286cc8.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_motherboard3_mobo.jpg",
+    "source_sha256": "2bd11d3945313df45d43261c80e1f7c296ceae12d2e8ca8f98fdc2447fcddcf8",
+    "sha256": "3d740f307c229f9f3d3e1d17e213156d0bb3043bdff67b6dd2ce06f0fa91a36e",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX2130c_rack ear and pull handle.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-b3863a8f88a5.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_rack ear and pull handle.jpg",
+    "source_sha256": "7769e1b516774a32d06a75200c61a455cc469c761dcf0efed160d09b5d7fb979",
+    "sha256": "07937ab5397fef654dd40d9f55e1e5387089386aab4c4d69cb11c5774fb774f9",
+    "dimensions_px": [
+      1688,
+      1126
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  }
+}

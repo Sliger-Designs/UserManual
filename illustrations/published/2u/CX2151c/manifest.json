@@ -1,0 +1,681 @@
+{
+  "10_CX2151c_DRIVE BRACKET INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-fdbd821ccc96.jpg",
+    "source_path": "illustrations/2u/CX2151c/10_CX2151c_DRIVE BRACKET INSTALL.jpg",
+    "source_sha256": "34afb5cecdcf59ce1835acedb22b3fef0b01624ddf8b242126bc0d54117c0aea",
+    "sha256": "2d8469e7b30136d9273fa52c19bd69244f011c5618f9cc8724e263edb387e903",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10682038,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/10_CX2151c_DRIVE BRACKET INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "882f0d58cf35e38216ec5972dad4247ecfe8752c234c9d9f008ef2fc21fea1c5"
+    }
+  },
+  "11_CX2151c_RACK EARS.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-6ad83beb4056.jpg",
+    "source_path": "illustrations/2u/CX2151c/11_CX2151c_RACK EARS.jpg",
+    "source_sha256": "3f145efb6d9153e33e9155d5504c00b7e056ded533bbc8930f4069942f715029",
+    "sha256": "64a3d7411817851f5b56868fd0318877dd6c7c978a0bcb92bb178cb5b05a19ba",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 15836811,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/11_CX2151c_RACK EARS-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "c882492067ca11e7632a2be89116a98869be34cdacf6c4a7b279fec96fc9833e"
+    }
+  },
+  "1a_CX2151c_LID UNSCREW.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-ba8688adc2da.jpg",
+    "source_path": "illustrations/2u/CX2151c/1a_CX2151c_LID UNSCREW.jpg",
+    "source_sha256": "241b3bb363fce9b2287e214511be1b54eaa4f9174656d32b90a103198bb5b9d7",
+    "sha256": "75882d63ec60b04e2bf871b3e43c6a11fad1d957b8ef22b58be058322cbdedc5",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 19117765,
+      "total_pixels": 27775144,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/1a_CX2151c_LID UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        6236,
+        4454
+      ],
+      "full_resolution_sha256": "63d8845b63620c44c9381cb1bdc360e8c2f07b082d16af5392a7aee72f2d6c61"
+    }
+  },
+  "1b_CX2151c_LID SLIDE BACK.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-e38c873afa75.jpg",
+    "source_path": "illustrations/2u/CX2151c/1b_CX2151c_LID SLIDE BACK.jpg",
+    "source_sha256": "a187cce1b08c13eb5b561e80265bc43fd9e8ed27d63da19829c61711f447225f",
+    "sha256": "4358c8a7e6bc399d4c8852662981bff7ed4b4ec9026123700103e93dece4fa7f",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 14438352,
+      "total_pixels": 23224246,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/1b_CX2151c_LID SLIDE BACK-white.png",
+      "full_resolution_dimensions_px": [
+        5702,
+        4073
+      ],
+      "full_resolution_sha256": "50db7352e2a8d2c664a1ef774c8094d6c865a6312afa3fad7e87a434c6590de3"
+    }
+  },
+  "1c_CX2151c_LID REMOVE.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-411ff7ca51fb.jpg",
+    "source_path": "illustrations/2u/CX2151c/1c_CX2151c_LID REMOVE.jpg",
+    "source_sha256": "d71b4f884017aad0ba0f4b655f7ac5a2dd207933331b075b87b4a654a4142ba8",
+    "sha256": "fd1bf3ce9059834066105f4e157243725c16dcff337ca7917768d9940781d925",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13624087,
+      "total_pixels": 16335312,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/1c_CX2151c_LID REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        4782,
+        3416
+      ],
+      "full_resolution_sha256": "902d72b65a17529954f078da25f82e67b5f01bb580e62dd234d6c622faea10a5"
+    }
+  },
+  "2_CX2151c_FACEPLATE REMOVE.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-3f6360f943d9.jpg",
+    "source_path": "illustrations/2u/CX2151c/2_CX2151c_FACEPLATE REMOVE.jpg",
+    "source_sha256": "ea1891fb4a4cd0f588dd8a3eb6f5674920e4f0e9270018e48c1efadb7de6facb",
+    "sha256": "27f78403b71a2893793bec126afd3a1c9a316bc96183c4b5146aa6bd7d5d881e",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 18688772,
+      "total_pixels": 26527182,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/2_CX2151c_FACEPLATE REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        6094,
+        4353
+      ],
+      "full_resolution_sha256": "b074ba9638326ffb5b069f09f4447449e9e63a6f60fc24d2c961f2726110a7a2"
+    }
+  },
+  "3_CX2151c_FAN INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-09c89d65335a.jpg",
+    "source_path": "illustrations/2u/CX2151c/3_CX2151c_FAN INSTALL.jpg",
+    "source_sha256": "3f81cf4c5d64add44d5c982685ef393a696cb606186801123ac02a6cff1c2524",
+    "sha256": "78db33a690bc3423180482cf5b745186f534962c37c7581cb1a0d3419c2737a9",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9572280,
+      "total_pixels": 13599471,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/3_CX2151c_FAN INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4363,
+        3117
+      ],
+      "full_resolution_sha256": "5dfcac2c4b8a3937d88fcb093479dcd7c5e7154dfeb7bc0fa8f236b383e01201"
+    }
+  },
+  "4a_CX2151c_DRIVE BRACKET UNSCREW.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-b6fc07aae726.jpg",
+    "source_path": "illustrations/2u/CX2151c/4a_CX2151c_DRIVE BRACKET UNSCREW.jpg",
+    "source_sha256": "d6da34adfe89cc49b1817f6135e8106c8d1c6c90218781c5aab4fd6cac79a062",
+    "sha256": "dc130f433becfad28406867e2dab2f0a9ab78c463e7f390bd85fad6c7dbe0bd4",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9907260,
+      "total_pixels": 13682502,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/4a_CX2151c_DRIVE BRACKET UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        4377,
+        3126
+      ],
+      "full_resolution_sha256": "5586bfd504da959ea91a3ca25baad4a79e820cb16d34d24910162e5dbf66b8f0"
+    }
+  },
+  "4b_CX2151c_DRIVE BRACKET SLIDE BACK.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-ca30eb6b6dbf.jpg",
+    "source_path": "illustrations/2u/CX2151c/4b_CX2151c_DRIVE BRACKET SLIDE BACK.jpg",
+    "source_sha256": "afae9df7fa747eb34f259800336734cad38831e548adcda1b84be8579d149262",
+    "sha256": "c6a9fdb1247870e17210e1a9e415208d92720fc6a9e6b73c482f713f2546bd5a",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 5854082,
+      "total_pixels": 11461166,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/4b_CX2151c_DRIVE BRACKET SLIDE BACK-white.png",
+      "full_resolution_dimensions_px": [
+        4006,
+        2861
+      ],
+      "full_resolution_sha256": "a6376382bc22a34281f2a019b85c1bb8cb2699222fdde200d50defb990f75291"
+    }
+  },
+  "4c_CX2151c_DRIVE BRACKET REMOVE.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-675c818091c5.jpg",
+    "source_path": "illustrations/2u/CX2151c/4c_CX2151c_DRIVE BRACKET REMOVE.jpg",
+    "source_sha256": "2ef71ff3336d4735462aaa9ee7559e8035bce6d8a409fddc4af74a76f0375bac",
+    "sha256": "b30bec4c96a46c4a36a15b3fa8f463d8c07eecb8c7e09448bb7a14a4be42802c",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11690769,
+      "total_pixels": 16335312,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/4c_CX2151c_DRIVE BRACKET REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        4782,
+        3416
+      ],
+      "full_resolution_sha256": "3fd15def2a05ed220dca4693514b9200eba3bdc14db345ad5937f8f81cf4e3d1"
+    }
+  },
+  "4d_CX2151c_DRIVE INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-7aa4b0976fd6.jpg",
+    "source_path": "illustrations/2u/CX2151c/4d_CX2151c_DRIVE INSTALL.jpg",
+    "source_sha256": "5361a3ae46ce5bf985983f711a539603e003b75bce8231b52dead0586a6909cc",
+    "sha256": "54328818bb34753dfa153725460c0fbcf2623dfd6aa9e1b92c21f4bbfb4ece40",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 6918044,
+      "total_pixels": 8083692,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/4d_CX2151c_DRIVE INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        3364,
+        2403
+      ],
+      "full_resolution_sha256": "352c87bf81ed0cd62db30f07c31a8864610db24ee12fb688eb1122fd205f3bc4"
+    }
+  },
+  "5a_CX2151c_STANDOFF INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-47023dd2bcbb.jpg",
+    "source_path": "illustrations/2u/CX2151c/5a_CX2151c_STANDOFF INSTALL.jpg",
+    "source_sha256": "46558edfee6cb8d248239d7696106c56d9d9b0ecf33b512b49a83c996628a238",
+    "sha256": "11bef526377a3ae07c7750ff640355b9707458f5ceef68baed708415b8f507b8",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8016676,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/5a_CX2151c_STANDOFF INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "2ae8d7183807cbf2033d80c320d4c6b07a75d393905d9b24c5f3e1fe8b030610"
+    }
+  },
+  "6a_CX2151c_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-86811912a09f.jpg",
+    "source_path": "illustrations/2u/CX2151c/6a_CX2151c_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "1fd7eef6fa6faedbe578c8161b79b8a7fad57c719d2ae6ce938e3492d26b899b",
+    "sha256": "eeaff6636849ccba38301322a7a22ece6a1b7f2cd3679920bfda6666a33e51a8",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13656286,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/6a_CX2151c_MOTHERBOARD IO SHIELD-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "04e74463dc7cc4fc329b2c67df65242201f3a548369db3b8b02cc141384a9b0e"
+    }
+  },
+  "6b_CX2151c_MOTHERBOARD.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-d60ef79eefd1.jpg",
+    "source_path": "illustrations/2u/CX2151c/6b_CX2151c_MOTHERBOARD.jpg",
+    "source_sha256": "f10bc01fc67a65d5a467e827f41153ff515941106b5931c430cb1eaefafc7982",
+    "sha256": "b7df5439ed6ef103c2ac1252f262fbe057a3f8e2e47679e3f80dd8c3dd267d07",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9674827,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/6b_CX2151c_MOTHERBOARD-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "ba082ba984603dc8c3ee3d10b8ef60ed3389c10eb982b570243052d83e430d89"
+    }
+  },
+  "7_CX2151c_PSU.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-4173516fb3fd.jpg",
+    "source_path": "illustrations/2u/CX2151c/7_CX2151c_PSU.jpg",
+    "source_sha256": "2da37866c5153c14e5b7fb092ab097ba659fc0d5a2ce60aa2e56ed9ec9e7e25e",
+    "sha256": "f91e7534d384285c17cd093a1a13df5f19877851462680f3448cb596923f0612",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 16823579,
+      "total_pixels": 23224246,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/7_CX2151c_PSU-white.png",
+      "full_resolution_dimensions_px": [
+        5702,
+        4073
+      ],
+      "full_resolution_sha256": "6a499db1b8c6942ce6acc04cc8a3719afa2ba2633b9b20ac72b8806d71cd76e5"
+    }
+  },
+  "8a_CX2151c_GPU BRACKET UNSCREW.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-8c9e2f07ee84.jpg",
+    "source_path": "illustrations/2u/CX2151c/8a_CX2151c_GPU BRACKET UNSCREW.jpg",
+    "source_sha256": "4cf304f4881a171771d0a3736a18757730019a39846febd03c24f64fd5b98caa",
+    "sha256": "6a81de5831f9a66f9d32383ea8f9a1e9d6f7255d466b1908539bf463e0f64152",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13527545,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/8a_CX2151c_GPU BRACKET UNSCREW-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "8d1b8520fced9794f5551a95e203375f20916c09fa098bd9ee24b2a2213fb548"
+    }
+  },
+  "8b_CX2151c_GPU BRACKET SLIDE.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-de4eb02eab83.jpg",
+    "source_path": "illustrations/2u/CX2151c/8b_CX2151c_GPU BRACKET SLIDE.jpg",
+    "source_sha256": "6d103cee646e051cb7cc08eed2d321ab22a4fefa660533c6fb39e8b201a5e74c",
+    "sha256": "ebb2c709106f9c29cf5d247cfad417a1a2e066cf825e2e43f3747c1e988ca818",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "8c_CX2151c_GPU BRACKET REMOVE.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-720de0fe9be1.jpg",
+    "source_path": "illustrations/2u/CX2151c/8c_CX2151c_GPU BRACKET REMOVE.jpg",
+    "source_sha256": "45e5e04645f27ede399dc796bdab39c16014c80a54fe2de8e4020e5e969c5a65",
+    "sha256": "5511c96fbe3b849ad64766e8bb81e304cac97ff0a15c6c0d76eb61d779f36855",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8107650,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/8c_CX2151c_GPU BRACKET REMOVE-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "2eb68669a80ee25ec8f4e6548cdc464077f52a112fe97aef8a33a806ee06aa8d"
+    }
+  },
+  "9a_CX2151c_GPU.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-e0f430c6daea.jpg",
+    "source_path": "illustrations/2u/CX2151c/9a_CX2151c_GPU.jpg",
+    "source_sha256": "4e27752220757bdfe170559fe9a7fd47f8f977e7678c1ec4a13f48d93b042900",
+    "sha256": "f6a1f344a2bc7236a66cb2a5dc3a95dd4f8a2d1239e2e1fccb1913457bbe328a",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 6345401,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/9a_CX2151c_GPU-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "7efe5280af43b28912bec88c7e940bbc02070d1a939d2786810a8c2af0eacdca"
+    }
+  },
+  "9b_CX2151c_GPU BRACKET INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-02d4cfbc51d5.jpg",
+    "source_path": "illustrations/2u/CX2151c/9b_CX2151c_GPU BRACKET INSTALL.jpg",
+    "source_sha256": "cd88715b965aba99cb44b3b6cde741552948857255a13b7a45d0f362116e536b",
+    "sha256": "d26466e69d45218a71e9e410c6cafc539c8f3b6c44f82b85d7b1dcc43f0b440a",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 13019848,
+      "total_pixels": 23224246,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/9b_CX2151c_GPU BRACKET INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        5702,
+        4073
+      ],
+      "full_resolution_sha256": "9bac617fc6806b53271b3b947e888c2b4581c575b48f916e3502d23234ff1e33"
+    }
+  },
+  "CX2151c-CHASSIS_EXPLODE-REV20261112.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-af3d8dd360fb.jpg",
+    "source_path": "illustrations/2u/CX2151c/CX2151c-CHASSIS_EXPLODE-REV20261112.jpg",
+    "source_sha256": "b0b678945a5dc24efbe6c05fe2126bf9f654a9d437b9e8c32c515e19d2f16918",
+    "sha256": "d0fdc20d3d4da9f10a0d1ee71f4eeee5fbdb4353179657da991310f58595adc8",
+    "dimensions_px": [
+      1800,
+      933
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7300483,
+      "total_pixels": 14014000,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/CX2151c-CHASSIS_EXPLODE-REV20261112-white.png",
+      "full_resolution_dimensions_px": [
+        5200,
+        2695
+      ],
+      "full_resolution_sha256": "670825ab7ba9022d83657345530b8f0053b4a32acf787cc906fe654c5e7e53e8"
+    }
+  },
+  "_CX2151c_ADVANCED_FRONT VIEW.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-c0921977e4d5.jpg",
+    "source_path": "illustrations/2u/CX2151c/_CX2151c_ADVANCED_FRONT VIEW.jpg",
+    "source_sha256": "f6167dcfdf13c586837fd4cf8a390c7ebfd967954dcb15ba05c36fe47d9d4d03",
+    "sha256": "ac2ea03b821c9bed36be787b962e1dabed090f55f3ff7e199cfb2eb494529021",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 17158849,
+      "total_pixels": 23234022,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/_CX2151c_ADVANCED_FRONT VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        5703,
+        4074
+      ],
+      "full_resolution_sha256": "711e56c00eee8547ef1ccaa8ce9d73e1b4838b5aa472f4e155a83de12de1101e"
+    }
+  },
+  "_CX2151c_ADVANCED_TOP VIEW.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-f4db89bbe67f.jpg",
+    "source_path": "illustrations/2u/CX2151c/_CX2151c_ADVANCED_TOP VIEW.jpg",
+    "source_sha256": "65754846f9773d885fd262c88956c4ad7b9f85de16c91536ab69d5e1857e601b",
+    "sha256": "e377f46d0e227cd660df708389f8e82d4212eefed848a4d170d7be246125b3fb",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 6831646,
+      "total_pixels": 10472315,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/_CX2151c_ADVANCED_TOP VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        3829,
+        2735
+      ],
+      "full_resolution_sha256": "ae68ad0fcad3941269e6d7b93003fa6ba7893dd7f9b11871db37cbee9eeaf614"
+    }
+  },
+  "_CX2151c_rendering.jpg": {
+    "path": "illustrations/published/2u/CX2151c/cx2151c-9eb8cd099c6f.jpg",
+    "source_path": "illustrations/2u/CX2151c/_CX2151c_rendering.jpg",
+    "source_sha256": "95b9c761e0c7701bdbed1b3d42417edff4215f3a0a0043bf0a081ff46283b288",
+    "sha256": "0a6cb99b3c41b14388bedc71608583dd010d8898d0f94dfb2e448d37014fec25",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9026463,
+      "total_pixels": 13682502,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2151c/_CX2151c_rendering-white.png",
+      "full_resolution_dimensions_px": [
+        4377,
+        3126
+      ],
+      "full_resolution_sha256": "c82e97d05e0e9214a2a03757a4bc77dc920def819d8b108bb6c785dc2503847c"
+    }
+  }
+}

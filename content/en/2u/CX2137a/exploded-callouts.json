@@ -1,0 +1,89 @@
+{
+  "asset_key": "CX2137a-CHASSIS_EXPLODE-REV20261112.jpg",
+  "source_sha256": "454cc8ea8e5b43c2f6158b091a26e4160511a8b050ff173053a745a99028100f",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.888848528877588,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the REV20261112 exploded view (with rack ears and pull handles) 2026-11-12; review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.55,
+        0.25
+      ],
+      "badge": [
+        0.3,
+        0.12
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate",
+      "target": [
+        0.25,
+        0.68
+      ],
+      "badge": [
+        0.15,
+        0.92
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.565,
+        0.72
+      ],
+      "badge": [
+        0.56,
+        0.97
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Chassis wrap",
+      "target": [
+        0.8,
+        0.62
+      ],
+      "badge": [
+        0.88,
+        0.8
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Filter foam",
+      "target": [
+        0.3,
+        0.515
+      ],
+      "badge": [
+        0.06,
+        0.36
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.615,
+        0.8
+      ],
+      "badge": [
+        0.695,
+        0.95
+      ]
+    }
+  ]
+}

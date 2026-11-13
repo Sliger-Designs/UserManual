@@ -1,0 +1,301 @@
+{
+  "schema_version": 1,
+  "model": "CX2130x",
+  "items": [
+    {
+      "id": "cx2130x-9f57fface10d",
+      "original_filename": "4d_CX2177x_DRIVE SCREWS.jpg",
+      "local_path": "illustrations/2u/CX2130x/4d_CX2177x_DRIVE SCREWS.jpg",
+      "width_px": 3542,
+      "height_px": 2530,
+      "format": "JPEG",
+      "size_bytes": 467452,
+      "sha256": "20ef3b4b54be482fa80195aac7308c2fd04978033b216d528f44693f2068355c",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/2u/CX2177x/4d_CX2177x_DRIVE SCREWS.jpg: same drive-cage drive mounting, shared with the CX2130x (2026-11-12).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130x/4d_CX2177x_DRIVE SCREWS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130x-45813b0335a3",
+      "original_filename": "CX2130_frontAdvanced.webp",
+      "local_path": "illustrations/2u/CX2130x/CX2130_frontAdvanced.webp",
+      "width_px": 1600,
+      "height_px": 477,
+      "format": "WEBP",
+      "size_bytes": 46072,
+      "sha256": "9168cb0358b7a1db9b7c85b7a504866a0ad7fd5554f5e1fca91312a244b02b11",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130_frontAdvanced-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130x-3ec59ba7f9d0",
+      "original_filename": "CX2130x-CHASSIS_EXPLODE-REV20261112.jpg",
+      "local_path": "illustrations/2u/CX2130x/CX2130x-CHASSIS_EXPLODE-REV20261112.jpg",
+      "width_px": 5200,
+      "height_px": 2785,
+      "format": "JPEG",
+      "size_bytes": 1580558,
+      "sha256": "71828cb680c5724d7c840150d66389ca2f873a8294de4e05f15b2a8ffada1e80",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130x-CHASSIS_EXPLODE-REV20261112-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130x-911d0a5e8d5c",
+      "original_filename": "CX2130x-CHASSIS_EXPLODE.jpg",
+      "local_path": "illustrations/2u/CX2130x/CX2130x-CHASSIS_EXPLODE.jpg",
+      "width_px": 5200,
+      "height_px": 3285,
+      "format": "JPEG",
+      "size_bytes": 1718396,
+      "sha256": "cd2b206af203062c5d600820ec827ed2d08225a6740443fd00498b92ebb8c25f",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130x-CHASSIS_EXPLODE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130x-be8f4d144b7c",
+      "original_filename": "CX2130x_topAdvanced.webp",
+      "local_path": "illustrations/2u/CX2130x/CX2130x_topAdvanced.webp",
+      "width_px": 1600,
+      "height_px": 1143,
+      "format": "WEBP",
+      "size_bytes": 94082,
+      "sha256": "abd8a67bdda88531c9695c6c28a1f114138f3852abf79d087b9a6636aa8ed61c",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2130x/CX2130x_topAdvanced-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2130x-d4611fddaaeb",
+      "original_filename": "CX2151x_DRIVE CAGE WITH DRIVES.jpg",
+      "local_path": "illustrations/2u/CX2130x/CX2151x_DRIVE CAGE WITH DRIVES.jpg",
+      "width_px": 1688,
+      "height_px": 1126,
+      "format": "JPEG",
+      "size_bytes": 249225,
+      "sha256": "706b84ccdf5e7331fc1b9e08df3eb8f07be9932277334ea5ab51b8aba19a2ad8",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/2u/CX2151x/CX2151x_DRIVE CAGE WITH DRIVES.jpg: same drive-cage drive mounting, shared with the CX2130x (2026-11-12)."
+    },
+    {
+      "id": "cx2130x-2366946f277e",
+      "original_filename": "_CX2130x_FACEPLATE REMOVAL.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_FACEPLATE REMOVAL.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 6166345,
+      "sha256": "e54d329950dcf88d5e3f2ae56b5512ea6b62977179331ea7667f397062b277b2",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-1d0f940d4494",
+      "original_filename": "_CX2130x_FANINSTALL.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_FANINSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 5127046,
+      "sha256": "57dba566cc0b12ec123231acade7866f6aae7ca2a429b1a234910e99c8315234",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-4e2510474754",
+      "original_filename": "_CX2130x_LID REMOVAL1.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_LID REMOVAL1.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 2489194,
+      "sha256": "a9bd81143e42f776fe63902370ec0af8eaf78b8673a468eec39acd1265f52575",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-6f4e6421dd99",
+      "original_filename": "_CX2130x_LID REMOVAL2.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_LID REMOVAL2.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 3819279,
+      "sha256": "cd14606c32a6e666064c3320badbe79f8232558a651c1f0f0d922a82c36b7579",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-6d0a69e4553b",
+      "original_filename": "_CX2130x_LID REMOVAL3.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_LID REMOVAL3.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 4290718,
+      "sha256": "170178f8134680b5086b2f2215e45f13480cf4cd6d8f4a1cee363559401234df",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-3c816f503800",
+      "original_filename": "_CX2130x_MOTHERBOARD1_standoffs.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_MOTHERBOARD1_standoffs.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 4145413,
+      "sha256": "12d646ea6d50a460dfc7788b5ec762f2b7afdc185588e6089f14c61cddff1de4",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-60e0c2bd9908",
+      "original_filename": "_CX2130x_MOTHERBOARD2_ioshield.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_MOTHERBOARD2_ioshield.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 4040415,
+      "sha256": "dc04308956a78ff233636d0587526ee65989c8991c992f5a1d2960e5dd49265c",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-b85160671839",
+      "original_filename": "_CX2130x_MOTHERBOARD3_mobo.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_MOTHERBOARD3_mobo.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 4371579,
+      "sha256": "90eb94de7981aa7118dc1a8680ca66bf41527630ad3ef44b6104647b22c44cd5",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-09665538aefc",
+      "original_filename": "_CX2130x_PCIeCARD.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_PCIeCARD.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 5984402,
+      "sha256": "87aab06b96c2931ea75dc129f54a047af2f7bb408413176834637028471f1297",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-2820fb0ad267",
+      "original_filename": "_CX2130x_PSU1.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_PSU1.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 5397851,
+      "sha256": "70bd598b42b66e91f4056f5906851ade8222fb006e343bf01a001cfb64a3c72a",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-302928748276",
+      "original_filename": "_CX2130x_RACKEARPULLHANDLE.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_RACKEARPULLHANDLE.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 4014724,
+      "sha256": "5806ccb5b9df39ad70379c2f4e4556bf5423d8e81d06d8fd506f5cae49c466bb",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-54be68b456a8",
+      "original_filename": "_CX2130x_drive bracket lift.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_drive bracket lift.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 5513083,
+      "sha256": "a1a258b8ef74d42e4537712481758202c9a6b736af458869fabc2d20b7f2731b",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-f55d7dde2de5",
+      "original_filename": "_CX2130x_drive bracket reinstall.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_drive bracket reinstall.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 4859867,
+      "sha256": "896e534bea03df5c2d6f9a56ce76d9df9c8468b045c2e4a9cf2519e1c777427d",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
+      "id": "cx2130x-f4b6d2b2499d",
+      "original_filename": "_CX2130x_drive bracket unscrew.jpg",
+      "local_path": "illustrations/2u/CX2130x/_CX2130x_drive bracket unscrew.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 4810858,
+      "sha256": "6d2a3f46350b4bee77913e2d468a2f81f4dbec4206419678877c1753522bc8d1",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    }
+  ]
+}
