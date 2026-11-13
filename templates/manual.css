@@ -190,6 +190,10 @@ h1 { font-weight:700; }
 .drawing-with-notes { display:grid; grid-template-columns:2.6in 1fr; gap:.3in; height:100%; }
 .drawing-with-notes article { align-self:start; }
 .drawing-with-notes .reference-drawing-image { width:100%; height:6.1in; margin:0; }
+/* Wide top-view drawings: notes above at full width, so the drawing can use the page width. */
+.notes-above .drawing-with-notes { grid-template-columns:1fr; grid-template-rows:auto 1fr; gap:.12in; }
+.notes-above .drawing-with-notes article p { margin-bottom:4px; }
+.notes-above .drawing-with-notes .reference-drawing-image { height:5.45in; }
 
 [id^="drive-cage-layouts-"] .cards-6 .illustration-card img { height:1.65in; }
 
