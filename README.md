@@ -118,6 +118,11 @@ New pages, new images or a new manual need a local checkout: originals are recor
 
 ## Translations
 
+**Want to help translate?** Open the translation site,
+<https://sliger-designs.github.io/UserManual/>, choose a manual and your language under
+**Translate**, and follow [docs/translating.md](docs/translating.md). Nothing needs to be
+installed, and a GitHub account is only needed to return the file through an issue.
+
 Translators work only in the web editor on the Pages site. It shows each page as
 sentence-sized items beside a live preview, protects placeholders, hardware letters,
 numbers and model names, and downloads one small translation file. Translators return that
@@ -138,7 +143,7 @@ See [translation-packages/README.md](translation-packages/README.md) and
 ## Checks and publishing
 
 Pull requests run the builds and checks they affect; pushes to `main` publish translation
-editors and preview PDFs to GitHub Pages. See
+editors and preview PDFs to [GitHub Pages](https://sliger-designs.github.io/UserManual/). See
 [docs/ci-and-publishing.md](docs/ci-and-publishing.md) for the workflows and one-time setup.
 
 ## License

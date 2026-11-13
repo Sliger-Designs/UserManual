@@ -1,14 +1,14 @@
 ### 1. Position the fans
 
-Place the three 120 mm fans between the front mounting panel and the 360 mm radiator. Remove any fan screws occupying the radiator mounting positions.
+Place the three 120 mm fans between the subfront and the 360 mm radiator. Remove any fan screws occupying the radiator mounting positions.
 
 ### 2. Align the radiator
 
-Align all twelve mounting points in the panel, fans, and radiator before fastening.
+Align all twelve mounting points in the subfront, fans, and radiator before fastening.
 
 ### 3. Install radiator screws
 
-Use screws specified by the cooler manufacturer. Pass them through the panel and fans into the radiator. Incorrect screw length can damage the radiator.
+Use screws specified by the cooler manufacturer. Pass them through the subfront and fans into the radiator. Incorrect screw length can damage the radiator.
 
 ### Check GPU clearance
 

@@ -4,7 +4,7 @@ Place two 120 mm fans between the subfront and the 240 mm radiator. Remove any f
 
 ### 2. Align and secure the assembly
 
-Align all eight mounting points in the panel, fans, and radiator. Use the cooler manufacturer's specified radiator screws through the panel and fan frames into the radiator. Incorrect screw length can damage the radiator.
+Align all eight mounting points in the subfront, fans, and radiator. Use the cooler manufacturer's radiator screws through the subfront and fans into the radiator. Incorrect screw length can damage the radiator.
 
 ### 3. Check the 5.25-inch device screws
 

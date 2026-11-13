@@ -2,10 +2,9 @@
   "model": "CX3172a",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "v1.0",
+  "revision": "v1.1",
   "status": "User guide",
-  "release_ready": true,
-  "release_date": "2026-11-11",
+  "release_ready": false,
   "text_checks": {
     "required": [
       "431.8",
