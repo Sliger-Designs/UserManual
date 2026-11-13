@@ -1356,6 +1356,32 @@
       "sha256": "9b2768bad4ba2f0e4a53b9cd39f37eb1eea1690c8d29b3307073369e5cfbca2f",
       "selection_status": "candidate",
       "note": "Dynatron L34 radiator and fans secured to the 2U subfront with eight of the radiator screws (riser tray view). Supplied 2026-11-13; used by the CX2151a."
+    },
+    {
+      "id": "common-60893d2f8eb1",
+      "asset_key": "common/front-io/2Ua_frontIO.jpg",
+      "original_filename": "2Ua_frontIO.jpg",
+      "local_path": "illustrations/common/front-io/2Ua_frontIO.jpg",
+      "width_px": 9000,
+      "height_px": 5250,
+      "format": "JPEG",
+      "size_bytes": 2518208,
+      "sha256": "50dd3f50aadec2b04aac501b84ab9bc7c643410dd2ed4cf635b1b7eef3e1a9d3",
+      "selection_status": "candidate",
+      "note": "Front I/O close-up of the 2U \"a\" models (I/O at the right end). Supplied 2026-11-13."
+    },
+    {
+      "id": "common-f32ade1d2671",
+      "asset_key": "common/front-io/2Ucx_frontIO.jpg",
+      "original_filename": "2Ucx_frontIO.jpg",
+      "local_path": "illustrations/common/front-io/2Ucx_frontIO.jpg",
+      "width_px": 9000,
+      "height_px": 5250,
+      "format": "JPEG",
+      "size_bytes": 2534025,
+      "sha256": "41eb933a55c55dcad2040370f12a9a0b99fc8b522f6701e4a4e40a89ab636ce5",
+      "selection_status": "candidate",
+      "note": "Front I/O close-up of the 2U \"c\" and \"x\" models (I/O at the left end). Supplied 2026-11-13."
     }
   ],
   "removed_items": [
