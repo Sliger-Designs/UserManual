@@ -1206,5 +1206,17 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/half-height-slot-covers-reference.png": {
+    "path": "illustrations/published/common/common-ad33b90dcff3.png",
+    "source_path": "illustrations/common/hardware/half-height-slot-covers-reference.png",
+    "source_sha256": "2752761871be2f1daf7504f569cc905a83e029fa3d4a2dafa372553633a2eee7",
+    "sha256": "471a850ab5c8d5408f002260ebef1c05c79372fc1ba8549432f56e4489305388",
+    "dimensions_px": [
+      594,
+      247
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

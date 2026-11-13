@@ -1382,6 +1382,19 @@
       "sha256": "41eb933a55c55dcad2040370f12a9a0b99fc8b522f6701e4a4e40a89ab636ce5",
       "selection_status": "candidate",
       "note": "Front I/O close-up of the 2U \"c\" and \"x\" models (I/O at the left end). Supplied 2026-11-13."
+    },
+    {
+      "id": "common-ad33b90dcff3",
+      "asset_key": "common/hardware/half-height-slot-covers-reference.png",
+      "original_filename": "half-height-slot-covers-reference.png",
+      "local_path": "illustrations/common/hardware/half-height-slot-covers-reference.png",
+      "width_px": 594,
+      "height_px": 247,
+      "format": "PNG",
+      "size_bytes": 128676,
+      "sha256": "2752761871be2f1daf7504f569cc905a83e029fa3d4a2dafa372553633a2eee7",
+      "selection_status": "candidate",
+      "note": "Half-height (low-profile) vented PCIe slot covers, as supplied in the hardware kit of chassis with half-height slots. Supplied 2026-11-13."
     }
   ],
   "removed_items": [
