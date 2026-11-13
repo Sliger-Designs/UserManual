@@ -564,7 +564,18 @@
       "size_bytes": 1475009,
       "sha256": "13f12fa95a2bb22ff4d2b674eab5c84a3094cd8f09b0dbb55b34a46f9058be07",
       "selection_status": "candidate",
-      "note": "Supplied original; configuration applicability requires reference review."
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177x/9c_CX2177x_DRIVE BKT 1 INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     },
     {
       "id": "cx2177x-be434143ac61",
