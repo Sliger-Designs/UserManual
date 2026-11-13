@@ -1,10 +1,10 @@
 ### 1. Align the fans
 
-Align three 80 mm fans with the front fan panel, airflow into the chassis. Each fan uses two diagonal mounting points.
+Align three 80 mm fans with the subfront, airflow into the chassis. Each fan uses two diagonal mounting points.
 
 ### 2. Secure the fans
 
-Use the screws supplied with your fans. Pass them through the fan panel and into the fan frames.
+Use the screws supplied with your fans. Pass them through the subfront and into the fan frames.
 
 Tighten sufficiently to prevent movement and vibration.
 

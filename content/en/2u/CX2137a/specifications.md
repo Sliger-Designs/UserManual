@@ -18,6 +18,6 @@
 | No front fans | {{ facts.gpu_length_baseline_mm }} mm |
 | Four 25 mm front fans | {{ facts.gpu_length_fans_only_mm }} mm |
 | Four 38 mm front fans | {{ facts.gpu_length_fans_38mm_mm }} mm |
-| Dynatron L34 AIO (radiator, four fans and fan guards) | {{ facts.gpu_length_fans_aio_mm }} mm |
+| Dynatron L34 AIO (radiator and four fans) | {{ facts.gpu_length_fans_aio_mm }} mm |
 
 <p class="info-note" role="note">Radiator thickness, fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. SSI-CEB motherboards and EATX motherboards over 10.25 inches deep are incompatible with 38 mm thick fans. Not every mounting location can be used at the same time.</p>
