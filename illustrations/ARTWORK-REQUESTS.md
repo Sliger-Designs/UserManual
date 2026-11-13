@@ -72,6 +72,7 @@ Confirmed 2026-11-04:
 | Done | Model | Needed | Effect until supplied |
 |---|---|---|---|
 |  | CX2177c | Numbered step renders of the current design (the supplied renders are unnumbered and several show an earlier layout); confirm the step mapping in the draft, e.g. `_CX2177c_BRACKET INSTALL` used for the GPU and slot-cover step | The draft uses the supplied renders as mapped |
+|  | CX2177c | Optional (does not block v1.0): front drive cage and rear drive bracket renders without the motherboard and PCIe cards in view (`_CX2177c_DRIVE BRACKET REMOVAL`, `_BRACKET PLACEMENT`, `_DRIVE BRACKET SCREWS`, `_FILL DRIVE BRACKET`, `_INSERTDRIVEBRACKETWITHDRIVES`, `_REAR DRIVE BRACKET FULL`, `_DRIVE BRACKET REAR INSTALL`); a motherboard-install render with one board size (`_CX2177c_motherboardinstall3` shows two boards at different heights; each PCB size as its own file) | The draft uses the current renders |
 |  | CX2151x | Numbered step renders (confirm the mapping of the supplied unnumbered set in the draft) | The draft uses the supplied renders as mapped |
 |  | CX2130a, CX2130c, CX2130x | Optional: numbered step renders (the supplied sets are unnumbered; confirm the step mapping in the draft) | The draft uses the supplied renders as mapped |
 |  | CX2130c | Optional: full-resolution renders in the current style for the lid, faceplate, rack-ear, fan and three drive-cage steps (the 1688 px greyscale screenshots are used) | None (optional) |
