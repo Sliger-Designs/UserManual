@@ -612,13 +612,30 @@
     "path": "illustrations/published/2u/CX2177x/cx2177x-e1cfccb031fb.jpg",
     "source_path": "illustrations/2u/CX2177x/9c_CX2177x_DRIVE BKT 1 INSTALL.jpg",
     "source_sha256": "13f12fa95a2bb22ff4d2b674eab5c84a3094cd8f09b0dbb55b34a46f9058be07",
-    "sha256": "8337916c6c97493fb4f951c6cda0b67cfe69ce263ec1ef9bfc9b58b587230ba5",
+    "sha256": "52167f4eb38005bb68c62add52f598ab9b545dd057fdf3c24b06e4dca4cf0a81",
     "dimensions_px": [
       1800,
       1286
     ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 5372578,
+      "total_pixels": 13577040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2177x/9c_CX2177x_DRIVE BKT 1 INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4360,
+        3114
+      ],
+      "full_resolution_sha256": "af54a7ed943830bea18c74a8e03aa86eca39d95102c77ed53113883ac500f273"
+    }
   },
   "CX2177x-CHASSIS_EXPLODE-REV20261112.jpg": {
     "path": "illustrations/published/2u/CX2177x/cx2177x-be434143ac61.jpg",
