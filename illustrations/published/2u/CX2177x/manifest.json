@@ -678,18 +678,6 @@
       "full_resolution_sha256": "a9a487f4924a46aed935c222c3f0df686ac8ec12e278eb53d7fded24df7e1e08"
     }
   },
-  "_CX2177x_FRONT.tif": {
-    "path": "illustrations/published/2u/CX2177x/cx2177x-f1769da03dc7.jpg",
-    "source_path": "illustrations/2u/CX2177x/_CX2177x_FRONT.tif",
-    "source_sha256": "0c8960a2a3fa2ff35e6b3d9d5163221d0b1e0e28c82baccd3d6f9dcd511fb85d",
-    "sha256": "b31f93934867c77ff7a277089b6badb9dde6babf3dea91e4bd635351952363e6",
-    "dimensions_px": [
-      1800,
-      900
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
-  },
   "_CX2177x_rendering.jpg": {
     "path": "illustrations/published/2u/CX2177x/cx2177x-a09b3d41e1f5.jpg",
     "source_path": "illustrations/2u/CX2177x/_CX2177x_rendering.jpg",
