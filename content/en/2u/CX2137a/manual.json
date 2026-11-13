@@ -80,7 +80,8 @@
       "images": [
         "_CX2137a_ADVANCED_TOP VIEW.jpg"
       ],
-      "layout": "reference-drawing"
+      "layout": "reference-drawing",
+      "layout_variant": "notes-above"
     },
     {
       "id": "front-clearance",
