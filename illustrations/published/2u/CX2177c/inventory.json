@@ -3,6 +3,52 @@
   "model": "CX2177c",
   "items": [
     {
+      "id": "cx2177c-51030aaeb760",
+      "original_filename": "4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg",
+      "local_path": "illustrations/2u/CX2177c/4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 590670,
+      "sha256": "f451bdfd1d225364277f66df41fec25ee71ff428fa357586bd829487dc827efb",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177c/4c_CX2177a_DRIVE BRACKET SSD INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx2177c-8b3795d832dd",
+      "original_filename": "4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg",
+      "local_path": "illustrations/2u/CX2177c/4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg",
+      "width_px": 4006,
+      "height_px": 2861,
+      "format": "JPEG",
+      "size_bytes": 486660,
+      "sha256": "d9cfe73bcf1283be4c51c01afae8af9df8441c5c43a20974161154fc96a1a1ba",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2177c/4d_CX2177a_DRIVE BRACKET HDD INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
       "id": "cx2177c-b42808130693",
       "original_filename": "CX2177c-CHASSIS_EXPLODE-REV20261112.jpg",
       "local_path": "illustrations/2u/CX2177c/CX2177c-CHASSIS_EXPLODE-REV20261112.jpg",

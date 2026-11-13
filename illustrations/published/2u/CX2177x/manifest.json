@@ -231,6 +231,35 @@
       "full_resolution_sha256": "97f5f617813d9e27ee8e02101642cb0c10a34f4ab11aca9563ca7cab9aff46d4"
     }
   },
+  "4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2177x/cx2177x-51030aaeb760.jpg",
+    "source_path": "illustrations/2u/CX2177x/4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg",
+    "source_sha256": "f451bdfd1d225364277f66df41fec25ee71ff428fa357586bd829487dc827efb",
+    "sha256": "df3c8cfb2f0f87c357d0885b8890f731eadddfb20acd71527833e5a245ac5b5f",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 14379420,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2177x/4c_CX2177a_DRIVE BRACKET SSD INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "ffba6582ce397cee6010b3a4fad6b4fa96f24add512030354af49fda0a8708d0"
+    }
+  },
   "4c_CX2177x_FRONT DRIVE BRACKET REMOVE.jpg": {
     "path": "illustrations/published/2u/CX2177x/cx2177x-c30857eb8cdc.jpg",
     "source_path": "illustrations/2u/CX2177x/4c_CX2177x_FRONT DRIVE BRACKET REMOVE.jpg",
@@ -260,11 +289,11 @@
       "full_resolution_sha256": "4e37d0ad398f960a0d3207bcee704ef2e64bd1573ff051e951bd88ef82aaae9b"
     }
   },
-  "4d_CX2177_DRIVE BRACKET HDD INSTALL.jpg": {
-    "path": "illustrations/published/2u/CX2177x/cx2177x-fc9abbd5a1a2.jpg",
-    "source_path": "illustrations/2u/CX2177x/4d_CX2177_DRIVE BRACKET HDD INSTALL.jpg",
-    "source_sha256": "5bdb2711e201565600d35b88013045d842d7aedc7afbe339d62497b7243269f4",
-    "sha256": "2376947fe875b4831076e162a85f29404392fd767188406c1ba224e5466dc6f4",
+  "4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2177x/cx2177x-8b3795d832dd.jpg",
+    "source_path": "illustrations/2u/CX2177x/4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg",
+    "source_sha256": "d9cfe73bcf1283be4c51c01afae8af9df8441c5c43a20974161154fc96a1a1ba",
+    "sha256": "a8d4f4a552ada5ba3ef54abb68b7d4a9f7bee6dd9214951397448bbd44afd4f7",
     "dimensions_px": [
       1800,
       1286
@@ -278,15 +307,15 @@
         251
       ],
       "tolerance_per_channel": 4,
-      "background_pixels_replaced": 6218712,
-      "total_pixels": 7996940,
+      "background_pixels_replaced": 9839131,
+      "total_pixels": 11461166,
       "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX2177x/4d_CX2177_DRIVE BRACKET HDD INSTALL-white.png",
+      "full_resolution_path": "_build/cleaned-renders/CX2177x/4d_CX2177a_DRIVE BRACKET HDD INSTALL-white.png",
       "full_resolution_dimensions_px": [
-        3346,
-        2390
+        4006,
+        2861
       ],
-      "full_resolution_sha256": "e9fc12620d9bc74c34f9bf9c88b1c806ceb4171a4cc28ffa814e4feb10f779d9"
+      "full_resolution_sha256": "d43f88c02f5f81d1bbdd311beb8c136d26024cecf6dead18ebe0efc693d48f37"
     }
   },
   "4d_CX2177x_DRIVE SCREWS.jpg": {
