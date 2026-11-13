@@ -93,7 +93,8 @@
       "images": [
         "_CX2151c_ADVANCED_FRONT VIEW.jpg"
       ],
-      "layout": "reference-drawing"
+      "layout": "reference-drawing",
+      "crop_margins": true
     },
     {
       "id": "specifications",

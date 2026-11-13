@@ -95,7 +95,8 @@
       "images": [
         "_CX2177a_ADVANCED_FRONT VIEW.jpg"
       ],
-      "layout": "reference-drawing"
+      "layout": "reference-drawing",
+      "crop_margins": true
     },
     {
       "id": "specifications",
