@@ -10,4 +10,4 @@ Hold the radiator and fans against the inside of the subfront, fans toward the f
 
 ### Check component clearance
 
-The L34 stack (radiator, fans and fan guards) is 86.5 mm thick, leaving **{{ facts.gpu_length_fans_aio_mm }} mm** for the GPU.
+The L34 stack (radiator and fans) is 86.5 mm thick, leaving **{{ facts.gpu_length_fans_aio_mm }} mm** for the GPU.
