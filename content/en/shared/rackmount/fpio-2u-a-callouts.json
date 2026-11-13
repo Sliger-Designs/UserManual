@@ -4,10 +4,10 @@
   "coordinate_space": "uncropped_image",
   "aspect_ratio": 1.7142857142857142,
   "view_box": [
-    0,
-    0,
-    1,
-    1
+    0.41,
+    0.11,
+    0.47,
+    0.8
   ],
   "badge_radius_height_fraction": 0.035,
   "font_size_height_fraction": 0.045,
@@ -21,7 +21,7 @@
         0.333
       ],
       "badge": [
-        0.87,
+        0.855,
         0.333
       ]
     },
@@ -39,7 +39,7 @@
         ]
       ],
       "badge": [
-        0.87,
+        0.855,
         0.665
       ]
     }
