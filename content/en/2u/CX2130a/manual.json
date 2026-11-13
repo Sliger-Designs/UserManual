@@ -277,7 +277,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/2u-gpu-installation.md",
       "images": [
-        "pending: GPU / PCIe card installation render needed (CX2130a)"
+        "_CX2130a_PCIeCARD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -335,14 +335,7 @@
       "layout": "text"
     }
   ],
-  "missing_assets": [
-    {
-      "id": "M04",
-      "needed": "GPU / PCIe card installation render; numbered step renders (the supplied set is unnumbered).",
-      "section": "gpu-installation",
-      "suggested_folder": "illustrations/2u/CX2130a/"
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "13\" DEEP 2U CHASSIS",
   "cover_description_detail": [
     "4 × 80 MM FAN MOUNTS"

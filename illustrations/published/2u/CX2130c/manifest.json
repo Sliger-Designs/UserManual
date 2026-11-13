@@ -129,6 +129,18 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
+  "_CX2130c_PCIeCARD.jpg": {
+    "path": "illustrations/published/2u/CX2130c/cx2130c-b5ccc6ec0098.jpg",
+    "source_path": "illustrations/2u/CX2130c/_CX2130c_PCIeCARD.jpg",
+    "source_sha256": "a98941da7593e49b001e0ae792657bc78a6faed26585b3dc8f1cf11676824691",
+    "sha256": "5228aa5c04622fe37c088aa4310e04e9c490f1cfbd85ce20cd527e096ec6a97a",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
   "_CX2130c_PSU.jpg": {
     "path": "illustrations/published/2u/CX2130c/cx2130c-f67b22285113.jpg",
     "source_path": "illustrations/2u/CX2130c/_CX2130c_PSU.jpg",
@@ -223,18 +235,6 @@
     "source_path": "illustrations/2u/CX2130c/_CX2130c_faceplater removal.jpg",
     "source_sha256": "491daed480e760d979b2ae1b863127ffbdb345d44a2c8f85cb9ce684b9e5f3be",
     "sha256": "514a5b095c0cb83a5e03ca890bc09ead540be086cf888446f29b174d46e2c0b1",
-    "dimensions_px": [
-      1688,
-      1126
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
-  },
-  "_CX2130c_fan&aio.jpg": {
-    "path": "illustrations/published/2u/CX2130c/cx2130c-253081375c3a.jpg",
-    "source_path": "illustrations/2u/CX2130c/_CX2130c_fan&aio.jpg",
-    "source_sha256": "7d33d84b1297f6a8ca11af400ff46f3dd44a07815af509d995e89ccad7f84921",
-    "sha256": "423089c6229ec32102206f3ac6a0b42ca7cf16bc35154ca110298e15b8d45f12",
     "dimensions_px": [
       1688,
       1126

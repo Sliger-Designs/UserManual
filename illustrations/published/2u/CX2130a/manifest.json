@@ -165,6 +165,18 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
+  "_CX2130a_PCIeCARD.jpg": {
+    "path": "illustrations/published/2u/CX2130a/cx2130a-a685a61d5b29.jpg",
+    "source_path": "illustrations/2u/CX2130a/_CX2130a_PCIeCARD.jpg",
+    "source_sha256": "5032a9c2c3f897967f0f2a93e449dbe4aa3cd0c1e043221d64bca109b76f26bd",
+    "sha256": "1d9609e45f031d76b7fcc3cd7ca3dd970f4261fdc68112bf40cc386880a79ab2",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
   "_CX2130a_PSU.jpg": {
     "path": "illustrations/published/2u/CX2130a/cx2130a-6fa029b146b0.jpg",
     "source_path": "illustrations/2u/CX2130a/_CX2130a_PSU.jpg",

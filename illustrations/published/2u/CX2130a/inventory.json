@@ -180,6 +180,18 @@
       "note": "Supplied original; configuration applicability requires reference review."
     },
     {
+      "id": "cx2130a-a685a61d5b29",
+      "original_filename": "_CX2130a_PCIeCARD.jpg",
+      "local_path": "illustrations/2u/CX2130a/_CX2130a_PCIeCARD.jpg",
+      "width_px": 9000,
+      "height_px": 5195,
+      "format": "JPEG",
+      "size_bytes": 5869111,
+      "sha256": "5032a9c2c3f897967f0f2a93e449dbe4aa3cd0c1e043221d64bca109b76f26bd",
+      "selection_status": "candidate",
+      "note": "Supplied original; configuration applicability requires reference review."
+    },
+    {
       "id": "cx2130a-6fa029b146b0",
       "original_filename": "_CX2130a_PSU.jpg",
       "local_path": "illustrations/2u/CX2130a/_CX2130a_PSU.jpg",

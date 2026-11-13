@@ -161,9 +161,9 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/2u-lid-removal.md",
       "images": [
-        "pending: Lid unscrew render needed (CX2130x)",
-        "pending: Lid slide-back render needed (CX2130x)",
-        "pending: Lid removal render needed (CX2130x)"
+        "_CX2130x_LID REMOVAL1.jpg",
+        "_CX2130x_LID REMOVAL2.jpg",
+        "_CX2130x_LID REMOVAL3.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -180,7 +180,7 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/faceplate-removal.md",
       "images": [
-        "pending: Faceplate removal render needed (CX2130x)"
+        "_CX2130x_FACEPLATE REMOVAL.jpg"
       ],
       "layout": "procedure"
     },
@@ -190,7 +190,7 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/rack-ears.md",
       "images": [
-        "pending: Rack ear and pull handle render needed (CX2130x)"
+        "_CX2130x_RACKEARPULLHANDLE.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -207,7 +207,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "fan-installation.md",
       "images": [
-        "pending: Fan installation render needed (CX2130x)"
+        "_CX2130x_FANINSTALL.jpg"
       ],
       "layout": "procedure"
     },
@@ -217,13 +217,15 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "drive-cage-removal.md",
       "images": [
-        "pending: Drive cage removal render needed (CX2130x)"
+        "_CX2130x_drive bracket unscrew.jpg",
+        "_CX2130x_drive bracket lift.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
         [
           "A"
-        ]
+        ],
+        []
       ]
     },
     {
@@ -232,8 +234,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/2u-motherboard-preparation.md",
       "images": [
-        "pending: Standoff installation render needed (CX2130x)",
-        "pending: I/O shield render needed (CX2130x)"
+        "_CX2130x_MOTHERBOARD1_standoffs.jpg",
+        "_CX2130x_MOTHERBOARD2_ioshield.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -249,7 +251,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/motherboard-installation.md",
       "images": [
-        "pending: Motherboard installation render needed (CX2130x)"
+        "_CX2130x_MOTHERBOARD3_mobo.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -265,7 +267,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "psu-installation.md",
       "images": [
-        "pending: PSU installation render needed (CX2130x)"
+        "_CX2130x_PSU1.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -280,7 +282,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/2u-gpu-installation.md",
       "images": [
-        "pending: GPU / PCIe card installation render needed (CX2130x)"
+        "_CX2130x_PCIeCARD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -377,8 +379,8 @@
   "missing_assets": [
     {
       "id": "M04",
-      "needed": "Every step render (only the exploded view was supplied).",
-      "section": "lid-removal",
+      "needed": "Drive-cage installation render (the filled cage lowered in and secured).",
+      "section": "drive-cage-installation",
       "suggested_folder": "illustrations/2u/CX2130x/"
     }
   ],
