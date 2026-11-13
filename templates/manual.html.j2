@@ -54,7 +54,7 @@
  </div><article class="dimension-notes">{{ page.html }}</article>
  {% elif page.layout == 'reference-drawing' %}
  {% if page.get('side_notes') %}<div class="drawing-with-notes"><article>{{ page.html }}</article>{% if page.images[0].get('pending') %}<div class="asset-gap reference-drawing-image">{{ page.images[0].pending }}</div>{% else %}<img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}"{% if page.images[0].style %} style="{{ page.images[0].style }}"{% endif %}>{% endif %}</div>
- {% else %}{% if page.images[0].get('pending') %}<div class="asset-gap reference-drawing-image">{{ page.images[0].pending }}</div>{% else %}<img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}">{% endif %}<article>{{ page.html }}</article>{% endif %}
+ {% else %}{% if page.images[0].get('pending') %}<div class="asset-gap reference-drawing-image">{{ page.images[0].pending }}</div>{% else %}<img class="reference-drawing-image" src="{{ page.images[0].src }}" alt="{{ page.title }}"{% if page.images[0].style %} style="{{ page.images[0].style }}"{% endif %}>{% endif %}<article>{{ page.html }}</article>{% endif %}
  {% elif page.layout == 'regulations' %}
  <div class="regulatory-icons">{% for img in page.images %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endfor %}</div>
  <article>{{ page.html }}</article>
