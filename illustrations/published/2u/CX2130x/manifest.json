@@ -254,6 +254,18 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
+  "_CX2130x_drive bracket reinstall.jpg": {
+    "path": "illustrations/published/2u/CX2130x/cx2130x-f55d7dde2de5.jpg",
+    "source_path": "illustrations/2u/CX2130x/_CX2130x_drive bracket reinstall.jpg",
+    "source_sha256": "896e534bea03df5c2d6f9a56ce76d9df9c8468b045c2e4a9cf2519e1c777427d",
+    "sha256": "9ac86d3f7c624067673be871e8c56f2751c2b2f838e5b54506dea01258dd9cc1",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
   "_CX2130x_drive bracket unscrew.jpg": {
     "path": "illustrations/published/2u/CX2130x/cx2130x-f4b6d2b2499d.jpg",
     "source_path": "illustrations/2u/CX2130x/_CX2130x_drive bracket unscrew.jpg",

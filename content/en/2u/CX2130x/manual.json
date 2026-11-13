@@ -319,7 +319,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "drive-cage-installation.md",
       "images": [
-        "pending: Drive cage installation render needed (CX2130x)"
+        "_CX2130x_drive bracket reinstall.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -376,14 +376,7 @@
       "layout": "text"
     }
   ],
-  "missing_assets": [
-    {
-      "id": "M04",
-      "needed": "Drive-cage installation render (the filled cage lowered in and secured).",
-      "section": "drive-cage-installation",
-      "suggested_folder": "illustrations/2u/CX2130x/"
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "13\" DEEP 2U CHASSIS",
   "cover_description_detail": [
     "INTERNAL 3.5\" DRIVE CAGE"
