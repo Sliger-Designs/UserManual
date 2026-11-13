@@ -71,7 +71,6 @@ Confirmed 2026-11-04:
 
 | Done | Model | Needed | Effect until supplied |
 |---|---|---|---|
-|  | CX2177x | Rear drive bracket with 2.5-inch SSDs (as CX2177a step 4c) | Grey placeholder on the rear-bracket drive page |
 |  | CX2177c | Numbered step renders of the current design (the supplied renders are unnumbered and several show an earlier layout); confirm the step mapping in the draft, e.g. `_CX2177c_BRACKET INSTALL` used for the GPU and slot-cover step | The draft uses the supplied renders as mapped |
 |  | CX2151x | Numbered step renders (confirm the mapping of the supplied unnumbered set in the draft) | The draft uses the supplied renders as mapped |
 |  | CX2130a, CX2130c, CX2130x | Optional: numbered step renders (the supplied sets are unnumbered; confirm the step mapping in the draft) | The draft uses the supplied renders as mapped |
