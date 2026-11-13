@@ -306,16 +306,14 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "front-drive-cage-drives.md",
       "images": [
-        "_CX2177c_DRIVE BRACKET SCREWS.jpg",
-        "_CX2177c_FILL DRIVE BRACKET.jpg"
+        "_CX2177c_DRIVE BRACKET SCREWS.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
         [
           "A",
           "D"
-        ],
-        []
+        ]
       ]
     },
     {
@@ -326,7 +324,13 @@
       "images": [
         "_CX2177c_INSERTDRIVEBRACKETWITHDRIVES.jpg"
       ],
-      "layout": "procedure"
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ]
+      ],
+      "layout_variant": "wide-visuals"
     },
     {
       "id": "drive-bracket-drives",
@@ -356,7 +360,15 @@
         "_CX2177c._REAR DRIVE BRACKET FULLjpg.jpg",
         "_CX2177c_DRIVE BRACKET REAR INSTALL.jpg"
       ],
-      "layout": "procedure"
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [
+          "E"
+        ]
+      ]
     },
     {
       "id": "external-bays",
