@@ -1146,5 +1146,29 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/2u-l34-install/1a-L34install_removeScrewsandGuards.jpg": {
+    "path": "illustrations/published/common/common-91729801e02e.jpg",
+    "source_path": "illustrations/common/2u-l34-install/1a-L34install_removeScrewsandGuards.jpg",
+    "source_sha256": "a863b0f696b5060ca5f3a284f1b34dcfb1481c0cdfe4e312cbe1027e8e047e15",
+    "sha256": "a0447b672c7c7d6fa62cd792938c4f42592a322bf66c65c7bedcaf53d7b920d6",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/2u-l34-install/2a-L34install_installRadiator.jpg": {
+    "path": "illustrations/published/common/common-9cf578740927.jpg",
+    "source_path": "illustrations/common/2u-l34-install/2a-L34install_installRadiator.jpg",
+    "source_sha256": "a89be38678800dfb391cee136d1a94f1e1ef8bb2a9c199ccc86244475f325bf8",
+    "sha256": "c9909ef47c1acd7371cbd0a2cadbf4650255361b7591a4df57a57cf381690609",
+    "dimensions_px": [
+      1800,
+      1039
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }
