@@ -43,14 +43,20 @@
   "missing_assets": [
     {
       "id": "M01",
-      "needed": "Exploded view of the CX3701 assemblies; the exploded-view page is omitted until supplied.",
+      "needed": "Exploded view of the CX3701 assemblies; grey placeholder until supplied.",
       "section": "exploded-view",
       "suggested_folder": "illustrations/3u/CX3701/"
     },
     {
       "id": "M02",
-      "needed": "92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket; the AIO page is text-only until supplied.",
+      "needed": "92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket (two steps); grey placeholders until supplied.",
       "section": "aio-installation",
+      "suggested_folder": "illustrations/3u/CX3701/"
+    },
+    {
+      "id": "M03",
+      "needed": "Cable-management bar highlighted on the motherboard tray; grey placeholder until supplied (not blocking V1).",
+      "section": "cable-management",
       "suggested_folder": "illustrations/3u/CX3701/"
     }
   ],
@@ -73,6 +79,16 @@
       "source": "contents.md",
       "images": [],
       "layout": "contents"
+    },
+    {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "pending: CX3701 exploded view with rack ears and pull handles, numbered part key"
+      ],
+      "layout": "exploded"
     },
     {
       "id": "dimensions",
@@ -295,8 +311,11 @@
       "title": "Install a rear AIO radiator",
       "section": "03 / COMPONENT INSTALLATION",
       "source": "aio-installation.md",
-      "images": [],
-      "layout": "text",
+      "images": [
+        "pending: CX3701 3D-printed 120-to-92 mm adapter on the rear fan bracket",
+        "pending: CX3701 92 mm AIO radiator and fan on the adapter, bracket refitted (as CX3702 3h)"
+      ],
+      "layout": "procedure",
       "illustration_pending": "92 mm AIO and adapter illustrations pending"
     },
     {
@@ -438,8 +457,10 @@
       "title": "Route cables & close the chassis",
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
-      "images": [],
-      "layout": "text"
+      "images": [
+        "pending: CX3701 cable-management bar highlighted on the motherboard tray (as CX3150a CABLE_MANAGEMENT_BAR_HIGHLIGHT)"
+      ],
+      "layout": "procedure"
     },
     {
       "id": "support",

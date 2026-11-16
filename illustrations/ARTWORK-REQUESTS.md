@@ -58,8 +58,8 @@ Confirmed 2026-11-04:
 |  | CX3172i XL | Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and bay steps (the CX3152i/CX3150i ones are used) | Those steps show the 15-inch chassis |
 |  | CX3171a | Optional: 17-inch renders for the tray, riser and GPU steps (the CX3151a ones are used; magenta review dots in draft builds) | Those steps show the 15-inch chassis |
 |  | CX3172a | Optional: 17-inch renders for the tray, PSU, SSD and GPU steps (the CX3152a ones are used; magenta review dots in draft builds) | Those steps show the 15-inch chassis |
-|  | CX3701 | Exploded view; 92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket. Optional: NAS front-panel render (the shared 3U "a" front drawing is used) | Exploded view omitted; the AIO page is text only |
-|  | CX3702 | Exploded view. Optional: NAS front-panel render (the shared 3U "a" front drawing is used); locked-HDD render (the CX3701 one is used) | Exploded view omitted |
+|  | CX3701 | Exploded view; 92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket. Optional: NAS front-panel render (the shared 3U "a" front drawing is used) | Grey placeholders on the exploded-view and AIO pages |
+|  | CX3702 | Exploded view. Optional: NAS front-panel render (the shared 3U "a" front drawing is used); locked-HDD render (the CX3701 one is used) | Grey placeholder on the exploded-view page |
 |  | CX4170a | Optional: external side/front dimension profiles. CRPS installation will be covered in a separate manual | None (optional) |
 |  | CX4200f | Optional: the push-pull assembly installed in the three-bay CX4200f (the page shows the radiator-and-fan assembly only, CX4150e render) | None (optional) |
 |  | CX4150e/i, CX4170e/i, CX4200e/f/i | Higher-resolution 4U e, f and i front I/O drawings (`common/front-io/CX4Ue_FPIO.png`, `CX4Uf_FPIO.png`, `CX4Ui_FPIO.png` are about 1000 px; interim versions supplied 2026-11-09) | None (interim drawings used) |
@@ -91,7 +91,7 @@ equivalent view.
 |  | CX3171a, CX3172a | Their own cable-management renders (the CX3170a render is used; blue review dot in draft builds). Not a release blocker |
 |  | CX3170i XL, CX3171a XL, CX3171i XL | Their own cable-management renders (the CX3170a XL render is used; blue review dot in draft builds). Not a release blocker |
 |  | CX3172i XL | Its own cable-management render (the CX3172a XL render is used; blue review dot in draft builds). Not a release blocker |
-|  | CX3701, CX3702 | Cable-management bar highlighted on the tray |
+|  | CX3701, CX3702 | Cable-management bar highlighted on the tray (grey placeholders until supplied) |
 
 Every 3U manual built later joins this list unless its render set includes the view. 2U chassis have no
 motherboard tray to route cables to, so 2U manuals get no cable-management render; their page is text
