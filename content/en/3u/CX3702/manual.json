@@ -295,6 +295,23 @@
       ]
     },
     {
+      "id": "aio-installation",
+      "title": "Install a rear AIO radiator",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "aio-installation.md",
+      "images": [
+        "3g_CX3702_REAR FAN PRECOOLER.jpg",
+        "3h_CX3702_REAR FAN + AIO.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [],
+        [
+          "A"
+        ]
+      ]
+    },
+    {
       "id": "motherboard-preparation",
       "title": "Prepare the motherboard tray",
       "section": "03 / COMPONENT INSTALLATION",
