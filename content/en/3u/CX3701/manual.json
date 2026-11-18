@@ -42,12 +42,6 @@
   "cover_format": "landscape",
   "missing_assets": [
     {
-      "id": "M01",
-      "needed": "Exploded view of the CX3701 assemblies; grey placeholder until supplied.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/3u/CX3701/"
-    },
-    {
       "id": "M02",
       "needed": "92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket (two steps); grey placeholders until supplied.",
       "section": "aio-installation",
@@ -86,9 +80,13 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "pending: CX3701 exploded view with rack ears and pull handles, numbered part key"
+        "_CX3701_explode.jpg"
       ],
-      "layout": "exploded"
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "_CX3701_explode.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",

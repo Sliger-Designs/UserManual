@@ -58,8 +58,8 @@ Confirmed 2026-11-04:
 |  | CX3172i XL | Optional: 17-inch renders for the faceplate, rack-ear, fan, AIO and bay steps (the CX3152i/CX3150i ones are used) | Those steps show the 15-inch chassis |
 |  | CX3171a | Optional: 17-inch renders for the tray, riser and GPU steps (the CX3151a ones are used; magenta review dots in draft builds) | Those steps show the 15-inch chassis |
 |  | CX3172a | Optional: 17-inch renders for the tray, PSU, SSD and GPU steps (the CX3152a ones are used; magenta review dots in draft builds) | Those steps show the 15-inch chassis |
-|  | CX3701 | Exploded view; 92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket. Optional: NAS front-panel render (the shared 3U "a" front drawing is used) | Grey placeholders on the exploded-view and AIO pages |
-|  | CX3702 | Exploded view. Optional: NAS front-panel render (the shared 3U "a" front drawing is used); locked-HDD render (the CX3701 one is used) | Grey placeholder on the exploded-view page |
+|  | CX3701 | 92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket. Optional: NAS front-panel render (the shared 3U "a" front drawing is used) | Grey placeholders on the AIO page (exploded view added 2026-11-18) |
+|  | CX3702 | Optional: NAS front-panel render (the shared 3U "a" front drawing is used); locked-HDD render (the CX3701 one is used) | None (exploded view added 2026-11-18) |
 |  | CX4170a | Optional: external side/front dimension profiles. CRPS installation will be covered in a separate manual | None (optional) |
 |  | CX4200f | Optional: the push-pull assembly installed in the three-bay CX4200f (the page shows the radiator-and-fan assembly only, CX4150e render) | None (optional) |
 |  | CX4150e/i, CX4170e/i, CX4200e/f/i | Higher-resolution 4U e, f and i front I/O drawings (`common/front-io/CX4Ue_FPIO.png`, `CX4Uf_FPIO.png`, `CX4Ui_FPIO.png` are about 1000 px; interim versions supplied 2026-11-09) | None (interim drawings used) |

@@ -45,12 +45,6 @@
   "cover_format": "landscape",
   "missing_assets": [
     {
-      "id": "M01",
-      "needed": "Exploded view of the CX3702 assemblies; grey placeholder until supplied.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/3u/CX3702/"
-    },
-    {
       "id": "M02",
       "needed": "Cable-management bar highlighted on the motherboard tray; grey placeholder until supplied (not blocking V1).",
       "section": "cable-management",
@@ -83,9 +77,13 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "pending: CX3702 exploded view with rack ears and pull handles, numbered part key"
+        "_CX3702_explode.jpg"
       ],
-      "layout": "exploded"
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "_CX3702_explode.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
