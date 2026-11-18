@@ -46,8 +46,14 @@
       "title": "Exploded assembly & part key",
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
-      "images": [],
-      "layout": "exploded"
+      "images": [
+        "_CX4713_Explode.jpg"
+      ],
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "_CX4713_Explode.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -194,9 +200,9 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/tray-removal.md",
       "images": [
-        "5a_CX4713_TRAY UNSCREW.jpg",
-        "5b_CX4713_TRAY SLIDE BACK.jpg",
-        "5c_CX4713_TRAY SLIDE BACK 2.jpg"
+        "CX4712_5a_TRAY_UNSCREW_R1_20261105.jpg",
+        "CX4712_5b_TRAY_SLIDE_BACK_R1_20261105.jpg",
+        "CX4712_5c_TRAY_REMOVE_R1_20261105.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -532,9 +538,9 @@
       "section": "04 / REASSEMBLY",
       "source": "../../shared/rackmount/tray-installation.md",
       "images": [
-        "5d_CX4713_TRAY INSTALL.jpg",
-        "5e_CX4713_TRAY INSTALL 2.jpg",
-        "5f_CX4713_TRAY INSTALL 3.jpg"
+        "CX4712_5d_TRAY_INSTALL_R1_20261105.jpg",
+        "CX4712_5e_TRAY_SLIDE_FORWARD_R1_20261105.jpg",
+        "CX4712_5f_TRAY_SCREW_INSTALL_R1_20261105.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -603,12 +609,6 @@
     "height": 6.96
   },
   "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX4713 assemblies.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/4u/CX4713/"
-    },
     {
       "id": "M02",
       "needed": "Product render for the cover-page image list (the printed cover uses the website photo).",
