@@ -258,14 +258,10 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "fan-bracket-removal.md",
       "images": [
-        "3h_CX4712-A_FAN BRACKET REMOVE.jpg",
         "3a1_CX4712-A_FAN BRACKET REMOVE.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
-        [
-          "E"
-        ],
         []
       ],
       "layout_variant": "stacked"
@@ -324,9 +320,7 @@
       ],
       "layout": "procedure",
       "hardware_callouts": [
-        [
-          "E"
-        ],
+        [],
         []
       ]
     },

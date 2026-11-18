@@ -1,9 +1,5 @@
 The mid-chassis fans mount on a removable bracket. Remove it to install fans or a radiator.
 
-### 1. Remove the bracket screws
+### 1. Lift the bracket out
 
-Remove the {{ hw('E') }} securing the fan bracket through the bottom of the chassis.
-
-### 2. Lift the bracket out
-
-Lift the fan bracket straight up and out of the chassis.
+Lift the fan bracket straight up and out of the chassis. No screws hold it in place.

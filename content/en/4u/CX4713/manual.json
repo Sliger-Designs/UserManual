@@ -319,9 +319,7 @@
       ],
       "layout": "procedure",
       "hardware_callouts": [
-        [
-          "E"
-        ],
+        [],
         [],
         []
       ]

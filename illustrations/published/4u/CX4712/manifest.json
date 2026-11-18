@@ -666,35 +666,6 @@
       "full_resolution_sha256": "27b86f52df7df4bc6ce5d0b6a86d363aa37777c34f22a4b9bcdb9f4e1a3a6bef"
     }
   },
-  "3h_CX4712-A_FAN BRACKET REMOVE.jpg": {
-    "path": "illustrations/published/4u/CX4712/cx4712-c631a85b04bf.jpg",
-    "source_path": "illustrations/4u/CX4712/3h_CX4712-A_FAN BRACKET REMOVE.jpg",
-    "source_sha256": "e3e7ab054e4770cecfcc9c05a6351ddca7b4698b1645b22a89d1a03f96b2702f",
-    "sha256": "e913d717420ce6ad84194ee7f84a5fab8b38af583b1b61471e6c63fbd7a4c7b0",
-    "dimensions_px": [
-      1800,
-      1286
-    ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 7493323,
-      "total_pixels": 13342014,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX4712/3h_CX4712-A_FAN BRACKET REMOVE-white.png",
-      "full_resolution_dimensions_px": [
-        4322,
-        3087
-      ],
-      "full_resolution_sha256": "277cb171299a59e59e90c2e25f488cfab1ead66c0eb730b0aa276ba02873b2eb"
-    }
-  },
   "4a_CX4712-A_STANDOFF INSTALL.jpg": {
     "path": "illustrations/published/4u/CX4712/cx4712-d345d83660ae.jpg",
     "source_path": "illustrations/4u/CX4712/4a_CX4712-A_STANDOFF INSTALL.jpg",
