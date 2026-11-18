@@ -33,6 +33,8 @@ unchanged. Add language folders when translations are approved.
 | English (`en`) | 4U | CX4200f | v1.1 | 2026-11-13 | [PDF](en/4u/CX4200f/v1.1/CX4200f-en-v1.1.pdf) |
 | English (`en`) | 4U | CX4200i | v1.0 | 2026-11-09 | [PDF](en/4u/CX4200i/v1.0/CX4200i-en-v1.0.pdf) |
 | English (`en`) | 4U | CX4200i | v1.1 | 2026-11-13 | [PDF](en/4u/CX4200i/v1.1/CX4200i-en-v1.1.pdf) |
+| English (`en`) | 4U | CX4712 | v1.0 | 2026-11-18 | [PDF](en/4u/CX4712/v1.0/CX4712-en-v1.0.pdf) |
+| English (`en`) | 4U | CX4713 | v1.0 | 2026-11-18 | [PDF](en/4u/CX4713/v1.0/CX4713-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3150a | v1.1 | 2026-11-10 | [PDF](en/3u/CX3150a/v1.1/CX3150a-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3150a | v1.2 | 2026-11-11 | [PDF](en/3u/CX3150a/v1.2/CX3150a-en-v1.2.pdf) |
 | English (`en`) | 3U | CX3150a | v1.3 | 2026-11-13 | [PDF](en/3u/CX3150a/v1.3/CX3150a-en-v1.3.pdf) |
@@ -73,6 +75,8 @@ unchanged. Add language folders when translations are approved.
 | English (`en`) | 3U | CX3172a XL | v1.1 | 2026-11-13 | [PDF](en/3u/CX3172aXL/v1.1/CX3172aXL-en-v1.1.pdf) |
 | English (`en`) | 3U | CX3172i XL | v1.0 | 2026-11-11 | [PDF](en/3u/CX3172iXL/v1.0/CX3172iXL-en-v1.0.pdf) |
 | English (`en`) | 3U | CX3172i XL | v1.1 | 2026-11-13 | [PDF](en/3u/CX3172iXL/v1.1/CX3172iXL-en-v1.1.pdf) |
+| English (`en`) | 3U | CX3701 | v1.0 | 2026-11-18 | [PDF](en/3u/CX3701/v1.0/CX3701-en-v1.0.pdf) |
+| English (`en`) | 3U | CX3702 | v1.0 | 2026-11-18 | [PDF](en/3u/CX3702/v1.0/CX3702-en-v1.0.pdf) |
 | English (`en`) | 2U | CX2177a | v1.0 | 2026-11-13 | [PDF](en/2u/CX2177a/v1.0/CX2177a-en-v1.0.pdf) |
 | English (`en`) | 2U | CX2177c | v1.0 | 2026-11-13 | [PDF](en/2u/CX2177c/v1.0/CX2177c-en-v1.0.pdf) |
 | English (`en`) | 2U | CX2177x | v1.0 | 2026-11-13 | [PDF](en/2u/CX2177x/v1.0/CX2177x-en-v1.0.pdf) |

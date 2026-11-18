@@ -1,0 +1,101 @@
+{
+  "asset_key": "_CX3701_explode.jpg",
+  "source_sha256": "cffffa60bd51225849a3d78683668c905990d0084c71963a95bd5aa229a6bd59",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.770956316410862,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the supplied exploded view 2026-11-18 (side fan bracket exploded inwards, rear fan bracket exploded upwards); faceplate and dust filter kept as one callout; review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.5,
+        0.2
+      ],
+      "badge": [
+        0.3,
+        0.1
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.25,
+        0.69
+      ],
+      "badge": [
+        0.04,
+        0.58
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.547,
+        0.72
+      ],
+      "badge": [
+        0.5,
+        0.97
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.59,
+        0.775
+      ],
+      "badge": [
+        0.61,
+        0.97
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Chassis wrap",
+      "target": [
+        0.78,
+        0.72
+      ],
+      "badge": [
+        0.88,
+        0.85
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Side fan bracket",
+      "target": [
+        0.405,
+        0.38
+      ],
+      "badge": [
+        0.16,
+        0.3
+      ]
+    },
+    {
+      "number": 7,
+      "label": "Rear fan bracket",
+      "target": [
+        0.775,
+        0.43
+      ],
+      "badge": [
+        0.92,
+        0.3
+      ]
+    }
+  ]
+}

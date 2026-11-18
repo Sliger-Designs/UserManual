@@ -2,8 +2,10 @@
   "model": "CX3701",
   "language": "en",
   "language_label": "ENGLISH",
-  "revision": "Prototype 0.1",
-  "status": "Technical review draft",
+  "revision": "v1.0",
+  "status": "User guide",
+  "release_ready": true,
+  "release_date": "2026-11-18",
   "text_checks": {
     "required": [
       "431.8",
@@ -40,20 +42,7 @@
   "cover_description": "15\" DEEP 3U NAS CHASSIS",
   "cover_description_detail": "10 × 3.5\" HOT-SWAP BAYS",
   "cover_format": "landscape",
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Exploded view of the CX3701 assemblies; the exploded-view page is omitted until supplied.",
-      "section": "exploded-view",
-      "suggested_folder": "illustrations/3u/CX3701/"
-    },
-    {
-      "id": "M02",
-      "needed": "92 mm AIO with the 3D-printed 120-to-92 mm adapter on the rear fan bracket; the AIO page is text-only until supplied.",
-      "section": "aio-installation",
-      "suggested_folder": "illustrations/3u/CX3701/"
-    }
-  ],
+  "missing_assets": [],
   "no_standoffs": true,
   "pages": [
     {
@@ -73,6 +62,20 @@
       "source": "contents.md",
       "images": [],
       "layout": "contents"
+    },
+    {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "_CX3701_explode.jpg"
+      ],
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "_CX3701_explode.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -289,15 +292,6 @@
           "A"
         ]
       ]
-    },
-    {
-      "id": "aio-installation",
-      "title": "Install a rear AIO radiator",
-      "section": "03 / COMPONENT INSTALLATION",
-      "source": "aio-installation.md",
-      "images": [],
-      "layout": "text",
-      "illustration_pending": "92 mm AIO and adapter illustrations pending"
     },
     {
       "id": "motherboard-preparation",

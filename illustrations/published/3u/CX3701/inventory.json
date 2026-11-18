@@ -823,6 +823,18 @@
         "full_resolution_path": "_build/cleaned-renders/CX3701/_CX3701_rendering-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "cx3701-cffffa60bd51",
+      "original_filename": "_CX3701_explode.jpg",
+      "local_path": "illustrations/3u/CX3701/_CX3701_explode.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4839588,
+      "sha256": "cffffa60bd51225849a3d78683668c905990d0084c71963a95bd5aa229a6bd59",
+      "selection_status": "candidate",
+      "note": "Exploded view supplied 2026-11-18 (white background; no cleanup needed)."
     }
   ]
 }

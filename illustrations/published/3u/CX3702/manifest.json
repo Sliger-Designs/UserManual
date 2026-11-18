@@ -956,6 +956,18 @@
       "full_resolution_sha256": "53a1e119fa2f8152fb3c808330028d40d094b4640156b456dc38613037b01af1"
     }
   },
+  "_CX3702_explode.jpg": {
+    "path": "illustrations/published/3u/CX3702/cx3702-1073ae4e4b55.jpg",
+    "source_path": "illustrations/3u/CX3702/_CX3702_explode.jpg",
+    "source_sha256": "1073ae4e4b55683748d83b2989b4fc86d34d4ed270c30aac92c02aa3ca580dfa",
+    "sha256": "7eb31f705031c793a006bbe91fd9e45d7742516e55ab1b7c03750b998e6206d6",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
   "_CX3702_rendering.jpg": {
     "path": "illustrations/published/3u/CX3702/cx3702-15d4baa0fca0.jpg",
     "source_path": "illustrations/3u/CX3702/_CX3702_rendering.jpg",

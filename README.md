@@ -36,8 +36,8 @@ tools used to translate them.
 | CX3171i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, riser GPU | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3171iXL/v1.1/CX3171iXL-en-v1.1.pdf) |
 | CX3172a XL | 3U rackmount, 17-inch, XL tray, ATX power supply | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3172aXL/v1.1/CX3172aXL-en-v1.1.pdf) |
 | CX3172i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, ATX power supply | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3172iXL/v1.1/CX3172iXL-en-v1.1.pdf) |
-| CX3701 | 3U NAS, 15-inch, Mini-ITX, 10 × 3.5" hot-swap | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX3702 | 3U NAS, 18-inch, MicroATX, 10 × 3.5" hot-swap | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3701 | 3U NAS, 15-inch, Mini-ITX, 10 × 3.5" hot-swap | Released v1.0 (2026-11-18) | [PDF](releases/en/3u/CX3701/v1.0/CX3701-en-v1.0.pdf) |
+| CX3702 | 3U NAS, 18-inch, MicroATX, 10 × 3.5" hot-swap | Released v1.0 (2026-11-18) | [PDF](releases/en/3u/CX3702/v1.0/CX3702-en-v1.0.pdf) |
 | CX4150a | 4U rackmount | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4150a/v1.1/CX4150a-en-v1.1.pdf) |
 | CX4150e | 4U rackmount, two 5.25" bays | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4150e/v1.1/CX4150e-en-v1.1.pdf) |
 | CX4150i | 4U rackmount, one 5.25" bay | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4150i/v1.1/CX4150i-en-v1.1.pdf) |
@@ -48,8 +48,8 @@ tools used to translate them.
 | CX4200e | 4U rackmount, two 5.25" bays | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4200e/v1.1/CX4200e-en-v1.1.pdf) |
 | CX4200f | 4U rackmount, three 5.25" bays | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4200f/v1.1/CX4200f-en-v1.1.pdf) |
 | CX4200i | 4U rackmount, one 5.25" bay | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4200i/v1.1/CX4200i-en-v1.1.pdf) |
-| CX4712 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
-| CX4713 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX4712 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Released v1.0 (2026-11-18) | [PDF](releases/en/4u/CX4712/v1.0/CX4712-en-v1.0.pdf) |
+| CX4713 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Released v1.0 (2026-11-18) | [PDF](releases/en/4u/CX4713/v1.0/CX4713-en-v1.0.pdf) |
 
 ## Repository layout
 
