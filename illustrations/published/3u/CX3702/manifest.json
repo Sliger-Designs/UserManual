@@ -463,64 +463,6 @@
       "full_resolution_sha256": "604ec914183fb0cdf401fe64562e575cb1c3c00f6f4a44baa49ae934e393c480"
     }
   },
-  "3g_CX3702_REAR FAN PRECOOLER.jpg": {
-    "path": "illustrations/published/3u/CX3702/cx3702-a0e0be4d1abe.jpg",
-    "source_path": "illustrations/3u/CX3702/3g_CX3702_REAR FAN PRECOOLER.jpg",
-    "source_sha256": "ba35139d4bbeef7d81643bb4144bdcfa51b451d65e342c26e087291b238803de",
-    "sha256": "5cee5df492f3238429c924bb172e55eb65722b86cba8b2cdd2e5eb7124db7105",
-    "dimensions_px": [
-      1800,
-      1286
-    ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 12849515,
-      "total_pixels": 14131296,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3702/3g_CX3702_REAR FAN PRECOOLER-white.png",
-      "full_resolution_dimensions_px": [
-        4448,
-        3177
-      ],
-      "full_resolution_sha256": "a2796e2a7cacadd6e3bd2e432b97287bfd298edfce998916997a522a43684945"
-    }
-  },
-  "3h_CX3702_REAR FAN + AIO.jpg": {
-    "path": "illustrations/published/3u/CX3702/cx3702-a9d04541e521.jpg",
-    "source_path": "illustrations/3u/CX3702/3h_CX3702_REAR FAN + AIO.jpg",
-    "source_sha256": "1260ccc3deced2fc75e0e1ecaa194d660d7b56fd0660c500c3f5d2ab75805d40",
-    "sha256": "90b7740c7a6b6d6138b1974afab46978846b754113e8c983826b93b430f3c2a5",
-    "dimensions_px": [
-      1800,
-      1286
-    ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 14253177,
-      "total_pixels": 16897536,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3702/3h_CX3702_REAR FAN + AIO-white.png",
-      "full_resolution_dimensions_px": [
-        4864,
-        3474
-      ],
-      "full_resolution_sha256": "dcd3a6641db51bf6ff99d02abfaab5e9df74eb7851fad1f05211cde7837182ca"
-    }
-  },
   "3i_CX3702_REAR FAN SCREW INSTALL.jpg": {
     "path": "illustrations/published/3u/CX3702/cx3702-efe1fcabb511.jpg",
     "source_path": "illustrations/3u/CX3702/3i_CX3702_REAR FAN SCREW INSTALL.jpg",
@@ -956,6 +898,18 @@
       "full_resolution_sha256": "53a1e119fa2f8152fb3c808330028d40d094b4640156b456dc38613037b01af1"
     }
   },
+  "_CX3702_explode.jpg": {
+    "path": "illustrations/published/3u/CX3702/cx3702-1073ae4e4b55.jpg",
+    "source_path": "illustrations/3u/CX3702/_CX3702_explode.jpg",
+    "source_sha256": "1073ae4e4b55683748d83b2989b4fc86d34d4ed270c30aac92c02aa3ca580dfa",
+    "sha256": "7eb31f705031c793a006bbe91fd9e45d7742516e55ab1b7c03750b998e6206d6",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
   "_CX3702_rendering.jpg": {
     "path": "illustrations/published/3u/CX3702/cx3702-15d4baa0fca0.jpg",
     "source_path": "illustrations/3u/CX3702/_CX3702_rendering.jpg",
@@ -984,17 +938,5 @@
       ],
       "full_resolution_sha256": "90565e6f72be5ee605ef54bad80eceb23430764e6451cb0bdc137ef5c7e954ac"
     }
-  },
-  "_CX3702_explode.jpg": {
-    "path": "illustrations/published/3u/CX3702/cx3702-1073ae4e4b55.jpg",
-    "source_path": "illustrations/3u/CX3702/_CX3702_explode.jpg",
-    "source_sha256": "1073ae4e4b55683748d83b2989b4fc86d34d4ed270c30aac92c02aa3ca580dfa",
-    "sha256": "7eb31f705031c793a006bbe91fd9e45d7742516e55ab1b7c03750b998e6206d6",
-    "dimensions_px": [
-      1800,
-      1016
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
   }
 }

@@ -43,14 +43,7 @@
   "cover_description": "18\" DEEP 3U NAS CHASSIS",
   "cover_description_detail": "10 × 3.5\" HOT-SWAP BAYS",
   "cover_format": "landscape",
-  "missing_assets": [
-    {
-      "id": "M02",
-      "needed": "Cable-management bar highlighted on the motherboard tray; grey placeholder until supplied (not blocking V1).",
-      "section": "cable-management",
-      "suggested_folder": "illustrations/3u/CX3702/"
-    }
-  ],
+  "missing_assets": [],
   "no_standoffs": true,
   "pages": [
     {
@@ -302,23 +295,6 @@
       ]
     },
     {
-      "id": "aio-installation",
-      "title": "Install a rear AIO radiator",
-      "section": "03 / COMPONENT INSTALLATION",
-      "source": "aio-installation.md",
-      "images": [
-        "3g_CX3702_REAR FAN PRECOOLER.jpg",
-        "3h_CX3702_REAR FAN + AIO.jpg"
-      ],
-      "layout": "procedure",
-      "hardware_callouts": [
-        [],
-        [
-          "A"
-        ]
-      ]
-    },
-    {
       "id": "motherboard-preparation",
       "title": "Prepare the motherboard tray",
       "section": "03 / COMPONENT INSTALLATION",
@@ -465,10 +441,8 @@
       "title": "Route cables & close the chassis",
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
-      "images": [
-        "pending: CX3702 cable-management bar highlighted on the motherboard tray (as CX3150a CABLE_MANAGEMENT_BAR_HIGHLIGHT)"
-      ],
-      "layout": "procedure"
+      "images": [],
+      "layout": "text"
     },
     {
       "id": "support",
