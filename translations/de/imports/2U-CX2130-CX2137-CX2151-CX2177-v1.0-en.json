@@ -1,0 +1,17 @@
+{
+  "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+  "file": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en-de-translation.json",
+  "imported": "2026-11-20",
+  "job": {
+    "source_language": "en",
+    "target_language": "de",
+    "target_language_name": "Deutsch",
+    "translator": "Michal Straka, Density Labs s.r.o.",
+    "reviewer": "Michal Straka",
+    "notes": "DE installation manual"
+  },
+  "added": 354,
+  "changed": 0,
+  "unchanged": 0,
+  "markdown_not_imported": []
+}
