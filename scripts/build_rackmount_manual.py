@@ -17,6 +17,15 @@ from image_callouts import with_callouts
 from manual_assets import (LAYOUT_CHECK, build_directory, check_release, content_fingerprint, cover_photo, front_io_content,
                            number_pdf_pages, pending_image, retire_english_draft, split_contact, quantity_display, validate_template)
 from manual_localization import Localizer
+
+NEUTRAL_WORDS = {'mm', 'W', 'x', '×', 'Mini'}  # units and form-factor parts kept as written
+
+
+def language_neutral(value):
+    """True for a text_checks value a translation keeps as written (330.2, 302 mm, SFX, SSI-EEB,
+    Mini-ITX, SBAG-HWKIT): no part is an ordinary word (letters, lowercase after the first)."""
+    return not any(re.fullmatch(r'[A-Za-z][a-z]*', part) and part not in NEUTRAL_WORDS
+                   for part in re.findall(r'[^\s()\-]+', value))
 from manual_paths import MODEL_CATEGORIES, ROOT, content_directory, published_directory
 from review_marks import borrowed_sources, colour, marked_data_uri
 
@@ -257,9 +266,12 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
     normalize = lambda value: ' '.join(value.split())
     checks = manual.get('text_checks', {})
     assert checks.get('required'), 'manual.json must list the approved values the PDF has to show (text_checks.required)'
-    for required in checks['required']:
+    # Translations reword English prose ("Five half-height" is "Fünf ... mit halber Bauhöhe"), so they are
+    # checked only against values that survive translation unchanged: numbers, units and identifiers.
+    applies = (lambda value: True) if english else language_neutral
+    for required in filter(applies, checks['required']):
         assert normalize(required) in normalize(text), ('Approved value missing from PDF', required)
-    for forbidden in checks.get('forbidden', []):
+    for forbidden in filter(applies, checks.get('forbidden', [])):
         assert normalize(forbidden) not in normalize(text), ('Superseded or unsupported value in PDF', forbidden)
     assert 'SBAG-HWKIT' in text
     for i, spec in enumerate(pages):

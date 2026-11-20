@@ -1,0 +1,2485 @@
+{
+  "schema": 1,
+  "language": "de",
+  "language_name": "Deutsch",
+  "entries": {
+    "**Before installation:** Follow the installation instructions supplied with your motherboard, power supply, graphics card, and cooler.": {
+      "translation": "**Vor der Installation:** Befolgen Sie die Installationsanweisungen, die Ihrem Mainboard, Netzteil, Ihrer Grafikkarte und Ihrem Kühler beiliegen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "**Fasteners:** Tighten chassis fasteners by hand. Do not force a screw that does not thread correctly.": {
+      "translation": "**Befestigungselemente:** Ziehen Sie die Befestigungselemente des Gehäuses von Hand fest. Wenden Sie keine Gewalt an, wenn sich eine Schraube nicht korrekt eindrehen lässt.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "**Maintenance:** Before opening a chassis that already has components installed, switch the system off and unplug it.": {
+      "translation": "**Wartung:** Bevor Sie ein Gehäuse öffnen, in dem bereits Komponenten installiert sind, schalten Sie das System aus und ziehen Sie den Netzstecker.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "0.125-inch and 0.25-inch lengths. Install in the motherboard tray.": {
+      "translation": "Längen von 0.125 Zoll und 0.25 Zoll. Im Mainboard-Träger installieren.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "01 / PRODUCT INFORMATION": {
+      "translation": "01 / PRODUKTINFORMATIONEN",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "02 / CHASSIS ACCESS": {
+      "translation": "02 / ZUGANG ZUM CHASSIS",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "03 / COMPONENT INSTALLATION": {
+      "translation": "03 / INSTALLATION DER KOMPONENTEN",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "04 / SUPPORT & COMPLIANCE": {
+      "translation": "04 / Unterstützung und Einhaltung der Vorschriften",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "1": {
+      "translation": "1",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "1 pair": {
+      "translation": "1 Paar",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "13\" DEEP 2U CHASSIS": {
+      "translation": "13 Zoll tiefes 2HE-Gehäuse",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "15\" DEEP 2U CHASSIS": {
+      "translation": "2HE-Gehäuse mit 15 Zoll Tiefe",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "17\" DEEP 2U CHASSIS": {
+      "translation": "17 Zoll tiefes 2HE-Gehäuse",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "2": {
+      "translation": "2",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "2 × 3.5\" EXTERNAL BAYS": {
+      "translation": "2 × 3.5\" Außenfächer",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "2.5-inch SSDs and some 3.5-inch accessories.": {
+      "translation": "2.5-Zoll-SSDs und diverses 3.5-Zoll-Zubehör.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "2U · 19-inch rack": {
+      "translation": "2 HE · 19-Zoll-Rack",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "3": {
+      "translation": "3",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "3 × 80 MM FAN MOUNTS": {
+      "translation": "Halterungen für 3 × 80-mm-Lüfter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "4": {
+      "translation": "4",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "4 × 80 MM FAN MOUNTS": {
+      "translation": "4 × 80-mm-Lüfter Halterung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "4 × 80 MM FANS": {
+      "translation": "4 × 80-mm-Lüfter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "5": {
+      "translation": "5",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "6": {
+      "translation": "6",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "6-32 hex standoffs": {
+      "translation": "Sechskant-Abstandshalter (6-32)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "6-32 × 0.25-inch flat-head screws": {
+      "translation": "Senkkopfschrauben 6-32 × 0.25 Zoll",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "6-32 × 0.25-inch hex screws": {
+      "translation": "Sechskantschrauben 6-32 × 0.25 Zoll",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Align four 80 mm fans with the subfront, airflow into the chassis. Each fan uses two diagonal mounting points.": {
+      "translation": "Richten Sie vier 80-mm-Lüfter an der inneren Frontblende aus, sodass der Luftstrom in das Gehäuse gerichtet ist. Jeder Lüfter wird an zwei diagonal gegenüberliegenden Befestigungspunkten montiert.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Align the fans": {
+      "translation": "Die Lüfter ausrichten",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Align the hardware": {
+      "translation": "Die Hardware ausrichten",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Align three 80 mm fans with the subfront, airflow into the chassis. Each fan uses two diagonal mounting points.": {
+      "translation": "Richten Sie drei 80-mm-Lüfter an der inneren Frontblende aus, sodass der Luftstrom in das Gehäuse gerichtet ist. Jeder Lüfter wird an zwei diagonal gegenüberliegenden Befestigungspunkten fixiert.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Assembly part key": {
+      "translation": "Montageteile-Legende",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Blue": {
+      "translation": "Blau",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Blue-marked": {
+      "translation": "Blau markiert",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Bundle excess slack and secure it with ties.": {
+      "translation": "Überschüssiges Material zusammenfassen und mit Bindemitteln sichern.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "CPU air cooler": {
+      "translation": "CPU-Luftkühler",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Card height, including power connectors, must remain within <strong>{{ facts.gpu_height_max_mm }} mm</strong>. Cards may be listed as 2U height, low-profile, or MD1/MD2/MD3 form factor. Check the cooling-dependent length limits before installation.": {
+      "translation": "Die Kartenhöhe – einschließlich der Stromanschlüsse – darf <strong>{{ facts.gpu_height_max_mm }} mm</strong> nicht überschreiten. Die Karten können als 2U-Modelle, Low-Profile-Karten oder im MD1/MD2/MD3-Formfaktor ausgeführt sein. Überprüfen Sie vor dem Einbau die von der Kühlung abhängigen Längenbeschränkungen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Cards up to <strong>{{ facts.gpu_height_max_mm }} mm</strong> tall including power connectors and up to 2.5 slots (50 mm) wide. An internal support bracket is available for select GPU models on request.": {
+      "translation": "Grafikkarten mit einer Höhe von bis zu <strong>{{ facts.gpu_height_max_mm }} mm</strong> (einschließlich Stromanschlüssen) und einer Breite von bis zu 2.5 Slots (50 mm). Für ausgewählte GPU-Modelle ist auf Anfrage eine interne Stützhalterung erhältlich.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Certificates of Compliance are available upon request.": {
+      "translation": "Konformitätsbescheinigungen sind auf Anfrage erhältlich.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Changes": {
+      "translation": "Änderungen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Chassis wrap": {
+      "translation": "Hauptchassis-Korpus",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Check GPU clearance": {
+      "translation": "GPU-Freiraum prüfen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Check component clearance": {
+      "translation": "Komponentenabstand prüfen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Check length": {
+      "translation": "Länge prüfen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Check that the lid flanges have cleared the chassis slots. Lift the lid up and away.": {
+      "translation": "Stellen Sie sicher, dass die Flansche des Deckels aus den Schlitzen am Gehäuse herausgetreten sind. Heben Sie den Deckel an und nehmen Sie ihn ab.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Check the filled cage": {
+      "translation": "Überprüfe den gefüllten Käfig",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Choose your cooling configuration and check component clearances before starting assembly. Supported components may compete for the same space.": {
+      "translation": "Wählen Sie Ihre Kühlkonfiguration und überprüfen Sie vor Beginn des Zusammenbaus den verfügbaren Platz für die Komponenten. Es kann vorkommen, dass verschiedene Komponenten denselben Bauraum beanspruchen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Clearance drawing — top view": {
+      "translation": "Freiraumzeichnung – Draufsicht",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Close the chassis": {
+      "translation": "Gehäuse schließen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Component": {
+      "translation": "Komponent",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Configuration": {
+      "translation": "Konfiguration",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Confirm that every drive is secured and that the connectors face the rear of the chassis.": {
+      "translation": "Stellen Sie sicher, dass jedes Laufwerk gesichert ist und dass die Anschlüsse zur Rückseite des Gehäuses zeigen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Connect data and power cables before reinstalling the bracket if access is limited.": {
+      "translation": "Schließen Sie die Daten- und Stromkabel an, bevor Sie die Halterung wieder anbringen, falls der Zugang eingeschränkt ist.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Cover unused PCIe slot openings (full-height).": {
+      "translation": "Nicht genutzte PCIe-Steckplatzöffnungen (volle Bauhöhe) abdecken.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Cover unused PCIe slots (half-height, vented).": {
+      "translation": "Nicht genutzte PCIe-Steckplätze abdecken (halbe Bauhöhe, belüftet).",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Date": {
+      "translation": "Datum",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Dimensions & compatibility": {
+      "translation": "Abmessungen & Kompatibilität",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Do not leave an extra standoff beneath a part of the board without a mounting hole.": {
+      "translation": "Lassen Sie keinen zusätzlichen Abstandshalter unter einem Platinenbereich, der kein Befestigungsloch aufweist.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Drawing dimensions are nominal. For compatibility, use the limits on the compatibility page.": {
+      "translation": "Die in der Zeichnung angegebenen Maße sind Nennmaße. Für die Kompatibilität sind die Grenzwerte auf der Seite zur Kompatibilität maßgebend.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Dynatron L34 2U AIO with four 80 mm fans": {
+      "translation": "Dynatron L34 2U AIO mit vier 80-mm-Lüftern",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Dynatron L34 AIO (radiator and four fans)": {
+      "translation": "Dynatron L34 AIO (Radiator und vier Lüfter)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "ENGLISH": {
+      "translation": "Deutsch",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Expansion": {
+      "translation": "Erweiterung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Exploded assembly & part key": {
+      "translation": "Explosionsdarstellung & Teilelegende",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "External 3.5-inch bays": {
+      "translation": "Externe 3.5-Zoll-Schächte",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Faceplate": {
+      "translation": "Frontblende",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. AIO cooling is not officially supported on the three-fan models. Not every mounting location can be used at the same time.": {
+      "translation": "Die kombinierte Dicke von Lüfter und GPU-Länge muss unter {{ facts.gpu_length_baseline_mm }} mm liegen. Bei den Modellen mit drei Lüftern wird eine AIO-Kühlung offiziell nicht unterstützt. Nicht alle Montagepositionen können gleichzeitig genutzt werden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. AIO cooling is not officially supported: the three-fan Dynatron L35 interferes with the drive brackets. Not every mounting location can be used at the same time.": {
+      "translation": "Die kombinierte Dicke von Lüfter und GPU-Länge muss unter {{ facts.gpu_length_baseline_mm }} mm liegen. Eine AIO-Kühlung wird offiziell nicht unterstützt: Der Dynatron L35 mit drei Lüftern kollidiert mit den Laufwerkshalterungen. Nicht alle Montagepositionen können gleichzeitig genutzt werden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. Not every mounting location can be used at the same time.": {
+      "translation": "Die Lüfterdicke und die GPU-Länge dürfen zusammen weniger als {{ facts.gpu_length_baseline_mm }} mm betragen. Nicht alle Montagepositionen können gleichzeitig genutzt werden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. SSI-CEB and 10.5-inch deep EATX motherboards are incompatible with 38 mm thick fans. AIO cooling is not officially supported: the three-fan Dynatron L35 interferes with the drive brackets. Not every mounting location can be used at the same time.": {
+      "translation": "Die kombinierte Dicke von Lüfter und GPU muss weniger als {{ facts.gpu_length_baseline_mm }} mm betragen. SSI-CEB-Mainboards sowie EATX-Mainboards mit einer Tiefe von 10.5 Zoll sind nicht mit 38 mm dicken Lüftern kompatibel. Eine AIO-Kühlung wird offiziell nicht unterstützt: Der Dynatron L35 (mit drei Lüftern) kollidiert mit den Laufwerkshalterungen. Es können nicht alle Montagepositionen gleichzeitig genutzt werden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Fasten 3.5-inch drives with {{ hw('A') }} and 2.5-inch SSDs with {{ hw('D') }} through the cage side walls.": {
+      "translation": "Befestigen Sie 3.5-Zoll-Laufwerke mit {{ hw('A') }} und 2.5-Zoll-SSDs mit {{ hw('D') }} durch die Seitenwände des Laufwerkskäfigs.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Fasten each 3.5-inch drive with {{ hw('A') }} through the bracket side walls.": {
+      "translation": "Befestigen Sie jedes 3.5-Zoll-Laufwerk mithilfe von {{ hw('A') }} durch die Seitenwände der Halterung.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Fasten the card's mounting bracket to the chassis with {{ hw(\"A\") }}. Fit {{ hw(\"G\") }} over unused openings and secure them with {{ hw(\"A\") }}.": {
+      "translation": "Befestigen Sie das Montageblech der Karte mithilfe von {{ hw(\"A\") }} am Gehäuse. Decken Sie nicht genutzte Öffnungen mit {{ hw(\"G\") }} ab und sichern Sie diese mit {{ hw(\"A\") }}.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Filter foam": {
+      "translation": "Filter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Fit a low-profile (half-height) bracket to the card. Align the card with the motherboard slot and rear bracket opening, then apply gentle, even pressure until it is fully seated.": {
+      "translation": "Bringen Sie eine Low-Profile-Blende (halbe Bauhöhe) an der Karte an. Richten Sie die Karte am Steckplatz auf dem Mainboard sowie an der Öffnung der Gehäuserückseite aus und üben Sie dann vorsichtigen, gleichmäßigen Druck aus, bis sie vollständig eingesetzt ist.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Fit devices in the external 3.5-inch bays": {
+      "translation": "Geräte in die externen 3.5-Zoll-Schächte einbauen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Fit the devices": {
+      "translation": "Die Geräte montieren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Five half-height PCIe slots; cards up to {{ facts.gpu_height_max_mm }} mm tall including power connectors": {
+      "translation": "Fünf PCIe-Steckplätze mit halber Bauhöhe; Karten bis zu {{ facts.gpu_height_max_mm }} mm Höhe, einschließlich Stromanschlüssen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "FlexATX, up to {{ facts.psu_length_max_mm }} mm long": {
+      "translation": "FlexATX, bis zu {{ facts.psu_length_max_mm }} mm Länge",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Follow your motherboard's instructions for CPU, memory, M.2 drives, and cable connections.": {
+      "translation": "Befolge die Anweisungen deines Mainboards für CPU, Arbeitsspeicher, M.2-Laufwerke und Kabelanschlüsse.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "For comments and suggestions, you can e-mail our design team, [orders@sliger.com](mailto:orders@sliger.com).": {
+      "translation": "Für Kommentare und Vorschläge können Sie eine E-Mail an unser Designteam senden: [orders@sliger.com](mailto:orders@sliger.com).",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "For full warranty and RMA policy visit : [https://www.sliger.com/support/warranty_and_rma/](https://www.sliger.com/support/warranty_and_rma/)": {
+      "translation": "Die vollständigen Garantie- und RMA-Bestimmungen finden Sie unter: https://www.sliger.com/support/warranty_and_rma/](https://www.sliger.com/support/warranty_and_rma/)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "For more information about Sliger Designs, please visit us online.": {
+      "translation": "Für weitere Informationen zu Sliger Designs besuchen Sie uns bitte online.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Four 25 mm front fans": {
+      "translation": "Vier 25-mm-Frontlüfter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Four 38 mm front fans": {
+      "translation": "Vier 38-mm-Frontlüfter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Four 80 mm fans": {
+      "translation": "Vier 80-mm-Lüfter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Four 80 mm fans, up to 38 mm thick": {
+      "translation": "Vier 80-mm-Lüfter, bis zu 38 mm dick",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Front I/O assembly": {
+      "translation": "Front-I/O-Baugruppe",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Front bays": {
+      "translation": "Frontseitige Einschübe",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Front cooling": {
+      "translation": "Frontkühlung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Front drive cage behind the external bays: two 3.5-inch drives up to 25 mm thick, one 2.5-inch SSD above them (up to 15 mm thick) and one below them (7 mm)": {
+      "translation": "Laufwerkskäfig im vorderen Bereich hinter den externen Einbauschächten: zwei 3.5-Zoll-Laufwerke mit einer Dicke von bis zu 25 mm, eine 2.5-Zoll-SSD darüber (bis zu 15 mm dick) sowie eine weitere darunter (7 mm)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Front drive cage behind the external bays: two 3.5-inch drives up to 25 mm thick, one 2.5-inch SSD above them (up to 15 mm thick) and one below them (7 mm); one more 2.5-inch SSD per optional bay filler blank": {
+      "translation": "Laufwerkskäfig an der Vorderseite hinter den externen Einbauschächten: Platz für zwei 3.5-Zoll-Laufwerke mit einer Bauhöhe von bis zu 25 mm, eine 2.5-Zoll-SSD darüber (bis zu 15 mm Bauhöhe) sowie eine weitere darunter (7 mm Bauhöhe); eine zusätzliche 2.5-Zoll-SSD pro optionaler Blende für die Einbauschächte.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Front ports & connections": {
+      "translation": "Anschlüsse und Konnektoren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Front-view component clearances": {
+      "translation": "Bauteilabstände in der Vorderansicht",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "GPU length by cooling configuration": {
+      "translation": "GPU-Länge je nach Kühlkonfiguration",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Gently pull the right side outward to remove the faceplate and dust filter.": {
+      "translation": "Ziehen Sie die rechte Seite vorsichtig nach außen, um die Frontblende und den Staubfilter zu entfernen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Green": {
+      "translation": "Grün",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Green-marked": {
+      "translation": "Grün markiert",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Hardware kit": {
+      "translation": "Hardware-Kit",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Hold the radiator and fans against the inside of the subfront, fans toward the front. Secure them through the subfront with half of the radiator screws, passing each screw through a fan into the radiator. Route the tubing to the CPU block clear of the PCIe slots.": {
+      "translation": "Halte den Radiator samt Lüftern an die Innenseite der vorderen Gehäusewand (Subfront), wobei die Lüfter zur Vorderseite zeigen. Befestige sie durch die vordere Gehäusewand hindurch mithilfe der Hälfte der Radiatorschrauben; führe dabei jede Schraube durch einen Lüfter in den Radiator ein. Verlege die Schläuche zum CPU-Kühler so, dass sie die PCIe-Steckplätze nicht blockieren.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Hours of Operation: 8a - 4:30p MST": {
+      "translation": "Öffnungszeiten: 8 AM – 4:30 PM MST",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "INTERNAL 3.5\" DRIVE CAGE": {
+      "translation": "INTERNER 3.5-ZOLL-LAUFWERKSSCHACHT",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "If using pull handles, stack the {{ hw(\"H\") }} over the {{ hw(\"I\") }} with the handle facing away from the faceplate.": {
+      "translation": "Falls Zuggriffe verwendet werden, legen Sie {{ hw(\"H\") }} auf {{ hw(\"I\") }}, wobei der Griff von der Frontplatte weg zeigen muss.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "If you have any questions or problems with the Sliger product you purchased, please don’t hesitate to contact us via email or phone. Please include a detailed explanation of your problem and your order number.": {
+      "translation": "Sollten Sie Fragen oder Probleme mit dem von Ihnen erworbenen Sliger-Produkt haben, zögern Sie bitte nicht, uns per E-Mail oder Telefon zu kontaktieren. Bitte fügen Sie eine detaillierte Beschreibung Ihres Problems sowie Ihre Bestellnummer bei.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "If your motherboard has a separate I/O shield, orient it to match the motherboard ports and press it into the rectangular opening in the chassis rear panel.": {
+      "translation": "Falls Ihr Mainboard über eine separate I/O-Blende verfügt, richten Sie diese passend zu den Anschlüssen des Mainboards aus und drücken Sie sie in die rechteckige Öffnung an der Rückseite des Gehäuses.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "In this guide": {
+      "translation": "In dieser Installationsanleitung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Initial release": {
+      "translation": "Erstveröffentlichung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install a GPU or PCIe card": {
+      "translation": "Eine GPU oder PCIe-Karte installieren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install an AIO cooler": {
+      "translation": "Installiere eine AIO-Kühlung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install fans": {
+      "translation": "Ventilatoren installieren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install one of the {{ hw('E') }} through the chassis side wall.": {
+      "translation": "Installieren Sie eines der {{ hw('E') }} durch die Seitenwand des Gehäuses.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install rack ears & handles": {
+      "translation": "Rack-Winkel und Griffe montieren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install the GPU on the riser": {
+      "translation": "Installiere die GPU auf dem Riser.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install the I/O shield": {
+      "translation": "Installieren Sie die I/O-Blende",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install the adapter devices or filler blanks in the bracket, slide it back in, and refit the screw.": {
+      "translation": "Setzen Sie die Adaptervorrichtungen oder Blindabdeckungen in die Halterung ein, schieben Sie diese wieder hinein und bringen Sie die Schraube erneut an.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install the motherboard": {
+      "translation": "Installiere das Mainboard",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install the power supply": {
+      "translation": "Netzteil installieren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install the standoffs": {
+      "translation": "Abstandshalter installieren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install two {{ hw('A') }} through the rear panel into the PSU. Tighten by hand.": {
+      "translation": "Installieren Sie zwei {{ hw('A') }} durch die Rückwand in das Netzteil. Ziehen Sie diese von Hand fest.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install {{ facts.rack_ear_screw_count }} {{ hw(\"F\") }} in total, {{ facts.rack_ear_screws_per_side }} on each side, through the rack ears and handles into the chassis. Tighten by hand.": {
+      "translation": "Bringen Sie insgesamt {{ facts.rack_ear_screw_count }} {{ hw(\"F\") }} an – jeweils {{ facts.rack_ear_screws_per_side }} pro Seite –, indem Sie diese durch die Rack-Ohren und Griffe in das Gehäuse schrauben. Ziehen Sie die Schrauben von Hand fest.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install {{ hw(\"A\") }} through the board and into the standoffs.": {
+      "translation": "Installieren Sie {{ hw(\"A\") }} durch die Platine hindurch in die Abstandshalter.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Install {{ hw('A') }} through the rear panel into the PSU. Tighten by hand.": {
+      "translation": "Installieren Sie {{ hw('A') }} durch die Rückwand in das Netzteil. Von Hand festziehen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Internal drive cage: two 3.5-inch drives, or up to seven 7 mm 2.5-inch SSDs when the 3.5-inch mounts are unused": {
+      "translation": "Interner Laufwerkskäfig: zwei 3.5-Zoll-Laufwerke oder bis zu sieben 7-mm-2.5-Zoll-SSDs, sofern die 3.5-Zoll-Aufnahmen nicht belegt sind",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Items G–I are separate chassis/accessory items. Illustrations are not to scale. Fan and radiator fasteners are supplied with the cooling components.": {
+      "translation": "Die Positionen G–I sind separate Gehäuse- bzw. Zubehörteile. Die Abbildungen sind nicht maßstabsgetreu. Befestigungselemente für Lüfter und Radiatoren sind im Lieferumfang der Kühlkomponenten enthalten.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Keep the faceplate and filter aside while installing front fans or a radiator.": {
+      "translation": "Legen Sie die Frontblende und den Filter beiseite, während Sie die vorderen Lüfter oder einen Radiator installieren.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lastly we would like to thank you for your support by purchasing this product.": {
+      "translation": "Abschließend möchten wir Ihnen für Ihre Unterstützung durch den Kauf dieses Produkts danken.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lid": {
+      "translation": "Deckel",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lift out the bracket": {
+      "translation": "Die Halterung herausnehmen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lift out the cage": {
+      "translation": "Den Käfig herausnehmen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lift the bracket out of the chassis.": {
+      "translation": "Heben Sie die Halterung aus dem Gehäuse.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lift the bracket up and out of the chassis.": {
+      "translation": "Heben Sie die Halterung an und nehmen Sie sie aus dem Gehäuse heraus.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lift the cage out of the chassis.": {
+      "translation": "Heben Sie den HDD-Käfig aus dem Gehäuse.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lift the cage up and out of the chassis.": {
+      "translation": "Heben Sie den Käfig an und aus dem Gehäuse heraus.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lift the lid away": {
+      "translation": "Den Deckel abnehmen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Liquid cooling": {
+      "translation": "Flüssigkeitskühlung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lower the cage into place": {
+      "translation": "Den HDD-Käfig an seinen Platz absenken",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lower the filled cage into its position and slide it forward.": {
+      "translation": "Senken Sie den gefüllten HDD-Käfigan seine Position ab und schieben Sie ihn nach vorne.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lower the filled cage into place and refit the {{ hw('A') }}.": {
+      "translation": "Den gefüllten Käfig an seinen Platz absenken und das {{ hw('A') }} wieder anbringen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lower the filled cage into place behind the external bays, slide it forward, and install the {{ hw('A') }} through the chassis side wall.": {
+      "translation": "Senken Sie den bestückten Käfig an seine Position hinter den externen Einbauschächten ab, schieben Sie ihn nach vorne und bringen Sie {{ hw('A') }} durch die Gehäuseseitenwand an.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lower the filled cage into place behind the fans, slide it forward, and install the {{ hw('A') }} through the chassis side wall.": {
+      "translation": "Senken Sie den bestückten Käfig hinter die Lüfter ab, schieben Sie ihn nach vorne und bringen Sie {{ hw('A') }} durch die Gehäuseseitenwand an.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lower the filled drive bracket into place beside the power supply. Install two {{ hw('A') }} through the rear panel.": {
+      "translation": "Setzen Sie den bestückten Laufwerkshalter neben das Netzteil ein. Bringen Sie zwei {{ hw('A') }} durch die Rückwand an.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lower the filled rear drive bracket into place beside the power supply. Install two {{ hw('A') }} through the rear panel.": {
+      "translation": "Setzen Sie die bestückte hintere Laufwerkshalterung an ihren Platz neben dem Netzteil ein. Bringen Sie zwei {{ hw('A') }} durch die Rückwand hindurch an.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Lower the motherboard": {
+      "translation": "Das Mainboard hinlegen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "M3 screws (5 mm thread)": {
+      "translation": "M3-Schrauben (5 mm Gewinde)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "M3 × 0.5 screws, 5 mm long": {
+      "translation": "M3 × 0.5-Schrauben, 5 mm lang",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "M4 × 7 mm screws": {
+      "translation": "M4 × 7-mm-Schrauben",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Main chassis body": {
+      "translation": "Hauptchassis-Korpus",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Manual revision history": {
+      "translation": "Versionshistorie des Handbuchs",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Match standoff positions to the mounting holes on your motherboard. Install the {{ hw(\"C\") }} into the corresponding threaded locations in the chassis floor. The floor is marked with the outline of each supported board size.": {
+      "translation": "Richten Sie die Abstandshalter an den Befestigungslöchern Ihres Mainboards aus. Schrauben Sie die {{ hw(\"C\") }} in die entsprechenden Gewindepositionen am Gehäuseboden. Auf dem Boden sind die Umrisse der jeweils unterstützten Mainboard-Größen markiert.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Match the **letter and color** here to the references beside the installation illustrations and in each procedure. All rackmount chassis use screwbag **SBAG-HWKIT** (items A–F).": {
+      "translation": "Ordnen Sie den hier angegebenen **Buchstaben und die Farbe** den entsprechenden Verweisen neben den Installationsabbildungen sowie in den jeweiligen Arbeitsschritten zu. Für alle Rack-Gehäuse wird der Schraubenbeutel **SBAG-HWKIT** (Elemente A–F) verwendet.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Maximum PSU length is **{{ facts.psu_length_max_mm }} mm**.": {
+      "translation": "Die maximale Netzteillänge beträgt **{{ facts.psu_length_max_mm }} mm**.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Maximum PSU length is **{{ facts.psu_length_max_mm }} mm**. Longer FlexATX units interfere with the drive hardware on this model.": {
+      "translation": "Die maximale Länge des Netzteils beträgt **{{ facts.psu_length_max_mm }} mm**. Längere FlexATX-Netzteile kommen bei diesem Modell mit den Laufwerkskomponenten in Konflikt.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Maximum length": {
+      "translation": "Maximale Länge",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mini-ITX, Deep Mini-ITX (6.7 × 8.2 inches), MicroATX, Deep MicroATX (10.4 × 10.5 inches)": {
+      "translation": "Mini-ITX, Deep Mini-ITX (6.7 × 8.2 inches), MicroATX, Deep MicroATX (10.4 × 10.5 inches)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mini-ITX, Mini-DTX, FlexATX, MicroATX, ATX, EATX and SSI-CEB up to 12 × 10.5 inches; SSI-EEB up to 12 × 13 inches": {
+      "translation": "Mini-ITX, Mini-DTX, FlexATX, MicroATX, ATX, EATX und SSI-CEB bis zu 12 × 10.5 Zoll; SSI-EEB bis zu 12 × 13 Zoll",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mini-ITX, Mini-DTX, FlexATX, MicroATX, ATX, SSI-CEB; SSI-EEB up to 12 × 13 inches; XL-ATX/EATX up to 12.8 × 13 inches": {
+      "translation": "Mini-ITX, Mini-DTX, FlexATX, MicroATX, ATX, SSI-CEB; SSI-EEB bis zu 12 × 13 Zoll; XL-ATX/EATX bis zu 12.8 × 13 Zoll",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mini-ITX, Mini-DTX, FlexATX, MicroATX, ATX; EATX and SSI-CEB up to 12 × 10.5 inches": {
+      "translation": "Mini-ITX, Mini-DTX, FlexATX, MicroATX, ATX; EATX und SSI-CEB bis zu 12 × 10.5 Zoll",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Momentary switch with a white ring-shaped status light. Connect switch and LED leads to the front-panel header; observe the motherboard's LED polarity markings.": {
+      "translation": "Taster mit weißer, ringförmiger Statusleuchte. Schließen Sie die Anschlüsse des Tasters und der LED an den entsprechenden Anschluss auf der Frontblende an; beachten Sie dabei die Polaritätsmarkierungen für die LED auf dem Mainboard.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Motherboard": {
+      "translation": "Mainboard",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Motherboard tray, subfront, internal brackets, and front I/O bracket.": {
+      "translation": "Mainboard-Träger, Front-Unterbau, interne Halterungen und Front-I/O-Halterung.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Motherboard, PSU, HDDs, and PCIe accessories.": {
+      "translation": "Mainboard, Netzteil, Festplatten und PCIe-Zubehör.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mount 2.5-inch SSDs": {
+      "translation": "2.5-Zoll-SSDs montieren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mount 3.5-inch drives": {
+      "translation": "3.5-Zoll-Laufwerke einbauen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mount drives in the drive bracket": {
+      "translation": "Laufwerke in die Laufwerkshalterung einbauen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mount drives in the drive cage": {
+      "translation": "Laufwerke im Laufwerkskäfig einbauen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mount drives in the front drive cage": {
+      "translation": "Laufwerke im vorderen Laufwerkskäfig einbauen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mount drives in the rear drive bracket": {
+      "translation": "Laufwerke in die hintere Laufwerkshalterung einbauen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mount the drives": {
+      "translation": "Laufwerke einbinden",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Mount the radiator": {
+      "translation": "Den Radiator montieren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "No drive mounting locations. Use M.2 drives on the motherboard, or in a PCIe slot with an adapter": {
+      "translation": "Keine Montageplätze für Laufwerke. Verwenden Sie M.2-Laufwerke auf dem Mainboard oder in einem PCIe-Steckplatz mithilfe eines Adapters.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "No front fans": {
+      "translation": "Keine Frontlüfter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "No.": {
+      "translation": "Nr.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "None": {
+      "translation": "Keine",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "None (internal 3.5-inch drive cage)": {
+      "translation": "Keine (interner 3.5-Zoll-Laufwerkskäfig)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Not officially supported": {
+      "translation": "Nicht offiziell unterstützt",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Not supported": {
+      "translation": "Nicht unterstützt",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "One 320 mm radiator: Dynatron L34 2U AIO with four 80 mm fans (tested and confirmed to fit)": {
+      "translation": "Ein 320-mm-Radiator: Dynatron L34 2U AIO mit vier 80-mm-Lüftern (getestet und als passend bestätigt)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "One M.2/NVMe drive on the motherboard; no 2.5- or 3.5-inch mounting locations. PCIe slots can take M.2 adapters": {
+      "translation": "Ein M.2/NVMe-Laufwerk auf dem Mainboard; keine Einbauplätze für 2.5- oder 3.5-Zoll-Laufwerke. PCIe-Steckplätze können M.2-Adapter aufnehmen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Optional handles make pulling the chassis from the rack easier.": {
+      "translation": "Optionale Griffe erleichtern das Herausziehen des Gehäuses aus dem Rack.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Outer dimensions, D × W × H": {
+      "translation": "Außenabmessungen, T × B × H",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Part": {
+      "translation": "Teil",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Phone Number: [1 775 356 5595](tel:+17753565595)": {
+      "translation": "Telefonnummer: [1 775 356 5595](tel:+17753565595)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Pink": {
+      "translation": "Rosa",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Pink-marked": {
+      "translation": "Pink markiert",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Place the SFX or SFX-L PSU in its mounting location at the rear of the chassis. Align its rear mounting holes with the openings in the rear panel and keep the fan intake clear.": {
+      "translation": "Setzen Sie das SFX- oder SFX-L-Netzteil an der dafür vorgesehenen Stelle an der Gehäuserückseite ein. Richten Sie die rückseitigen Befestigungsbohrungen an den Öffnungen der Gehäuserückwand aus und achten Sie darauf, dass der Lüftereinlass frei bleibt.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Place the motherboard onto the {{ hw(\"C\") }}. Align its rear ports with the I/O opening and its mounting holes with the standoffs.": {
+      "translation": "Setzen Sie das Mainboard auf das {{ hw(\"C\") }}. Richten Sie dessen rückseitige Anschlüsse an der I/O-Öffnung und die Befestigungsbohrungen an den Abstandshaltern aus.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Port / connection": {
+      "translation": "Anschluss / Verbindung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Position the FlexATX power supply": {
+      "translation": "Positionieren Sie das FlexATX-Netzteil",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Position the SFX power supply": {
+      "translation": "Positionieren Sie das SFX-Netzteil",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Power supply": {
+      "translation": "Netzteil",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Power switch & status light": {
+      "translation": "Ein-/Ausschalter & Statusanzeige",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Power switch and status light": {
+      "translation": "Ein-/Ausschalter und Statusanzeige",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Prepare the motherboard area": {
+      "translation": "Bereiten Sie den Bereich des Mainboards vor.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Prepare the slot": {
+      "translation": "Den Slot vorbereiten",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Pull handles": {
+      "translation": "Zuggriffe",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Pull on the left-side handle of the faceplate until its locating pins disengage, approximately ½ inch.": {
+      "translation": "Ziehen Sie am linken Griff der Frontplatte, bis sich die Fixierstifte etwa ½ Zoll lösen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Push the lid toward the rear of the chassis.": {
+      "translation": "Schieben Sie den Deckel in Richtung Gehäuserückseite.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "REACH (Registration, Evaluation, Authorization and Restriction of Chemicals, EC 1907/2006) is the European Union's (EU) chemical substances regulatory framework. REACH requires Sliger Designs, LLC to provide customers with sufficient information on Substances of Very High Concern (SVHC) contained in products in concentration above 0.1% weight by weight (w/w) to allow safe use of the product.": {
+      "translation": "REACH (Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe, EG 1907/2006) ist der Rechtsrahmen der Europäischen Union (EU) für chemische Stoffe. REACH verpflichtet Sliger Designs, LLC dazu, Kunden bei Produkten, die besonders besorgniserregende Stoffe (SVHC) in einer Konzentration von mehr als 0.1 Gewichtsprozent (Gew.-%) enthalten, ausreichende Informationen zur Verfügung zu stellen, um eine sichere Verwendung des Produkts zu gewährleisten.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "REACH STATEMENT": {
+      "translation": "REACH-ERKLÄRUNG",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "RISER GPU": {
+      "translation": "GPU-Riser",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "ROHS STATEMENT": {
+      "translation": "RoHS-ERKLÄRUNG",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Rack ear & pull handle": {
+      "translation": "Rackohren und Griffe",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Rack ears": {
+      "translation": "Rackohren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Rack ears and pull handles.": {
+      "translation": "Rack-Ohren und Griffe.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Rack ears can also be installed without handles.": {
+      "translation": "Rack-Ohren können auch ohne Griffe montiert werden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Rack size": {
+      "translation": "Rack-Größe",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Rack-slide installation depends on the rail kit. Follow the instructions supplied with the selected kit.": {
+      "translation": "Die Montage der Rack-Schienen hängt vom jeweiligen Schienensatz ab. Befolgen Sie die Anweisungen, die dem gewählten Satz beiliegen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Radiator thickness, fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm.": {
+      "translation": "Die Dicke des Radiators, die Dicke des Lüfters und die Gesamtlänge der GPU müssen kleiner sein als {{ facts.gpu_length_baseline_mm }} mm",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Radiator thickness, fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. Not every mounting location can be used at the same time.": {
+      "translation": "Die Dicke des Radiators, die Dicke des Lüfters und die Länge der GPU dürfen zusammen insgesamt weniger als {{ facts.gpu_length_baseline_mm }} mm betragen. Nicht alle Montagepositionen können gleichzeitig genutzt werden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Radiator thickness, fan thickness and GPU length together must be less than {{ facts.gpu_length_baseline_mm }} mm. SSI-CEB motherboards and EATX motherboards over 10.25 inches deep are incompatible with 38 mm thick fans. Not every mounting location can be used at the same time.": {
+      "translation": "Die Gesamtdicke von Radiator und Lüftern sowie die Länge der Grafikkarte dürfen zusammen {{ facts.gpu_length_baseline_mm }} mm nicht überschreiten. Mainboards im SSI-CEB-Format sowie EATX-Mainboards mit einer Tiefe von mehr als 10.25 Zoll sind nicht mit 38 mm dicken Lüftern kompatibel. Es können nicht alle Montagepositionen gleichzeitig genutzt werden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Red-marked": {
+      "translation": "Rot markiert",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Refit the faceplate. Align the lid flanges with the chassis slots, lower the lid, and slide it forward. Secure the lid with its two {{ hw('A') }}.": {
+      "translation": "Bringen Sie die Frontblende wieder an. Richten Sie die Flansche des Gehäusedeckels an den Schlitzen im Chassis aus, setzen Sie den Deckel auf und schieben Sie ihn nach vorne. Befestigen Sie den Deckel mit den beiden {{ hw('A') }}.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Refit the support bracket": {
+      "translation": "Die Halterung wieder anbringen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Refit the {{ hw('A') }}.": {
+      "translation": "Passen Sie {{ hw('A') }} an.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Regulations": {
+      "translation": "Vorschriften",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Reinstall the cage": {
+      "translation": "Den Käfig wieder einbauen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Reinstall the drive bracket": {
+      "translation": "Laufwerkshalterung wieder einbauen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Reinstall the drive cage": {
+      "translation": "Den Laufwerkskäfig wieder einbauen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Reinstall the front drive cage": {
+      "translation": "Den vorderen Laufwerkskäfig wieder einbauen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Reinstall the rear drive bracket": {
+      "translation": "Bringen Sie die hintere Halterung wieder an",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Related procedure": {
+      "translation": "Zugehöriges Verfahren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Release the bay bracket": {
+      "translation": "Lösen Sie die Laufwerkshalterung.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Release the bracket": {
+      "translation": "Die Halterung lösen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Release the left side": {
+      "translation": "Die linke Seite freigeben",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Release the right side": {
+      "translation": "Die rechte Seite lösen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove all the screws holding the fans and fan guards to the radiator, leaving the fans on the radiator. Set the fan guards aside; they are not used in the chassis. Keep the screws.": {
+      "translation": "Entfernen Sie alle Schrauben, mit denen die Lüfter und Lüftergitter am Radiator befestigt sind; lassen Sie dabei die Lüfter am Radiator. Legen Sie die Lüftergitter beiseite; sie werden im Gehäuse nicht verwendet. Bewahren Sie die Schrauben auf.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the GPU support bracket": {
+      "translation": "Entfernen Sie die GPU-Stützhalterung.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the cage": {
+      "translation": "Entferne den Käfig",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the drive bracket": {
+      "translation": "Laufwerkshalterung entfernen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the drive cage": {
+      "translation": "Entfernen Sie den Laufwerkskäfig.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the faceplate & filter": {
+      "translation": "Frontblende und Filter entfernen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the fan guards": {
+      "translation": "Die Lüfterschutzgitter entfernen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the front drive cage": {
+      "translation": "Den vorderen Laufwerkskäfig entfernen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the lid": {
+      "translation": "Den Deckel abnehmen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the rear drive bracket": {
+      "translation": "Entfernen Sie die Halterung für das hintere Laufwerk.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the screw": {
+      "translation": "Entfernen Sie die Schraube.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the screw beneath the front of the bay bracket and slide the bracket out.": {
+      "translation": "Entfernen Sie die Schraube unter der Vorderseite der Laufwerkshalterung und schieben Sie die Halterung heraus.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the screws": {
+      "translation": "Entfernen Sie die Schrauben.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the screws that secure the bracket to the chassis.": {
+      "translation": "Entfernen Sie die Schrauben, mit denen die Halterung am Gehäuse befestigt ist.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the screws that secure the cage, then lift it out of the chassis.": {
+      "translation": "Entfernen Sie die Schrauben, mit denen der Käfig befestigt ist, und heben Sie ihn anschließend aus dem Gehäuse.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the slot covers for the card's width. Lay the GPU flat over the motherboard and press its edge connector fully into the riser slot. Fit {{ hw('G') }} over unused openings and secure them with {{ hw('A') }}.": {
+      "translation": "Entfernen Sie die Slotblenden entsprechend der Breite der Karte. Legen Sie die GPU flach über das Mainboard und drücken Sie deren Anschlussleiste vollständig in den Riser-Steckplatz. Decken Sie nicht genutzte Öffnungen mit {{ hw('G') }} ab und befestigen Sie diese mithilfe von {{ hw('A') }}.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the two {{ hw(\"A\") }} at the upper rear corners that secure the lid to the chassis.": {
+      "translation": "Entfernen Sie die beiden {{ hw(\"A\") }} an den oberen hinteren Ecken, die den Deckel am Gehäuse befestigen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the {{ hw('A') }} from the chassis side wall.": {
+      "translation": "Entfernen Sie das {{ hw('A') }} von der Seitenwand des Gehäuses.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the {{ hw('A') }} that secures the bracket to the rear panel.": {
+      "translation": "Entfernen Sie die {{ hw('A') }}, mit der die Halterung an der Rückwand befestigt ist.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the {{ hw('A') }} that secures the cage.": {
+      "translation": "Entfernen Sie das {{ hw('A') }}, das den Käfig sichert.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the {{ hw('A') }} that secures the drive cage.": {
+      "translation": "Entfernen Sie die {{ hw('A') }}, die den Laufwerkskäfig fixiert.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the {{ hw('E') }} from the chassis side wall and the two {{ hw('A') }} from the rear panel.": {
+      "translation": "Entfernen Sie die {{ hw('E') }} von der Gehäuseseitenwand sowie die beiden {{ hw('A') }} von der Rückwand.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Remove the {{ hw('E') }} from the chassis side wall and the {{ hw('A') }} from the rear panel.": {
+      "translation": "Entfernen Sie {{ hw('E') }} von der Gehäuseseitenwand und {{ hw('A') }} von der Rückwand.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Return the GPU support bracket against the card's rear bracket and secure it with the {{ hw('A') }}.": {
+      "translation": "Setzen Sie die GPU-Stützhalterung an die rückseitige Halterung der Grafikkarte an und befestigen Sie sie mit {{ hw('A') }}.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Route and secure cables": {
+      "translation": "Kabel verlegen und sichern",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Route cables & close the chassis": {
+      "translation": "Kabel verlegen & Gehäuse schließen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Run drive, front-panel, PCIe, power and fan cables along the chassis side walls. Keep them clear of the fan blades and the CPU cooler.": {
+      "translation": "Verlegen Sie die Kabel für Laufwerke, Frontblende, PCIe-Komponenten, Stromversorgung und Lüfter entlang der Seitenwände des Gehäuses. Achten Sie darauf, dass sie nicht mit den Lüfterblättern oder dem CPU-Kühler in Berührung kommen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "SFX or SFX-L": {
+      "translation": "SFX oder SFX-L",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "START HERE": {
+      "translation": "Hier Starten",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "SUPPORT AND SERVICE": {
+      "translation": "SUPPORT UND SERVICE",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Seat the card": {
+      "translation": "Die Karte einsetzen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Seat the card in the riser": {
+      "translation": "Setzen Sie die Karte in den Riser ein.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Secure both sides": {
+      "translation": "Beide Seiten sichern",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Secure the PSU": {
+      "translation": "Netzteil befestigen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Secure the board": {
+      "translation": "Sichere das Mainboard",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Secure the bracket": {
+      "translation": "Befestigen Sie die Halterung.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Secure the cage": {
+      "translation": "HDD-Käfig sichern",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Secure the chassis to the rack.": {
+      "translation": "Befestigen Sie das Gehäuse am Rack.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Secure the fans": {
+      "translation": "Die Ventilatoren zuschrauben",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Secure the rear of the bracket": {
+      "translation": "Die Rückseite der Halterung sichern",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Secure the side": {
+      "translation": "Sichere die Seite",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "See the hardware-kit page for the supplied fasteners and rack hardware.": {
+      "translation": "Informationen zu den mitgelieferten Befestigungselementen und Rack-Komponenten finden Sie auf der Seite zum Hardware-Set.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Select the PCIe slot specified by your motherboard manual. Remove the corresponding chassis slot covers and open the motherboard slot latch, if present.": {
+      "translation": "Wählen Sie den PCIe-Steckplatz aus, der im Handbuch Ihres Mainboards angegeben ist. Entfernen Sie die entsprechenden Slotblenden am Gehäuse und öffnen Sie – falls vorhanden – die Verriegelung des Steckplatzes auf dem Mainboard.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Seven half-height PCIe slots; cards up to {{ facts.gpu_height_max_mm }} mm tall including power connectors": {
+      "translation": "Sieben PCIe-Steckplätze mit halber Bauhöhe; Karten bis zu {{ facts.gpu_height_max_mm }} mm Höhe, einschließlich Stromanschlüssen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Skip this step if the I/O shield is integrated into the motherboard.": {
+      "translation": "Überspringen Sie diesen Schritt, wenn die I/O-Blende in das Mainboard integriert ist.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Slide the FlexATX PSU into its mounting location at the rear of the chassis. Align its rear mounting holes with the openings in the rear panel and keep the fan intake clear.": {
+      "translation": "Schieben Sie das FlexATX-Netzteil in die dafür vorgesehene Halterung an der Rückseite des Gehäuses. Richten Sie die rückseitigen Befestigungsbohrungen an den Öffnungen in der Gehäuserückwand aus und achten Sie darauf, dass der Lüftereinlass frei bleibt.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Slide the bracket": {
+      "translation": "Die Halterung verschieben",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Slide the bracket clear of its slot.": {
+      "translation": "Schiebe die Halterung aus ihrem Schlitz heraus.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Slide the cage back": {
+      "translation": "Schiebe den Käfig zurück",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Slide the cage toward the rear of the chassis to release it.": {
+      "translation": "Schieben Sie den Käfig in Richtung Gehäuserückseite, um ihn zu lösen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Slide the lid back": {
+      "translation": "Schiebe den Deckel zurück",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Sliger Designs LLC (\"Sliger\") warrants its Products, if properly used and installed, against defects in material and workmanship for the period stated on the product specifications. Under normal use and service, every hardware portion of the products will be free from physical defects in material and workmanship during the warranty period (excludes normal wear and tear), or the product will be repaired or replaced as determined solely by Sliger.": {
+      "translation": "Sliger Designs LLC („Sliger“) gewährt für seine Produkte – bei sachgemäßer Verwendung und Installation – eine Garantie gegen Material- und Verarbeitungsfehler für den in den Produktspezifikationen angegebenen Zeitraum. Bei normaler Nutzung und Anwendung sind sämtliche Hardware-Komponenten der Produkte während der Garantiezeit frei von physischen Material- und Verarbeitungsfehlern (ausgenommen ist normaler Verschleiß); andernfalls wird das Produkt nach alleinigem Ermessen von Sliger repariert oder ersetzt.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Slot covers": {
+      "translation": "Steckplatzabdeckungen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Specification": {
+      "translation": "Spezifikation",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Stack the SSDs in the bracket and fasten each with {{ hw('D') }} through the bracket side walls.": {
+      "translation": "Stapeln Sie die SSDs in der Halterung und befestigen Sie jede einzelne mithilfe von {{ hw('D') }} durch die Seitenwände der Halterung hindurch.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Storage": {
+      "translation": "Speicher",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Support Email: [orders@sliger.com](mailto:orders@sliger.com)": {
+      "translation": "Support-E-Mail: [orders@sliger.com](mailto:orders@sliger.com)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Table of contents": {
+      "translation": "Inhaltsverzeichnis",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Teal": {
+      "translation": "Teal",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Teal in drawings; black, unpatched hardware": {
+      "translation": "Petrolfarbene Elemente in Zeichnungen; schwarze, nicht mit Aufnähern versehene Ausrüstung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The Dynatron L34 2U AIO mounts on the subfront in place of the front fans, with its four 80 mm fans between the subfront and the radiator.": {
+      "translation": "Der Dynatron L34 2U AIO wird an der inneren Frontblende anstelle der Frontlüfter montiert, wobei sich seine vier 80-mm-Lüfter zwischen der inneren Frontblende und dem Radiator befinden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The GPU support bracket holds the rear of the card on the riser. Remove it before installing the GPU.": {
+      "translation": "Die GPU-Stützhalterung hält die Rückseite der Grafikkarte auf dem Riser. Entfernen Sie diese, bevor Sie die GPU einbauen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The L34 stack (radiator and fans) is 86.5 mm thick, leaving **{{ facts.gpu_length_fans_aio_mm }} mm** for the GPU.": {
+      "translation": "Die L34-Einheit (Radiator und Lüfter) ist 86.5 mm dick, wodurch **{{ facts.gpu_length_fans_aio_mm }} mm** für die GPU verbleiben.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The drive bracket sits beside the power supply. Remove it before installing the motherboard and power supply.": {
+      "translation": "Die Laufwerkshalterung befindet sich neben dem Netzteil. Entfernen Sie diese, bevor Sie das Mainboard und das Netzteil einbauen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The drive bracket takes five 7 mm 2.5-inch SSDs, two 3.5-inch drives up to 20 mm thick, or one 3.5-inch drive and one 2.5-inch SSD up to 15 mm thick.": {
+      "translation": "Die Laufwerkshalterung nimmt fünf 2.5-Zoll-SSDs (7 mm Bauhöhe), zwei 3.5-Zoll-Laufwerke mit einer Dicke von bis zu 20 mm oder ein 3.5-Zoll-Laufwerk sowie eine 2.5-Zoll-SSD mit einer Dicke von bis zu 15 mm auf.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The drive cage sits behind the external 3.5-inch bays.": {
+      "translation": "Der Laufwerkskäfig befindet sich hinter den externen 3.5-Zoll-Schächten.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The drive cage sits behind the front fans.": {
+      "translation": "Der Laufwerkskäfig befindet sich hinter den Frontlüftern.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The drive cage takes two 3.5-inch drives up to 25 mm thick, one 2.5-inch SSD above them (up to 15 mm thick) and one below them (7 mm).": {
+      "translation": "Der Laufwerkskäfig nimmt zwei 3.5-Zoll-Laufwerke mit einer Dicke von bis zu 25 mm auf, eine 2.5-Zoll-SSD darüber (bis zu 15 mm dick) sowie eine weitere darunter (7 mm).",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The drive cage takes two 3.5-inch drives, or up to seven 7 mm 2.5-inch SSDs when the 3.5-inch mounts are unused.": {
+      "translation": "Der Laufwerkskäfig nimmt zwei 3.5-Zoll-Laufwerke auf – oder bis zu sieben 2.5-Zoll-SSDs (mit 7 mm Bauhöhe), sofern die 3.5-Zoll-Aufnahmen nicht belegt sind.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The front drive cage sits behind the external 3.5-inch bays.": {
+      "translation": "Der vordere Laufwerkskäfig befindet sich hinter den externen 3.5-Zoll-Schächten.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The front drive cage takes two 3.5-inch drives up to 25 mm thick, one SSD above them (up to 15 mm thick) and one below them (7 mm).": {
+      "translation": "Der vordere Laufwerkskäfig nimmt zwei 3.5-Zoll-Laufwerke mit einer Dicke von bis zu 25 mm auf, dazu eine SSD oberhalb (bis zu 15 mm dick) und eine weitere unterhalb davon (7 mm).",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The front drive cage takes two 3.5-inch drives up to 25 mm thick, or up to seven 7 mm 2.5-inch SSDs. One SSD mounts above the 3.5-inch drives (up to 15 mm thick) and one below them (7 mm).": {
+      "translation": "Der vordere Laufwerkskäfig nimmt zwei 3.5-Zoll-Laufwerke mit einer Bauhöhe von bis zu 25 mm oder bis zu sieben 2.5-Zoll-SSDs mit einer Bauhöhe von 7 mm auf. Eine SSD lässt sich oberhalb der 3.5-Zoll-Laufwerke (bis zu 15 mm Bauhöhe) und eine weitere unterhalb davon (7 mm Bauhöhe) montieren.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The front-view drawing illustrates expansion-card height, CPU-cooler height, and the power supply and drive positions.": {
+      "translation": "Die Vorderansicht-Zeichnung veranschaulicht die Höhe von Erweiterungskarten und CPU-Kühlern sowie die Positionen von Netzteil und Laufwerken.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The rear drive bracket sits beside the power supply. Remove it before installing the motherboard and power supply.": {
+      "translation": "Die Halterung für die Laufwerke befindet sich neben dem Netzteil. Entfernen Sie diese, bevor Sie das Mainboard und das Netzteil einbauen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The rear drive bracket takes five 7 mm 2.5-inch SSDs, two 3.5-inch drives up to 20 mm thick, or one 3.5-inch drive and one 2.5-inch SSD up to 15 mm thick.": {
+      "translation": "Die hintere Laufwerkshalterung nimmt fünf 2.5-Zoll-SSDs (7 mm Bauhöhe), zwei 3.5-Zoll-Laufwerke mit einer Dicke von bis zu 20 mm oder alternativ ein 3.5-Zoll-Laufwerk und eine 2.5-Zoll-SSD mit einer Dicke von bis zu 15 mm auf.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The top-view drawing shows the motherboard, power supply, front fans, drive mounting locations, and the GPU length available with each front cooling arrangement.": {
+      "translation": "Die Draufsicht zeigt das Mainboard, das Netzteil, die Frontlüfter, die Montagepositionen für Laufwerke sowie die bei der jeweiligen Front-Kühlkonfiguration verfügbare GPU-Länge.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "The two front-accessible 3.5-inch adapter bays take IcyDock or CRU storage devices. Filler blanks are available as add-ons; each mounts one 2.5-inch SSD or one HDD up to 15 mm thick.": {
+      "translation": "Die beiden von vorne zugänglichen 3.5-Zoll-Einschübe nehmen Speichermedien von IcyDock oder CRU auf. Als Zubehör sind Einbaurahmen erhältlich; in jedem davon lässt sich eine 2.5-Zoll-SSD oder eine bis zu 15 mm dicke Festplatte (HDD) unterbringen.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "This guide covers chassis access, component installation, and reassembly.": {
+      "translation": "Dieser Leitfaden behandelt den Zugriff auf das Gehäuse, den Einbau von Komponenten sowie den Wiederzusammenbau.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "This product is compliant to implemented RoHS (Restriction of Hazardous Substances) type regulations worldwide, including but not limited to China, India, Japan, Korea and European Union.": {
+      "translation": "Dieses Produkt entspricht den weltweit geltenden RoHS-Vorschriften (Beschränkung gefährlicher Stoffe), unter anderem in China, Indien, Japan, Korea und der Europäischen Union.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Three 25 mm front fans": {
+      "translation": "Drei 25-mm-Frontlüfter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Three 38 mm front fans": {
+      "translation": "Drei 38-mm-Frontlüfter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Three 80 mm fans": {
+      "translation": "Drei 80-mm-Lüfter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Three 80 mm fans, up to 38 mm thick": {
+      "translation": "Drei 80-mm-Lüfter, bis zu 38 mm dick",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Tighten by hand to avoid damaging the board or loosening the standoffs during future removal.": {
+      "translation": "Von Hand festziehen, um eine Beschädigung der Platine oder ein Lockern der Abstandshalter bei einer späteren Demontage zu vermeiden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Tighten sufficiently to prevent movement and vibration.": {
+      "translation": "Ausreichend festziehen, um Bewegungen und Vibrationen zu verhindern.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "To the best of our knowledge, all computer chassis manufactured by Sliger Designs, LLC adhere to ROHS, REACH, and Conflict Minerals regulations. All Sliger products are produced in the United States of America and primarily utilize materials sourced domestically.": {
+      "translation": "Nach unserem besten Wissen entsprechen alle von Sliger Designs, LLC hergestellten Computergehäuse den RoHS- und REACH-Richtlinien sowie den Vorschriften zu Konfliktmineralien. Sämtliche Sliger-Produkte werden in den Vereinigten Staaten von Amerika gefertigt, wobei vorwiegend Materialien aus inländischer Herkunft verwendet werden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Two USB 3.0 Type-A ports, connected through the keyed internal USB cable shown.": {
+      "translation": "Zwei USB 3.0 Typ-A-Anschlüsse, verbunden über das abgebildete interne USB-Kabel mit Kodierung.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Two front-accessible 3.5-inch adapter bays for IcyDock or CRU storage devices": {
+      "translation": "Zwei von vorne zugängliche 3.5-Zoll-Adaptereinschübe für Speichergeräte von IcyDock oder CRU",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Two front-accessible 3.5-inch adapter bays for IcyDock or CRU storage devices; filler blanks (add-ons) each mount one 2.5-inch drive up to 15 mm thick": {
+      "translation": "Zwei von vorne zugängliche 3.5-Zoll-Einschübe für Speichergeräte von IcyDock oder CRU; die entsprechenden Blenden (Zusatzkomponenten) ermöglichen jeweils die Montage eines 2.5-Zoll-Laufwerks mit einer Bauhöhe von bis zu 15 mm.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Two full-height horizontal slots on a PCIe x16 riser, for one GPU up to 2.5 slots (50 mm) wide; cards up to {{ facts.gpu_height_max_mm }} mm tall including power connectors. 2.7- and 2.75-slot cards are not supported": {
+      "translation": "Zwei horizontale Steckplätze in voller Bauhöhe auf einem PCIe-x16-Riser für eine GPU mit einer Breite von bis zu 2.5 Slots (50 mm); Karten dürfen inklusive Stromanschlüssen eine Höhe von bis zu {{ facts.gpu_height_max_mm }} mm aufweisen. Karten mit 2.7 oder 2.75 Slots werden nicht unterstützt.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "USB Type-A ports": {
+      "translation": "USB-Typ-A-Anschlüsse",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Up to {{ facts.air_cooler_height_max_mm }} mm tall": {
+      "translation": "Bis zu {{ facts.air_cooler_height_max_mm }} mm hoch",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Use the screws supplied with your fans. Pass them through the subfront and into the fan frames.": {
+      "translation": "Verwenden Sie die Schrauben, die Ihren Lüftern beiliegen. Führen Sie diese durch die Frontblende hindurch in die Lüfterrahmen ein.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Use your motherboard manual to identify matching headers and pin assignments. The numbered front-panel locations correspond to the connector drawings and legend.": {
+      "translation": "Verwenden Sie das Handbuch Ihres Mainboards, um die passenden Anschlüsse und Pin-Belegungen zu identifizieren. Die nummerierten Positionen für das Frontpanel entsprechen den Anschlusszeichnungen und der Legende.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "User guide": {
+      "translation": "Benutzerhandbuch",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Version": {
+      "translation": "Version",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "WARRANTY POLICY": {
+      "translation": "GARANTIEBESTIMMUNGEN",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Warranty & support": {
+      "translation": "Garantie & Support",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Website: [sliger.com](https://www.sliger.com)": {
+      "translation": "Website: [sliger.com](https://www.sliger.com)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "With 25 mm fans, maximum GPU length is **{{ facts.gpu_length_fans_only_mm }} mm**; with 38 mm fans, **{{ facts.gpu_length_fans_38mm_mm }} mm**. AIO cooling is not officially supported on this model.": {
+      "translation": "Bei Verwendung von 25-mm-Lüftern beträgt die maximale GPU-Länge **{{ facts.gpu_length_fans_only_mm }} mm**; bei 38-mm-Lüftern sind es **{{ facts.gpu_length_fans_38mm_mm }} mm**. Eine AIO-Kühlung wird bei diesem Modell offiziell nicht unterstützt.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "With 25 mm fans, maximum GPU length is **{{ facts.gpu_length_fans_only_mm }} mm**; with 38 mm fans, **{{ facts.gpu_length_fans_38mm_mm }} mm**. AIO cooling is not supported on this model.": {
+      "translation": "Bei Verwendung von 25-mm-Lüftern beträgt die maximale GPU-Länge **{{ facts.gpu_length_fans_only_mm }} mm**; bei 38-mm-Lüftern sind es **{{ facts.gpu_length_fans_38mm_mm }} mm**. Eine AIO-Kühlung wird bei diesem Modell nicht unterstützt.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "With 25 mm fans, maximum GPU length is **{{ facts.gpu_length_fans_only_mm }} mm**; with 38 mm fans, **{{ facts.gpu_length_fans_38mm_mm }} mm**. For an AIO configuration, continue to the next section before installing fans.": {
+      "translation": "Bei Verwendung von 25-mm-Lüftern beträgt die maximale GPU-Länge **{{ facts.gpu_length_fans_only_mm }} mm**; bei 38-mm-Lüftern liegt sie bei **{{ facts.gpu_length_fans_38mm_mm }} mm**. Falls Sie eine AIO-Konfiguration planen, lesen Sie bitte den nächsten Abschnitt, bevor Sie die Lüfter installieren.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Yellow": {
+      "translation": "Gelb",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "Yellow-marked": {
+      "translation": "Gelb markiert",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "black hex standoffs": {
+      "translation": "schwarze Sechskant-Abstandshalter",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "blue-patched M3 screws": {
+      "translation": "M3-Schrauben mit blauer Markierung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "detail": {
+      "translation": "Detail",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "green-patched 6-32 screws": {
+      "translation": "grün markierte 6-32-Schrauben",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "page": {
+      "translation": "Seite",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "pink-marked M4 × 7 mm screws": {
+      "translation": "rosa markierte M4 × 7 mm-Schrauben",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "primary product photograph": {
+      "translation": "Hauptproduktfoto",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "pull handles": {
+      "translation": "Zuggriffe",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "rack ears": {
+      "translation": "Rack-Ohren",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "slot covers": {
+      "translation": "Steckplatzabdeckungen",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "yellow-patched 6-32 screws": {
+      "translation": "Schrauben (Größe 6-32) mit gelber Markierung",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ facts.gpu_length_baseline_mm }} mm": {
+      "translation": "{{ facts.gpu_length_baseline_mm }} mm",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ facts.gpu_length_fans_38mm_mm }} mm": {
+      "translation": "{{ facts.gpu_length_fans_38mm_mm }} mm",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ facts.gpu_length_fans_aio_mm }} mm": {
+      "translation": "{{ facts.gpu_length_fans_aio_mm }} mm",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ facts.gpu_length_fans_only_mm }} mm": {
+      "translation": "{{ facts.gpu_length_fans_only_mm }} mm",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ facts.ssd_2_5_max }} × 2.5-inch and {{ facts.hdd_3_5_max }} × 3.5-inch mounting locations in the rear drive bracket: five 7 mm SSDs; or two 3.5-inch HDDs up to 20 mm thick; or one 3.5-inch HDD and one 2.5-inch SSD up to 15 mm thick": {
+      "translation": "{{ facts.ssd_2_5_max }} × 2.5-Zoll- und {{ facts.hdd_3_5_max }} × 3.5-Zoll-Einbauplätze in der rückseitigen Laufwerkshalterung: fünf 7-mm-SSDs; oder zwei 3.5-Zoll-HDDs mit einer Dicke von bis zu 20 mm; oder eine 3.5-Zoll-HDD und eine 2.5-Zoll-SSD mit einer Dicke von bis zu 15 mm",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ facts.ssd_2_5_max }} × 2.5-inch and {{ facts.hdd_3_5_max }} × 3.5-inch mounting locations: in the front drive cage, two 3.5-inch drives up to 25 mm thick, one SSD above them up to 15 mm thick and one below them, 7 mm; five 7 mm SSDs in the rear drive bracket when the 3.5-inch HDD mounts are unused": {
+      "translation": "{{ facts.ssd_2_5_max }} × 2.5-Zoll- und {{ facts.hdd_3_5_max }} × 3.5-Zoll-Einbauplätze: im vorderen Laufwerkskäfig zwei 3.5-Zoll-Laufwerke mit einer Dicke von bis zu 25 mm, eine SSD darüber (bis zu 15 mm dick) sowie eine weitere SSD darunter (7 mm dick); fünf 7-mm-SSDs in der hinteren Laufwerkshalterung, sofern die 3.5-Zoll-HDD-Einbauplätze nicht belegt sind.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ facts.ssd_2_5_max }} × 2.5-inch and {{ facts.hdd_3_5_max }} × 3.5-inch mounting locations: in the front drive cage, two 3.5-inch drives up to 25 mm thick, or up to seven 7 mm SSDs (one above the 3.5-inch drives up to 15 mm thick, one below them, 7 mm); in the rear drive bracket, two 3.5-inch drives up to 20 mm thick or five 7 mm SSDs": {
+      "translation": "{{ facts.ssd_2_5_max }} × 2.5-Zoll- und {{ facts.hdd_3_5_max }} × 3.5-Zoll-Einbauplätze: Im vorderen Laufwerkskäfig finden entweder zwei 3.5-Zoll-Laufwerke (mit einer Dicke von bis zu 25 mm) oder bis zu sieben 7-mm-SSDs Platz (eine oberhalb der 3.5-Zoll-Laufwerke – bis zu 15 mm Bauhöhe – sowie eine unterhalb davon mit 7 mm Bauhöhe); in der hinteren Laufwerkshalterung können zwei 3.5-Zoll-Laufwerke (bis zu 20 mm dick) oder fünf 7-mm-SSDs untergebracht werden.",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ outer.depth }} × {{ outer.width }} × {{ outer.height }} mm (13 × 17 × 3.46 inches)": {
+      "translation": "{{ outer.depth }} × {{ outer.width }} × {{ outer.height }} mm (13 × 17 × 3.46 inches)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ outer.depth }} × {{ outer.width }} × {{ outer.height }} mm (15 × 17 × 3.46 inches)": {
+      "translation": "{{ outer.depth }} × {{ outer.width }} × {{ outer.height }} mm (15 × 17 × 3.46 Zoll)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ outer.depth }} × {{ outer.width }} × {{ outer.height }} mm (17 × 17 × 3.46 inches)": {
+      "translation": "{{ outer.depth }} × {{ outer.width }} × {{ outer.height }} mm (17 × 17 × 3.46 Zoll)",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ ref('faceplate-removal', 'Remove the faceplate & filter') }}": {
+      "translation": "{{ ref('faceplate-removal', 'Remove the faceplate & filter') }}",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ ref('front-ports', 'Front ports & connections') }}": {
+      "translation": "{{ ref('front-ports', 'Front ports & connections') }}",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ ref('lid-removal', 'Remove the lid') }}": {
+      "translation": "{{ ref('lid-removal', 'Remove the lid') }}",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    },
+    "{{ ref('rack-ears', 'Install rack ears & handles') }}": {
+      "translation": "{{ ref('rack-ears', 'Install rack ears & handles') }}",
+      "package": "2U-CX2130-CX2137-CX2151-CX2177-v1.0-en",
+      "imported": "2026-11-20",
+      "translator": "Michal Straka, Density Labs s.r.o.",
+      "reviewer": "Michal Straka"
+    }
+  }
+}
