@@ -45,6 +45,20 @@ def packages():
     return sorted(path.parent.name for path in (ROOT / 'translation-packages').glob('*/manifest.json'))
 
 
+def imported_models(language):
+    """Models of the packages imported into a language's memory (translations/<lang>/imports/)."""
+    models = set()
+    for record in (ROOT / 'translations' / language / 'imports').glob('*.json'):
+        manifest = ROOT / 'translation-packages' / json.loads(record.read_text(encoding='utf-8'))['package'] / 'manifest.json'
+        if manifest.is_file():
+            models |= set(json.loads(manifest.read_text(encoding='utf-8'))['models'])
+    return sorted(models & set(MODEL_CATEGORIES))
+
+
+def required_translation(item, model):
+    return item['required'] and model in item.get('covered', item['models'])
+
+
 def current_packages():
     """Packages translators use: those not replaced by a newer export
     (translation-packages/superseded.json maps old -> new). Only these get an editor."""
@@ -80,7 +94,9 @@ def plan(changed=None):
         touched = any(path.startswith(f'translations/{lang}/') for path in changed)
         targets = sorted(MODEL_CATEGORIES) if touched else sorted(models)
         if targets:
-            result_languages[lang] = {'models': targets, 'required': touched}
+            # Every model is built when a memory changes, but only the models of packages imported into it
+            # have to pass; the rest just report how much text the language still lacks.
+            result_languages[lang] = {'models': targets, 'required': touched, 'covered': imported_models(lang)}
     tooling = any(path.startswith(('scripts/', 'templates/', 'glossary/', '.github/workflows/', 'docker/')) for path in changed)
     result_packages = [name for name in packages()
                        if tooling or any(path.startswith(f'translation-packages/{name}/') for path in changed)]
@@ -189,7 +205,7 @@ def check(the_plan, output, browser=None):
         if outputs:
             results.keep(outputs, f'{language}/{model}')
         results.record('English manual' if language == 'en' else f'{language} manual', model, error,
-                       required=language == 'en' or the_plan['languages'][language]['required'])
+                       required=language == 'en' or required_translation(the_plan['languages'][language], model))
     for name in the_plan['packages']:
         package = ROOT / 'translation-packages' / name
         results.run('Translation package', name, lambda: validate(package))
