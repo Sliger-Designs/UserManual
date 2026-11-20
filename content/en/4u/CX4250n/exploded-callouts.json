@@ -1,0 +1,101 @@
+{
+  "asset_key": "_CX4250n-Explode.jpg",
+  "source_sha256": "8406b316f49d66f0dfa69b2fb1ab5daa65fc4e491423fc19ceee80941542a569",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.752,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the CX4250n exploded render (2026-11-20, includes rack ears and pull handles); review the preview before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.62,
+        0.25
+      ],
+      "badge": [
+        0.3,
+        0.12
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.2,
+        0.62
+      ],
+      "badge": [
+        0.03,
+        0.62
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.435,
+        0.75
+      ],
+      "badge": [
+        0.55,
+        0.96
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.47,
+        0.8
+      ],
+      "badge": [
+        0.68,
+        0.9
+      ]
+    },
+    {
+      "number": 5,
+      "label": "5.25-inch bay fillers",
+      "target": [
+        0.25,
+        0.48
+      ],
+      "badge": [
+        0.08,
+        0.33
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Chassis wrap",
+      "target": [
+        0.75,
+        0.58
+      ],
+      "badge": [
+        0.85,
+        0.82
+      ]
+    },
+    {
+      "number": 7,
+      "label": "Motherboard tray",
+      "target": [
+        0.93,
+        0.45
+      ],
+      "badge": [
+        0.97,
+        0.25
+      ]
+    }
+  ]
+}

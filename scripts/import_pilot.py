@@ -43,6 +43,14 @@ FIELDS = {
     'gpu_length_fans_aio_mm': 'Max GPU Length(fans+AIO)(mm)',
     'gpu_length_max_cooling_mm': 'MAX GPU Length (Max cooling)',
 }
+# Models not in the catalog CSVs (website concepts). Their record starts from the facts of the
+# model whose chassis they share (same wrap and front; the website specs match apart from the
+# storage wiring) and takes its own values from products/supplemental.json and overrides.json.
+# The basis is recorded in sources/decisions/.
+DERIVED = {
+    'CX4250n': {'base': 'CX4712', 'website': 'sources/web/cx4250n-specs.txt',
+                'decision': 'sources/decisions/2026-11-20-CX4250n.md'},
+}
 NUMBERS = {'depth_in', 'width_in', 'volume_l', 'ssd_2_5_max', 'hdd_3_5_max',
            'air_cooler_height_max_mm', 'gpu_height_max_mm', 'gpu_length_baseline_mm',
            'gpu_length_fans_only_mm', 'gpu_length_fans_aio_mm', 'gpu_length_max_cooling_mm'}
@@ -89,6 +97,7 @@ ISSUES = {
     'CX4200i': [],
     'CX4712': [],
     'CX4713': [],
+    'CX4250n': [],
     'S630': ['S600-02', 'S600-03'],
     'S640': ['S640-01', 'S600-02', 'S600-03'],
 }
@@ -132,7 +141,27 @@ def main():
             'path': relative, 'sha256': hashlib.sha256(path.read_bytes()).hexdigest(),
             'row_reference': 'Logical CSV record number including header as record 1; not physical line number.',
         }
-    for sku in ISSUES:
+    for sku in [s for s in ISSUES if s not in DERIVED] + [s for s in ISSUES if s in DERIVED]:
+        if sku in DERIVED:
+            derived = DERIVED[sku]
+            base = json.loads((ROOT / 'products' / (derived['base'] + '.json')).read_text(encoding='utf-8'))
+            facts = {field: {**evidence, 'derived_from': derived['base']} for field, evidence in base['facts'].items()}
+            for field, evidence in supplemental.get(sku, {}).items():
+                facts[field] = evidence
+            for field, decision in overrides.get(sku, {}).items():
+                facts[field] = decision
+            record = {
+                'schema_version': 1, 'sku': sku, 'status': 'draft', 'release_ready': False,
+                'review_issues': ISSUES[sku],
+                'authority': (f"Not in the catalog CSVs. Facts start from {derived['base']} (same chassis; "
+                              f"see {derived['decision']}); explicit decisions in products/overrides.json and "
+                              f"products/supplemental.json take precedence."),
+                'derived_from': derived,
+                'facts': facts,
+            }
+            (ROOT / 'products' / (sku + '.json')).write_text(json.dumps(record, indent=2, ensure_ascii=False) + '\n',
+                                                            encoding='utf-8', newline='\n')
+            continue
         matches = {}
         for name, (_, key) in SOURCES.items():
             found = [(n, r) for n, r in data[name] if r[key].strip() == catalog_name(sku)]

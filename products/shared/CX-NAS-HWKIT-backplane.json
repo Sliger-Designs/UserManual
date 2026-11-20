@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "part_number": "CX-NAS-HWKIT",
+  "applies_to": "CX4250n and CX4280n (backplane NAS; separately packaged kit, in addition to SBAG-HWKIT).",
+  "quantity_source": {
+    "id": "decision",
+    "date": "2026-11-20",
+    "record": "sources/decisions/2026-11-20-CX4250n.md"
+  },
+  "note": "Same kit name and screw counts as the CX4712/CX4713 kit (products/shared/CX-NAS-HWKIT.json); the backplane replaces the SAS/SATA adapters and SATA power splitters, and the kit adds the three backplane power cables (confirmed 2026-11-20).",
+  "items": [
+    {
+      "letter": "J",
+      "name": "HDD shoulder screws (217-735)",
+      "quantity": "45",
+      "description": "Four per 3.5-inch HDD; they guide the drive into its hot-swap bay.",
+      "image": "common/hardware/HDD Shoulder Thumb Screw (217-735B)_side.jpg",
+      "detail_images": [
+        "common/hardware/HDD Shoulder Thumb Screw (217-735B)_top.jpg"
+      ],
+      "reference": "shoulder screws",
+      "part_number": "217-735"
+    },
+    {
+      "letter": "K",
+      "name": "Thumb screws (217-737)",
+      "quantity": "2",
+      "description": "Secure the drive retention tray.",
+      "image": "common/hardware/#6-32 THUMB SCREW (217-736)_side.jpg",
+      "detail_images": [
+        "common/hardware/#6-32 THUMB SCREW (217-736)_top.jpg"
+      ],
+      "reference": "thumb screws",
+      "part_number": "217-737",
+      "note": "Illustrated with the 217-736 render, which differs only in thread length (confirmed 2026-11-04)."
+    },
+    {
+      "letter": "L",
+      "name": "Backplane power cables",
+      "quantity": "3",
+      "description": "One dual 4-pin to EPS cable and two single 4-pin to 6-pin PCIe cables, from the PSU to the backplane.",
+      "image": "",
+      "reference": "backplane power cables",
+      "large_image": true,
+      "artwork_pending": "Backplane power cable image pending"
+    },
+    {
+      "letter": "M",
+      "name": "Key pair",
+      "quantity": "1 pair",
+      "description": "Locks and unlocks the drive retention tray.",
+      "image": "common/hardware/J312-10_KeyPair.jpg",
+      "reference": "key",
+      "large_image": true
+    }
+  ]
+}
