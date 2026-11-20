@@ -43,4 +43,6 @@ its English and report invalid entries instead of printing them.
 
 Entries whose English no longer appears in any manual are harmless and can be kept for
 reuse. Built translations are never marked released: approve each language's PDFs
-and archive them under `releases/<lang>/` as a separate step.
+and archive them under `releases/<lang>/` as a separate step, with
+`python3 scripts/archive_release.py --language de --models CX2130a ...` (the English
+revision must already be released; the release date defaults to today).
