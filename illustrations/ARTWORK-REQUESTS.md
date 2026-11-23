@@ -104,8 +104,9 @@ Every released 3U manual is built (November 5, 2026); open items are in the tabl
 ## Concept models
 
 The CX3150n, CX3180n, CX4250n and CX4280n are listed on the website as concepts ahead of
-preorder. The four 4U n and g models (CX4250n, CX4280n, CX4250g, CX4280g) have Prototype 0.1
-manuals (November 20, 2026); the 3U n and g models are next.
+preorder. The 4U n and g models (CX4250n, CX4280n, CX4250g, CX4280g; November 20, 2026), the 3U n
+and g models (CX3150n, CX3180n, CX3150g, CX3180g, CX3250g, CX3251g, CX3252g) and the CX2257g
+(November 23, 2026) have Prototype 0.1 manuals.
 
 | Done | Model | Needed | Effect until supplied |
 |---|---|---|---|
@@ -113,6 +114,9 @@ manuals (November 20, 2026); the 3U n and g models are next.
 |  | CX4280n | Product photo or cover render; front and top-view clearance drawings | The CX4713 photo and drawings are used |
 |  | CX4250g, CX4280g | Front-clearance drawings showing the eight 5.25-inch bays; top-view dimension drawings | The CX4712 and CX4713 front drawings are used, and the guides have no top-view page |
 |  | CX4280g | Product photo or cover render | The CX4250g photo is used (identical from the outside) |
+|  | CX3150g, CX3180g | Top-view clearance drawings with the six 5.25-inch bays (as the CX3250g `TOP_DIMS`) | Grey placeholder on the clearance page; every other view is rendered (2026-11-23) |
+|  | CX3251g, CX3252g | `_INT-MIN` assemblies with their trays and components, for their own renders (Sliger is building them) | CX3251g uses the CX3250g chassis renders and keeps the CX3151a tray images; CX3252g still has grey placeholders and CX3152a tray images |
+|  | CX2257g | Top- and front-view clearance drawings | Grey placeholders on the two clearance pages; every other view is rendered (2026-11-23) |
 
 ## 2U
 

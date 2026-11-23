@@ -1,0 +1,515 @@
+{
+  "model": "CX3252g",
+  "language": "en",
+  "language_label": "ENGLISH",
+  "revision": "Prototype 0.1",
+  "status": "Technical review draft",
+  "text_checks": {
+    "required": [
+      "431.8",
+      "132.59",
+      "110 mm",
+      "115 mm",
+      "Five full-height",
+      "19.6 mm",
+      "ATX",
+      "360 mm",
+      "270 mm",
+      "635",
+      "366 mm",
+      "341 mm",
+      "313 mm",
+      "217-499",
+      "217-477P"
+    ],
+    "forbidden": [
+      "325 mm",
+      "270 mm push",
+      "272 mm",
+      "297 mm",
+      "Half Height",
+      "half-height",
+      "SFX",
+      "Eight full-height",
+      "349 mm",
+      "324 mm",
+      "296 mm",
+      "Front bays | None",
+      "289 mm",
+      "push-pull radiator"
+    ]
+  },
+  "pages": [
+    {
+      "id": "cover",
+      "title": "CX3152a",
+      "section": "USER GUIDE",
+      "source": "cover.md",
+      "images": [
+        "_CX3152a_rendering.jpg"
+      ],
+      "layout": "cover"
+    },
+    {
+      "id": "contents",
+      "title": "In this guide",
+      "section": "START HERE",
+      "source": "contents.md",
+      "images": [],
+      "layout": "contents"
+    },
+    {
+      "id": "exploded-view",
+      "title": "Exploded assembly & part key",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "exploded-view.md",
+      "images": [
+        "pending: CX3252g exploded view with part callouts"
+      ],
+      "layout": "exploded"
+    },
+    {
+      "id": "dimensions",
+      "title": "Clearance drawing — top view",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "dimensions.md",
+      "images": [
+        "CX3252g-TOP_DIMS.jpg"
+      ],
+      "layout": "reference-drawing"
+    },
+    {
+      "id": "front-clearance",
+      "title": "Front-view component clearances",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "front-clearance.md",
+      "images": [
+        "_CX3152a_ADVANCED_FRONT VIEW.jpg"
+      ],
+      "layout": "reference-drawing"
+    },
+    {
+      "id": "specifications",
+      "title": "Dimensions & compatibility",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "specifications.md",
+      "images": [],
+      "layout": "specifications"
+    },
+    {
+      "id": "hardware",
+      "title": "Hardware kit",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/hardware.md",
+      "images": [
+        "common/hardware/YELLOW PATCHED SCREWS.jpg",
+        "common/hardware/RED PATCHED SCREWS.jpg",
+        "common/hardware/BLACK HEX STANDOFFS.jpg",
+        "common/hardware/BLUE PATCHED SCREWS.jpg",
+        "common/hardware/GREEN PATCHED SCREWS.jpg",
+        "common/hardware/M4 THREAD SCREWS.jpg",
+        "common/hardware/slot-covers-reference.png",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_top.jpg",
+        "common/hardware/MS PPH 632 x .250 FLANGE HEX BLK (217-499)_side.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_top.jpg",
+        "common/hardware/MS PFH M3 X 5mm BLK (217-621)_side.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Top.jpg",
+        "common/hardware/#6-32 HEX STANDOFF LONG, .150x632 MALE THREAD, 632x.250 FEMALE HEAD (217-734)_Side.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_top.jpg",
+        "common/hardware/MS PPH M3 x 8mm FLANGE HEX BLK (217-477P)_side.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_top.jpg",
+        "common/hardware/MS PFH 632 x.250 BLK (217-019)_side.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_top.jpg",
+        "common/hardware/MS PFH M4 x 7mm ZC BLK (217-720K)_side.jpg",
+        "common/hardware/3URackEars.jpg",
+        "common/hardware/3UPullHandles.jpg"
+      ],
+      "layout": "hardware-key"
+    },
+    {
+      "id": "front-ports",
+      "title": "Front ports & connections",
+      "section": "01 / PRODUCT INFORMATION",
+      "source": "../../shared/rackmount/front-ports.md",
+      "images": [
+        "common/front-io/CX3U a FPIO.png",
+        "common/front-io/PowerAndLED_greyscale.png",
+        "common/front-io/20pinUSB3_greyscale.png",
+        "common/front-io/TypeEUSBC_greyscale.png"
+      ],
+      "layout": "front-io",
+      "image_annotations": {
+        "common/front-io/CX3U a FPIO.png": "../../shared/rackmount/fpio-3u-a-callouts.json"
+      }
+    },
+    {
+      "id": "lid-removal",
+      "title": "Remove the lid",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/lid-removal.md",
+      "images": [
+        "pending: CX3252g lid screws",
+        "pending: CX3252g lid slid back",
+        "pending: CX3252g lid lifted off"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "faceplate-removal",
+      "title": "Remove the faceplate & filter",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "faceplate-removal.md",
+      "images": [
+        "pending: CX3252g faceplate removal with the 5.25-inch bays"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "tray-removal",
+      "title": "Remove the motherboard tray",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/tray-removal.md",
+      "images": [
+        "pending: CX3252g tray screws",
+        "pending: CX3252g tray slid back",
+        "pending: CX3252g tray lifted out"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "rack-ears",
+      "title": "Install rack ears & handles",
+      "section": "02 / CHASSIS ACCESS",
+      "source": "../../shared/rackmount/rack-ears.md",
+      "images": [
+        "pending: CX3252g rack ears and pull handles"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "F",
+          "H",
+          "I"
+        ]
+      ]
+    },
+    {
+      "id": "fan-bracket-removal",
+      "title": "Remove the fan bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "fan-bracket-removal.md",
+      "images": [
+        "pending: CX3252g fan bracket lifted out"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        []
+      ],
+      "layout_variant": "stacked"
+    },
+    {
+      "id": "fan-installation",
+      "title": "Install fans",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "fan-installation.md",
+      "images": [
+        "pending: CX3252g three fans on the bracket"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        []
+      ]
+    },
+    {
+      "id": "aio-installation",
+      "title": "Install an AIO radiator",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "aio-installation.md",
+      "images": [
+        "pending: CX3252g fans and 360 mm radiator on the bracket",
+        "pending: CX3252g radiator assembly secured"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [],
+        []
+      ]
+    },
+    {
+      "id": "fan-bracket-installation",
+      "title": "Reinstall the fan bracket",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "fan-bracket-installation.md",
+      "images": [
+        "pending: CX3252g bracket lowered in",
+        "pending: CX3252g bracket installed"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [],
+        []
+      ]
+    },
+    {
+      "id": "motherboard-preparation",
+      "title": "Prepare the motherboard tray",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/motherboard-preparation.md",
+      "images": [
+        "4a_CX3152a_STANDOFF INSTALL.jpg",
+        "6a_CX3152a_MOTHERBOARD IO SHIELD.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "C"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "motherboard-installation",
+      "title": "Install the motherboard",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/motherboard-installation.md",
+      "images": [
+        "6a_CX3152a_MOTHERBOARD.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "C"
+        ]
+      ]
+    },
+    {
+      "id": "ssd-installation",
+      "title": "Install 2.5-inch SSDs",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "ssd-installation.md",
+      "images": [
+        "7a_CX3152a_SSD 1.jpg",
+        "7b_CX3152a_SSD 2.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "B"
+        ],
+        [
+          "B"
+        ]
+      ]
+    },
+    {
+      "id": "psu-installation",
+      "title": "Install the power supply",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "psu-installation.md",
+      "images": [
+        "8a_CX3152a_PSU 1.jpg",
+        "8b_CX3152a_PSU 2.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [],
+        [
+          "A"
+        ]
+      ]
+    },
+    {
+      "id": "gpu-installation",
+      "title": "Install a GPU or PCIe card",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/gpu-installation.md",
+      "images": [
+        "9_CX3152a_GPU.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A",
+          "G"
+        ]
+      ]
+    },
+    {
+      "id": "bay-bank-removal",
+      "title": "Remove a 5.25-inch bay bank",
+      "section": "04 / REASSEMBLY",
+      "source": "bay-bank-removal.md",
+      "images": [
+        "pending: CX3252g bay bank screws (217-499)",
+        "pending: CX3252g bay bank slid back",
+        "pending: CX3252g bay bank lifted out"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "A"
+        ],
+        [],
+        []
+      ]
+    },
+    {
+      "id": "bay-devices",
+      "title": "Fit 5.25-inch devices or filler blanks",
+      "section": "04 / REASSEMBLY",
+      "source": "bay-devices.md",
+      "images": [
+        "pending: CX3252g 5.25-inch device in the bank (217-477P)",
+        "pending: CX3252g bay drive cage in the bank",
+        "pending: CX3252g filler blank in the bank"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "D"
+        ],
+        [
+          "D"
+        ],
+        []
+      ]
+    },
+    {
+      "id": "bay-blank-drives",
+      "title": "Mount drives on a filler blank",
+      "section": "04 / REASSEMBLY",
+      "source": "../../shared/rackmount/bay-blank-drives-bank.md",
+      "images": [
+        "common/4u-bay-blank/drive12.jpg.jpg",
+        "common/4u-bay-blank/4f_CX3150i_BAY FILLER (2x 15mm SSD).jpg",
+        "common/4u-bay-blank/drive6.1.jpg.jpg"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "B"
+        ],
+        [
+          "B"
+        ],
+        [
+          "E"
+        ]
+      ],
+      "layout_variant": "wide-visuals"
+    },
+    {
+      "id": "tray-installation",
+      "title": "Reinstall the motherboard tray",
+      "section": "04 / REASSEMBLY",
+      "source": "../../shared/rackmount/tray-installation.md",
+      "images": [
+        "pending: CX3252g tray lowered in",
+        "pending: CX3252g tray slid forward",
+        "pending: CX3252g tray screws"
+      ],
+      "layout": "procedure",
+      "hardware_callouts": [
+        [
+          "E"
+        ],
+        [],
+        [
+          "E"
+        ]
+      ]
+    },
+    {
+      "id": "cable-management",
+      "title": "Route cables & close the chassis",
+      "section": "04 / REASSEMBLY",
+      "source": "cable-management.md",
+      "images": [
+        "12e_CX3152a_cableManage.jpg"
+      ],
+      "layout": "procedure"
+    },
+    {
+      "id": "support",
+      "title": "Warranty & support",
+      "section": "05 / REFERENCE",
+      "source": [
+        "../../shared/warranty.md",
+        "../../shared/support.md"
+      ],
+      "images": [],
+      "layout": "reference-columns",
+      "reference_sections": [
+        "4.1",
+        "4.2"
+      ]
+    },
+    {
+      "id": "regulations",
+      "title": "Regulations",
+      "section": "05 / REFERENCE",
+      "source": "../../shared/regulations.md",
+      "images": [
+        "common/icons/RoHScompliant.png",
+        "common/icons/REACHcompliant.png",
+        "common/icons/ResponsibleMineralsInitive.png",
+        "common/icons/MadeInUSA-reference.png"
+      ],
+      "layout": "regulations",
+      "reference_sections": [
+        "4.3"
+      ]
+    },
+    {
+      "id": "revision-history",
+      "title": "Manual revision history",
+      "section": "05 / REFERENCE",
+      "source": "revision-history.md",
+      "images": [],
+      "layout": "text"
+    }
+  ],
+  "nominal_dimensions_in": {
+    "depth": 25,
+    "width": 17,
+    "height": 5.22
+  },
+  "cover_description": "25\" DEEP 3U CHASSIS",
+  "cover_description_detail": [
+    "6 × 5.25\" BAYS"
+  ],
+  "cover_format": "landscape",
+  "missing_assets": [
+    {
+      "id": "M01",
+      "needed": "CX3252g exploded view with part callouts."
+    },
+    {
+      "id": "M02",
+      "needed": "CX3252g chassis views: lid, faceplate, tray removal and reinstall, rack ears."
+    },
+    {
+      "id": "M03",
+      "needed": "CX3252g mid-chassis fan bracket, fan and radiator renders."
+    },
+    {
+      "id": "M04",
+      "needed": "CX3252g bay-bank renders: unscrew 217-499, slide back, lift out; device, bay drive cage and filler with 217-477P."
+    }
+  ]
+}

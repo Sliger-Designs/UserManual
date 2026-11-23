@@ -1,0 +1,77 @@
+{
+  "asset_key": "CX3180n-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
+  "source_sha256": "13a2317a402e1dde2ece11bc8153fecabb243e600e1d0505f855525d796dba1e",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.8439716312056738,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the supplied CX3180n exploded view 2026-11-23 (lid, faceplate, front I/O and rack ear exploded; fan brackets not exploded); review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.55,
+        0.22
+      ],
+      "badge": [
+        0.3,
+        0.1
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.2,
+        0.62
+      ],
+      "badge": [
+        0.035,
+        0.86
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.47,
+        0.71
+      ],
+      "badge": [
+        0.44,
+        0.95
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.508,
+        0.76
+      ],
+      "badge": [
+        0.58,
+        0.95
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Chassis wrap",
+      "target": [
+        0.75,
+        0.63
+      ],
+      "badge": [
+        0.88,
+        0.82
+      ]
+    }
+  ]
+}

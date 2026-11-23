@@ -636,10 +636,6 @@
   },
   "missing_assets": [
     {
-      "id": "M01",
-      "needed": "Backplane power cable photo or render for the NAS kit page (item L). A grey placeholder marks it."
-    },
-    {
       "id": "M02",
       "needed": "CX4280n product photograph. The cover uses the CX4713 website photograph for this draft."
     }

@@ -1,0 +1,822 @@
+{
+  "schema_version": 1,
+  "model": "CX3180g",
+  "items": [
+    {
+      "id": "cx3180g-5914f81c8da8",
+      "original_filename": "10_CX3702_RACK EARS.jpg",
+      "local_path": "illustrations/3u/CX3180g/10_CX3702_RACK EARS.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1339781,
+      "sha256": "498796496c19f07db170d424368bd33d670a769a8761a3d1802c6b8fddd9373a",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/10_CX3702_RACK EARS-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-85824f584076",
+      "original_filename": "11a_CX3702_TRAY UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3180g/11a_CX3702_TRAY UNSCREW.jpg",
+      "width_px": 3729,
+      "height_px": 2663,
+      "format": "JPEG",
+      "size_bytes": 916322,
+      "sha256": "1d3a36a6ae7c4337c19acf6c7439d32c30bb9b8fd960feadc2b1959b4bbfebbf",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/11a_CX3702_TRAY UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-2f0a497f3947",
+      "original_filename": "11b_CX3702_TRAY SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3180g/11b_CX3702_TRAY SLIDE BACK.jpg",
+      "width_px": 4133,
+      "height_px": 2952,
+      "format": "JPEG",
+      "size_bytes": 1201437,
+      "sha256": "7814a44d0deb0f394c1a689e55d7aa1ec026acd892e4113774957378203372ad",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/11b_CX3702_TRAY SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-13ca95450f7d",
+      "original_filename": "11c_CX3702_TRAY SLIDE BACK 2.jpg",
+      "local_path": "illustrations/3u/CX3180g/11c_CX3702_TRAY SLIDE BACK 2.jpg",
+      "width_px": 3729,
+      "height_px": 2663,
+      "format": "JPEG",
+      "size_bytes": 951655,
+      "sha256": "0184ce344953695da3712330a2535672d2fe8ad4711fd7d8a7e68c6e93444abe",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/11c_CX3702_TRAY SLIDE BACK 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-0c89417710d6",
+      "original_filename": "11d_CX3702_TRAY INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/11d_CX3702_TRAY INSTALL.jpg",
+      "width_px": 3195,
+      "height_px": 2282,
+      "format": "JPEG",
+      "size_bytes": 931142,
+      "sha256": "e401eb27d234c45fd22f2f2550223373649f832b100113e297c4e58c7d0ca392",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/11d_CX3702_TRAY INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-b0f8ad702675",
+      "original_filename": "11e_CX3702_TRAY INSTALL 2.jpg",
+      "local_path": "illustrations/3u/CX3180g/11e_CX3702_TRAY INSTALL 2.jpg",
+      "width_px": 3034,
+      "height_px": 2167,
+      "format": "JPEG",
+      "size_bytes": 883067,
+      "sha256": "15fb27d118ba5db971a32ee90700e13e255eb1970a084949dc8b6315291457be",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/11e_CX3702_TRAY INSTALL 2-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-f2591504788d",
+      "original_filename": "11f_CX3702_TRAY INSTALL 3.jpg",
+      "local_path": "illustrations/3u/CX3180g/11f_CX3702_TRAY INSTALL 3.jpg",
+      "width_px": 4581,
+      "height_px": 3272,
+      "format": "JPEG",
+      "size_bytes": 1343649,
+      "sha256": "c7c678e5f9bb9f2e41f5ddd6c251e60ac543aa502363df7d2206d7df7dfc8cdd",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/11f_CX3702_TRAY INSTALL 3-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-25f96326d1fe",
+      "original_filename": "1a_CX3702_LID UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3180g/1a_CX3702_LID UNSCREW.jpg",
+      "width_px": 5817,
+      "height_px": 4155,
+      "format": "JPEG",
+      "size_bytes": 1270468,
+      "sha256": "c41b2f3f774887c39b16502fde0d098eba59f6f9c3b68cfce6641526b722cfc5",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/1a_CX3702_LID UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-71cd834e7bca",
+      "original_filename": "1b_CX3702_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3180g/1b_CX3702_LID SLIDE BACK.jpg",
+      "width_px": 5817,
+      "height_px": 4155,
+      "format": "JPEG",
+      "size_bytes": 635538,
+      "sha256": "22e0b9b68f38a0455b5082bde103dc2deeb3a18bffc22ea890fce53853f6a67f",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/1b_CX3702_LID SLIDE BACK-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-0110abacfdc8",
+      "original_filename": "1c_CX3702_LID REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3180g/1c_CX3702_LID REMOVE.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 2049145,
+      "sha256": "cd7d23d80fdc667d772ea8a871993454517c6d488ef3380cf61bd0ad1f95e186",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/1c_CX3702_LID REMOVE-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-b5d0d95313a5",
+      "original_filename": "3a_CX3702_SIDE FAN BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3180g/3a_CX3702_SIDE FAN BRACKET UNSCREW.jpg",
+      "width_px": 4280,
+      "height_px": 3057,
+      "format": "JPEG",
+      "size_bytes": 1173728,
+      "sha256": "8cd2a85655d25d77b6bce58ccd943da08ff1387a60d7316c41f09eae9446584e",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/3a_CX3702_SIDE FAN BRACKET UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-6a06cc77a427",
+      "original_filename": "3c_CX3702_SIDE FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/3c_CX3702_SIDE FAN INSTALL.jpg",
+      "width_px": 4067,
+      "height_px": 2905,
+      "format": "JPEG",
+      "size_bytes": 558392,
+      "sha256": "49e8272a49560469eca37ba587b2b03f7cfab861f9b36a98a0c95f007426000c",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/3c_CX3702_SIDE FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-3b0d7696dcca",
+      "original_filename": "3d_CX3702_SIDE FAN SCREW INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/3d_CX3702_SIDE FAN SCREW INSTALL.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1176964,
+      "sha256": "123677aba72b22a7f653e1adc0ccaa5fd4a3743ceb905e3278a24baf13c1e1a5",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/3d_CX3702_SIDE FAN SCREW INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-f191049ea2c6",
+      "original_filename": "3e_CX3702_REAR FAN BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3180g/3e_CX3702_REAR FAN BRACKET UNSCREW.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1397937,
+      "sha256": "8645232d33827438c5a340f5d36598576fe395924aad7df7ac25ea98fd4ead8e",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/3e_CX3702_REAR FAN BRACKET UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-d1186873952a",
+      "original_filename": "3f_CX3702_REAR FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/3f_CX3702_REAR FAN INSTALL.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 873698,
+      "sha256": "2af23c0ad75b94f5f53ae7aef9fe79a88ed591ec3c0f88ca7fc83f8bc36ac8e2",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/3f_CX3702_REAR FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-efe1fcabb511",
+      "original_filename": "3i_CX3702_REAR FAN SCREW INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/3i_CX3702_REAR FAN SCREW INSTALL.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1430227,
+      "sha256": "6130f3f14dc27f96a28a2d75b6eee58857c348c20141f840edbccc9702b0a404",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/3i_CX3702_REAR FAN SCREW INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-2643d72a3a70",
+      "original_filename": "4a_CX3702_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/3u/CX3180g/4a_CX3702_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 5319,
+      "height_px": 3799,
+      "format": "JPEG",
+      "size_bytes": 1834501,
+      "sha256": "871628911d7984752759d5481fafe379854d53c4d2f5b207883530a39b63c253",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/4a_CX3702_MOTHERBOARD IO SHIELD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-b362edf4cabb",
+      "original_filename": "4b_CX3702_MOTHERBOARD.jpg",
+      "local_path": "illustrations/3u/CX3180g/4b_CX3702_MOTHERBOARD.jpg",
+      "width_px": 3400,
+      "height_px": 2429,
+      "format": "JPEG",
+      "size_bytes": 629015,
+      "sha256": "eb2edf7dd5edb8c91e41f63559d99df343a0afc2c671584cffb01ddcaf641475",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/4b_CX3702_MOTHERBOARD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-b4d05e4cfd30",
+      "original_filename": "5a_CX3702_PSU BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3180g/5a_CX3702_PSU BRACKET UNSCREW.jpg",
+      "width_px": 4067,
+      "height_px": 2905,
+      "format": "JPEG",
+      "size_bytes": 1089582,
+      "sha256": "a6a117400113e5d4c80beb874b01a3496fa2de5a4b1d882ea249cb037b913576",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/5a_CX3702_PSU BRACKET UNSCREW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-431da2d888e4",
+      "original_filename": "5c_CX3702_PSU.jpg",
+      "local_path": "illustrations/3u/CX3180g/5c_CX3702_PSU.jpg",
+      "width_px": 3719,
+      "height_px": 2656,
+      "format": "JPEG",
+      "size_bytes": 670155,
+      "sha256": "137a1fc87461d1f786d2c0b2e7f6dd89dbce3f13a5aa118c96b74bab614d6a0a",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/5c_CX3702_PSU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-fb2d7abd4654",
+      "original_filename": "7_CX3702_PSU BRACKET INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/7_CX3702_PSU BRACKET INSTALL.jpg",
+      "width_px": 5302,
+      "height_px": 3787,
+      "format": "JPEG",
+      "size_bytes": 2457663,
+      "sha256": "3b57a7dea43a37ad9d954f7b484c08039f538126200502b03c8ae2bd06de9bb4",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/7_CX3702_PSU BRACKET INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-8372dfe8ac89",
+      "original_filename": "8_CX3702_GPU.jpg",
+      "local_path": "illustrations/3u/CX3180g/8_CX3702_GPU.jpg",
+      "width_px": 4864,
+      "height_px": 3474,
+      "format": "JPEG",
+      "size_bytes": 1628719,
+      "sha256": "c78c82f2e2101c47ccfdda51bb2b040c5f9d5588cd634e71fc721b94e32d7be5",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/8_CX3702_GPU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-84b0076cf2cf",
+      "original_filename": "_CX3702_ADVANCED_FRONT VIEW.jpg",
+      "local_path": "illustrations/3u/CX3180g/_CX3702_ADVANCED_FRONT VIEW.jpg",
+      "width_px": 5703,
+      "height_px": 4074,
+      "format": "JPEG",
+      "size_bytes": 1334559,
+      "sha256": "af27ab1ea1fedbd3a49328035b3b4c8452775061bdd6608f92a9509ee119c8fd",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/_CX3702_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-15d4baa0fca0",
+      "original_filename": "_CX3702_rendering.jpg",
+      "local_path": "illustrations/3u/CX3180g/_CX3702_rendering.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1094938,
+      "sha256": "2d152be4928cdd684cad76b2a502ee51554aa68cf567040e474349bb2e9e28cb",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX3180g/_CX3702_rendering-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx3180g-3d266dc8f726",
+      "original_filename": "1a_CX3180g_LID UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3180g/1a_CX3180g_LID UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1769572,
+      "sha256": "3d266dc8f7265897a84c874a95319e5017e84af821593a9a691c7f20f7f92d4c",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-22de83246d7d",
+      "original_filename": "1b_CX3180g_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3180g/1b_CX3180g_LID SLIDE BACK.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3262487,
+      "sha256": "22de83246d7d72e42ab8b21cd2bb72005092247446c4f303a8f44209322ff6cd",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-b3257f9917d7",
+      "original_filename": "1c_CX3180g_LID REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3180g/1c_CX3180g_LID REMOVE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4044602,
+      "sha256": "b3257f9917d7f801cf0358f0729b9cb4f6145b373d3410c57c6b2a17c3c6cbaf",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-f9d6d8695439",
+      "original_filename": "2_CX3180g_FACEPLATE REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3180g/2_CX3180g_FACEPLATE REMOVE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4392014,
+      "sha256": "f9d6d8695439a49c0da59ae4b4d5a57c3e8e1856e1f583784e2d2187f6429385",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-06411512af29",
+      "original_filename": "3a_CX3180g_SIDE FAN BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3180g/3a_CX3180g_SIDE FAN BRACKET UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2871627,
+      "sha256": "06411512af295e4b1b69147c5ddd9ce35059c7d53aa4ae81cc16a855e9acd9bc",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-9540f5276126",
+      "original_filename": "3d_CX3180g_SIDE FAN BRACKET INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/3d_CX3180g_SIDE FAN BRACKET INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2872238,
+      "sha256": "9540f5276126ac13549e0d5ca369f003ed8d9318e6b0c5aa05cdd151d06de5d6",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-78c6d0674490",
+      "original_filename": "3e_CX3180g_REAR FAN BRACKET REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3180g/3e_CX3180g_REAR FAN BRACKET REMOVE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3077062,
+      "sha256": "78c6d0674490936780b0f7c7e991eebfafafd74ef81f07819b2105c24dbf65f4",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-af2ffbf7634f",
+      "original_filename": "3g_CX3180g_REAR FAN BRACKET INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/3g_CX3180g_REAR FAN BRACKET INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3031479,
+      "sha256": "af2ffbf7634f619bfe62e65b875433410e63e6256a94facbbc2dfe42cfa2f890",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-28caeb3eb285",
+      "original_filename": "9_CX3180g_RACK EARS.jpg",
+      "local_path": "illustrations/3u/CX3180g/9_CX3180g_RACK EARS.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2969195,
+      "sha256": "28caeb3eb2852939b57ec073866a5c99d535ea780d142b5c7a4256f47bcbd75a",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-f8549c5c676b",
+      "original_filename": "10a_CX3180g_TRAY UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3180g/10a_CX3180g_TRAY UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2182605,
+      "sha256": "f8549c5c676be2834a9be2377409a4e00431947108d45fdd1b70b68f72cc6cc0",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-f3a4b7289053",
+      "original_filename": "10b_CX3180g_TRAY SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3180g/10b_CX3180g_TRAY SLIDE BACK.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2304643,
+      "sha256": "f3a4b72890539a2afe5a1dbac85451d6a5d2cd63cf833d91e8dab0e15b6a4a28",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-4e870eb8e767",
+      "original_filename": "10c_CX3180g_TRAY SLIDE BACK 2.jpg",
+      "local_path": "illustrations/3u/CX3180g/10c_CX3180g_TRAY SLIDE BACK 2.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2548063,
+      "sha256": "4e870eb8e7671931710302da62ccefdbe43dd7167c2dd92ed36803f465d9c5a4",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-4e870eb8e767",
+      "original_filename": "10d_CX3180g_TRAY INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/10d_CX3180g_TRAY INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2548063,
+      "sha256": "4e870eb8e7671931710302da62ccefdbe43dd7167c2dd92ed36803f465d9c5a4",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-f3a4b7289053",
+      "original_filename": "10e_CX3180g_TRAY INSTALL 2.jpg",
+      "local_path": "illustrations/3u/CX3180g/10e_CX3180g_TRAY INSTALL 2.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2304643,
+      "sha256": "f3a4b72890539a2afe5a1dbac85451d6a5d2cd63cf833d91e8dab0e15b6a4a28",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-f8549c5c676b",
+      "original_filename": "10f_CX3180g_TRAY INSTALL 3.jpg",
+      "local_path": "illustrations/3u/CX3180g/10f_CX3180g_TRAY INSTALL 3.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2182605,
+      "sha256": "f8549c5c676be2834a9be2377409a4e00431947108d45fdd1b70b68f72cc6cc0",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-35f6a5d68632",
+      "original_filename": "CX3180g-CHASSIS_EXPLODE-REV20261123.jpg",
+      "local_path": "illustrations/3u/CX3180g/CX3180g-CHASSIS_EXPLODE-REV20261123.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2568817,
+      "sha256": "35f6a5d686323591faf3f3287431e7f5f3a03336ab94c8c7b7cd42c61c6c7ea1",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g model (scripts/solidedge, make_specs_3u_g15.py; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx3180g-c9dc38b66195",
+      "original_filename": "9a_CX3250g_BAY BANK UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3180g/9a_CX3250g_BAY BANK UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2757969,
+      "sha256": "c9dc38b6619586b2f2f6cd0026d5bb69ae1b410b4f23dd61b94daf80952fc44e",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3250g/: same SA-3000g subfront and bay banks; framed without the tray so it serves every 3U g model (Sliger, 2026-11-23). Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3180g-6c58974a0a58",
+      "original_filename": "9b_CX3250g_BAY BANK SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3180g/9b_CX3250g_BAY BANK SLIDE BACK.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2771358,
+      "sha256": "6c58974a0a58d7f345fab04488ca04922d7b6ed8cdf2aca4926a0a07535d9c8c",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3250g/: same SA-3000g subfront and bay banks; framed without the tray so it serves every 3U g model (Sliger, 2026-11-23). Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (254, 254, 254)."
+    },
+    {
+      "id": "cx3180g-0a823f7f8cd7",
+      "original_filename": "9c_CX3250g_BAY BANK LIFT OUT.jpg",
+      "local_path": "illustrations/3u/CX3180g/9c_CX3250g_BAY BANK LIFT OUT.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2717007,
+      "sha256": "0a823f7f8cd7f699995b7c0cd6979b230e3ea6e419e69dc58b1f4a837bda4d15",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3250g/: same SA-3000g subfront and bay banks; framed without the tray so it serves every 3U g model (Sliger, 2026-11-23). Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3180g-607fed365e1e",
+      "original_filename": "9d_CX3250g_OPTICAL BAY DEVICE.jpg",
+      "local_path": "illustrations/3u/CX3180g/9d_CX3250g_OPTICAL BAY DEVICE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1479199,
+      "sha256": "607fed365e1edfd9d436bb3922fc4185b7b3847c56ad0e3b153234be56a19eab",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3250g/: same SA-3000g subfront and bay banks; framed without the tray so it serves every 3U g model (Sliger, 2026-11-23). Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255). Real 217-477P device screws swapped in at render time (device_screws.py)."
+    },
+    {
+      "id": "cx3180g-d1448f53154a",
+      "original_filename": "9e_CX3250g_BAY DRIVE CAGE.jpg",
+      "local_path": "illustrations/3u/CX3180g/9e_CX3250g_BAY DRIVE CAGE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1938039,
+      "sha256": "d1448f53154a925cc9ef665f7d1bf6f13b4ff38e87d0ff67ed05e8797d0cf227",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3250g/: same SA-3000g subfront and bay banks; framed without the tray so it serves every 3U g model (Sliger, 2026-11-23). Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255). Real 217-477P device screws swapped in at render time (device_screws.py)."
+    },
+    {
+      "id": "cx3180g-343ad7a18fb7",
+      "original_filename": "9f_CX3250g_BAY FILLER.jpg",
+      "local_path": "illustrations/3u/CX3180g/9f_CX3250g_BAY FILLER.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1579866,
+      "sha256": "343ad7a18fb7c21c804ba217153ed1600e958c548d91863878f7c2e178a178cc",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/3u/CX3250g/: same SA-3000g subfront and bay banks; framed without the tray so it serves every 3U g model (Sliger, 2026-11-23). Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+    }
+  ]
+}

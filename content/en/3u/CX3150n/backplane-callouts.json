@@ -1,0 +1,93 @@
+{
+  "asset_key": "_CX4250n_BACKPLANE.jpg",
+  "source_sha256": "6b4776b3c97592471557d7633c238615579a9d39ab8aadba489e1c53530f9aaf",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7526777020447906,
+  "view_box": [
+    0.025,
+    0.34,
+    0.86,
+    0.63
+  ],
+  "badge_radius_height_fraction": 0.023,
+  "font_size_height_fraction": 0.034,
+  "callouts": [
+    {
+      "number": 1,
+      "badge_text": "J13",
+      "label": "J13, bays 9–10 and both front SSD SATA ports",
+      "badge": [
+        0.15,
+        0.54
+      ],
+      "target": [
+        0.133,
+        0.75
+      ]
+    },
+    {
+      "number": 2,
+      "badge_text": "J7",
+      "label": "J7, bays 5–8",
+      "badge": [
+        0.449,
+        0.49
+      ],
+      "target": [
+        0.449,
+        0.66
+      ]
+    },
+    {
+      "number": 3,
+      "badge_text": "J1",
+      "label": "J1, bays 1–4",
+      "badge": [
+        0.773,
+        0.4
+      ],
+      "target": [
+        0.773,
+        0.595
+      ]
+    },
+    {
+      "number": 4,
+      "badge_text": "PWR",
+      "label": "Two 4-pin backplane power inputs",
+      "badge": [
+        0.52,
+        0.89
+      ],
+      "targets": [
+        [
+          0.336,
+          0.714
+        ],
+        [
+          0.657,
+          0.634
+        ]
+      ]
+    },
+    {
+      "number": 5,
+      "badge_text": "SATA",
+      "label": "Two SATA data ports for front SSDs",
+      "badge": [
+        0.069,
+        0.49
+      ],
+      "targets": [
+        [
+          0.059,
+          0.656
+        ],
+        [
+          0.061,
+          0.737
+        ]
+      ]
+    }
+  ]
+}

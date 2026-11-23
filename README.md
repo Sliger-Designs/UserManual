@@ -19,6 +19,7 @@ tools used to translate them.
 | CX2177a | 2U rackmount, 17-inch, four 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2177a/v1.0/CX2177a-en-v1.0.pdf) |
 | CX2177c | 2U rackmount, 17-inch, two external 3.5" bays | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2177c/v1.0/CX2177c-en-v1.0.pdf) |
 | CX2177x | 2U rackmount, 17-inch, internal 3.5" drive cage | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2177x/v1.0/CX2177x-en-v1.0.pdf) |
+| CX2257g | 2U rackmount, 25-inch, four 5.25" bays, FlexATX | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX3150a | 3U rackmount | Released v1.3 (2026-11-13) | [PDF](releases/en/3u/CX3150a/v1.3/CX3150a-en-v1.3.pdf) |
 | CX3150i | 3U rackmount, one 5.25" bay | Released v1.2 (2026-11-13) | [PDF](releases/en/3u/CX3150i/v1.2/CX3150i-en-v1.2.pdf) |
 | CX3150x | 3U rackmount, internal drive bracket | Released v1.2 (2026-11-13) | [PDF](releases/en/3u/CX3150x/v1.2/CX3150x-en-v1.2.pdf) |
@@ -38,6 +39,13 @@ tools used to translate them.
 | CX3172i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, ATX power supply | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3172iXL/v1.1/CX3172iXL-en-v1.1.pdf) |
 | CX3701 | 3U NAS, 15-inch, Mini-ITX, 10 × 3.5" hot-swap | Released v1.0 (2026-11-18) | [PDF](releases/en/3u/CX3701/v1.0/CX3701-en-v1.0.pdf) |
 | CX3702 | 3U NAS, 18-inch, MicroATX, 10 × 3.5" hot-swap | Released v1.0 (2026-11-18) | [PDF](releases/en/3u/CX3702/v1.0/CX3702-en-v1.0.pdf) |
+| CX3150n | 3U NAS, 15-inch, Mini-ITX, 10 × 3.5" backplane hot-swap | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3180n | 3U NAS, 18-inch, MicroATX, 10 × 3.5" backplane hot-swap | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3150g | 3U rackmount, 15-inch, Mini-ITX, six 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3180g | 3U rackmount, 18-inch, MicroATX, six 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3250g | 3U rackmount, 25-inch, six 5.25" bays, SFX, eight slots | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3251g | 3U rackmount, 25-inch, six 5.25" bays, riser GPU | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX3252g | 3U rackmount, 25-inch, six 5.25" bays, ATX PSU, five slots | Review draft (Prototype 0.1) | built by CI and on the site |
 | CX4150a | 4U rackmount | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4150a/v1.1/CX4150a-en-v1.1.pdf) |
 | CX4150e | 4U rackmount, two 5.25" bays | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4150e/v1.1/CX4150e-en-v1.1.pdf) |
 | CX4150i | 4U rackmount, one 5.25" bay | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4150i/v1.1/CX4150i-en-v1.1.pdf) |
@@ -92,7 +100,7 @@ python3 -m venv .venv
 .venv/bin/python scripts/build_manual.py --model S630
 ```
 
-Every model builds the same way (`--model S640`, `CX2130a`, `CX2130c`, `CX2130x`, `CX2137a`, `CX2137b`, `CX2151a`, `CX2151c`, `CX2151x`, `CX2177a`, `CX2177c`, `CX2177x`, `CX3150a`, `CX3150i`, `CX3150x`, `CX3151a`, `CX3151i`, `CX3151x`, `CX3152a`, `CX3152i`, `CX3170a`, `CX3171a`, `CX3172a`, `CX3170aXL`, `CX3170iXL`, `CX3171aXL`, `CX3171iXL`, `CX3172aXL`, `CX3172iXL`, `CX3701`, `CX3702`, `CX4150a`, `CX4150e`, `CX4150i`, `CX4170a`, `CX4170e`, `CX4170i`, `CX4200a`, `CX4200e`, `CX4200f`, `CX4200i`, `CX4712`, `CX4713`, `CX4250n`, `CX4280n`, `CX4250g`, `CX4280g`). A build writes
+Every model builds the same way (`--model S640`, `CX2130a`, `CX2130c`, `CX2130x`, `CX2137a`, `CX2137b`, `CX2151a`, `CX2151c`, `CX2151x`, `CX2177a`, `CX2177c`, `CX2177x`, `CX2257g`, `CX3150a`, `CX3150i`, `CX3150x`, `CX3151a`, `CX3151i`, `CX3151x`, `CX3152a`, `CX3152i`, `CX3170a`, `CX3171a`, `CX3172a`, `CX3170aXL`, `CX3170iXL`, `CX3171aXL`, `CX3171iXL`, `CX3172aXL`, `CX3172iXL`, `CX3701`, `CX3702`, `CX3150n`, `CX3180n`, `CX3150g`, `CX3180g`, `CX3250g`, `CX3251g`, `CX3252g`, `CX4150a`, `CX4150e`, `CX4150i`, `CX4170a`, `CX4170e`, `CX4170i`, `CX4200a`, `CX4200e`, `CX4200f`, `CX4200i`, `CX4712`, `CX4713`, `CX4250n`, `CX4280n`, `CX4250g`, `CX4280g`). A build writes
 standalone HTML, a landscape Letter PDF, a page overview and a validation report under
 `_build/`, and fails if text overflows a page, a link breaks, an image is missing, or
 approved values or wording differ. Released manuals (`release_ready` with a `release_date`) build into

@@ -1953,5 +1953,297 @@
       },
       "derived_from": "CX4712"
     }
+  },
+  "CX3150n": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 381,
+        "width": 431.8,
+        "height": 132.59
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3701-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (15 \u00d7 17 \u00d7 5.22 inches). Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-n.md)."
+    },
+    "rack_ear_screw_count": {
+      "value": 6,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 3U chassis use the same rack ears (CX3150a: six screws). Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-n.md)."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 3,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-n.md)."
+    }
+  },
+  "CX3180n": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 457.2,
+        "width": 431.8,
+        "height": 132.59
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3702-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (18 \u00d7 17 \u00d7 5.22 inches). Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-n.md)."
+    },
+    "rack_ear_screw_count": {
+      "value": 6,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 3U chassis use the same rack ears (CX3150a: six screws). Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-n.md)."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 3,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-n.md)."
+    }
+  },
+  "CX3150g": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 381,
+        "width": 431.8,
+        "height": 132.59
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3701-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (15 \u00d7 17 \u00d7 5.22 inches). Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-g-15-18.md)."
+    },
+    "rack_ear_screw_count": {
+      "value": 6,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 3U chassis use the same rack ears (CX3150a: six screws). Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-g-15-18.md)."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 3,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-n.md). Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-g-15-18.md)."
+    }
+  },
+  "CX3180g": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 457.2,
+        "width": 431.8,
+        "height": 132.59
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3702-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions (18 \u00d7 17 \u00d7 5.22 inches). Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-g-15-18.md)."
+    },
+    "rack_ear_screw_count": {
+      "value": 6,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 3U chassis use the same rack ears (CX3150a: six screws). Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-g-15-18.md)."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 3,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-n.md). Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-g-15-18.md)."
+    }
+  },
+  "CX3250g": {
+    "rack_ear_screw_count": {
+      "value": 6,
+      "source": {
+        "id": "reference_manual",
+        "page": 10,
+        "path": "sources/original/cx3150a-reference.pdf"
+      }
+    },
+    "rack_ear_screws_per_side": {
+      "value": 3,
+      "source": {
+        "id": "reference_manual",
+        "page": 10,
+        "path": "sources/original/cx3150a-reference.pdf"
+      }
+    },
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 635,
+        "width": 431.8,
+        "height": 132.59
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3250g-specs.txt"
+      }
+    }
+  },
+  "CX3251g": {
+    "rack_ear_screw_count": {
+      "value": 6,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 3U chassis use the same rack ears (CX3150a: six screws). Same tray as the CX3151a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 3,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "Same tray as the CX3151a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 635,
+        "width": 431.8,
+        "height": 132.59
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3251g-specs.txt"
+      }
+    }
+  },
+  "CX3252g": {
+    "psu_length_max_mm": {
+      "value": 270,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3152a-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Includes connectors (ATX PSU). Same tray as the CX3152a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "rack_ear_screw_count": {
+      "value": 6,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 3U chassis use the same rack ears (CX3150a: six screws). Same tray as the CX3152a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 3,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "Same tray as the CX3152a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 635,
+        "width": 431.8,
+        "height": 132.59
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx3252g-specs.txt"
+      }
+    }
+  },
+  "CX2257g": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 635,
+        "width": 431.8,
+        "height": 87.88
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-CX2257g.md"
+      },
+      "note": "Depth 25 inches (Sliger, 2026-11-23); width and height as the other 2U chassis. The website page lists no outer dimensions."
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 2U chassis use the same rack ears; the CX2177a/x renders show two M4 screws per side."
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      }
+    },
+    "psu_length_max_mm": {
+      "value": 210,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2257g-specs.txt"
+      },
+      "note": "FlexATX; longer PSUs interfere with c and x variant hardware."
+    }
   }
 }

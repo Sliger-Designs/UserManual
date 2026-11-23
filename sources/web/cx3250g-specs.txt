@@ -9,7 +9,6 @@ Deep MicroATX (L x W: 265mm x 267mm) [10.4" x 10.5"]
 ATX (L x W: 305mm x 244mm) [12" x 9.6"]
 EATX (L x W: 305mm x 267mm) [12" x 10.5"]
 SSI-CEB (L x W: 305mm x 267mm) [12" x 10.5"]
-XL-ATX/EATX (L x W: 325mm x 330mm) [12.8" x 13"]
 CPU Air Coolers
 Max Height: 110mm
 RECOMMENDED CPU COOLERS

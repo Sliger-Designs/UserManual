@@ -634,12 +634,7 @@
     "width": 17,
     "height": 6.96
   },
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "Backplane power cable photo or render for the NAS kit page (item L). A grey placeholder marks it."
-    }
-  ],
+  "missing_assets": [],
   "cover_description": "25\" DEEP 4U CHASSIS",
   "cover_description_detail": [
     "2 × 5.25\" BAYS",

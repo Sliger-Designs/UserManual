@@ -1,0 +1,401 @@
+{
+  "10_CX2257g_RACK EARS.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-778ffa8ed6c5.jpg",
+    "source_path": "illustrations/2u/CX2257g/10_CX2257g_RACK EARS.jpg",
+    "source_sha256": "778ffa8ed6c5ced5e29356d258d0c97c607bcd2b0ed07558b968ff52a51ec917",
+    "sha256": "92a865bf6683619eaae91712a3c607f6b6f2a607ad133c0c13c4f1a925834eb7",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "11a_CX2257g_BAY BANK UNSCREW.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-ecd4378b5471.jpg",
+    "source_path": "illustrations/2u/CX2257g/11a_CX2257g_BAY BANK UNSCREW.jpg",
+    "source_sha256": "ecd4378b5471c37b40b2d6d8c7a6901be604fa662ef97f4fd1d630d74cb0c3fd",
+    "sha256": "36adea053ac9d7409f4cf74d37931dcd4cdbe9beb1154b970104c17b10681c8d",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "11b_CX2257g_BAY BANK SLIDE BACK.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-16f179ece4cd.jpg",
+    "source_path": "illustrations/2u/CX2257g/11b_CX2257g_BAY BANK SLIDE BACK.jpg",
+    "source_sha256": "16f179ece4cdfbcb12f57fe9b91f0d1a9ee88b71fd93c7ea8fc55347ff92d3a8",
+    "sha256": "b6fc55c6db07b62c38df7a73418e61936939562c6211de074e84beb8ce93aa04",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "11c_CX2257g_BAY BANK LIFT OUT.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-2a5b30f7d626.jpg",
+    "source_path": "illustrations/2u/CX2257g/11c_CX2257g_BAY BANK LIFT OUT.jpg",
+    "source_sha256": "2a5b30f7d626cb70def34ba7f365d6b9cc3cbfd197ffcfcf07697512d52994b8",
+    "sha256": "72840dbfd66bc9c5283a9b6d00e4fcff935be36a7d74dcd60ad0d300edf026f5",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "11d_CX2257g_OPTICAL BAY DEVICE.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-19433f830581.jpg",
+    "source_path": "illustrations/2u/CX2257g/11d_CX2257g_OPTICAL BAY DEVICE.jpg",
+    "source_sha256": "19433f830581a11889d9b8b99da9eb8a446bc0f5d9f0f30929672659ceeb1153",
+    "sha256": "2c16a4b35846b51694724315862d20b8d85112fb4271c268882660561ef4e744",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "11e_CX2257g_BAY DRIVE CAGE.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-eeff5d638115.jpg",
+    "source_path": "illustrations/2u/CX2257g/11e_CX2257g_BAY DRIVE CAGE.jpg",
+    "source_sha256": "eeff5d638115ddc66c1e37fbaaac383e2bbb04db92fbbe5b3cb16e03cc213adc",
+    "sha256": "4a25418de925242cfb8d07aacd3ff8bf07c80c350d244a98185f3d42e5052876",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "11f_CX2257g_BAY FILLER.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-3ea1327384db.jpg",
+    "source_path": "illustrations/2u/CX2257g/11f_CX2257g_BAY FILLER.jpg",
+    "source_sha256": "3ea1327384db458fb85662f00faabbd509b26c5a82e26ce2ac3b64ba32ba11cf",
+    "sha256": "8cd7fc440585552e5ef7d87d41afca62d509ac9bf8816a67ed97241d30517b35",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1a_CX2257g_LID UNSCREW.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-a87efa8ac931.jpg",
+    "source_path": "illustrations/2u/CX2257g/1a_CX2257g_LID UNSCREW.jpg",
+    "source_sha256": "a87efa8ac931a8ed0f732b45d629e0e05e5a34c7271d572e5a9d0f1e8800738a",
+    "sha256": "de7709fa42c6118c35e5b7c25bace5fe58bce5a166656835ca319a8f507b2a45",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1b_CX2257g_LID SLIDE BACK.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-f523653baab5.jpg",
+    "source_path": "illustrations/2u/CX2257g/1b_CX2257g_LID SLIDE BACK.jpg",
+    "source_sha256": "f523653baab52e69840d3fc108e3a26931c2cde348b7ca65891d24637f8655a4",
+    "sha256": "153e3d816e6a445f0aaa243088668b033de999b98efc1201a378f3788bb899fe",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1c_CX2257g_LID REMOVE.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-d87f3029eef7.jpg",
+    "source_path": "illustrations/2u/CX2257g/1c_CX2257g_LID REMOVE.jpg",
+    "source_sha256": "d87f3029eef7f2f7c8f826f9409358ccfa78d42b871af64ea4aecc89ffddfe5b",
+    "sha256": "7b71e7d610d7c5f42b2d81777bb107777213ee8bfeeeacdc98033aed81c477ea",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "2_CX2257g_FACEPLATE REMOVE.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-3f3764b61a38.jpg",
+    "source_path": "illustrations/2u/CX2257g/2_CX2257g_FACEPLATE REMOVE.jpg",
+    "source_sha256": "3f3764b61a385a6b5753e7fd75f71044565b58a0cf9c7e527b1da8699b474146",
+    "sha256": "3d5d61681a5d7fe95487419fa9a438e674607c9f745710f258589b9164e0aa20",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3_CX2257g_FAN INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-c173cf11b6fa.jpg",
+    "source_path": "illustrations/2u/CX2257g/3_CX2257g_FAN INSTALL.jpg",
+    "source_sha256": "c173cf11b6fa06e822763652294a23466e0e9b204aa8b836552710d19b0587ae",
+    "sha256": "cd8dca5d9845848ff19a8194ea8b8756e3eab5fe6a0fb88bf1b1d44e2b365892",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3a1_CX2257g_FAN BRACKET REMOVE.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-1ba2350e0ab6.jpg",
+    "source_path": "illustrations/2u/CX2257g/3a1_CX2257g_FAN BRACKET REMOVE.jpg",
+    "source_sha256": "1ba2350e0ab6cfc7fc453d7ebf52f82f24b8a23b35d87d09ab70a79b302fbf15",
+    "sha256": "27a9a7f77887742caebb1a87d80aca942ea94ef1afc96c0d6aed500472514304",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3f_CX2257g_FAN BRACKET INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-ec24574ee580.jpg",
+    "source_path": "illustrations/2u/CX2257g/3f_CX2257g_FAN BRACKET INSTALL.jpg",
+    "source_sha256": "ec24574ee5806b206d2db1fdd4964751a6fc72acffb9a33775fb914c3422d0c2",
+    "sha256": "25e9c2fc7b036bd6389859c620a5c188e6335d8fd78ef3344c37b70b9b4109c3",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3g_CX2257g_FAN BRACKET INSTALLED.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-02e79ccb217b.jpg",
+    "source_path": "illustrations/2u/CX2257g/3g_CX2257g_FAN BRACKET INSTALLED.jpg",
+    "source_sha256": "02e79ccb217bc77f6fa1bb3724cd18af7ff0b178b9d3e8df45248f6d1f294818",
+    "sha256": "3eef5d5ace9537849e61f765f1c39ee34a74d7004338fde0b81259a13a101f4d",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4a_CX2257g_DRIVE BRACKET UNSCREW.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-227d365ad833.jpg",
+    "source_path": "illustrations/2u/CX2257g/4a_CX2257g_DRIVE BRACKET UNSCREW.jpg",
+    "source_sha256": "227d365ad833eea93a691bdd68a946ba8bf2aca2690243fc7e5cbdd3d1b515de",
+    "sha256": "8dfb908188c5c8497a5ad828451724cada8a881aec8b8c9682c17399f2bbba14",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4b_CX2257g_DRIVE BRACKET REMOVE.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-af58d1d8bb3b.jpg",
+    "source_path": "illustrations/2u/CX2257g/4b_CX2257g_DRIVE BRACKET REMOVE.jpg",
+    "source_sha256": "af58d1d8bb3b4ea2aa6e6f4afca23f6c56c40a38a69321fb8514c20ad1143884",
+    "sha256": "fdef8bbc0a4db21e70c682331f421bf9e9cb9c3fb865bcddb1825b45300a0378",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-51030aaeb760.jpg",
+    "source_path": "illustrations/2u/CX2257g/4c_CX2177a_DRIVE BRACKET SSD INSTALL.jpg",
+    "source_sha256": "f451bdfd1d225364277f66df41fec25ee71ff428fa357586bd829487dc827efb",
+    "sha256": "df3c8cfb2f0f87c357d0885b8890f731eadddfb20acd71527833e5a245ac5b5f",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 14379420,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2257g/4c_CX2177a_DRIVE BRACKET SSD INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "ffba6582ce397cee6010b3a4fad6b4fa96f24add512030354af49fda0a8708d0"
+    }
+  },
+  "4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-8b3795d832dd.jpg",
+    "source_path": "illustrations/2u/CX2257g/4d_CX2177a_DRIVE BRACKET HDD INSTALL.jpg",
+    "source_sha256": "d9cfe73bcf1283be4c51c01afae8af9df8441c5c43a20974161154fc96a1a1ba",
+    "sha256": "a8d4f4a552ada5ba3ef54abb68b7d4a9f7bee6dd9214951397448bbd44afd4f7",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9839131,
+      "total_pixels": 11461166,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2257g/4d_CX2177a_DRIVE BRACKET HDD INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4006,
+        2861
+      ],
+      "full_resolution_sha256": "d43f88c02f5f81d1bbdd311beb8c136d26024cecf6dead18ebe0efc693d48f37"
+    }
+  },
+  "5a_CX2257g_STANDOFF INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-87944a9a009c.jpg",
+    "source_path": "illustrations/2u/CX2257g/5a_CX2257g_STANDOFF INSTALL.jpg",
+    "source_sha256": "87944a9a009c16e5b4cbb3845c0538f66ca3174752dd0eaffbac16b24954937d",
+    "sha256": "90d547f5c7e0c4b97db6af6e1a3dc6459b3f024c0fbab03a44f6c8cf7c6dff8f",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "6a_CX2177a_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-7da511ac2852.jpg",
+    "source_path": "illustrations/2u/CX2257g/6a_CX2177a_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "3f3f3b171fab6330dc2a5ba51bb7d4f60150bf7a181169b33cad49cc962907bb",
+    "sha256": "effd762482d269cffad9fedfb0e693527ee36e5ff988fb62d830d2c28474bb6b",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 15541267,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2257g/6a_CX2177a_MOTHERBOARD IO SHIELD-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "fab45a933ed564ed7b6ba81c3dca4a7d83f4745a50e5715144a301c9a0f5f3d1"
+    }
+  },
+  "6b_CX2257g_MOTHERBOARD.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-ca2d08be894d.jpg",
+    "source_path": "illustrations/2u/CX2257g/6b_CX2257g_MOTHERBOARD.jpg",
+    "source_sha256": "ca2d08be894dabd93717b848e20a57cd2785c1acd25672ba00b2a3fc462fe9d6",
+    "sha256": "e03c6a53273cdac02af04d1a0b717da7a7b152154d2231e369430fe4cf7d80c0",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "7_CX2257g_PSU.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-dd322f3610dc.jpg",
+    "source_path": "illustrations/2u/CX2257g/7_CX2257g_PSU.jpg",
+    "source_sha256": "dd322f3610dc05023d87ee6a738f7b7bdc802b5d1985ccb085a8e6b05885b04a",
+    "sha256": "249c90dbd1ba2028bbc369b186bfa09ed9400682dccfead8ed478f94d718637b",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "8_CX2257g_GPU.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-746ab23d4e26.jpg",
+    "source_path": "illustrations/2u/CX2257g/8_CX2257g_GPU.jpg",
+    "source_sha256": "746ab23d4e26e0898fad9620c5692b866f93d900e57896e5216077b881faff12",
+    "sha256": "cd81a61463fba6a2bbef2a0f6587f22af592b460679bde21c09640dc2a0b1056",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9a_CX2257g_DRIVE BRACKET SCREW IN.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-cfb2b21954a9.jpg",
+    "source_path": "illustrations/2u/CX2257g/9a_CX2257g_DRIVE BRACKET SCREW IN.jpg",
+    "source_sha256": "cfb2b21954a9d4d979ac266e912aa985e6b9c45e260ac9486cf83d7665b6b257",
+    "sha256": "c27ccea175912506f1aafb1c907089d62c4d23ad08222e29220020c8c52de586",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9b_CX2257g_DRIVE BRACKET SIDE SCREW IN.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-bafed8088d7b.jpg",
+    "source_path": "illustrations/2u/CX2257g/9b_CX2257g_DRIVE BRACKET SIDE SCREW IN.jpg",
+    "source_sha256": "bafed8088d7b02ba0c2cc0a299ec9ad3878a0debfb6d58c2e03f002523e69dd9",
+    "sha256": "ec1560708fca1ee866214cd94c3ed192099cbdaba4033c56e5d9ca59a40e951c",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX2257g-CHASSIS_EXPLODE-REV20261123.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-f832f2897c08.jpg",
+    "source_path": "illustrations/2u/CX2257g/CX2257g-CHASSIS_EXPLODE-REV20261123.jpg",
+    "source_sha256": "f832f2897c089c6c273423f5226804a68e1f737fea75fae9751afa262fa37e4d",
+    "sha256": "e9420e7b6036b072d9cbbe6bbaaeb32418276a30494058740e7cd0aa46155609",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "L34a_CX2257g_FAN GUARDS OFF.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-8a517cbd45bf.jpg",
+    "source_path": "illustrations/2u/CX2257g/L34a_CX2257g_FAN GUARDS OFF.jpg",
+    "source_sha256": "8a517cbd45bfeade2fc63ccba21f5185f86c874c0156594695a7be5290d2890a",
+    "sha256": "0049ac33332427ccd23a3cf107a5de37bc3370fff655fd07986770bf20cf3da9",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "L34b_CX2257g_RADIATOR INSTALL.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-3d06b079c54c.jpg",
+    "source_path": "illustrations/2u/CX2257g/L34b_CX2257g_RADIATOR INSTALL.jpg",
+    "source_sha256": "3d06b079c54c502d4b99fa12d87315466615861d2cf8639b2620cac4a0ad12d5",
+    "sha256": "428bfa1a0dda0b3bac514c914ac2507cef0aae1367655b70149c2a61397e8f59",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  }
+}

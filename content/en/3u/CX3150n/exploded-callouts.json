@@ -1,0 +1,77 @@
+{
+  "asset_key": "CX3150n-CHASSIS_EXPLODE-REV20261123.jpg",
+  "source_sha256": "71bc2a0bb7b9cec63badbe509474601386d39ca30433c22a74cbed39cc21be5e",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.770956316410862,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the CX3150n exploded view 2026-11-23 (lid and faceplate exploded, as the CX3180n view); review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.6,
+        0.2
+      ],
+      "badge": [
+        0.12,
+        0.15
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.25,
+        0.65
+      ],
+      "badge": [
+        0.05,
+        0.88
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.55,
+        0.72
+      ],
+      "badge": [
+        0.5,
+        0.95
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.585,
+        0.8
+      ],
+      "badge": [
+        0.65,
+        0.95
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Chassis wrap",
+      "target": [
+        0.8,
+        0.65
+      ],
+      "badge": [
+        0.88,
+        0.85
+      ]
+    }
+  ]
+}
