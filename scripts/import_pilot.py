@@ -43,14 +43,13 @@ FIELDS = {
     'gpu_length_fans_aio_mm': 'Max GPU Length(fans+AIO)(mm)',
     'gpu_length_max_cooling_mm': 'MAX GPU Length (Max cooling)',
 }
-# Models not in the catalog CSVs (website concepts). Their record starts from the facts of the
-# model whose chassis they share (same wrap and front; the website specs match apart from the
-# storage wiring) and takes its own values from products/supplemental.json and overrides.json.
-# The basis is recorded in sources/decisions/.
-DERIVED = {
-    'CX4250n': {'base': 'CX4712', 'website': 'sources/web/cx4250n-specs.txt',
-                'decision': 'sources/decisions/2026-11-20-CX4250n.md'},
-}
+# Models without a usable catalog row yet (website concepts; the compatibility sheet has only a
+# few columns for them and bulk-create none). Their record starts from the facts of the model
+# whose chassis they share (same wrap and front) and takes its own values from
+# products/supplemental.json and overrides.json; `drop` removes base facts that do not apply.
+# The basis is recorded in sources/decisions/. Move a model to the normal import once its
+# catalog rows are filled in.
+DERIVED = {}
 NUMBERS = {'depth_in', 'width_in', 'volume_l', 'ssd_2_5_max', 'hdd_3_5_max',
            'air_cooler_height_max_mm', 'gpu_height_max_mm', 'gpu_length_baseline_mm',
            'gpu_length_fans_only_mm', 'gpu_length_fans_aio_mm', 'gpu_length_max_cooling_mm'}
@@ -98,6 +97,9 @@ ISSUES = {
     'CX4712': [],
     'CX4713': [],
     'CX4250n': [],
+    'CX4280n': [],
+    'CX4250g': [],
+    'CX4280g': [],
     'S630': ['S600-02', 'S600-03'],
     'S640': ['S640-01', 'S600-02', 'S600-03'],
 }
@@ -145,7 +147,8 @@ def main():
         if sku in DERIVED:
             derived = DERIVED[sku]
             base = json.loads((ROOT / 'products' / (derived['base'] + '.json')).read_text(encoding='utf-8'))
-            facts = {field: {**evidence, 'derived_from': derived['base']} for field, evidence in base['facts'].items()}
+            facts = {field: {**evidence, 'derived_from': derived['base']} for field, evidence in base['facts'].items()
+                     if field not in derived.get('drop', [])}
             for field, evidence in supplemental.get(sku, {}).items():
                 facts[field] = evidence
             for field, decision in overrides.get(sku, {}).items():
@@ -153,7 +156,7 @@ def main():
             record = {
                 'schema_version': 1, 'sku': sku, 'status': 'draft', 'release_ready': False,
                 'review_issues': ISSUES[sku],
-                'authority': (f"Not in the catalog CSVs. Facts start from {derived['base']} (same chassis; "
+                'authority': (f"No usable catalog rows yet. Facts start from {derived['base']} (same chassis; "
                               f"see {derived['decision']}); explicit decisions in products/overrides.json and "
                               f"products/supplemental.json take precedence."),
                 'derived_from': derived,

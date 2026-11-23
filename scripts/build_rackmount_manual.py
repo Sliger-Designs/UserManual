@@ -176,6 +176,12 @@ def build(model, browser_path, public_preview=False, localizer=None, html_only=F
         sections, contact = split_contact(item['layout'], sections)
         page['contact_html'] = keep_units_together(contact)
         page['html'] = keep_units_together(''.join('<div class="reference-section">' + section + '</div>' for section in sections) if len(sections) > 1 else (sections[0] if sections else ''))
+        if item.get('layout_variant') == 'visual-left':
+            # Text before the chosen step heading sits above the illustration in the left column;
+            # the rest fills the right column.
+            headings = [match.start() for match in re.finditer('<h3', page['html'])]
+            cut = headings[item['split_before_heading'] - 1]
+            page['html'], page['html_right'] = page['html'][:cut], page['html'][cut:]
         page['images'] = []
         page['side_notes'] = top_view_drawing(item)
         for name in item['images']:

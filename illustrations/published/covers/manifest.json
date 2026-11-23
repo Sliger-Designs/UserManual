@@ -688,5 +688,35 @@
       2400,
       1347
     ]
+  },
+  "CX4280n": {
+    "path": "illustrations/published/covers/CX4713-95fb52150f71.jpg",
+    "sha256": "830d5438e4e55665678b5970d56ca0a34fc2664d978d02ec6d16c8ed82d5d939",
+    "source_path": "sources/web/covers/CX4713-95fb52150f71.webp",
+    "source_sha256": "95fb52150f7197099035d5cf4d8371d1c43ff75f93040a33eaab24d5f6fddf37",
+    "product_url": "https://sliger.com/products/cx4713",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/17.webp",
+    "retrieved_at": "2026-11-04T22:44:11.990856+00:00",
+    "selection": "CX4713 website photograph used provisionally for the CX4280n prototype.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      870
+    ]
+  },
+  "CX4280g": {
+    "path": "illustrations/published/covers/CX4250g-b6059ff4bea4.jpg",
+    "sha256": "596ee7d1a491449955be43a841959c311edaf9bb1b078c858a868b8d5897c56b",
+    "source_path": "sources/web/covers/CX4250g-b6059ff4bea4.webp",
+    "source_sha256": "b6059ff4bea430dea3e7ee126baebda8c32d31870d35297d1d04631f44846514",
+    "product_url": "https://sliger.com/products/cx4250g",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1344.webp",
+    "retrieved_at": "2026-11-20T20:41:08.122768+00:00",
+    "selection": "CX4250g product photograph used provisionally for CX4280g.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      1347
+    ]
   }
 }

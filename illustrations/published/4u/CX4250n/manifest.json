@@ -671,35 +671,6 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg": {
-    "path": "illustrations/published/4u/CX4250n/cx4250n-04601cb898a9.jpg",
-    "source_path": "illustrations/4u/CX4250n/CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
-    "source_sha256": "ccc0c29a2ce8c8be42b28490d255263053fa885cb7643030995a0ace9511e9bd",
-    "sha256": "81656f56d6c70aa164212313e977767da198676b0eecb9f4e17728b3e1bb2269",
-    "dimensions_px": [
-      1697,
-      1400
-    ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 12645591,
-      "total_pixels": 22308000,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX4250n/CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105-white.png",
-      "full_resolution_dimensions_px": [
-        5200,
-        4290
-      ],
-      "full_resolution_sha256": "7a92d2d3bcbfd96147fea5da0a4b395cd950eb7b8f227aba4a2a594645702bd1"
-    }
-  },
   "_CX4250n-Explode.jpg": {
     "path": "illustrations/published/4u/CX4250n/cx4250n-8600306abc05.jpg",
     "source_path": "illustrations/4u/CX4250n/_CX4250n-Explode.jpg",
@@ -810,5 +781,17 @@
       ],
       "full_resolution_sha256": "6d820fc023ca41f70d0beeef1137fe651e55f31e5d9bab42b28c3b8bccc3738a"
     }
+  },
+  "CX4250n_CABLE MANAGEMENT.jpg": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-8781ec291d5a.jpg",
+    "source_path": "illustrations/4u/CX4250n/CX4250n_CABLE MANAGEMENT.jpg",
+    "source_sha256": "8781ec291d5a421665f7f4d1889e0bd4722c020c6b01b5b28ffd2c3e072cd9c5",
+    "sha256": "34a7f3bbaae3913e19c60fcd577656074187c30c8d8c828f5b3508ee96bd40f5",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "Fit within 1800x1400 without upscaling; no crop; JPEG quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

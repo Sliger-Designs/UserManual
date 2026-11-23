@@ -1,0 +1,19 @@
+{
+  "asset_key": "_CX4280n-Explode.jpg",
+  "source_sha256": "aa62a3b4cf14ac0459c639ff56a93933a74fa3883dd642bab61eabe2e62d862e",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.772,
+  "view_box": [0, 0, 1, 1],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the hand-framed CX4280n exploded render.",
+  "callouts": [
+    {"number": 1, "label": "Lid", "target": [0.57, 0.24], "badge": [0.41, 0.11]},
+    {"number": 2, "label": "Faceplate and dust filter", "target": [0.13, 0.66], "badge": [0.029, 0.66]},
+    {"number": 3, "label": "Front I/O assembly", "target": [0.414, 0.80], "badge": [0.415, 0.963]},
+    {"number": 4, "label": "Rack ear & pull handle", "target": [0.446, 0.83], "badge": [0.52, 0.944]},
+    {"number": 5, "label": "5.25-inch bay fillers", "target": [0.231, 0.528], "badge": [0.105, 0.37]},
+    {"number": 6, "label": "Chassis wrap", "target": [0.77, 0.645], "badge": [0.80, 0.81]},
+    {"number": 7, "label": "Motherboard tray", "target": [0.932, 0.40], "badge": [0.977, 0.32]}
+  ]
+}

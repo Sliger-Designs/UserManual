@@ -39,10 +39,9 @@
       "name": "Backplane power cables",
       "quantity": "3",
       "description": "One dual 4-pin to EPS cable and two single 4-pin to 6-pin PCIe cables, from the PSU to the backplane.",
-      "image": "",
+      "image": "common/hardware/Backplane power cables (CX-NAS-HWKIT L).jpg",
       "reference": "backplane power cables",
-      "large_image": true,
-      "artwork_pending": "Backplane power cable image pending"
+      "large_image": true
     },
     {
       "letter": "M",

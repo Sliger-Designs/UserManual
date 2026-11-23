@@ -1,0 +1,797 @@
+{
+  "_CX4280n-Explode.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-aa62a3b4cf14.jpg",
+    "source_path": "illustrations/4u/CX4280n/_CX4280n-Explode.jpg",
+    "source_sha256": "aa62a3b4cf14ac0459c639ff56a93933a74fa3883dd642bab61eabe2e62d862e",
+    "sha256": "59445d1953ccc6d986198ce2af9f340df24f13162477f73f83a657af1df48668",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX4713_ADVANCED TOP VIEW.jpg": {
+    "path": "illustrations/published/4u/CX4713/cx4713-4e2123fe35e3.jpg",
+    "source_path": "illustrations/4u/CX4713/_CX4713_ADVANCED TOP VIEW.jpg",
+    "source_sha256": "749c6a8f7a92e90fff647e333d0f3946239f8992b21e4a97327bb1a17790d700",
+    "sha256": "cee43cb086dfd6cee51ed3166c12d3e03010293b13dafb0e47214b28c11ca830",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10082081,
+      "total_pixels": 13924910,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4713/_CX4713_ADVANCED TOP VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        4415,
+        3154
+      ],
+      "full_resolution_sha256": "918365c74dc2f1e6a1965caf67e026e5266d5a0c450044ef201d60eb68b25cae"
+    }
+  },
+  "_CX4713_ADVANCED FRONT VIEW.jpg": {
+    "path": "illustrations/published/4u/CX4713/cx4713-947042ad050e.jpg",
+    "source_path": "illustrations/4u/CX4713/_CX4713_ADVANCED FRONT VIEW.jpg",
+    "source_sha256": "a92385d089eafd1b106f4615ac902ab69bd03397463bfc36eeb7aae5ca645307",
+    "sha256": "8d0d18953aff72fec1fbed5839c7a7ac9efce3df7f1f668d381a4d8a20cd986c",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 7033627,
+      "total_pixels": 11484640,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4713/_CX4713_ADVANCED FRONT VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        4010,
+        2864
+      ],
+      "full_resolution_sha256": "6a53b6a504aa5499de94029ca6eb3fb130144f9759e2f835c16fd5fc93fea845"
+    }
+  },
+  "_CX4712_FRONT.tif": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-e1aa25bda599.jpg",
+    "source_path": "illustrations/4u/CX4250n/_CX4712_FRONT.tif",
+    "source_sha256": "c5a59961c4f7bb0365be4e1c6f504fb7cdc9786335108349eda4e60ffea3ab66",
+    "sha256": "d21b7db7ba391b51ef625f0f53dd789e04ce2038b1f00c46e5f9b11f637d8acf",
+    "dimensions_px": [
+      1800,
+      900
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 8146182,
+      "total_pixels": 28925618,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4250n/_CX4712_FRONT-white.png",
+      "full_resolution_dimensions_px": [
+        7606,
+        3803
+      ],
+      "full_resolution_sha256": "6d820fc023ca41f70d0beeef1137fe651e55f31e5d9bab42b28c3b8bccc3738a"
+    }
+  },
+  "1a_CX4280n_LID UNSCREW.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-1613a4983637.jpg",
+    "source_path": "illustrations/4u/CX4280n/1a_CX4280n_LID UNSCREW.jpg",
+    "source_sha256": "1613a4983637babe39f0b902eb0214bb4a236f34b39aac7599977b107388d417",
+    "sha256": "cfdf3237e39de86b8f4c92d038ab2a0e9502517d823a0f4896073eeb29e6855c",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1b_CX4280n_LID SLIDE BACK.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-5dc69f270c9b.jpg",
+    "source_path": "illustrations/4u/CX4280n/1b_CX4280n_LID SLIDE BACK.jpg",
+    "source_sha256": "5dc69f270c9bea04394985b01ab6b7f920d953c575dd17d23d0240c0d7787c6f",
+    "sha256": "74db1e7e53e8cb7b8cea09a5bbb7e20cc1d11ed5a87d4706fa81c2fdd3bc9115",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1c_CX4280n_LID REMOVE.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-4e78ea80f7e5.jpg",
+    "source_path": "illustrations/4u/CX4280n/1c_CX4280n_LID REMOVE.jpg",
+    "source_sha256": "4e78ea80f7e5e27490d121e4155441c399264ffd065094603480e1039c8f6544",
+    "sha256": "b778ed94c0ffc63b00e548bb3645841c834fcd2759620b473b768e30acdfd082",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "2_CX4280n_FACEPLATE REMOVE.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-23f3b355766c.jpg",
+    "source_path": "illustrations/4u/CX4280n/2_CX4280n_FACEPLATE REMOVE.jpg",
+    "source_sha256": "23f3b355766c90e77583c15404d4cea9489b0de801416d4a58457fdc4c96df55",
+    "sha256": "86a1b8a9a4aceba2c9e6347b8f6406d76600071bd7c8521de86c89255ac7d941",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5a_CX4280n_TRAY UNSCREW.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-cdd9cfc400c5.jpg",
+    "source_path": "illustrations/4u/CX4280n/5a_CX4280n_TRAY UNSCREW.jpg",
+    "source_sha256": "cdd9cfc400c53ceff67e5840d93a34d3e906919d946554627c2e3df5969d910a",
+    "sha256": "f9a19037f1cf647ea139eb4b1bb692aa592aba8dcaf64ae464b6a6400b8c70b3",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5b_CX4280n_TRAY SLIDE BACK.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-1dfda4bed76d.jpg",
+    "source_path": "illustrations/4u/CX4280n/5b_CX4280n_TRAY SLIDE BACK.jpg",
+    "source_sha256": "1dfda4bed76d7bd5509589933dccea613cce16209cd85226a954e6a8ed012d26",
+    "sha256": "1811299f1bc6c61c0f8bd130e53b8727f63c59676228d2a43c735cd8da1724a6",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5c_CX4280n_TRAY REMOVE.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-697ec3606f1a.jpg",
+    "source_path": "illustrations/4u/CX4280n/5c_CX4280n_TRAY REMOVE.jpg",
+    "source_sha256": "697ec3606f1a13df935df204637385cbb2e5747cd03b2a7fba09161d84551652",
+    "sha256": "9fd9afdb9f7859ee1117c860bd684dbe5f8eaf611a513fcde7a07218e94a03f5",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "12_CX4250n_RACK EARS.jpg": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-1ff36b6754e9.jpg",
+    "source_path": "illustrations/4u/CX4250n/12_CX4250n_RACK EARS.jpg",
+    "source_sha256": "7fe5878d291c7011777da674ff36a2a475986c4c993fafb2424550b9d762684d",
+    "sha256": "e2ec1e22135a9a2438d26f44bd38f83bed799994ea46d7ca16f23b17f68d75f4",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9a_CX4280n_BAY BRACKET.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-a541f14d2caf.jpg",
+    "source_path": "illustrations/4u/CX4280n/9a_CX4280n_BAY BRACKET.jpg",
+    "source_sha256": "a541f14d2caf6aeba77a625a02fdf4d02258d3513d52c9a2b5e62955cce1af42",
+    "sha256": "903ce4c63208ff44e5453842945b51d8ec79fd58494aa9968122d3fe0daf2e08",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9b_CX4280n_BAY BRACKET SLIDE BACK.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-2df77e89ead5.jpg",
+    "source_path": "illustrations/4u/CX4280n/9b_CX4280n_BAY BRACKET SLIDE BACK.jpg",
+    "source_sha256": "2df77e89ead55452bc49fb4ea1562ba45ceb84447594a057d3f543f033af332b",
+    "sha256": "efffea3581267105ee0efb8717b0021186ff2d909db20f2e2e7e74cce150fe85",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9c_CX4280n_BAY BRACKET REMOVE.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-eb3a721eda7f.jpg",
+    "source_path": "illustrations/4u/CX4280n/9c_CX4280n_BAY BRACKET REMOVE.jpg",
+    "source_sha256": "eb3a721eda7f93cf66b3f530d4855545309d411744f3c520774a14c36fafb85e",
+    "sha256": "fc9f171e77ffba654cb2b2a2c1ccbe9a8916e3cbb1e900968af29ee6ab94b361",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3a1_CX4280n_FAN BRACKET REMOVE.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-f0a037e86e95.jpg",
+    "source_path": "illustrations/4u/CX4280n/3a1_CX4280n_FAN BRACKET REMOVE.jpg",
+    "source_sha256": "f0a037e86e951858178abe4fb551993e68145bb79894fd6e693dcd3c63759a10",
+    "sha256": "b7e2583d23de2e36bcac68390a3b843e617e353a17f6fa937756333b2c3eb117",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3a_CX4712-A_FAN INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-90006f4c3a34.jpg",
+    "source_path": "illustrations/4u/CX4250n/3a_CX4712-A_FAN INSTALL.jpg",
+    "source_sha256": "7f55d01b254f120ef59ac3cc11b55383de7f5823f243cda7063cc337681a858d",
+    "sha256": "88cc16caf6f1ec72cc58ce24c8eeb4f189f9660da0e71d0415d9a282ef4c4442",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11694873,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4250n/3a_CX4712-A_FAN INSTALL-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "22e9e138a85972f581f9eb491d1b71c3f190432f20ea8b5d12a1d4dd7e426448"
+    }
+  },
+  "3b_CX4712-A_FAN INSTALL PRECOOLER.jpg": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-fe8282796238.jpg",
+    "source_path": "illustrations/4u/CX4250n/3b_CX4712-A_FAN INSTALL PRECOOLER.jpg",
+    "source_sha256": "5e7fe6365eaad30edfd55c7ae25ed067ae5b23314dbf6d1517d84390c61e073b",
+    "sha256": "6b59d0bf8e7b95f5c39abf28e65a1540bd4177ee24c43150c3c1c0fc854daec4",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11700458,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4250n/3b_CX4712-A_FAN INSTALL PRECOOLER-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "9bc960c5fb926cc0ab1d6191040e1ca7f93fd0c70338565d856727173d17c12d"
+    }
+  },
+  "3c_CX4712-A_FAN INSTALL + AIO.jpg": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-6c4d39412197.jpg",
+    "source_path": "illustrations/4u/CX4250n/3c_CX4712-A_FAN INSTALL + AIO.jpg",
+    "source_sha256": "61fca7ecb6fb16d728f3a770392196043028ea7dba84d7cf126c8a3687ab8b24",
+    "sha256": "2557868a505f508002c04adc803857586a43d47e41e166a0c6b1db978fb43096",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 14208225,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4250n/3c_CX4712-A_FAN INSTALL + AIO-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "930dffb3219aeb8f0ea2b33081dc8eed5dec38a64421e62faddf9e4ea8409caa"
+    }
+  },
+  "3d_CX4712_FAN INSTALL PULL.jpg": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-7a720086bb47.jpg",
+    "source_path": "illustrations/4u/CX4250n/3d_CX4712_FAN INSTALL PULL.jpg",
+    "source_sha256": "1234f2be16f230b93e05cf6dba93c5f19b58f811ac916269789f1354095040ed",
+    "sha256": "f7b6f1260d7ae18423e6bd132cd7601851673bcbad1b6fa70122c8a63cbdc21d",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 6805344,
+      "total_pixels": 11350989,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4250n/3d_CX4712_FAN INSTALL PULL-white.png",
+      "full_resolution_dimensions_px": [
+        3987,
+        2847
+      ],
+      "full_resolution_sha256": "0a34f85bc144fb8a333a620903c666bf244378a23c061b333f5eabba0e616086"
+    }
+  },
+  "3e_CX4712-A_FAN INSTALL + AIO + PULL.jpg": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-4a9179cb444c.jpg",
+    "source_path": "illustrations/4u/CX4250n/3e_CX4712-A_FAN INSTALL + AIO + PULL.jpg",
+    "source_sha256": "1f33c4f8212289c6670221e105ad9b52ef04f883c2f2f5f911df1acbe030b558",
+    "sha256": "2655de95e84d7588109b7a3a3f7ce0a6242ac3918bdb5e417ea992d4f0851894",
+    "dimensions_px": [
+      1800,
+      1285
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10836067,
+      "total_pixels": 16235040,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4250n/3e_CX4712-A_FAN INSTALL + AIO + PULL-white.png",
+      "full_resolution_dimensions_px": [
+        4768,
+        3405
+      ],
+      "full_resolution_sha256": "5ec4ffb2259e54aaee33cbe38bcbfc6d3eac964b22eb35859eee1fd49b427b07"
+    }
+  },
+  "3f_CX4280n_FAN BRACKET INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-5daa894ae67b.jpg",
+    "source_path": "illustrations/4u/CX4280n/3f_CX4280n_FAN BRACKET INSTALL.jpg",
+    "source_sha256": "5daa894ae67b5ef7ca00cddf4df09653cab68ad578d5ce70e361c0e2b139c7bc",
+    "sha256": "59415e825395195691110c84c6aad5c9456207a593dbc2a3f8359b98e6b0826b",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3g_CX4280n_FAN BRACKET INSTALLED.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-a151ed353a16.jpg",
+    "source_path": "illustrations/4u/CX4280n/3g_CX4280n_FAN BRACKET INSTALLED.jpg",
+    "source_sha256": "a151ed353a16d9384b241d96de94d593ec7b14440c110c472c7942ae24dd5dc8",
+    "sha256": "49f177773c8a01724d624d85cf7f385bdb0de11a36e05378b229946160fb4df9",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4a_CX4280n_STANDOFF INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-be69a2752762.jpg",
+    "source_path": "illustrations/4u/CX4280n/4a_CX4280n_STANDOFF INSTALL.jpg",
+    "source_sha256": "be69a2752762630c5f2829fb85f242d6bba234ad375c56ded9d396f678688766",
+    "sha256": "75c3d55f2c6d6e62e37ca0b5b498666e19550752e12ed667a018dd94ab3ba786",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "7a_CX4713_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/4u/CX4713/cx4713-d33f91b873fb.jpg",
+    "source_path": "illustrations/4u/CX4713/7a_CX4713_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "32c839843a38602f8b69681f3fc100b50f6d7d8707b310773de1d6e577c37e24",
+    "sha256": "7babbf63e3654273b764fc4272855eb2663fefdd4e18111ba898792cb7488466",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 5081817,
+      "total_pixels": 13522908,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4713/7a_CX4713_MOTHERBOARD IO SHIELD-white.png",
+      "full_resolution_dimensions_px": [
+        4351,
+        3108
+      ],
+      "full_resolution_sha256": "46e6734f3d7b8f2a4b5e8dada7493e997de8ae84e279eebbc3003df0c5e7c5ef"
+    }
+  },
+  "5b_CX4280n_MOTHERBOARD.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-81df1778d564.jpg",
+    "source_path": "illustrations/4u/CX4280n/5b_CX4280n_MOTHERBOARD.jpg",
+    "source_sha256": "81df1778d56413a8bd6937f491dd11d83956cbd562947326d119233527d77f57",
+    "sha256": "5e6c09133642cfab7daa191a54078e26559cfbbddce64b281ad2f7f99bd6dcca",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "8_CX4713_PSU.jpg": {
+    "path": "illustrations/published/4u/CX4713/cx4713-a3d2db69e29a.jpg",
+    "source_path": "illustrations/4u/CX4713/8_CX4713_PSU.jpg",
+    "source_sha256": "7b312596bc844b19e43598bc7f9c0e90d130dc5c633e2db1f8d063aa52b91d4f",
+    "sha256": "d1e747e40332f0ae8a7d5beb90cea4d8d74a101c4733d90e793a769740354a48",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 9204865,
+      "total_pixels": 18414279,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4713/8_CX4713_PSU-white.png",
+      "full_resolution_dimensions_px": [
+        5077,
+        3627
+      ],
+      "full_resolution_sha256": "205cc34c902aa53bf4a56dfa991d5c9dcde586c2c4911090698fbcaf66a65a34"
+    }
+  },
+  "10_CX4713_GPU.jpg": {
+    "path": "illustrations/published/4u/CX4713/cx4713-39341454bdf0.jpg",
+    "source_path": "illustrations/4u/CX4713/10_CX4713_GPU.jpg",
+    "source_sha256": "5146748ba02df4a68e9df2ebf6af3e4d582a9c41f7b929a09878673d1b5556b7",
+    "sha256": "bc3991ae8feb99df8adff0f04d3121c158282f0520b03bf4a5f8a7b4fa3a5666",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 3084785,
+      "total_pixels": 7290990,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4713/10_CX4713_GPU-white.png",
+      "full_resolution_dimensions_px": [
+        3195,
+        2282
+      ],
+      "full_resolution_sha256": "257d4cf53fbe04fecb392966b83df55b315937e8dc5bfe302979ba97bc29dca2"
+    }
+  },
+  "9a_CX4713_SSD 1.jpg": {
+    "path": "illustrations/published/4u/CX4713/cx4713-fc93fd124ada.jpg",
+    "source_path": "illustrations/4u/CX4713/9a_CX4713_SSD 1.jpg",
+    "source_sha256": "9ba12e90145cd94834c747a81941992d831a3c07ca4aefa3edc893d21d2b7e26",
+    "sha256": "9ce9d7f9cd5e1fd2903d0dbf12f71cc3a3b05c41e9926b8c34de4ff5cc9fc79f",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11199914,
+      "total_pixels": 20407210,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4713/9a_CX4713_SSD 1-white.png",
+      "full_resolution_dimensions_px": [
+        5345,
+        3818
+      ],
+      "full_resolution_sha256": "6b0d311c6cea0e4b1cd54c0aa94a7199a4f2b9f520da272dc052dbacd8b5219e"
+    }
+  },
+  "7b_CX4280n_SSD FRONT.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-c6bb4f494e25.jpg",
+    "source_path": "illustrations/4u/CX4280n/7b_CX4280n_SSD FRONT.jpg",
+    "source_sha256": "c6bb4f494e251e4d817737a010ad19a02cfa867856ae8d2565148a405a0d1600",
+    "sha256": "dda181c1643c1a6e91f864b874740b13d086ff2753f42369f2b6564f46922a4e",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "11c_CX4712-A_DRIVE1.jpg": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-090449a23689.jpg",
+    "source_path": "illustrations/4u/CX4250n/11c_CX4712-A_DRIVE1.jpg",
+    "source_sha256": "b418a76e2386678201c25131e0c53cdde790b3ae0c39afd8c88599e3da1f8713",
+    "sha256": "899c638815cab9c59b0d54f0947add71d35387a4ec65ada8278d824d11603310",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 16848233,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4250n/11c_CX4712-A_DRIVE1-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "fe18fb61798d4c1ba71bc74192e38a446339a94f9e7af5d143cb6c45826b230f"
+    }
+  },
+  "11c_CX4712-A_DRIVE2.jpg": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-d6843ddcda35.jpg",
+    "source_path": "illustrations/4u/CX4250n/11c_CX4712-A_DRIVE2.jpg",
+    "source_sha256": "77d6289098af48bfbf99409922b2e72b36ed4d8cad81ab6afa6cb22959b9b2d9",
+    "sha256": "3ab1704e050f9abc27981b1ecdb37b47746a1dfea8584132761e3580d450700d",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 15429211,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4250n/11c_CX4712-A_DRIVE2-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "49b21773f0e43a6964a195dbb0e793d72f3320825a7c0736c910303666ce37f5"
+    }
+  },
+  "11c_CX4712-A_DRIVE3.jpg": {
+    "path": "illustrations/published/4u/CX4250n/cx4250n-a12a8eb08a65.jpg",
+    "source_path": "illustrations/4u/CX4250n/11c_CX4712-A_DRIVE3.jpg",
+    "source_sha256": "c6ac8b8d6c247f56266666bfa0d63dd7120f94ba9497e9e344cf79ff998fad1e",
+    "sha256": "3b8cf4479aefcd326e810c2b28218b6299bb0f0a94d9e8f9043e33884fc1a12c",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 14889029,
+      "total_pixels": 19416936,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX4250n/11c_CX4712-A_DRIVE3-white.png",
+      "full_resolution_dimensions_px": [
+        5214,
+        3724
+      ],
+      "full_resolution_sha256": "cd662851fd5f3e1bf19ad6828633118e9e689d30614231aae234fd460d87357a"
+    }
+  },
+  "11a_CX4280n_BAY BRACKET INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-aa802d16269c.jpg",
+    "source_path": "illustrations/4u/CX4280n/11a_CX4280n_BAY BRACKET INSTALL.jpg",
+    "source_sha256": "aa802d16269cd0144576b19ca70ff44e9133e7c4319f864147f8f66daaed6836",
+    "sha256": "21f6c7c3bbaf33934492156bea212aa01886fee0bbae46219f5035bb91ecd4ac",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "11b_CX4280n_BAY BRACKET SCREW INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-ccb9e85e6c87.jpg",
+    "source_path": "illustrations/4u/CX4280n/11b_CX4280n_BAY BRACKET SCREW INSTALL.jpg",
+    "source_sha256": "ccb9e85e6c879f9382ffe36f0c251818cb12571ee1a0c7fcab56e687a576ec91",
+    "sha256": "e152235a8eb1cd139e54a25581dc3b4daf1598218253d5313054f4d6351b239d",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "10a_CX4280n_SLIDE TRAY.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-6e940ad8809c.jpg",
+    "source_path": "illustrations/4u/CX4280n/10a_CX4280n_SLIDE TRAY.jpg",
+    "source_sha256": "6e940ad8809c835149912c38a9bbd0028a4281e961c9eeedac5e6b7a800be9e1",
+    "sha256": "166b58f1dbe78a5229443fbf5b5ae4fe226bced4b035067a0db06f5ed45bef43",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "10b_CX4280n_HDD ASSEMBLE.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-fb52114455ff.jpg",
+    "source_path": "illustrations/4u/CX4280n/10b_CX4280n_HDD ASSEMBLE.jpg",
+    "source_sha256": "fb52114455ff570bd40e6a0ba0f2863e0cd9746c4412fdffc7cc1f5e8f2d6cb7",
+    "sha256": "c671ff054bb9047301e4d43993b4e867fa75b75da34d5f9e75aba8f8486f1bac",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "10c_CX4280n_HDD INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-dfd88fbe391e.jpg",
+    "source_path": "illustrations/4u/CX4280n/10c_CX4280n_HDD INSTALL.jpg",
+    "source_sha256": "dfd88fbe391ed3a981a5a2f248d1c657d8c5261b5a578ebca8d532fa615d7a1d",
+    "sha256": "ff029e24dd23a859f7598fb99bb459a10b581da0d97237af4976c573c3557c26",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "10d_CX4280n_HDD INSTALLED.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-0b53c51c6cae.jpg",
+    "source_path": "illustrations/4u/CX4280n/10d_CX4280n_HDD INSTALLED.jpg",
+    "source_sha256": "0b53c51c6caed6344073ed0d55623f05dd872012b9e25dd2254bc5392981312a",
+    "sha256": "a40178b3bb1b25b14c623f31fbde8d825cff05ac821a7f9dcc422bb01cfc3883",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "10e_CX4280n_LOCKED HDD.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-fb89e97f45ee.jpg",
+    "source_path": "illustrations/4u/CX4280n/10e_CX4280n_LOCKED HDD.jpg",
+    "source_sha256": "fb89e97f45eee966c457ff73fb774d62bee368b0cea5a01c32c7f5caf3dfed85",
+    "sha256": "90698d4a06b9cb13588a66a3fd7b66aa743c59e4d292cba023189a2f2df7c49d",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX4280n_BACKPLANE.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-95fcc73da92c.jpg",
+    "source_path": "illustrations/4u/CX4280n/_CX4280n_BACKPLANE.jpg",
+    "source_sha256": "95fcc73da92c8877f151ef0a4b4714cbc58c02cb756f8294d1900f6551d54747",
+    "sha256": "341de8e14d42f90b0d081740ed8dd34d6f1c065c155426fca1e2156c72e03d8a",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5d_CX4280n_TRAY INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-697ec3606f1a.jpg",
+    "source_path": "illustrations/4u/CX4280n/5d_CX4280n_TRAY INSTALL.jpg",
+    "source_sha256": "697ec3606f1a13df935df204637385cbb2e5747cd03b2a7fba09161d84551652",
+    "sha256": "9fd9afdb9f7859ee1117c860bd684dbe5f8eaf611a513fcde7a07218e94a03f5",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5e_CX4280n_TRAY SLIDE FORWARD.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-1dfda4bed76d.jpg",
+    "source_path": "illustrations/4u/CX4280n/5e_CX4280n_TRAY SLIDE FORWARD.jpg",
+    "source_sha256": "1dfda4bed76d7bd5509589933dccea613cce16209cd85226a954e6a8ed012d26",
+    "sha256": "1811299f1bc6c61c0f8bd130e53b8727f63c59676228d2a43c735cd8da1724a6",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5f_CX4280n_TRAY SCREW INSTALL.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-cdd9cfc400c5.jpg",
+    "source_path": "illustrations/4u/CX4280n/5f_CX4280n_TRAY SCREW INSTALL.jpg",
+    "source_sha256": "cdd9cfc400c53ceff67e5840d93a34d3e906919d946554627c2e3df5969d910a",
+    "sha256": "f9a19037f1cf647ea139eb4b1bb692aa592aba8dcaf64ae464b6a6400b8c70b3",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX4280n_CABLE MANAGEMENT.jpg": {
+    "path": "illustrations/published/4u/CX4280n/cx4280n-af35d3f71f9d.jpg",
+    "source_path": "illustrations/4u/CX4280n/CX4280n_CABLE MANAGEMENT.jpg",
+    "source_sha256": "af35d3f71f9dbf25ddeba2512f1235f30cf3a7fd7560d28eb7ea5ffca72ec4d2",
+    "sha256": "2c9417c3fe2e586ab8125a1d2517ffe6f3df55423a19f8c31304fa3073a0faf1",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "Fit within 1800x1400 without upscaling; no crop; JPEG quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  }
+}

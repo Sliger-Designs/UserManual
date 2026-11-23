@@ -1,0 +1,547 @@
+{
+  "schema_version": 1,
+  "model": "CX4280g",
+  "items": [
+    {
+      "id": "cx4280g-a968d4c72f7e",
+      "original_filename": "_CX4280g-Explode.jpg",
+      "local_path": "illustrations/4u/CX4280g/_CX4280g-Explode.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2313172,
+      "sha256": "a968d4c72f7e6f936905e233fa1e09a6113f49717437b3ae02e642437262d3d5",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4713-947042ad050e",
+      "original_filename": "_CX4713_ADVANCED FRONT VIEW.jpg",
+      "local_path": "illustrations/4u/CX4713/_CX4713_ADVANCED FRONT VIEW.jpg",
+      "width_px": 4010,
+      "height_px": 2864,
+      "format": "JPEG",
+      "size_bytes": 827573,
+      "sha256": "a92385d089eafd1b106f4615ac902ab69bd03397463bfc36eeb7aae5ca645307",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4713/_CX4713_ADVANCED FRONT VIEW.jpg for prototype review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/_CX4713_ADVANCED FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4250n-e1aa25bda599",
+      "original_filename": "_CX4712_FRONT.tif",
+      "local_path": "illustrations/4u/CX4250n/_CX4712_FRONT.tif",
+      "width_px": 7606,
+      "height_px": 3803,
+      "format": "TIFF",
+      "size_bytes": 3583792,
+      "sha256": "c5a59961c4f7bb0365be4e1c6f504fb7cdc9786335108349eda4e60ffea3ab66",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4712/: same chassis and part, view does not show the backplane (sources/decisions/2026-11-20-CX4250n.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4250n/_CX4712_FRONT-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4280g-0fa0a259100d",
+      "original_filename": "1a_CX4280g_LID UNSCREW.jpg",
+      "local_path": "illustrations/4u/CX4280g/1a_CX4280g_LID UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1699608,
+      "sha256": "0fa0a259100de2160a81b72624d202ad3f8493500bf1fe5b54c9bae66458f412",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-faf21d831b33",
+      "original_filename": "1b_CX4280g_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/4u/CX4280g/1b_CX4280g_LID SLIDE BACK.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2905882,
+      "sha256": "faf21d831b33027c764551de22c5684789b29b5039c48a3589a603b1c4b4b09c",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-a1b9b86d4a59",
+      "original_filename": "1c_CX4280g_LID REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4280g/1c_CX4280g_LID REMOVE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3462806,
+      "sha256": "a1b9b86d4a59cd162188beff9a4aaa4c63ea0f90c42158849929c69b150de5a7",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-144c23500618",
+      "original_filename": "2_CX4280g_FACEPLATE REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4280g/2_CX4280g_FACEPLATE REMOVE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3656011,
+      "sha256": "144c235006180b65227ba231361fd37fed90895b44e9be1fb1843a18f98e734d",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-3d62cf3941b6",
+      "original_filename": "5a_CX4280g_TRAY UNSCREW.jpg",
+      "local_path": "illustrations/4u/CX4280g/5a_CX4280g_TRAY UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2741280,
+      "sha256": "3d62cf3941b69f20353dce9c3ea62a98104e0f8054208478bb39301021fc63a6",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-958bc621aead",
+      "original_filename": "5b_CX4280g_TRAY SLIDE BACK.jpg",
+      "local_path": "illustrations/4u/CX4280g/5b_CX4280g_TRAY SLIDE BACK.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2778230,
+      "sha256": "958bc621aeadc499815fab16fea94c8d0733448308ee54ca316b7fb92fcc1aff",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-2a2b14872885",
+      "original_filename": "5c_CX4280g_TRAY REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4280g/5c_CX4280g_TRAY REMOVE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2497095,
+      "sha256": "2a2b14872885cf73d2202c0d0903ab2c4f00fc65770baefc2ff77fcd03cd9a3f",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4250n-1ff36b6754e9",
+      "original_filename": "12_CX4250n_RACK EARS.jpg",
+      "local_path": "illustrations/4u/CX4250n/12_CX4250n_RACK EARS.jpg",
+      "width_px": 9000,
+      "height_px": 5137,
+      "format": "JPEG",
+      "size_bytes": 3631938,
+      "sha256": "7fe5878d291c7011777da674ff36a2a475986c4c993fafb2424550b9d762684d",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4250n/12_CX4250n_RACK EARS.jpg for prototype review."
+    },
+    {
+      "id": "cx4280g-024f36729af0",
+      "original_filename": "3a1_CX4280g_FAN BRACKET REMOVE.jpg",
+      "local_path": "illustrations/4u/CX4280g/3a1_CX4280g_FAN BRACKET REMOVE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2829477,
+      "sha256": "024f36729af0be866abffc35068db33f7cdecaf68e91bb9cbc8a63e3aa14a8cd",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4250n-90006f4c3a34",
+      "original_filename": "3a_CX4712-A_FAN INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4250n/3a_CX4712-A_FAN INSTALL.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1244910,
+      "sha256": "7f55d01b254f120ef59ac3cc11b55383de7f5823f243cda7063cc337681a858d",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4712/: same chassis and part, view does not show the backplane (sources/decisions/2026-11-20-CX4250n.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4250n/3a_CX4712-A_FAN INSTALL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4250n-fe8282796238",
+      "original_filename": "3b_CX4712-A_FAN INSTALL PRECOOLER.jpg",
+      "local_path": "illustrations/4u/CX4250n/3b_CX4712-A_FAN INSTALL PRECOOLER.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1230749,
+      "sha256": "5e7fe6365eaad30edfd55c7ae25ed067ae5b23314dbf6d1517d84390c61e073b",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4712/: same chassis and part, view does not show the backplane (sources/decisions/2026-11-20-CX4250n.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4250n/3b_CX4712-A_FAN INSTALL PRECOOLER-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4250n-6c4d39412197",
+      "original_filename": "3c_CX4712-A_FAN INSTALL + AIO.jpg",
+      "local_path": "illustrations/4u/CX4250n/3c_CX4712-A_FAN INSTALL + AIO.jpg",
+      "width_px": 5214,
+      "height_px": 3724,
+      "format": "JPEG",
+      "size_bytes": 1260667,
+      "sha256": "61fca7ecb6fb16d728f3a770392196043028ea7dba84d7cf126c8a3687ab8b24",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4712/: same chassis and part, view does not show the backplane (sources/decisions/2026-11-20-CX4250n.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4250n/3c_CX4712-A_FAN INSTALL + AIO-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4250n-7a720086bb47",
+      "original_filename": "3d_CX4712_FAN INSTALL PULL.jpg",
+      "local_path": "illustrations/4u/CX4250n/3d_CX4712_FAN INSTALL PULL.jpg",
+      "width_px": 3987,
+      "height_px": 2847,
+      "format": "JPEG",
+      "size_bytes": 1492437,
+      "sha256": "1234f2be16f230b93e05cf6dba93c5f19b58f811ac916269789f1354095040ed",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4712/: same chassis and part, view does not show the backplane (sources/decisions/2026-11-20-CX4250n.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4250n/3d_CX4712_FAN INSTALL PULL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4250n-4a9179cb444c",
+      "original_filename": "3e_CX4712-A_FAN INSTALL + AIO + PULL.jpg",
+      "local_path": "illustrations/4u/CX4250n/3e_CX4712-A_FAN INSTALL + AIO + PULL.jpg",
+      "width_px": 4768,
+      "height_px": 3405,
+      "format": "JPEG",
+      "size_bytes": 1378561,
+      "sha256": "1f33c4f8212289c6670221e105ad9b52ef04f883c2f2f5f911df1acbe030b558",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4712/: same chassis and part, view does not show the backplane (sources/decisions/2026-11-20-CX4250n.md).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4250n/3e_CX4712-A_FAN INSTALL + AIO + PULL-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4280g-7f5b3bbf82d9",
+      "original_filename": "3f_CX4280g_FAN BRACKET INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4280g/3f_CX4280g_FAN BRACKET INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3066877,
+      "sha256": "7f5b3bbf82d9d21fb365cc63172a9a159ca6deef39ca03a3b9c4c24cf1ea3e74",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-7a1c0423bd54",
+      "original_filename": "3g_CX4280g_FAN BRACKET INSTALLED.jpg",
+      "local_path": "illustrations/4u/CX4280g/3g_CX4280g_FAN BRACKET INSTALLED.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2759621,
+      "sha256": "7a1c0423bd54dccba7ef90dda2e568ce7f725049eded17cb3929b019ec990984",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-9d92fdc33638",
+      "original_filename": "4a_CX4280g_STANDOFF INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4280g/4a_CX4280g_STANDOFF INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3401152,
+      "sha256": "9d92fdc336385f5e914cc595d76a65cfec0994cb94377b9e9be6c5a7d3a3d777",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4713-d33f91b873fb",
+      "original_filename": "7a_CX4713_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/4u/CX4713/7a_CX4713_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 4351,
+      "height_px": 3108,
+      "format": "JPEG",
+      "size_bytes": 1845161,
+      "sha256": "32c839843a38602f8b69681f3fc100b50f6d7d8707b310773de1d6e577c37e24",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4713/7a_CX4713_MOTHERBOARD IO SHIELD.jpg for prototype review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/7a_CX4713_MOTHERBOARD IO SHIELD-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4280g-2ca4ecf77113",
+      "original_filename": "5b_CX4280g_MOTHERBOARD.jpg",
+      "local_path": "illustrations/4u/CX4280g/5b_CX4280g_MOTHERBOARD.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3452588,
+      "sha256": "2ca4ecf771138c5123db059c67c1f5003b50fac3c0fdc43759919d1b631e09cc",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4713-a3d2db69e29a",
+      "original_filename": "8_CX4713_PSU.jpg",
+      "local_path": "illustrations/4u/CX4713/8_CX4713_PSU.jpg",
+      "width_px": 5077,
+      "height_px": 3627,
+      "format": "JPEG",
+      "size_bytes": 2289927,
+      "sha256": "7b312596bc844b19e43598bc7f9c0e90d130dc5c633e2db1f8d063aa52b91d4f",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4713/8_CX4713_PSU.jpg for prototype review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/8_CX4713_PSU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-39341454bdf0",
+      "original_filename": "10_CX4713_GPU.jpg",
+      "local_path": "illustrations/4u/CX4713/10_CX4713_GPU.jpg",
+      "width_px": 3195,
+      "height_px": 2282,
+      "format": "JPEG",
+      "size_bytes": 1169121,
+      "sha256": "5146748ba02df4a68e9df2ebf6af3e4d582a9c41f7b929a09878673d1b5556b7",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4713/10_CX4713_GPU.jpg for prototype review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/10_CX4713_GPU-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4713-fc93fd124ada",
+      "original_filename": "9a_CX4713_SSD 1.jpg",
+      "local_path": "illustrations/4u/CX4713/9a_CX4713_SSD 1.jpg",
+      "width_px": 5345,
+      "height_px": 3818,
+      "format": "JPEG",
+      "size_bytes": 2606613,
+      "sha256": "9ba12e90145cd94834c747a81941992d831a3c07ca4aefa3edc893d21d2b7e26",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/4u/CX4713/9a_CX4713_SSD 1.jpg for prototype review.",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX4713/9a_CX4713_SSD 1-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
+    },
+    {
+      "id": "cx4280g-1a832d4e44ab",
+      "original_filename": "9a_CX4280g_BAY BANK UNSCREW.jpg",
+      "local_path": "illustrations/4u/CX4280g/9a_CX4280g_BAY BANK UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3048071,
+      "sha256": "1a832d4e44ab42b82c43c8efe7944f4b05beb4f8cc212e431c021363a4cc7865",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-a7e9d4d8833b",
+      "original_filename": "9b_CX4280g_BAY BANK SLIDE BACK.jpg",
+      "local_path": "illustrations/4u/CX4280g/9b_CX4280g_BAY BANK SLIDE BACK.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2774146,
+      "sha256": "a7e9d4d8833ba0aa3ece745468b807c735ac95a3790d1811f2246feb8600ffb8",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-ad81c782b52e",
+      "original_filename": "9c_CX4280g_BAY BANK LIFT OUT.jpg",
+      "local_path": "illustrations/4u/CX4280g/9c_CX4280g_BAY BANK LIFT OUT.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2929036,
+      "sha256": "ad81c782b52e3942db3ae2c09f322b879be64f827aed8e0315e8d924e5cd40e1",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-cc85fff6a3e1",
+      "original_filename": "9d_CX4280g_OPTICAL BAY DEVICE.jpg",
+      "local_path": "illustrations/4u/CX4280g/9d_CX4280g_OPTICAL BAY DEVICE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1174824,
+      "sha256": "cc85fff6a3e1741b9f52a404af65205bcc3d402d27aeda4df5a4cfdb62043808",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-8e4489f9eca8",
+      "original_filename": "9e_CX4280g_BAY DRIVE CAGE.jpg",
+      "local_path": "illustrations/4u/CX4280g/9e_CX4280g_BAY DRIVE CAGE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1354899,
+      "sha256": "8e4489f9eca8b9314a27748b0ad579b53629a97dc701f25643124ee75e97d44f",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-ff198852b104",
+      "original_filename": "9f_CX4280g_BAY FILLER.jpg",
+      "local_path": "illustrations/4u/CX4280g/9f_CX4280g_BAY FILLER.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1301982,
+      "sha256": "ff198852b1046f58d51f3ddfe82d405162fcc5f9dbc3046562123a75ef904250",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-2a2b14872885",
+      "original_filename": "5d_CX4280g_TRAY INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4280g/5d_CX4280g_TRAY INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2497095,
+      "sha256": "2a2b14872885cf73d2202c0d0903ab2c4f00fc65770baefc2ff77fcd03cd9a3f",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-958bc621aead",
+      "original_filename": "5e_CX4280g_TRAY SLIDE FORWARD.jpg",
+      "local_path": "illustrations/4u/CX4280g/5e_CX4280g_TRAY SLIDE FORWARD.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2778230,
+      "sha256": "958bc621aeadc499815fab16fea94c8d0733448308ee54ca316b7fb92fcc1aff",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-3d62cf3941b6",
+      "original_filename": "5f_CX4280g_TRAY SCREW INSTALL.jpg",
+      "local_path": "illustrations/4u/CX4280g/5f_CX4280g_TRAY SCREW INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2741280,
+      "sha256": "3d62cf3941b69f20353dce9c3ea62a98104e0f8054208478bb39301021fc63a6",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g assembly."
+    },
+    {
+      "id": "cx4280g-37ce26e484e7",
+      "original_filename": "CX4280g_CABLE MANAGEMENT.jpg",
+      "local_path": "illustrations/4u/CX4280g/CX4280g_CABLE MANAGEMENT.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3116189,
+      "sha256": "37ce26e484e77ed17f2e6bff900de45982eba43ca887eefc8d8735e695c684e5",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4280g; installed fans and PSU, cable-routing area highlighted in the guide."
+    }
+  ]
+}

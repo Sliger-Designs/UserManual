@@ -40,7 +40,8 @@
       "section": "START HERE",
       "source": "contents.md",
       "images": [],
-      "layout": "contents"
+      "layout": "contents",
+      "layout_variant": "compact-contents"
     },
     {
       "id": "exploded-view",
@@ -135,6 +136,7 @@
         "common/hardware/HDD Shoulder Thumb Screw (217-735B)_top.jpg",
         "common/hardware/#6-32 THUMB SCREW (217-736)_side.jpg",
         "common/hardware/#6-32 THUMB SCREW (217-736)_top.jpg",
+        "common/hardware/Backplane power cables (CX-NAS-HWKIT L).jpg",
         "common/hardware/J312-10_KeyPair.jpg"
       ],
       "layout": "hardware-key",
@@ -511,13 +513,12 @@
     },
     {
       "id": "hdd-lock",
-      "title": "Lock and connect the hard drives",
+      "title": "Lock the hard drives",
       "section": "03 / COMPONENT INSTALLATION",
       "source": "hdd-lock.md",
       "images": [
         "10d_CX4250n_HDD INSTALLED.jpg",
-        "10e_CX4250n_LOCKED HDD.jpg",
-        "_CX4250n_BACKPLANE.jpg"
+        "10e_CX4250n_LOCKED HDD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -525,11 +526,34 @@
         [
           "K",
           "M"
-        ],
-        [
-          "L"
         ]
       ]
+    },
+    {
+      "id": "backplane-connections",
+      "title": "Connect the backplane",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/backplane-connections.md",
+      "images": [
+        "_CX4250n_BACKPLANE.jpg"
+      ],
+      "layout": "procedure",
+      "layout_variant": "visual-left",
+      "image_annotations": {
+        "_CX4250n_BACKPLANE.jpg": "backplane-callouts.json"
+      },
+      "split_before_heading": 2
+    },
+    {
+      "id": "backplane-power-cables",
+      "title": "Backplane power cables",
+      "section": "03 / COMPONENT INSTALLATION",
+      "source": "../../shared/rackmount/backplane-power-cables.md",
+      "images": [
+        "common/kits/nas-backplane-included-power-cables.png"
+      ],
+      "layout": "procedure",
+      "keep_margins": true
     },
     {
       "id": "tray-installation",
@@ -558,9 +582,12 @@
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
       "images": [
-        "CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg"
+        "CX4250n_CABLE MANAGEMENT.jpg"
       ],
-      "layout": "procedure"
+      "layout": "procedure",
+      "image_annotations": {
+        "CX4250n_CABLE MANAGEMENT.jpg": "cable-management-highlight.json"
+      }
     },
     {
       "id": "support",
@@ -616,7 +643,9 @@
   "cover_description": "25\" DEEP 4U CHASSIS",
   "cover_description_detail": [
     "2 × 5.25\" BAYS",
-    "10 × 3.5\" BACKPLANE HOT-SWAP BAYS"
+    "10 × 3.5\" BACKPLANE",
+    "HOT-SWAP BAYS"
   ],
-  "cover_format": "landscape"
+  "cover_format": "landscape",
+  "cover_copy": "centred-tall"
 }

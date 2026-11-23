@@ -1395,6 +1395,32 @@
       "sha256": "2752761871be2f1daf7504f569cc905a83e029fa3d4a2dafa372553633a2eee7",
       "selection_status": "candidate",
       "note": "Half-height (low-profile) vented PCIe slot covers, as supplied in the hardware kit of chassis with half-height slots. Supplied 2026-11-13."
+    },
+    {
+      "id": "common-42b1f7bf8cb0",
+      "asset_key": "common/hardware/Backplane power cables (CX-NAS-HWKIT L).jpg",
+      "original_filename": "Backplane power cables (CX-NAS-HWKIT L).jpg",
+      "local_path": "illustrations/common/hardware/Backplane power cables (CX-NAS-HWKIT L).jpg",
+      "width_px": 2400,
+      "height_px": 1478,
+      "format": "JPEG",
+      "size_bytes": 329334,
+      "sha256": "42b1f7bf8cb0b826ec29d870fd62973eb4d6f8fa4debc774cf64ca56caee9d7d",
+      "selection_status": "candidate",
+      "note": "The three backplane power cables (CX-NAS-HWKIT item L for the backplane NAS models). Cut out of the retrofit kit photo kits/kit-nas-retrofit/unedited/DSC00016.JPG onto white: screws and tray edge removed; the top of one PCIe connector is trimmed where it met the tray (2026-11-23)."
+    },
+    {
+      "id": "common-c7b44ef63c41",
+      "asset_key": "common/kits/nas-backplane-included-power-cables.png",
+      "original_filename": "included-power-cables.png",
+      "local_path": "illustrations/kits/kit-nas-retrofit/power-cables/included-power-cables.png",
+      "width_px": 2400,
+      "height_px": 1740,
+      "format": "PNG",
+      "size_bytes": 199454,
+      "sha256": "c7b44ef63c4160ad2a7d45be08b85377f80f7b73106e0759cc16a0e5039a3b27",
+      "selection_status": "candidate",
+      "note": "Line drawing of the included backplane power cables with face views and pin roles (kits/kit-nas-retrofit/power-cables). Used on the n-series backplane connection page (2026-11-23)."
     }
   ],
   "removed_items": [

@@ -603,29 +603,6 @@
       "note": "Solid Edge render of the CX4250n model (scripts/solidedge pipeline, 2026-11-20); white background, no cleanup needed."
     },
     {
-      "id": "cx4250n-04601cb898a9",
-      "original_filename": "CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
-      "local_path": "illustrations/4u/CX4250n/CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105.jpg",
-      "width_px": 5200,
-      "height_px": 4290,
-      "format": "JPEG",
-      "size_bytes": 3683025,
-      "sha256": "ccc0c29a2ce8c8be42b28490d255263053fa885cb7643030995a0ace9511e9bd",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/4u/CX4712/: same chassis and part, view does not show the backplane (sources/decisions/2026-11-20-CX4250n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX4250n/CX4712_CABLE_MANAGEMENT_BAR_HIGHLIGHT_R2_20261105-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
       "id": "cx4250n-8600306abc05",
       "original_filename": "_CX4250n-Explode.jpg",
       "local_path": "illustrations/4u/CX4250n/_CX4250n-Explode.jpg",
@@ -717,6 +694,18 @@
         "full_resolution_path": "_build/cleaned-renders/CX4250n/_CX4712_FRONT-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "cx4250n-8781ec291d5a",
+      "original_filename": "CX4250n_CABLE MANAGEMENT.jpg",
+      "local_path": "illustrations/4u/CX4250n/CX4250n_CABLE MANAGEMENT.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3262831,
+      "sha256": "8781ec291d5a421665f7f4d1889e0bd4722c020c6b01b5b28ffd2c3e072cd9c5",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX4250n; installed fans and PSU, cable-routing area highlighted in the guide."
     }
   ]
 }

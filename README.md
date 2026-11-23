@@ -50,6 +50,10 @@ tools used to translate them.
 | CX4200i | 4U rackmount, one 5.25" bay | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4200i/v1.1/CX4200i-en-v1.1.pdf) |
 | CX4712 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Released v1.0 (2026-11-18) | [PDF](releases/en/4u/CX4712/v1.0/CX4712-en-v1.0.pdf) |
 | CX4713 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Released v1.0 (2026-11-18) | [PDF](releases/en/4u/CX4713/v1.0/CX4713-en-v1.0.pdf) |
+| CX4250n | 4U NAS, 25-inch, 10-bay backplane + 2 × 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX4280n | 4U NAS, 28-inch, 10-bay backplane + 2 × 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX4250g | 4U rackmount, 25-inch, eight 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
+| CX4280g | 4U rackmount, 28-inch, eight 5.25" bays | Review draft (Prototype 0.1) | built by CI and on the site |
 
 ## Repository layout
 
@@ -88,7 +92,7 @@ python3 -m venv .venv
 .venv/bin/python scripts/build_manual.py --model S630
 ```
 
-Every model builds the same way (`--model S640`, `CX2130a`, `CX2130c`, `CX2130x`, `CX2137a`, `CX2137b`, `CX2151a`, `CX2151c`, `CX2151x`, `CX2177a`, `CX2177c`, `CX2177x`, `CX3150a`, `CX3150i`, `CX3150x`, `CX3151a`, `CX3151i`, `CX3151x`, `CX3152a`, `CX3152i`, `CX3170a`, `CX3171a`, `CX3172a`, `CX3170aXL`, `CX3170iXL`, `CX3171aXL`, `CX3171iXL`, `CX3172aXL`, `CX3172iXL`, `CX3701`, `CX3702`, `CX4150a`, `CX4150e`, `CX4150i`, `CX4170a`, `CX4170e`, `CX4170i`, `CX4200a`, `CX4200e`, `CX4200f`, `CX4200i`, `CX4712`, `CX4713`). A build writes
+Every model builds the same way (`--model S640`, `CX2130a`, `CX2130c`, `CX2130x`, `CX2137a`, `CX2137b`, `CX2151a`, `CX2151c`, `CX2151x`, `CX2177a`, `CX2177c`, `CX2177x`, `CX3150a`, `CX3150i`, `CX3150x`, `CX3151a`, `CX3151i`, `CX3151x`, `CX3152a`, `CX3152i`, `CX3170a`, `CX3171a`, `CX3172a`, `CX3170aXL`, `CX3170iXL`, `CX3171aXL`, `CX3171iXL`, `CX3172aXL`, `CX3172iXL`, `CX3701`, `CX3702`, `CX4150a`, `CX4150e`, `CX4150i`, `CX4170a`, `CX4170e`, `CX4170i`, `CX4200a`, `CX4200e`, `CX4200f`, `CX4200i`, `CX4712`, `CX4713`, `CX4250n`, `CX4280n`, `CX4250g`, `CX4280g`). A build writes
 standalone HTML, a landscape Letter PDF, a page overview and a validation report under
 `_build/`, and fails if text overflows a page, a link breaks, an image is missing, or
 approved values or wording differ. Released manuals (`release_ready` with a `release_date`) build into

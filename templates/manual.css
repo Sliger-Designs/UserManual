@@ -26,7 +26,7 @@ blockquote { border-left:3px solid var(--accent); background:#faf2ef; margin:18p
 blockquote p:last-child { margin:0; }
 .visuals { height:5.83in; display:grid; gap:8px; align-content:stretch; }
 figure { margin:0; position:relative; min-height:0; display:flex; align-items:center; justify-content:center; background:white; }
-figure img { width:100%; height:100%; object-fit:contain; }
+figure img, .visuals .annotated-image { width:100%; height:100%; object-fit:contain; }
 .count-1 { grid-template-rows:1fr; }
 .count-2 { grid-template-rows:1fr 1fr; }
 .count-3 { grid-template-rows:1fr 1fr 1fr; }
@@ -138,6 +138,7 @@ h1 { font-weight:700; }
 .regulations article { font-size:10.5pt; }
 .regulations h3 { margin-top:14px; }
 .contents nav a { font-size:9.2pt; padding:1px 0; line-height:1.18; }
+.contents.compact-contents nav a { font-size:9pt; padding:.5px 0; line-height:1.16; }
 
 .key-copy { padding-right:1.4in; }
 .key-gallery { position:absolute; right:0; bottom:8px; width:1.35in; height:.38in; display:flex; align-items:center; justify-content:flex-end; gap:4px; }
@@ -162,6 +163,9 @@ h1 { font-weight:700; }
 .procedure.stacked .visuals { height:auto; min-height:0; }
 .procedure.stacked .visuals.count-2 { grid-template-rows:1fr; grid-template-columns:1fr 1fr; }
 .procedure.stacked .visuals.count-3 { grid-template-rows:1fr; grid-template-columns:repeat(3, 1fr); }
+.procedure.visual-left .page-body { grid-template-columns:1fr 1fr; gap:.4in; }
+.procedure.visual-left .left-column { display:flex; flex-direction:column; gap:.15in; min-height:0; }
+.procedure.visual-left .left-column .visuals { flex:1 1 0; height:auto; min-height:0; }
 #revision-history th:nth-child(2), #revision-history td:nth-child(2) { white-space:nowrap; }
 
 /* Front I/O follows the original manual: chassis left, connectors and legend right. */

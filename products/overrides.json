@@ -2791,5 +2791,63 @@
       },
       "note": "Up to seven 7 mm SSDs when the 3.5-inch mounts are unused (confirmed 2026-11-12; replaces the 2026-11-04 value of 2)."
     }
+  },
+  "CX4250g": {
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 4,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-4u-n-g.md"
+      },
+      "note": "Counts the two included filler blanks (each holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs); other bays take 5.25-inch devices. Not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-4u-n-g.md"
+      },
+      "note": "Counts the two included filler blanks. Not all usable at once."
+    }
+  },
+  "CX4280g": {
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 4,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-4u-n-g.md"
+      },
+      "note": "Counts the two included filler blanks (each holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs); other bays take 5.25-inch devices. Not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-4u-n-g.md"
+      },
+      "note": "Counts the two included filler blanks. Not all usable at once."
+    }
   }
 }

@@ -1,0 +1,40 @@
+{
+  "asset_key": "CX4250n_CABLE MANAGEMENT.jpg",
+  "source_sha256": "8781ec291d5a421665f7f4d1889e0bd4722c020c6b01b5b28ffd2c3e072cd9c5",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7716535433070866,
+  "view_box": [
+    0.18,
+    0.025,
+    0.64,
+    0.95
+  ],
+  "highlight_regions": [
+    {
+      "label": "Cable-routing area between the fans and motherboard tray",
+      "points": [
+        [
+          0.4367,
+          0.6102
+        ],
+        [
+          0.577,
+          0.4127
+        ],
+        [
+          0.5793,
+          0.397
+        ],
+        [
+          0.6104,
+          0.435
+        ],
+        [
+          0.4607,
+          0.6398
+        ]
+      ]
+    }
+  ],
+  "callouts": []
+}

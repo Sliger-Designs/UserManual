@@ -1755,5 +1755,203 @@
         "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
       }
     }
+  },
+  "CX4280n": {
+    "psu_length_max_mm": {
+      "value": 268,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4280n-specs.txt"
+      }
+    },
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 711.2,
+        "width": 431.8,
+        "height": 176.78
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4713-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions.",
+      "derived_from": "CX4713"
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 4U chassis use the same rack ears.",
+      "derived_from": "CX4713"
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "derived_from": "CX4713"
+    }
+  },
+  "CX4250g": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 635,
+        "width": 431.8,
+        "height": 176.78
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4712-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions.",
+      "derived_from": "CX4712"
+    },
+    "psu_length_max_mm": {
+      "value": 268,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4712-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Includes connectors (ATX PSU).",
+      "derived_from": "CX4712"
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 4U chassis use the same rack ears.",
+      "derived_from": "CX4712"
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "derived_from": "CX4712"
+    }
+  },
+  "CX4280g": {
+    "psu_length_max_mm": {
+      "value": 268,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4280n-specs.txt"
+      }
+    },
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 711.2,
+        "width": 431.8,
+        "height": 176.78
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4713-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions.",
+      "derived_from": "CX4713"
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 4U chassis use the same rack ears.",
+      "derived_from": "CX4713"
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "derived_from": "CX4713"
+    }
+  },
+  "CX4250n": {
+    "outer_dimensions_mm": {
+      "value": {
+        "depth": 635,
+        "width": 431.8,
+        "height": 176.78
+      },
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4712-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website dimensions.",
+      "derived_from": "CX4712"
+    },
+    "psu_length_max_mm": {
+      "value": 268,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx4712-specs.txt"
+      },
+      "approval": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Includes connectors (ATX PSU).",
+      "derived_from": "CX4712"
+    },
+    "rack_ear_screw_count": {
+      "value": 4,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "note": "All 4U chassis use the same rack ears.",
+      "derived_from": "CX4712"
+    },
+    "rack_ear_screws_per_side": {
+      "value": 2,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "sources/decisions/2026-11-04-rackmount-rack-ears.md"
+      },
+      "derived_from": "CX4712"
+    }
   }
 }
