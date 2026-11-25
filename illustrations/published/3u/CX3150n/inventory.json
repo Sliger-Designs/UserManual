@@ -3,420 +3,6 @@
   "model": "CX3150n",
   "items": [
     {
-      "id": "cx3150n-3d24e96a91b6",
-      "original_filename": "10a_CX3701_TRAY UNSCREW.jpg",
-      "local_path": "illustrations/3u/CX3150n/10a_CX3701_TRAY UNSCREW.jpg",
-      "width_px": 4351,
-      "height_px": 3108,
-      "format": "JPEG",
-      "size_bytes": 1800336,
-      "sha256": "efe29b7ed2552327f99da5627a2a0547597ed36d595bc664ca3d1886594813b3",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/10a_CX3701_TRAY UNSCREW-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-ba2dd820042a",
-      "original_filename": "10b_CX3701_TRAY SLIDE BACK.jpg",
-      "local_path": "illustrations/3u/CX3150n/10b_CX3701_TRAY SLIDE BACK.jpg",
-      "width_px": 3926,
-      "height_px": 2804,
-      "format": "JPEG",
-      "size_bytes": 1039153,
-      "sha256": "83fbe8423e70b34fd5188e954398b7defccadb07fbce3a5eae079ea57657aa5e",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/10b_CX3701_TRAY SLIDE BACK-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-e2ea726aeb0b",
-      "original_filename": "10c_CX3701_TRAY SLIDE BACK 2.jpg",
-      "local_path": "illustrations/3u/CX3150n/10c_CX3701_TRAY SLIDE BACK 2.jpg",
-      "width_px": 3542,
-      "height_px": 2530,
-      "format": "JPEG",
-      "size_bytes": 1320715,
-      "sha256": "c3ef894f079585a997f4e8b150220c50caf72174e4a9336b6fee4246c13f2e01",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/10c_CX3701_TRAY SLIDE BACK 2-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-377c975947c7",
-      "original_filename": "10d_CX3701_TRAY INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3150n/10d_CX3701_TRAY INSTALL.jpg",
-      "width_px": 4581,
-      "height_px": 3272,
-      "format": "JPEG",
-      "size_bytes": 1732066,
-      "sha256": "685c83ad1b2deb4ef2eff84f4886cf669df8cb3405411caf2846f501fc881b26",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/10d_CX3701_TRAY INSTALL-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-73ab55fade5a",
-      "original_filename": "10e_CX3701_TRAY INSTALL 2.jpg",
-      "local_path": "illustrations/3u/CX3150n/10e_CX3701_TRAY INSTALL 2.jpg",
-      "width_px": 3926,
-      "height_px": 2804,
-      "format": "JPEG",
-      "size_bytes": 1394887,
-      "sha256": "9ea6ff90cbedc63eb867075c771815c68e20698970be10fdc6a33feb7389a71e",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/10e_CX3701_TRAY INSTALL 2-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-ece03987c443",
-      "original_filename": "10f_CX3701_TRAY INSTALL 3.jpg",
-      "local_path": "illustrations/3u/CX3150n/10f_CX3701_TRAY INSTALL 3.jpg",
-      "width_px": 4133,
-      "height_px": 2952,
-      "format": "JPEG",
-      "size_bytes": 1458411,
-      "sha256": "772fefc30b41eb957bc4a52abc07ce3d0be18592b5514006a21712acf1e919f7",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/10f_CX3701_TRAY INSTALL 3-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-4b587d1335ad",
-      "original_filename": "1a_CX3701_LID UNSCREW.jpg",
-      "local_path": "illustrations/3u/CX3150n/1a_CX3701_LID UNSCREW.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 866047,
-      "sha256": "5a2ef58bde38f1c9473e1f819a62eee7129de1ad55d60f48728124985881e8a8",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/1a_CX3701_LID UNSCREW-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-103f048e4e57",
-      "original_filename": "1b_CX3701_LID SLIDE BACK.jpg",
-      "local_path": "illustrations/3u/CX3150n/1b_CX3701_LID SLIDE BACK.jpg",
-      "width_px": 5817,
-      "height_px": 4155,
-      "format": "JPEG",
-      "size_bytes": 687499,
-      "sha256": "983e4d2ee7509cbca9f62ab7a1c49696b6ea609440bcf54482f05271ff336fcd",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/1b_CX3701_LID SLIDE BACK-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-3a7e5067940a",
-      "original_filename": "1c_CX3701_LID REMOVE.jpg",
-      "local_path": "illustrations/3u/CX3150n/1c_CX3701_LID REMOVE.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 1672190,
-      "sha256": "9b5e32498688d9b400e496e81c08c32845b1b0dd027d13f5ec17bbf2b0de2b6e",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/1c_CX3701_LID REMOVE-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-6f91acda0a37",
-      "original_filename": "2_CX3701_FACEPLATE REMOVE.jpg",
-      "local_path": "illustrations/3u/CX3150n/2_CX3701_FACEPLATE REMOVE.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1949518,
-      "sha256": "5dabc9f6d31dcb5eadaa82fabd9e055da1d99ec55d2e6862761dedf974ad5049",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/2_CX3701_FACEPLATE REMOVE-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-3295a3669f33",
-      "original_filename": "3a_CX3701_SIDE FAN BRACKET UNSCREW.jpg",
-      "local_path": "illustrations/3u/CX3150n/3a_CX3701_SIDE FAN BRACKET UNSCREW.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1552986,
-      "sha256": "23071efd244f5d60a3517962c1f4f848a2f8d7d5d6b01563c1e201e0a37a3ab1",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/3a_CX3701_SIDE FAN BRACKET UNSCREW-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-40b8d76e0df7",
-      "original_filename": "3c_CX3701_SIDE FAN INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3150n/3c_CX3701_SIDE FAN INSTALL.jpg",
-      "width_px": 4067,
-      "height_px": 2905,
-      "format": "JPEG",
-      "size_bytes": 558392,
-      "sha256": "49e8272a49560469eca37ba587b2b03f7cfab861f9b36a98a0c95f007426000c",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/3c_CX3701_SIDE FAN INSTALL-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-af7cf1e9f631",
-      "original_filename": "3d_CX3701_SIDE FAN BRACKET INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3150n/3d_CX3701_SIDE FAN BRACKET INSTALL.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1285342,
-      "sha256": "ac9e252795ddbfb08da419ebac5e6f344a5a2b1ad3913b40e9d60eab5a62a0a0",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/3d_CX3701_SIDE FAN BRACKET INSTALL-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-80c4ba6373dd",
-      "original_filename": "3e_CX3701_REAR FAN BRACKET REMOVE.jpg",
-      "local_path": "illustrations/3u/CX3150n/3e_CX3701_REAR FAN BRACKET REMOVE.jpg",
-      "width_px": 5817,
-      "height_px": 4155,
-      "format": "JPEG",
-      "size_bytes": 2419504,
-      "sha256": "1e2771af524192ad94ad8838510aa289cd612e54d4a80d653703a1321dba4bce",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/3e_CX3701_REAR FAN BRACKET REMOVE-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-efa5e68b05b9",
-      "original_filename": "3f_CX3701_REAR FAN INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3150n/3f_CX3701_REAR FAN INSTALL.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 873698,
-      "sha256": "2af23c0ad75b94f5f53ae7aef9fe79a88ed591ec3c0f88ca7fc83f8bc36ac8e2",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/3f_CX3701_REAR FAN INSTALL-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-31555d333ebe",
-      "original_filename": "3g_CX3701_REAR FAN BRACKET INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3150n/3g_CX3701_REAR FAN BRACKET INSTALL.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2164899,
-      "sha256": "b6b4dcab0429643c67a54e71eac188dc1868971c49d655674106cabd0e3330b4",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/3g_CX3701_REAR FAN BRACKET INSTALL-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-f674dbded226",
-      "original_filename": "4a_CX3701_MOTHERBOARD IO SHIELD.jpg",
-      "local_path": "illustrations/3u/CX3150n/4a_CX3701_MOTHERBOARD IO SHIELD.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 1951303,
-      "sha256": "a84d3de168565a3a35f10cd1852a8fff983c8b14cd62ad5f82b90a3b7a143642",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/4a_CX3701_MOTHERBOARD IO SHIELD-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-db62edb78f26",
-      "original_filename": "4b_CX3701_MOTHERBOARD.jpg",
-      "local_path": "illustrations/3u/CX3150n/4b_CX3701_MOTHERBOARD.jpg",
-      "width_px": 4448,
-      "height_px": 3177,
-      "format": "JPEG",
-      "size_bytes": 994847,
-      "sha256": "38328d472c8821d3a34b71790f0beffe772e73491bb1111f15b7223e25758701",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/4b_CX3701_MOTHERBOARD-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
       "id": "cx3150n-9ea00975f9be",
       "original_filename": "5_CX3701_SSD.jpg",
       "local_path": "illustrations/3u/CX3150n/5_CX3701_SSD.jpg",
@@ -440,144 +26,6 @@
       }
     },
     {
-      "id": "cx3150n-c3ed3505bb29",
-      "original_filename": "6_CX3701_PSU.jpg",
-      "local_path": "illustrations/3u/CX3150n/6_CX3701_PSU.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2132629,
-      "sha256": "ee552b83fb0a66db5614cea57495bbd6c1f6976b2b4347586a6f0f57242925ec",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/6_CX3701_PSU-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-1ecf78731fe1",
-      "original_filename": "7_CX3701_GPU.jpg",
-      "local_path": "illustrations/3u/CX3150n/7_CX3701_GPU.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1533222,
-      "sha256": "df96e0c523a7b5f8f0b8d4d10e66ad894b69a028beaff95b191846a1d7618055",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/7_CX3701_GPU-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-269784b7cec6",
-      "original_filename": "8a_CX3701_SLIDE TRAY.jpg",
-      "local_path": "illustrations/3u/CX3150n/8a_CX3701_SLIDE TRAY.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2060388,
-      "sha256": "69c5a240811580473b8793b2e05ea0fb3ee261e163d4e5d27d538ded9dbf26ab",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/8a_CX3701_SLIDE TRAY-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-3266fbd9ea14",
-      "original_filename": "8b_CX3701_HDD ASSEMBLE.jpg",
-      "local_path": "illustrations/3u/CX3150n/8b_CX3701_HDD ASSEMBLE.jpg",
-      "width_px": 4448,
-      "height_px": 3177,
-      "format": "JPEG",
-      "size_bytes": 339779,
-      "sha256": "9b0272508f02066d97216ad17aa9c4fcefdc2c882ce3e762d761f21029fdba64",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/8b_CX3701_HDD ASSEMBLE-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-8142d770992c",
-      "original_filename": "8c_CX3701_HDD INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3150n/8c_CX3701_HDD INSTALL.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1942047,
-      "sha256": "cd8c7ea5d76c0e4dc5403b786623e89a077695100c98a1917bc104b3090b99ef",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/8c_CX3701_HDD INSTALL-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-5d10bb386267",
-      "original_filename": "8d_CX3701_HDD INSTALLED.jpg",
-      "local_path": "illustrations/3u/CX3150n/8d_CX3701_HDD INSTALLED.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2064713,
-      "sha256": "5120c31a19ce363507d6a6bdb2493d98484cb98a2932b0a760a3e56fb4e35da5",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/8d_CX3701_HDD INSTALLED-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
       "id": "cx3150n-364537aa2eac",
       "original_filename": "8e_CX3701_LOCKED HDD.jpg",
       "local_path": "illustrations/3u/CX3150n/8e_CX3701_LOCKED HDD.jpg",
@@ -597,29 +45,6 @@
         "tolerance_per_channel": 4,
         "publication_format": "jpeg",
         "full_resolution_path": "_build/cleaned-renders/CX3150n/8e_CX3701_LOCKED HDD-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3150n-9743e296bbb3",
-      "original_filename": "9_CX3701_RACK EARS.jpg",
-      "local_path": "illustrations/3u/CX3150n/9_CX3701_RACK EARS.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1257857,
-      "sha256": "c974dea638477b7f6673f51f8e90b63ed45cf341c79e576fd6886b50a3b613b8",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/9_CX3701_RACK EARS-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
     },
@@ -693,28 +118,328 @@
       }
     },
     {
-      "id": "cx3150n-b35a1a1ee635",
-      "original_filename": "_CX4250n_BACKPLANE.jpg",
-      "local_path": "illustrations/3u/CX3150n/_CX4250n_BACKPLANE.jpg",
-      "width_px": 9000,
-      "height_px": 5137,
-      "format": "JPEG",
-      "size_bytes": 5182846,
-      "sha256": "6b4776b3c97592471557d7633c238615579a9d39ab8aadba489e1c53530f9aaf",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/4u/CX4250n/: the 3U n models use the same ten-port backplane; the 4U render is used as approved 2026-11-23 (sources/decisions/2026-11-23-3u-n.md)."
-    },
-    {
-      "id": "cx3150n-71bc2a0bb7b9",
-      "original_filename": "CX3150n-CHASSIS_EXPLODE-REV20261123.jpg",
-      "local_path": "illustrations/3u/CX3150n/CX3150n-CHASSIS_EXPLODE-REV20261123.jpg",
+      "id": "cx3150n-ab25902e1a23",
+      "original_filename": "CX3150n-CHASSIS_EXPLODE-REV20261125.jpg",
+      "local_path": "illustrations/3u/CX3150n/CX3150n-CHASSIS_EXPLODE-REV20261125.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 3124514,
-      "sha256": "71bc2a0bb7b9cec63badbe509474601386d39ca30433c22a74cbed39cc21be5e",
+      "size_bytes": 2699166,
+      "sha256": "ab25902e1a239dc2aafeeca38eb2d07e367af01ba40ae7686262582d91129fa3",
       "selection_status": "candidate",
-      "note": "Exploded view of the CX3150n model (Solid Edge, own colours; lid up 80 mm, faceplate forward 100 mm, as the approved CX3180n view; camera framed by Sliger 2026-11-23)."
+      "note": "Solid Edge render of the CX3150n_INT-MIN model, exploded view with the tray out the back (camera framed by Sliger, 2026-11-25); original colours."
+    },
+    {
+      "id": "cx3150n-b1e8cf726a4f",
+      "original_filename": "1a_CX3150n_LID UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3150n/1a_CX3150n_LID UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1775230,
+      "sha256": "b1e8cf726a4ffab7ca4f444a4f2cbc1d60c072d56492ee763767a23e1665c20f",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-c4d197ac6652",
+      "original_filename": "1b_CX3150n_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3150n/1b_CX3150n_LID SLIDE BACK.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3568525,
+      "sha256": "c4d197ac6652368c60e3af5fdab2a5ae111178412605cdcf8d36ca813ad50d01",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-fd2d9a38d324",
+      "original_filename": "1c_CX3150n_LID REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3150n/1c_CX3150n_LID REMOVE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4524773,
+      "sha256": "fd2d9a38d32472ab3df6cbeb9d19e636d589bfd193d7b8fbf334e7656ff533cd",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-c90822b78e4f",
+      "original_filename": "2_CX3150n_FACEPLATE REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3150n/2_CX3150n_FACEPLATE REMOVE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4907223,
+      "sha256": "c90822b78e4f44eb2cda21d17c12aaa7520ac867345f747062eb81238b2fb18f",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-c1cf27c08a3f",
+      "original_filename": "9_CX3150n_RACK EARS.jpg",
+      "local_path": "illustrations/3u/CX3150n/9_CX3150n_RACK EARS.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2968290,
+      "sha256": "c1cf27c08a3f8a637f863bc49cdfa82691161dc509c00313e6ec5dbf0a3f231e",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-1b5d1b730f55",
+      "original_filename": "3a_CX3150n_SIDE FAN BRACKET UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3150n/3a_CX3150n_SIDE FAN BRACKET UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3366979,
+      "sha256": "1b5d1b730f550ba10a87f6192d32904c7540d1a02079468e5bffe062ed343bad",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-509fa8ccc850",
+      "original_filename": "3c_CX3150n_SIDE FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150n/3c_CX3150n_SIDE FAN INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1473053,
+      "sha256": "509fa8ccc8505b32084da48b0ffbc3ecb12372c4194bf7de390adf1ff3532393",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-20e70b103bb3",
+      "original_filename": "3d_CX3150n_SIDE FAN BRACKET INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150n/3d_CX3150n_SIDE FAN BRACKET INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3527343,
+      "sha256": "20e70b103bb3c0548bca0f1f82086bf7a4b7d11913b1ffc24928067cdfd30fea",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-dae269161955",
+      "original_filename": "3e_CX3150n_REAR FAN BRACKET REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3150n/3e_CX3150n_REAR FAN BRACKET REMOVE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3472569,
+      "sha256": "dae269161955631147aa1212de87c7870fa874775e10ceb1a68733f3595c5f18",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-0ab3318f0aa5",
+      "original_filename": "3f_CX3150n_REAR FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150n/3f_CX3150n_REAR FAN INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1529907,
+      "sha256": "0ab3318f0aa5dc98830718940e9e0dad471346f30cc9f1b6bfa03b6f778428fc",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-a2ca97f2fb6a",
+      "original_filename": "3g_CX3150n_REAR FAN BRACKET INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150n/3g_CX3150n_REAR FAN BRACKET INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3569639,
+      "sha256": "a2ca97f2fb6a638c9c7ec1859a8713afab677efc555e57b1434cece559662670",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-7f1b6d1998db",
+      "original_filename": "4a_CX3150n_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/3u/CX3150n/4a_CX3150n_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 5015319,
+      "sha256": "7f1b6d1998db163e02329482404e1923d3ac424ee1d2276b00ad486acb1dcff5",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25), I/O-shield opening filled in Manual Orange by script (as Sliger's CX3251g edit); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-d31f4cbf3bf4",
+      "original_filename": "4b_CX3150n_MOTHERBOARD.jpg",
+      "local_path": "illustrations/3u/CX3150n/4b_CX3150n_MOTHERBOARD.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4303407,
+      "sha256": "d31f4cbf3bf4589172dc3924bf48c9063f13b276510673e3c1afb590a6ef5ac0",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-ebe949f9b53f",
+      "original_filename": "6_CX3150n_PSU.jpg",
+      "local_path": "illustrations/3u/CX3150n/6_CX3150n_PSU.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3120413,
+      "sha256": "ebe949f9b53f35dc42d294e4b26ee7405bf0d6351456367611fc0b72d61ff4f2",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-8fec6b6ada3e",
+      "original_filename": "7_CX3150n_GPU.jpg",
+      "local_path": "illustrations/3u/CX3150n/7_CX3150n_GPU.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4644262,
+      "sha256": "8fec6b6ada3e5c48d78005d53782d55d10c3f7ab686dbcc45ae067bb34132726",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-c09256ee28a4",
+      "original_filename": "10a_CX3150n_TRAY UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3150n/10a_CX3150n_TRAY UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2431264,
+      "sha256": "c09256ee28a4729192b426a4e7305785eee2d99c7c1d0969192b9c0de5b41424",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-694b3b3a1bb1",
+      "original_filename": "10b_CX3150n_TRAY SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3150n/10b_CX3150n_TRAY SLIDE BACK.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2537956,
+      "sha256": "694b3b3a1bb11be6d11b7e3af0f0a0adb08db1cb760697f70467c0f7f8ecb638",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-a19eb0f87050",
+      "original_filename": "10c_CX3150n_TRAY SLIDE BACK 2.jpg",
+      "local_path": "illustrations/3u/CX3150n/10c_CX3150n_TRAY SLIDE BACK 2.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2744497,
+      "sha256": "a19eb0f87050d8466249beb77038e1565f128965e66cb98b3505c8f3e121d8a3",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-0211cdd96506",
+      "original_filename": "10d_CX3150n_TRAY INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150n/10d_CX3150n_TRAY INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3333628,
+      "sha256": "0211cdd965068b1f3c079783715277939ede04791cfccbedfc293357a0a761b3",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-b73c97a10a8b",
+      "original_filename": "10e_CX3150n_TRAY INSTALL 2.jpg",
+      "local_path": "illustrations/3u/CX3150n/10e_CX3150n_TRAY INSTALL 2.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2766536,
+      "sha256": "b73c97a10a8b89a357a029dd3618217b5f90eb68ab3534084d6910c1a491afe5",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-d15438071027",
+      "original_filename": "10f_CX3150n_TRAY INSTALL 3.jpg",
+      "local_path": "illustrations/3u/CX3150n/10f_CX3150n_TRAY INSTALL 3.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2601625,
+      "sha256": "d15438071027ffa7069f15279c78e6f1ac70cce1ec2255b8954f4f2726c0a1ec",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-c8dc96b9c669",
+      "original_filename": "9a_CX3150n_SLIDE TRAY.jpg",
+      "local_path": "illustrations/3u/CX3150n/9a_CX3150n_SLIDE TRAY.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3287465,
+      "sha256": "c8dc96b9c6696b28e1d32a6bb2ac655b8c68bcfc1c27e08658faf2c133e53963",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-6bd15fb25504",
+      "original_filename": "9b_CX3150n_HDD ASSEMBLE.jpg",
+      "local_path": "illustrations/3u/CX3150n/9b_CX3150n_HDD ASSEMBLE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 870503,
+      "sha256": "6bd15fb25504fa6bc0dff88bd70d83c1fc39006f707382f47ada5a27ce4e304c",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-bf984acd4594",
+      "original_filename": "9c_CX3150n_HDD INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3150n/9c_CX3150n_HDD INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2809851,
+      "sha256": "bf984acd45949e49a0c6b1bcc2616480a9d6dd00f283a2eff8adc402b6f74ce7",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-61b59c7d9eaf",
+      "original_filename": "9d_CX3150n_HDD INSTALLED.jpg",
+      "local_path": "illustrations/3u/CX3150n/9d_CX3150n_HDD INSTALLED.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3290137,
+      "sha256": "61b59c7d9eafb025d558325194a59fbec09d2ce911ebb1b1d175000486895234",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3150n-ef0e2e019ba1",
+      "original_filename": "12_CX3150n_BACKPLANE.jpg",
+      "local_path": "illustrations/3u/CX3150n/12_CX3150n_BACKPLANE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3934962,
+      "sha256": "ef0e2e019ba1ec01943c47bcf178f8926ed36e913a691e0466fd9f2fc7e987d3",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
     }
   ]
 }
