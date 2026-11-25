@@ -1,9 +1,9 @@
 {
   "10a_CX3150g_TRAY UNSCREW.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-b3c2d389bc40.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-c6c55b5668e7.jpg",
     "source_path": "illustrations/3u/CX3150g/10a_CX3150g_TRAY UNSCREW.jpg",
-    "source_sha256": "b3c2d389bc40a93cb63332664ad6ab7b9cbb1ebb9825923350b0add4b1526338",
-    "sha256": "34bf3c471046d1b85a12c44c8c96156b815317fb51e1c63280e800bd18c3f46c",
+    "source_sha256": "c6c55b5668e79161313ab41d43057819c0fea8f5ca4e022aad03e363ab62d6e8",
+    "sha256": "7f8d7e769a3b846ec988a3f68150451038736d09bcbfc880e5d635bccc127b36",
     "dimensions_px": [
       1800,
       1016
@@ -12,10 +12,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10b_CX3150g_TRAY SLIDE BACK.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-8be96bf1e30d.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-36b3862367fc.jpg",
     "source_path": "illustrations/3u/CX3150g/10b_CX3150g_TRAY SLIDE BACK.jpg",
-    "source_sha256": "8be96bf1e30d853e4cda94d9fcb363fba157f089726129fef4325d860f15936d",
-    "sha256": "6dc59b211b8d4a86cc4d15824cd8caa3f47a9ecf7fe7603c4ef60ded7b2ab049",
+    "source_sha256": "36b3862367fc10687ffb3d5785e60a539cd43d74ee8bf7f917a45cd16c23224f",
+    "sha256": "ea54a9c6221a15e92fef8d063556a4286cbb6763d4948388daec0d6153bac081",
     "dimensions_px": [
       1800,
       1016
@@ -24,10 +24,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10c_CX3150g_TRAY SLIDE BACK 2.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-6d2cd393d03b.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-ffe22958e0f8.jpg",
     "source_path": "illustrations/3u/CX3150g/10c_CX3150g_TRAY SLIDE BACK 2.jpg",
-    "source_sha256": "6d2cd393d03bb90e3b345386b2ee45c40cb6a1809fce24d6d23eb7e8f0db2e51",
-    "sha256": "fae13919e8488eeaf47063fff2e035579d8523b2c96a59e93dd7508d0c72b3bb",
+    "source_sha256": "ffe22958e0f89ca041e50c70d906e18cb38ac332d558c5f6b2af51bac3607194",
+    "sha256": "fdff63a100ad1cc8f63ad7f1c0b89efe76c07900bffd8304dfcd482ba0e255a0",
     "dimensions_px": [
       1800,
       1016
@@ -36,10 +36,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10d_CX3150g_TRAY INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-bb43b24f7dfc.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-8182dd8bf52f.jpg",
     "source_path": "illustrations/3u/CX3150g/10d_CX3150g_TRAY INSTALL.jpg",
-    "source_sha256": "bb43b24f7dfca62626f62f514bf0f4ca721f4de24a45f216a9778f8e713dbb91",
-    "sha256": "612c6ba0e4c9aeeebe8544718762e3897d0456bb412725a4b5dbbed3beb67439",
+    "source_sha256": "8182dd8bf52fbb4c8c5e4dfd518c06c24ff6a7044585c867fab6e17dbc970992",
+    "sha256": "29509fa1c7ef4ca3615700417ad755a69d29c3a2342fec89b823283e901e82e9",
     "dimensions_px": [
       1800,
       1016
@@ -48,10 +48,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10e_CX3150g_TRAY INSTALL 2.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-c694717a24a4.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-5173e453cd3b.jpg",
     "source_path": "illustrations/3u/CX3150g/10e_CX3150g_TRAY INSTALL 2.jpg",
-    "source_sha256": "c694717a24a4887c553c8748a102976443f612e00097cb9fc16bfb2c5d75f527",
-    "sha256": "0c34808e946c4ca9a1b09b079570b328168975e64ac8d425d57833397bd100e2",
+    "source_sha256": "5173e453cd3b5944cacc251eb4e37414f0ca2c1d978f8bd752400f3c2b863f62",
+    "sha256": "22e4798e76b96870d9208b51c3e8bdd91b55199cceed8f18f11672041b275bee",
     "dimensions_px": [
       1800,
       1016
@@ -60,10 +60,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10f_CX3150g_TRAY INSTALL 3.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-444f2f216619.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-5c8d405d5b7d.jpg",
     "source_path": "illustrations/3u/CX3150g/10f_CX3150g_TRAY INSTALL 3.jpg",
-    "source_sha256": "444f2f216619a084a3888d500c56e27867da22c0c8dee0fc70d9c80d4fc04260",
-    "sha256": "07540b9d015ca7f43e9e1da30545555165fad7091e0e413ff00b4e2fbdc133c0",
+    "source_sha256": "5c8d405d5b7d8fe9dc50fc6730a61c9fe9ff3aa9ed4b1405066b3b0442928e51",
+    "sha256": "be6f300d78f273f60b087912878962d2b0632eec185785a0fc6b26933f7d26a1",
     "dimensions_px": [
       1800,
       1016
@@ -120,10 +120,10 @@
     "status": "prototype_selection_needs_review"
   },
   "3a_CX3150g_SIDE FAN BRACKET UNSCREW.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-93ad17048b11.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-237ead2c41fb.jpg",
     "source_path": "illustrations/3u/CX3150g/3a_CX3150g_SIDE FAN BRACKET UNSCREW.jpg",
-    "source_sha256": "93ad17048b112f4b47ea337c9cd234a2df8a56776204eb669f7a6d75ea28aefa",
-    "sha256": "22946eb021b64c8af46e187e34631767e1bb8f3516d3fa5600500306cb878669",
+    "source_sha256": "237ead2c41fbfda4d637195b79e23d7e83bddd936972715cc3d0f536349f63c1",
+    "sha256": "5a10509ac32c33bddc92cfe138ddc93d910a2c840b9950aab606e7a23653be86",
     "dimensions_px": [
       1800,
       1016
@@ -161,10 +161,10 @@
     }
   },
   "3d_CX3150g_SIDE FAN BRACKET INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-aaf31389fd9c.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-d9d24a8cda68.jpg",
     "source_path": "illustrations/3u/CX3150g/3d_CX3150g_SIDE FAN BRACKET INSTALL.jpg",
-    "source_sha256": "aaf31389fd9cb768c86ac12f57fc32e21442f37df84617cdac75e02439348449",
-    "sha256": "761089ae7336a9c34766420ae9f59b379ece6b0698e79e6e13e667faff8ffdd6",
+    "source_sha256": "d9d24a8cda686e4e56dfdebea84e793b4f6bef3966bbf1f3e254d7eed51e4163",
+    "sha256": "b9a2a31eda14e2ff87c827e0aa1d076a38493d91eb9e09fafc4b5fa9d38de4b1",
     "dimensions_px": [
       1800,
       1016
@@ -173,10 +173,10 @@
     "status": "prototype_selection_needs_review"
   },
   "3e_CX3150g_REAR FAN BRACKET REMOVE.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-34a8d092295c.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-3691cc672090.jpg",
     "source_path": "illustrations/3u/CX3150g/3e_CX3150g_REAR FAN BRACKET REMOVE.jpg",
-    "source_sha256": "34a8d092295c0f2e44cfd69a02874b5c1467d9901f6636e9dd13269ec20b622a",
-    "sha256": "18ee3a93e79adfb764b2e51429fcd8db64620ea20b8f80bbac1f750610fa0ac6",
+    "source_sha256": "3691cc67209074fab5da11ccf648c77b77361db07f1f85fc55bdb685f03fb28b",
+    "sha256": "427c7a93ba6987f46d90a8271b9474246ee2ba112b8e7d69364df286787e4dda",
     "dimensions_px": [
       1800,
       1016
@@ -214,10 +214,10 @@
     }
   },
   "3g_CX3150g_REAR FAN BRACKET INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-afc60ee82708.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-70d2d8ff7eed.jpg",
     "source_path": "illustrations/3u/CX3150g/3g_CX3150g_REAR FAN BRACKET INSTALL.jpg",
-    "source_sha256": "afc60ee827081081fda8242a8a121a32f860247c117c23b991d015e80c0f0fad",
-    "sha256": "d8cd7c3903decedee3728543dd4dab5f2e28e8dfefdd9946f6cd5ba14dde8b4b",
+    "source_sha256": "70d2d8ff7eed25d75174192ed472a89010b6348d464651423fffc2bd3f2dd4b3",
+    "sha256": "8c39d6fa12b554625806dc4cbe3e6503f4880626bfc3e4eb1486c78804a7d3e0",
     "dimensions_px": [
       1800,
       1016
