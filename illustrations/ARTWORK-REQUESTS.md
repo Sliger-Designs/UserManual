@@ -117,7 +117,7 @@ and g models (CX3150n, CX3180n, CX3150g, CX3180g, CX3250g, CX3251g, CX3252g) and
 |  | CX3150g, CX3180g | Top-view clearance drawings with the six 5.25-inch bays (as the CX3250g `TOP_DIMS`); CX3180g also a front-view drawing (new tray, shared with the CX3180n) | Grey placeholder on the clearance page; every step is rendered from the `_INT-MIN` models (2026-11-25); the covers use the CX3701/CX3702 photos |
 |  | CX3150n, CX3180n | Top- and front-view clearance drawings (CX3180n: new tray); product photos or cover renders; optional: the two missing shoulder screws on each SA-3000n demo drive (HDD step 2 reuses the CX4250n render) | The CX3701/CX3702 drawings and photos are used; every step is rendered from the `_INT-MIN` models (2026-11-25) |
 |  | CX3251g, CX3252g | Optional: a slot cover in `MT3-C1A_INT-MIN` (CX3251g step 9e) and the upright second SSD with its two screws in `MT3-C2A_INT-MIN` (CX3252g step 7b) | Every other view is rendered from each model's own `_INT-MIN` assembly (2026-11-24/25); those two steps keep the CX3151a and CX3152a images |
-|  | CX2257g | Top- and front-view clearance drawings | Grey placeholders on the two clearance pages; every other view is rendered (2026-11-23) |
+| added | CX2257g | Top- and front-view clearance drawings | None (added 2026-11-25: Sliger's PMI dimensions in the CX2257g_INT renders, notes overlay from `scripts/clearance_specs/`) |
 
 ## 2U
 
