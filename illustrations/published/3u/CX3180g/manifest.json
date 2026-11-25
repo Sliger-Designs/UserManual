@@ -1,9 +1,9 @@
 {
   "10a_CX3180g_TRAY UNSCREW.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-a63b98fd3b35.jpg",
+    "path": "illustrations/published/3u/CX3180g/cx3180g-b92785adc297.jpg",
     "source_path": "illustrations/3u/CX3180g/10a_CX3180g_TRAY UNSCREW.jpg",
-    "source_sha256": "a63b98fd3b35886d161dd43249f1aefe1388b60bf193063549ace181f57d9369",
-    "sha256": "1a5b41bb57063194e96a0a1fb044bd156b76bddf43d739beb427a742390e30ea",
+    "source_sha256": "b92785adc297c5120fb8279fe775d1faf0daad006929de75309edf6971a24b20",
+    "sha256": "42877b7dfb804cd9a09365a19bbd588a9e8293420c431a5499e70994cfc21272",
     "dimensions_px": [
       1800,
       1016
@@ -12,10 +12,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10b_CX3180g_TRAY SLIDE BACK.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-078b306aad25.jpg",
+    "path": "illustrations/published/3u/CX3180g/cx3180g-052bd9474410.jpg",
     "source_path": "illustrations/3u/CX3180g/10b_CX3180g_TRAY SLIDE BACK.jpg",
-    "source_sha256": "078b306aad256be104fb149a9e4c618e8144a5ccab907f7860ca6a20b96376a1",
-    "sha256": "a4c81575f3e57acf56904d379e047ecec598a2108e04081555445fa8e564069f",
+    "source_sha256": "052bd9474410b1deedc7b56ab397d8de54116a6dd3f7fc58bb689e584f322395",
+    "sha256": "7f95d2f97ea8e33188965cc67193011e0bdc0c2d820153a665907010247b32be",
     "dimensions_px": [
       1800,
       1016
@@ -24,10 +24,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10c_CX3180g_TRAY SLIDE BACK 2.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-0d9a37592879.jpg",
+    "path": "illustrations/published/3u/CX3180g/cx3180g-4f7e6ff68582.jpg",
     "source_path": "illustrations/3u/CX3180g/10c_CX3180g_TRAY SLIDE BACK 2.jpg",
-    "source_sha256": "0d9a3759287999743653846d80329e20f3b76db913ecd1f5c2da4bfce8033028",
-    "sha256": "959b9f38fa68324bb79a476445be4ae43beae1629b0f74b3ddffd3fb18380123",
+    "source_sha256": "4f7e6ff6858206b06b43becb8d7ab58a3fc986cbb6b3dfdfd6493d5f24da5feb",
+    "sha256": "22d925edb21e9ab89a3d54410a088405948a90f99a132843ff886adce9ec851b",
     "dimensions_px": [
       1800,
       1016

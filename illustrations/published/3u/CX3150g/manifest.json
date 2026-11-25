@@ -1,9 +1,9 @@
 {
   "10a_CX3150g_TRAY UNSCREW.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-06a01f02e89d.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-b3c2d389bc40.jpg",
     "source_path": "illustrations/3u/CX3150g/10a_CX3150g_TRAY UNSCREW.jpg",
-    "source_sha256": "06a01f02e89d918b018b5d22bc28aba77be0d2960d8060c75e82c8635bc5e191",
-    "sha256": "3435d5e5d26f69350f8703be950e9fecb6db1337ee9b29539cb967db9fd2ead4",
+    "source_sha256": "b3c2d389bc40a93cb63332664ad6ab7b9cbb1ebb9825923350b0add4b1526338",
+    "sha256": "34bf3c471046d1b85a12c44c8c96156b815317fb51e1c63280e800bd18c3f46c",
     "dimensions_px": [
       1800,
       1016
@@ -12,10 +12,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10b_CX3150g_TRAY SLIDE BACK.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-e866134c71ba.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-8be96bf1e30d.jpg",
     "source_path": "illustrations/3u/CX3150g/10b_CX3150g_TRAY SLIDE BACK.jpg",
-    "source_sha256": "e866134c71bac692a7d7c0d62782c79c080a784e43cdff2df5d0e15d2f6b4c3c",
-    "sha256": "9840bbbe84b35d430bb67a70f25b3f2764413544291e2db3b43e86d1bb0efe95",
+    "source_sha256": "8be96bf1e30d853e4cda94d9fcb363fba157f089726129fef4325d860f15936d",
+    "sha256": "6dc59b211b8d4a86cc4d15824cd8caa3f47a9ecf7fe7603c4ef60ded7b2ab049",
     "dimensions_px": [
       1800,
       1016
@@ -24,10 +24,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10c_CX3150g_TRAY SLIDE BACK 2.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-343765e4fb6b.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-6d2cd393d03b.jpg",
     "source_path": "illustrations/3u/CX3150g/10c_CX3150g_TRAY SLIDE BACK 2.jpg",
-    "source_sha256": "343765e4fb6b5851b38b1abbd70691b1ec48dec3169d132340b8d77207223f20",
-    "sha256": "08a60bf10d5ed8ac205e1f09386c135fc3c57878b990ad4d185ab5ea086fdb45",
+    "source_sha256": "6d2cd393d03bb90e3b345386b2ee45c40cb6a1809fce24d6d23eb7e8f0db2e51",
+    "sha256": "fae13919e8488eeaf47063fff2e035579d8523b2c96a59e93dd7508d0c72b3bb",
     "dimensions_px": [
       1800,
       1016
@@ -36,10 +36,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10d_CX3150g_TRAY INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-343765e4fb6b.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-bb43b24f7dfc.jpg",
     "source_path": "illustrations/3u/CX3150g/10d_CX3150g_TRAY INSTALL.jpg",
-    "source_sha256": "343765e4fb6b5851b38b1abbd70691b1ec48dec3169d132340b8d77207223f20",
-    "sha256": "08a60bf10d5ed8ac205e1f09386c135fc3c57878b990ad4d185ab5ea086fdb45",
+    "source_sha256": "bb43b24f7dfca62626f62f514bf0f4ca721f4de24a45f216a9778f8e713dbb91",
+    "sha256": "612c6ba0e4c9aeeebe8544718762e3897d0456bb412725a4b5dbbed3beb67439",
     "dimensions_px": [
       1800,
       1016
@@ -48,10 +48,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10e_CX3150g_TRAY INSTALL 2.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-e866134c71ba.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-c694717a24a4.jpg",
     "source_path": "illustrations/3u/CX3150g/10e_CX3150g_TRAY INSTALL 2.jpg",
-    "source_sha256": "e866134c71bac692a7d7c0d62782c79c080a784e43cdff2df5d0e15d2f6b4c3c",
-    "sha256": "9840bbbe84b35d430bb67a70f25b3f2764413544291e2db3b43e86d1bb0efe95",
+    "source_sha256": "c694717a24a4887c553c8748a102976443f612e00097cb9fc16bfb2c5d75f527",
+    "sha256": "0c34808e946c4ca9a1b09b079570b328168975e64ac8d425d57833397bd100e2",
     "dimensions_px": [
       1800,
       1016
@@ -60,10 +60,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10f_CX3150g_TRAY INSTALL 3.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-06a01f02e89d.jpg",
+    "path": "illustrations/published/3u/CX3150g/cx3150g-444f2f216619.jpg",
     "source_path": "illustrations/3u/CX3150g/10f_CX3150g_TRAY INSTALL 3.jpg",
-    "source_sha256": "06a01f02e89d918b018b5d22bc28aba77be0d2960d8060c75e82c8635bc5e191",
-    "sha256": "3435d5e5d26f69350f8703be950e9fecb6db1337ee9b29539cb967db9fd2ead4",
+    "source_sha256": "444f2f216619a084a3888d500c56e27867da22c0c8dee0fc70d9c80d4fc04260",
+    "sha256": "07540b9d015ca7f43e9e1da30545555165fad7091e0e413ff00b4e2fbdc133c0",
     "dimensions_px": [
       1800,
       1016
