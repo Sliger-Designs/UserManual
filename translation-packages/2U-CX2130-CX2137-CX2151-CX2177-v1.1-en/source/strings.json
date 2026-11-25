@@ -1,0 +1,7385 @@
+{
+  "s_89a34e118c3ab436": {
+    "source": "6-32 × 0.25-inch hex screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware A: name",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_f1db07ed98d96709": {
+    "source": "Motherboard, PSU, HDDs, and PCIe accessories.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware A: description",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_30ee81ea7337c3cb": {
+    "source": "M3 × 0.5 screws, 5 mm long",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware B: name",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_107d80e480200c06": {
+    "source": "2.5-inch SSDs and some 3.5-inch accessories.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware B: description",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX2177x",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_0b478a085dd2b078": {
+    "source": "6-32 hex standoffs",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: name",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_abae46bf22f30a65": {
+    "source": "0.125-inch and 0.25-inch lengths. Install in the motherboard tray.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: description",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_b797502d0754d598": {
+    "source": "Teal in drawings; black, unpatched hardware",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_9b67db9d758a0fb4": {
+    "source": "M3 screws (5 mm thread)",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware D: name",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_a4d54c0d1d2bfd74": {
+    "source": "6-32 × 0.25-inch flat-head screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware E: name",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_314e1d363dec87e2": {
+    "source": "Motherboard tray, subfront, internal brackets, and front I/O bracket.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware E: description",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_86f9fb96bfe3748e": {
+    "source": "M4 × 7 mm screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware F: name",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_fb1b0ca15358060c": {
+    "source": "Rack ears and pull handles.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware F: description",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_ffa0a85f71f3ae48": {
+    "source": "Slot covers",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware G: name",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_bcd7c361bb51ef92": {
+    "source": "Cover unused PCIe slots (half-height, vented).",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware G: description",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_a4c12d67ddf2e0a8": {
+    "source": "Rack ears",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware H: name",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_a5f3d845252d308a": {
+    "source": "Secure the chassis to the rack.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware H: description",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_c89b0850fb314b8f": {
+    "source": "1 pair",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX2177x",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_614dc4bb22cda885": {
+    "source": "Pull handles",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware I: name",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_a1efcd357e071acf": {
+    "source": "Optional handles make pulling the chassis from the rack easier.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware I: description",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_59737e14c6d0cf77": {
+    "source": "13\" DEEP 2U CHASSIS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description",
+        "model": "CX2130a",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX2130c",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX2130x",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX2137a",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX2137b",
+        "page": 1
+      }
+    ]
+  },
+  "s_96d9f834f4e7c13d": {
+    "source": "4 × 80 MM FAN MOUNTS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description_detail",
+        "model": "CX2130a",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX2137a",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX2177a",
+        "page": 1
+      }
+    ]
+  },
+  "s_86a2a9ba70bc0260": {
+    "source": "User guide",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "status",
+        "model": "CX2130a",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2130a"
+      },
+      {
+        "use": "status",
+        "model": "CX2130c",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2130c"
+      },
+      {
+        "use": "status",
+        "model": "CX2130x",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2130x"
+      },
+      {
+        "use": "status",
+        "model": "CX2137a",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2137a"
+      },
+      {
+        "use": "status",
+        "model": "CX2137b",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2137b"
+      },
+      {
+        "use": "status",
+        "model": "CX2151a",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2151a"
+      },
+      {
+        "use": "status",
+        "model": "CX2151c",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2151c"
+      },
+      {
+        "use": "status",
+        "model": "CX2151x",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2151x"
+      },
+      {
+        "use": "status",
+        "model": "CX2177a",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2177a"
+      },
+      {
+        "use": "status",
+        "model": "CX2177c",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2177c"
+      },
+      {
+        "use": "status",
+        "model": "CX2177x",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX2177x"
+      }
+    ]
+  },
+  "s_ee56c51f554915fb": {
+    "source": "ENGLISH",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "language_label",
+        "model": "CX2130a",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX2130c",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX2130x",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX2137a",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX2137b",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX2151a",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX2151c",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX2151x",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX2177a",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX2177c",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX2177x",
+        "page": 1
+      }
+    ]
+  },
+  "s_e904f136de1d752b": {
+    "source": "primary product photograph",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2130a",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2130c",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2130x",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2137a",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2137b",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2151a",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2151c",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2151x",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2177a",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2177c",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX2177x",
+        "page": 1
+      }
+    ]
+  },
+  "s_f16ac1eadb15d486": {
+    "source": "In this guide",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 2
+      }
+    ]
+  },
+  "s_e44a4595fc68902e": {
+    "source": "START HERE",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 2
+      }
+    ]
+  },
+  "s_6ec7c29724cdac1c": {
+    "source": "Exploded assembly & part key",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 3
+      }
+    ]
+  },
+  "s_03691eb5070d6dea": {
+    "source": "01 / PRODUCT INFORMATION",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 8
+      }
+    ]
+  },
+  "s_eed575c189308b34": {
+    "source": "Remove the lid",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 9
+      }
+    ]
+  },
+  "s_3660315a9af3df25": {
+    "source": "page",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX2177x",
+        "page": 3
+      }
+    ]
+  },
+  "s_fc045c84d68e584a": {
+    "source": "Remove the faceplate & filter",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 10
+      }
+    ]
+  },
+  "s_c4484902bf9f0441": {
+    "source": "Front ports & connections",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 8
+      }
+    ]
+  },
+  "s_33e6dae3b9288adf": {
+    "source": "Install rack ears & handles",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177x",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 11
+      }
+    ]
+  },
+  "s_eea3f22e5366b453": {
+    "source": "Lid",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177x",
+        "page": 3
+      }
+    ]
+  },
+  "s_c005bca808869050": {
+    "source": "Faceplate",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177x",
+        "page": 3
+      }
+    ]
+  },
+  "s_7cbdcf025f91877c": {
+    "source": "Front I/O assembly",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177x",
+        "page": 3
+      }
+    ]
+  },
+  "s_16a7728c15ca5f8c": {
+    "source": "Chassis wrap",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177x",
+        "page": 3
+      }
+    ]
+  },
+  "s_6048e4ee19b6f5f9": {
+    "source": "Filter foam",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177x",
+        "page": 3
+      }
+    ]
+  },
+  "s_53d417103df0eb74": {
+    "source": "Rack ear & pull handle",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137b",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151x",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177x",
+        "page": 3
+      }
+    ]
+  },
+  "s_4fb34afd9c222834": {
+    "source": "Clearance drawing — top view",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 4
+      }
+    ]
+  },
+  "s_2269850583debe12": {
+    "source": "Front-view component clearances",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 5
+      }
+    ]
+  },
+  "s_93f78c6771549a03": {
+    "source": "Dimensions & compatibility",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 6
+      }
+    ]
+  },
+  "s_3c7efbcc01be9a87": {
+    "source": "Hardware kit",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_588eeecbbeedd0aa": {
+    "source": "Power switch and status light",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130c",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130x",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137b",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151c",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151x",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177c",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177x",
+        "page": 8
+      }
+    ]
+  },
+  "s_0d2709ef1cda8fa2": {
+    "source": "USB Type-A ports",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130c",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130x",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2137b",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151c",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151x",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177c",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177x",
+        "page": 8
+      }
+    ]
+  },
+  "s_29093f53e9952726": {
+    "source": "02 / CHASSIS ACCESS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 11
+      }
+    ]
+  },
+  "s_9fa7647b2f38c999": {
+    "source": "yellow-patched 6-32 screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130a",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130a",
+        "page": 15
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130a",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130a",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130a",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130c",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130c",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130c",
+        "page": 15
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130c",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130c",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130c",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130c",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130c",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130x",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130x",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130x",
+        "page": 15
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130x",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130x",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130x",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130x",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2130x",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137a",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137a",
+        "page": 14
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137a",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137a",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137a",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137a",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137a",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137a",
+        "page": 21
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137b",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137b",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137b",
+        "page": 15
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137b",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137b",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137b",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137b",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2137b",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151a",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151a",
+        "page": 15
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151a",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151a",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151a",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151a",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151c",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151c",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151c",
+        "page": 15
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151c",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151c",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151c",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151c",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151c",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151c",
+        "page": 21
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151x",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151x",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151x",
+        "page": 15
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151x",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151x",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151x",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151x",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151x",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2151x",
+        "page": 21
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177a",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177a",
+        "page": 14
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177a",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177a",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177a",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177a",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177a",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177a",
+        "page": 21
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177c",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177c",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177c",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177c",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177c",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177c",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177c",
+        "page": 21
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177c",
+        "page": 22
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177c",
+        "page": 24
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 14
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 16
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 21
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 22
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX2177x",
+        "page": 23
+      }
+    ]
+  },
+  "s_661bb458a9292d16": {
+    "source": "rack ears",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2130a",
+        "page": 11
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2130c",
+        "page": 11
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2130x",
+        "page": 11
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2137a",
+        "page": 11
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2137b",
+        "page": 11
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2151a",
+        "page": 11
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2151c",
+        "page": 11
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2151x",
+        "page": 11
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2177a",
+        "page": 11
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2177c",
+        "page": 11
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX2177x",
+        "page": 11
+      }
+    ]
+  },
+  "s_c9090d7fb4d87048": {
+    "source": "pull handles",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2130a",
+        "page": 11
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2130c",
+        "page": 11
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2130x",
+        "page": 11
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2137a",
+        "page": 11
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2137b",
+        "page": 11
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2151a",
+        "page": 11
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2151c",
+        "page": 11
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2151x",
+        "page": 11
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2177a",
+        "page": 11
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2177c",
+        "page": 11
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX2177x",
+        "page": 11
+      }
+    ]
+  },
+  "s_68ea3393e6cc68de": {
+    "source": "pink-marked M4 × 7 mm screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2130a",
+        "page": 11
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2130c",
+        "page": 11
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2130x",
+        "page": 11
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2137a",
+        "page": 11
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2137b",
+        "page": 11
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2151a",
+        "page": 11
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2151c",
+        "page": 11
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2151x",
+        "page": 11
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2177a",
+        "page": 11
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2177c",
+        "page": 11
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX2177x",
+        "page": 11
+      }
+    ]
+  },
+  "s_cb05e96bec819f4b": {
+    "source": "Install fans",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 12
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 12
+      }
+    ]
+  },
+  "s_d70de792f0ca61cf": {
+    "source": "03 / COMPONENT INSTALLATION",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 23
+      }
+    ]
+  },
+  "s_c082e78e211fe02f": {
+    "source": "Install an AIO cooler",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 13
+      }
+    ]
+  },
+  "s_3759cbfdc18a2ad5": {
+    "source": "Prepare the motherboard area",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 15
+      }
+    ]
+  },
+  "s_d476155e7e374d99": {
+    "source": "black hex standoffs",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2130a",
+        "page": 14
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2130a",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2130c",
+        "page": 14
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2130c",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2130x",
+        "page": 14
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2130x",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2137a",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2137a",
+        "page": 16
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2137b",
+        "page": 14
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2137b",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2151a",
+        "page": 14
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2151a",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2151c",
+        "page": 14
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2151c",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2151x",
+        "page": 14
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2151x",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2177a",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2177a",
+        "page": 16
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2177c",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2177c",
+        "page": 16
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2177x",
+        "page": 15
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX2177x",
+        "page": 16
+      }
+    ]
+  },
+  "s_f998e83ce73b70e9": {
+    "source": "Install the motherboard",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 16
+      }
+    ]
+  },
+  "s_315554c170db4502": {
+    "source": "Install the power supply",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 17
+      }
+    ]
+  },
+  "s_173b507a77a2c6ef": {
+    "source": "Install a GPU or PCIe card",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 18
+      }
+    ]
+  },
+  "s_bc256b79ce34fecc": {
+    "source": "slot covers",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2130a",
+        "page": 17
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2130c",
+        "page": 17
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2130x",
+        "page": 17
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2137a",
+        "page": 18
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2137b",
+        "page": 17
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2151a",
+        "page": 18
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2151c",
+        "page": 18
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2151x",
+        "page": 18
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2177a",
+        "page": 18
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2177c",
+        "page": 18
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX2177x",
+        "page": 18
+      }
+    ]
+  },
+  "s_d4466914ec50d2c5": {
+    "source": "Route cables & close the chassis",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 24
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 23
+      }
+    ]
+  },
+  "s_7404495b2f8f6933": {
+    "source": "Warranty & support",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 25
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 24
+      }
+    ]
+  },
+  "s_5d03a2c1d42b1c83": {
+    "source": "04 / SUPPORT & COMPLIANCE",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2130a",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX2130c",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX2130x",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX2137a",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX2137b",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX2151a",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX2151c",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX2151x",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX2177a",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX2177c",
+        "page": 27
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX2177x",
+        "page": 26
+      }
+    ]
+  },
+  "s_d985e3d3a2c4923a": {
+    "source": "Regulations",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 26
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 25
+      }
+    ]
+  },
+  "s_86ec1bdcc59bb75e": {
+    "source": "Manual revision history",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130a",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 24
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 24
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 24
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 24
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 27
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 26
+      }
+    ]
+  },
+  "s_e331da0741fb6d05": {
+    "source": "Table of contents",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "contents accessibility label",
+        "model": "CX2130a",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX2130c",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX2130x",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX2137a",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX2137b",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX2151a",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX2151c",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX2151x",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX2177a",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX2177c",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX2177x",
+        "page": 2
+      }
+    ]
+  },
+  "s_4fc36010f284b7ec": {
+    "source": "Yellow-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_9c0211c51d04574f": {
+    "source": "detail",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_29486d69890122f7": {
+    "source": "Red-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_f625e504b578039e": {
+    "source": "Blue-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_6018cdad03073975": {
+    "source": "Green-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_8e342f5682eca65c": {
+    "source": "Pink-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2130x",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2137a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2137b",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2151x",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177c",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX2177x",
+        "page": 7
+      }
+    ]
+  },
+  "s_38178a20b470cfd1": {
+    "source": "No.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "front I/O table heading",
+        "model": "CX2130a",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2130c",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2130x",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2137a",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2137b",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2151a",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2151c",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2151x",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2177a",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2177c",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2177x",
+        "page": 8
+      }
+    ]
+  },
+  "s_e9198f30c63cc481": {
+    "source": "Port / connection",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "front I/O table heading",
+        "model": "CX2130a",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2130c",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2130x",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2137a",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2137b",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2151a",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2151c",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2151x",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2177a",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2177c",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX2177x",
+        "page": 8
+      }
+    ]
+  },
+  "s_19dd83f117525b93": {
+    "source": "Yellow",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130a",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130a",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130a",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130a",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151a",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151a",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151a",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151a",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151a",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 21
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 22
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 21
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 22
+      }
+    ]
+  },
+  "s_bd38ed7732402b1a": {
+    "source": "Pink",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130a",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151a",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 11
+      }
+    ]
+  },
+  "s_fa15a5c1d6101055": {
+    "source": "Teal",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130a",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130a",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151a",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151a",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 16
+      }
+    ]
+  },
+  "s_e79f11f0c89b434f": {
+    "source": "2 × 3.5\" EXTERNAL BAYS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description_detail",
+        "model": "CX2130c",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX2151c",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX2177c",
+        "page": 1
+      }
+    ]
+  },
+  "s_27f11a41f6db3ca0": {
+    "source": "Remove the drive cage",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 13
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 13
+      }
+    ]
+  },
+  "s_78bd132fbf1e5a4b": {
+    "source": "External 3.5-inch bays",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2130c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2151c",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX2177c",
+        "page": 3
+      }
+    ]
+  },
+  "s_78f1fe615e3d8142": {
+    "source": "Mount drives in the drive cage",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 19
+      }
+    ]
+  },
+  "s_a83dcae2948e3a53": {
+    "source": "blue-patched M3 screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2130c",
+        "page": 18
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2130x",
+        "page": 18
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2137a",
+        "page": 19
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2137b",
+        "page": 18
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2151c",
+        "page": 19
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2151x",
+        "page": 19
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2177a",
+        "page": 19
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2177c",
+        "page": 19
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2177c",
+        "page": 21
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2177x",
+        "page": 19
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX2177x",
+        "page": 20
+      }
+    ]
+  },
+  "s_25bc610dea3ab66d": {
+    "source": "Reinstall the drive cage",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2130c",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX2130x",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 20
+      }
+    ]
+  },
+  "s_ec7d56a01607001e": {
+    "source": "Blue",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130c",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2130x",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151c",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2151x",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 21
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 20
+      }
+    ]
+  },
+  "s_ca9ec8ee26350978": {
+    "source": "INTERNAL 3.5\" DRIVE CAGE",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description_detail",
+        "model": "CX2130x",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX2151x",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX2177x",
+        "page": 1
+      }
+    ]
+  },
+  "s_a3212631ead938f9": {
+    "source": "Remove the drive bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 14
+      }
+    ]
+  },
+  "s_bfb87917a043599e": {
+    "source": "green-patched 6-32 screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX2137a",
+        "page": 14
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX2137a",
+        "page": 20
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX2137b",
+        "page": 13
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX2137b",
+        "page": 19
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX2177a",
+        "page": 14
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX2177a",
+        "page": 20
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX2177c",
+        "page": 22
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX2177x",
+        "page": 14
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX2177x",
+        "page": 21
+      }
+    ]
+  },
+  "s_dd14ecaccf7d4a0c": {
+    "source": "Mount drives in the drive bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 19
+      }
+    ]
+  },
+  "s_d20c7561dac5366e": {
+    "source": "Reinstall the drive bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2137a",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX2137b",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX2177a",
+        "page": 20
+      }
+    ]
+  },
+  "s_d486dfbd5fb57834": {
+    "source": "Green",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137a",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2137b",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177a",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177c",
+        "page": 22
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX2177x",
+        "page": 21
+      }
+    ]
+  },
+  "s_584294a3f2dd2cda": {
+    "source": "3 × 80 MM FAN MOUNTS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description_detail",
+        "model": "CX2137b",
+        "page": 1
+      }
+    ]
+  },
+  "s_cff9d2c6ac714c6a": {
+    "source": "Cover unused PCIe slot openings (full-height).",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware G: description",
+        "model": "CX2151a",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX2151c",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX2151x",
+        "page": 7
+      }
+    ]
+  },
+  "s_a1207ef4a1d4d726": {
+    "source": "15\" DEEP 2U CHASSIS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description",
+        "model": "CX2151a",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX2151c",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX2151x",
+        "page": 1
+      }
+    ]
+  },
+  "s_3fea2f9bd5c52d2a": {
+    "source": "RISER GPU",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description_detail",
+        "model": "CX2151a",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX2151c",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX2151x",
+        "page": 1
+      }
+    ]
+  },
+  "s_3da05d626746b49e": {
+    "source": "4 × 80 MM FANS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description_detail",
+        "model": "CX2151a",
+        "page": 1
+      }
+    ]
+  },
+  "s_9ebed60372485f75": {
+    "source": "Remove the GPU support bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 17
+      }
+    ]
+  },
+  "s_90f46fce472ab5c2": {
+    "source": "Install the GPU on the riser",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2151a",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX2151c",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX2151x",
+        "page": 18
+      }
+    ]
+  },
+  "s_bf1a545078c4f40b": {
+    "source": "17\" DEEP 2U CHASSIS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description",
+        "model": "CX2177a",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX2177c",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX2177x",
+        "page": 1
+      }
+    ]
+  },
+  "s_8c69595ad3ceb0dc": {
+    "source": "Fit devices in the external 3.5-inch bays",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX2177c",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 23
+      }
+    ]
+  },
+  "s_c5d6bdd54bcc7703": {
+    "source": "Remove the front drive cage",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 13
+      }
+    ]
+  },
+  "s_87cff039c461be7d": {
+    "source": "Remove the rear drive bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 14
+      }
+    ]
+  },
+  "s_51c207ea9be45c70": {
+    "source": "Mount drives in the front drive cage",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 19
+      }
+    ]
+  },
+  "s_55591f3323c7b268": {
+    "source": "Reinstall the front drive cage",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 22
+      }
+    ]
+  },
+  "s_b0b042bd5b85b12d": {
+    "source": "Mount drives in the rear drive bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 20
+      }
+    ]
+  },
+  "s_c596a584cf55e82a": {
+    "source": "Reinstall the rear drive bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX2177c",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX2177x",
+        "page": 21
+      }
+    ]
+  }
+}
