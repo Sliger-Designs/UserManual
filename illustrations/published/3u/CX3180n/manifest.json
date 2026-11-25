@@ -263,34 +263,17 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "6_CX3702_SSD.jpg": {
-    "path": "illustrations/published/3u/CX3180n/cx3180n-5506c6912dcb.jpg",
-    "source_path": "illustrations/3u/CX3180n/6_CX3702_SSD.jpg",
-    "source_sha256": "2dcc837962fa5b2731c802e6ce8bc7a8ced99e8f7cb60013524380a808664e75",
-    "sha256": "8cdb756f7d07b3dd7f44e41052086f3badebb0bad73cca273fb44cf55ddf39a4",
+  "6_CX3180n_SSD.jpg": {
+    "path": "illustrations/published/3u/CX3180n/cx3180n-b9727ebf7169.jpg",
+    "source_path": "illustrations/3u/CX3180n/6_CX3180n_SSD.jpg",
+    "source_sha256": "b9727ebf71690bd0b59de0cf0526faff7ed217926c6d56209c169d9e4f51a27a",
+    "sha256": "4036dbc50bc3e33631ea09fa5ffb2fe097c3dd22b321c71b397ffaabb0ba4672",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 7804035,
-      "total_pixels": 16897536,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180n/6_CX3702_SSD-white.png",
-      "full_resolution_dimensions_px": [
-        4864,
-        3474
-      ],
-      "full_resolution_sha256": "7e4d2748567f340c081ec586329feb3e543c9f8bf4b1402f2b016989a839cf0e"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "7_CX3180n_PSU BRACKET INSTALL.jpg": {
     "path": "illustrations/published/3u/CX3180n/cx3180n-f2c52df35239.jpg",

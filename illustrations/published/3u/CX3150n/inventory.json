@@ -3,29 +3,6 @@
   "model": "CX3150n",
   "items": [
     {
-      "id": "cx3150n-9ea00975f9be",
-      "original_filename": "5_CX3701_SSD.jpg",
-      "local_path": "illustrations/3u/CX3150n/5_CX3701_SSD.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 1408599,
-      "sha256": "f04b3b0d0dfc85d7bf17c028ef6093919a455da2e4cbaf89a372f4647f394a48",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/5_CX3701_SSD-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
       "id": "cx3150n-364537aa2eac",
       "original_filename": "8e_CX3701_LOCKED HDD.jpg",
       "local_path": "illustrations/3u/CX3150n/8e_CX3701_LOCKED HDD.jpg",
@@ -128,6 +105,18 @@
       "sha256": "ab25902e1a239dc2aafeeca38eb2d07e367af01ba40ae7686262582d91129fa3",
       "selection_status": "candidate",
       "note": "Solid Edge render of the CX3150n_INT-MIN model, exploded view with the tray out the back (camera framed by Sliger, 2026-11-25); original colours."
+    },
+    {
+      "id": "cx3150n-ec1e9b14fe35",
+      "original_filename": "6_CX3150n_SSD.jpg",
+      "local_path": "illustrations/3u/CX3150n/6_CX3150n_SSD.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2877601,
+      "sha256": "ec1e9b14fe35566ece5cdfaef343179518d02865652c292d490db348dcf6f1d7",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
     },
     {
       "id": "cx3150n-b1e8cf726a4f",

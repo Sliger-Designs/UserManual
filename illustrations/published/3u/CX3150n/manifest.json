@@ -227,40 +227,23 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "5_CX3701_SSD.jpg": {
-    "path": "illustrations/published/3u/CX3150n/cx3150n-9ea00975f9be.jpg",
-    "source_path": "illustrations/3u/CX3150n/5_CX3701_SSD.jpg",
-    "source_sha256": "f04b3b0d0dfc85d7bf17c028ef6093919a455da2e4cbaf89a372f4647f394a48",
-    "sha256": "d40769e28177f341eea70046b4772cc9cbf529a8e734f4383a306ec53e94eb52",
-    "dimensions_px": [
-      1800,
-      1286
-    ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 9067720,
-      "total_pixels": 20206881,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3150n/5_CX3701_SSD-white.png",
-      "full_resolution_dimensions_px": [
-        5319,
-        3799
-      ],
-      "full_resolution_sha256": "7abf2b6dba0135daaab67f261e9ae46c4f147a75141cfe8a3881d973f0b5e4b1"
-    }
-  },
   "6_CX3150n_PSU.jpg": {
     "path": "illustrations/published/3u/CX3150n/cx3150n-ebe949f9b53f.jpg",
     "source_path": "illustrations/3u/CX3150n/6_CX3150n_PSU.jpg",
     "source_sha256": "ebe949f9b53f35dc42d294e4b26ee7405bf0d6351456367611fc0b72d61ff4f2",
     "sha256": "434eeca2d47199e3155abbd33340a830179eb27263b92c691107f56b15ce19d3",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "6_CX3150n_SSD.jpg": {
+    "path": "illustrations/published/3u/CX3150n/cx3150n-ec1e9b14fe35.jpg",
+    "source_path": "illustrations/3u/CX3150n/6_CX3150n_SSD.jpg",
+    "source_sha256": "ec1e9b14fe35566ece5cdfaef343179518d02865652c292d490db348dcf6f1d7",
+    "sha256": "329a220a90ee6f90c548a25a00abefffe694ee76abbec98010c19df98beef480",
     "dimensions_px": [
       1800,
       1016
