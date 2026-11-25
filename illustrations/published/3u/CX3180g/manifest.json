@@ -131,34 +131,17 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "3c_CX3702_SIDE FAN INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-6a06cc77a427.jpg",
-    "source_path": "illustrations/3u/CX3180g/3c_CX3702_SIDE FAN INSTALL.jpg",
-    "source_sha256": "49e8272a49560469eca37ba587b2b03f7cfab861f9b36a98a0c95f007426000c",
-    "sha256": "db0b74839a6cf7160c42cc15dd1bf412462522b21ce645c4cec1f79f5d554641",
+  "3c_CX3180g_SIDE FAN INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-4970cff228a9.jpg",
+    "source_path": "illustrations/3u/CX3180g/3c_CX3180g_SIDE FAN INSTALL.jpg",
+    "source_sha256": "4970cff228a9026f15524842e1fe40d86348cd43494a4e4eed1d743ad54e9424",
+    "sha256": "9e1de5889386fcbe268a58d0dbcbc56dd58c31abd79d649f5eff206e36e4cdd4",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 10471133,
-      "total_pixels": 11814635,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180g/3c_CX3702_SIDE FAN INSTALL-white.png",
-      "full_resolution_dimensions_px": [
-        4067,
-        2905
-      ],
-      "full_resolution_sha256": "9ea66dcdbc6ebad0b6c4f7f5258abe6278bc5b7de94812842223f20384962043"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "3d_CX3180g_SIDE FAN BRACKET INSTALL.jpg": {
     "path": "illustrations/published/3u/CX3180g/cx3180g-11aa73a58a15.jpg",
@@ -184,34 +167,17 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "3f_CX3702_REAR FAN INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-d1186873952a.jpg",
-    "source_path": "illustrations/3u/CX3180g/3f_CX3702_REAR FAN INSTALL.jpg",
-    "source_sha256": "2af23c0ad75b94f5f53ae7aef9fe79a88ed591ec3c0f88ca7fc83f8bc36ac8e2",
-    "sha256": "58b1156e05f530f521c7ddd97498cbbce7a124632c920f6bf967540389e509ea",
+  "3f_CX3180g_REAR FAN INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-21efc07720d3.jpg",
+    "source_path": "illustrations/3u/CX3180g/3f_CX3180g_REAR FAN INSTALL.jpg",
+    "source_sha256": "21efc07720d3740df5037249e82adda1f2e1b66d57892a86a975f1db64f005c6",
+    "sha256": "414179f8321eba26d5374edccc2c522fb4ce0b87c755b3dcfe0911eea6818166",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 17878100,
-      "total_pixels": 20206881,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180g/3f_CX3702_REAR FAN INSTALL-white.png",
-      "full_resolution_dimensions_px": [
-        5319,
-        3799
-      ],
-      "full_resolution_sha256": "604ec914183fb0cdf401fe64562e575cb1c3c00f6f4a44baa49ae934e393c480"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "3g_CX3180g_REAR FAN BRACKET INSTALL.jpg": {
     "path": "illustrations/published/3u/CX3180g/cx3180g-97cd91281487.jpg",

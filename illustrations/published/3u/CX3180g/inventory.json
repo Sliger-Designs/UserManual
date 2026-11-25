@@ -3,52 +3,6 @@
   "model": "CX3180g",
   "items": [
     {
-      "id": "cx3180g-6a06cc77a427",
-      "original_filename": "3c_CX3702_SIDE FAN INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3180g/3c_CX3702_SIDE FAN INSTALL.jpg",
-      "width_px": 4067,
-      "height_px": 2905,
-      "format": "JPEG",
-      "size_bytes": 558392,
-      "sha256": "49e8272a49560469eca37ba587b2b03f7cfab861f9b36a98a0c95f007426000c",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3180g/3c_CX3702_SIDE FAN INSTALL-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3180g-d1186873952a",
-      "original_filename": "3f_CX3702_REAR FAN INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3180g/3f_CX3702_REAR FAN INSTALL.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 873698,
-      "sha256": "2af23c0ad75b94f5f53ae7aef9fe79a88ed591ec3c0f88ca7fc83f8bc36ac8e2",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3180n/ (the CX3702 render): same chassis and internals; the hot-swap bays may show in the background (sources/decisions/2026-11-23-3u-g-15-18.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3180g/3f_CX3702_REAR FAN INSTALL-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
       "id": "cx3180g-84b0076cf2cf",
       "original_filename": "_CX3702_ADVANCED_FRONT VIEW.jpg",
       "local_path": "illustrations/3u/CX3180g/_CX3702_ADVANCED_FRONT VIEW.jpg",
@@ -441,6 +395,30 @@
       "sha256": "c2b5a0481992d1dd17bf69787cfd4ee5ad4b898ea9a8d567262479244276d3e8",
       "selection_status": "candidate",
       "note": "Solid Edge render of the CX3180g_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3180g-4970cff228a9",
+      "original_filename": "3c_CX3180g_SIDE FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/3c_CX3180g_SIDE FAN INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1474242,
+      "sha256": "4970cff228a9026f15524842e1fe40d86348cd43494a4e4eed1d743ad54e9424",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, as the n models' fan close-up, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3180g-21efc07720d3",
+      "original_filename": "3f_CX3180g_REAR FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3180g/3f_CX3180g_REAR FAN INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1525959,
+      "sha256": "21efc07720d3740df5037249e82adda1f2e1b66d57892a86a975f1db64f005c6",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3180g_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, as the n models' fan close-up, 2026-11-25); background (255, 255, 255)."
     }
   ]
 }

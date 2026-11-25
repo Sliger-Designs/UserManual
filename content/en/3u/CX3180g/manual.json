@@ -245,7 +245,7 @@
       "source": "side-fan-installation.md",
       "images": [
         "3a_CX3180g_SIDE FAN BRACKET UNSCREW.jpg",
-        "3c_CX3702_SIDE FAN INSTALL.jpg",
+        "3c_CX3180g_SIDE FAN INSTALL.jpg",
         "3d_CX3180g_SIDE FAN BRACKET INSTALL.jpg"
       ],
       "layout": "procedure",
@@ -266,7 +266,7 @@
       "source": "rear-fan-installation.md",
       "images": [
         "3e_CX3180g_REAR FAN BRACKET REMOVE.jpg",
-        "3f_CX3702_REAR FAN INSTALL.jpg",
+        "3f_CX3180g_REAR FAN INSTALL.jpg",
         "3g_CX3180g_REAR FAN BRACKET INSTALL.jpg"
       ],
       "layout": "procedure",
