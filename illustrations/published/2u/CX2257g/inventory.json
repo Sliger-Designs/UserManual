@@ -337,29 +337,6 @@
       }
     },
     {
-      "id": "cx2257g-7da511ac2852",
-      "original_filename": "6a_CX2177a_MOTHERBOARD IO SHIELD.jpg",
-      "local_path": "illustrations/2u/CX2257g/6a_CX2177a_MOTHERBOARD IO SHIELD.jpg",
-      "width_px": 5214,
-      "height_px": 3724,
-      "format": "JPEG",
-      "size_bytes": 1007058,
-      "sha256": "3f3f3b171fab6330dc2a5ba51bb7d4f60150bf7a181169b33cad49cc962907bb",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/2u/CX2177a/: I/O shield step; the CX2257g model has no I/O shield (Sliger, 2026-11-23).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX2257g/6a_CX2177a_MOTHERBOARD IO SHIELD-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
       "id": "cx2257g-8a517cbd45bf",
       "original_filename": "L34a_CX2257g_FAN GUARDS OFF.jpg",
       "local_path": "illustrations/2u/CX2257g/L34a_CX2257g_FAN GUARDS OFF.jpg",
@@ -405,6 +382,18 @@
         "full_resolution_path": "_build/cleaned-renders/CX2257g/_CX2177a_ADVANCED_FRONT VIEW-white.png",
         "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
       }
+    },
+    {
+      "id": "cx2257g-3b992ae7bc7d",
+      "original_filename": "6a_CX2257g_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/2u/CX2257g/6a_CX2257g_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 9000,
+      "height_px": 5137,
+      "format": "JPEG",
+      "size_bytes": 2954775,
+      "sha256": "3b992ae7bc7d3aaacb4e865906bc45390dd7a7f8fc21246904659cf6e1e47fb7",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of CX2257g_INT, I/O-shield opening (the board's reference shield) in Manual Orange; 5a camera (framed by Sliger), 2026-11-25."
     }
   ]
 }

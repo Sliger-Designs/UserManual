@@ -273,34 +273,17 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "6a_CX2177a_MOTHERBOARD IO SHIELD.jpg": {
-    "path": "illustrations/published/2u/CX2257g/cx2257g-7da511ac2852.jpg",
-    "source_path": "illustrations/2u/CX2257g/6a_CX2177a_MOTHERBOARD IO SHIELD.jpg",
-    "source_sha256": "3f3f3b171fab6330dc2a5ba51bb7d4f60150bf7a181169b33cad49cc962907bb",
-    "sha256": "effd762482d269cffad9fedfb0e693527ee36e5ff988fb62d830d2c28474bb6b",
+  "6a_CX2257g_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-3b992ae7bc7d.jpg",
+    "source_path": "illustrations/2u/CX2257g/6a_CX2257g_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "3b992ae7bc7d3aaacb4e865906bc45390dd7a7f8fc21246904659cf6e1e47fb7",
+    "sha256": "d6ef87b61419e32145ce07ab338af4cac71245080d2e42258e4034963fad39bb",
     "dimensions_px": [
       1800,
-      1286
+      1027
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 15541267,
-      "total_pixels": 19416936,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX2257g/6a_CX2177a_MOTHERBOARD IO SHIELD-white.png",
-      "full_resolution_dimensions_px": [
-        5214,
-        3724
-      ],
-      "full_resolution_sha256": "fab45a933ed564ed7b6ba81c3dca4a7d83f4745a50e5715144a301c9a0f5f3d1"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "6b_CX2257g_MOTHERBOARD.jpg": {
     "path": "illustrations/published/2u/CX2257g/cx2257g-ca2d08be894d.jpg",
