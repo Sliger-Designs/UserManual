@@ -72,10 +72,10 @@
     "status": "prototype_selection_needs_review"
   },
   "12_CX3150n_BACKPLANE.jpg": {
-    "path": "illustrations/published/3u/CX3150n/cx3150n-ef0e2e019ba1.jpg",
+    "path": "illustrations/published/3u/CX3150n/cx3150n-5b310ff2b1a1.jpg",
     "source_path": "illustrations/3u/CX3150n/12_CX3150n_BACKPLANE.jpg",
-    "source_sha256": "ef0e2e019ba1ec01943c47bcf178f8926ed36e913a691e0466fd9f2fc7e987d3",
-    "sha256": "3532739b4d53b748ecdaf74634221f707e3bb2450633a043eccede95c347b9ce",
+    "source_sha256": "5b310ff2b1a1d37b1b7a517f8150d9d759d0bfda33075f174e84927626883e7e",
+    "sha256": "9ddadb7a863a8b89d97560b86cfe58163f9aadde016e335dd90f889713f2561a",
     "dimensions_px": [
       1800,
       1016
@@ -263,34 +263,17 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "8e_CX3701_LOCKED HDD.jpg": {
-    "path": "illustrations/published/3u/CX3150n/cx3150n-364537aa2eac.jpg",
-    "source_path": "illustrations/3u/CX3150n/8e_CX3701_LOCKED HDD.jpg",
-    "source_sha256": "5a713cd3be3fd8a304bc39762ca701335c7f8f50fc4f1be89785a999558abe48",
-    "sha256": "b405dfcfb7e3c3c505fc24ad5aa53ac25f7f389c3706a922bf05f2fb5e3d43c5",
+  "8e_CX3150n_LOCKED HDD.jpg": {
+    "path": "illustrations/published/3u/CX3150n/cx3150n-cca063645355.jpg",
+    "source_path": "illustrations/3u/CX3150n/8e_CX3150n_LOCKED HDD.jpg",
+    "source_sha256": "cca06364535558be6408dd17619af644d47e63f5d47a592ab236fd737f005c92",
+    "sha256": "51bcaada8fc15cd95ad4428fbd5fe32393f1d3430c12393cb2a2a7a5eccb266e",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 7513620,
-      "total_pixels": 16897536,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3150n/8e_CX3701_LOCKED HDD-white.png",
-      "full_resolution_dimensions_px": [
-        4864,
-        3474
-      ],
-      "full_resolution_sha256": "37380164e290a30cbab90f0e00921ef900762cd36f74d78ac7066feedec76578"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "9_CX3150n_RACK EARS.jpg": {
     "path": "illustrations/published/3u/CX3150n/cx3150n-c1cf27c08a3f.jpg",

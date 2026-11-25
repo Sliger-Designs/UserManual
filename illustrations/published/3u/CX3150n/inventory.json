@@ -3,29 +3,6 @@
   "model": "CX3150n",
   "items": [
     {
-      "id": "cx3150n-364537aa2eac",
-      "original_filename": "8e_CX3701_LOCKED HDD.jpg",
-      "local_path": "illustrations/3u/CX3150n/8e_CX3701_LOCKED HDD.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1135393,
-      "sha256": "5a713cd3be3fd8a304bc39762ca701335c7f8f50fc4f1be89785a999558abe48",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3701/: same chassis; the view does not show the backplane (sources/decisions/2026-11-23-3u-n.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3150n/8e_CX3701_LOCKED HDD-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
       "id": "cx3150n-c45cac68046b",
       "original_filename": "_CX3701_ADVANCED_FRONT VIEW.jpg",
       "local_path": "illustrations/3u/CX3150n/_CX3701_ADVANCED_FRONT VIEW.jpg",
@@ -105,6 +82,18 @@
       "sha256": "ab25902e1a239dc2aafeeca38eb2d07e367af01ba40ae7686262582d91129fa3",
       "selection_status": "candidate",
       "note": "Solid Edge render of the CX3150n_INT-MIN model, exploded view with the tray out the back (camera framed by Sliger, 2026-11-25); original colours."
+    },
+    {
+      "id": "cx3150n-cca063645355",
+      "original_filename": "8e_CX3150n_LOCKED HDD.jpg",
+      "local_path": "illustrations/3u/CX3150n/8e_CX3150n_LOCKED HDD.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2953307,
+      "sha256": "cca06364535558be6408dd17619af644d47e63f5d47a592ab236fd737f005c92",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
     },
     {
       "id": "cx3150n-ec1e9b14fe35",
@@ -419,14 +408,14 @@
       "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
     },
     {
-      "id": "cx3150n-ef0e2e019ba1",
+      "id": "cx3150n-5b310ff2b1a1",
       "original_filename": "12_CX3150n_BACKPLANE.jpg",
       "local_path": "illustrations/3u/CX3150n/12_CX3150n_BACKPLANE.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 3934962,
-      "sha256": "ef0e2e019ba1ec01943c47bcf178f8926ed36e913a691e0466fd9f2fc7e987d3",
+      "size_bytes": 4710027,
+      "sha256": "5b310ff2b1a1d37b1b7a517f8150d9d759d0bfda33075f174e84927626883e7e",
       "selection_status": "candidate",
       "note": "Solid Edge render of the CX3150n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
     }

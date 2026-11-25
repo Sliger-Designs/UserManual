@@ -417,7 +417,7 @@
       "source": "hdd-lock.md",
       "images": [
         "9d_CX3150n_HDD INSTALLED.jpg",
-        "8e_CX3701_LOCKED HDD.jpg"
+        "8e_CX3150n_LOCKED HDD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -440,7 +440,7 @@
       "layout_variant": "visual-left",
       "split_before_heading": 2,
       "image_annotations": {
-        "_CX4250n_BACKPLANE.jpg": "backplane-callouts.json"
+        "12_CX3150n_BACKPLANE.jpg": "backplane-callouts.json"
       }
     },
     {
