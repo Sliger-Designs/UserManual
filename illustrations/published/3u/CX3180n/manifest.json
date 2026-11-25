@@ -840,6 +840,18 @@
       "full_resolution_sha256": "a768ed5b633a37aab27a02ffaaf6167ec2b01c58d5c3f254e86be931826aa6fe"
     }
   },
+  "CX3180n-CHASSIS_EXPLODE-REV20261123.jpg": {
+    "path": "illustrations/published/3u/CX3180n/cx3180n-d93e0d85c04f.jpg",
+    "source_path": "illustrations/3u/CX3180n/CX3180n-CHASSIS_EXPLODE-REV20261123.jpg",
+    "source_sha256": "d93e0d85c04f828fe07ddf53234357a9424457bf6c5c203816df66e195cefcdf",
+    "sha256": "5684c8fdb7b3c6280f7f36dd4669f42181d66758ef48c9063c1404e53a981667",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
   "_CX3702_ADVANCED_FRONT VIEW.jpg": {
     "path": "illustrations/published/3u/CX3180n/cx3180n-84b0076cf2cf.jpg",
     "source_path": "illustrations/3u/CX3180n/_CX3702_ADVANCED_FRONT VIEW.jpg",
@@ -935,18 +947,6 @@
     "dimensions_px": [
       1800,
       1027
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
-  },
-  "CX3180n-CHASSIS_EXPLODE-REV20261123.jpg": {
-    "path": "illustrations/published/3u/CX3180n/cx3180n-d93e0d85c04f.jpg",
-    "source_path": "illustrations/3u/CX3180n/CX3180n-CHASSIS_EXPLODE-REV20261123.jpg",
-    "source_sha256": "d93e0d85c04f828fe07ddf53234357a9424457bf6c5c203816df66e195cefcdf",
-    "sha256": "5684c8fdb7b3c6280f7f36dd4669f42181d66758ef48c9063c1404e53a981667",
-    "dimensions_px": [
-      1800,
-      1016
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"

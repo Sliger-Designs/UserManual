@@ -62,10 +62,13 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "CX3250g-CHASSIS_EXPLODE-REV20261123.jpg"
+        "CX3251g-CHASSIS_EXPLODE-REV20261124.jpg"
       ],
       "layout": "exploded",
-      "layout_variant": "exploded-side"
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX3251g-CHASSIS_EXPLODE-REV20261124.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -176,9 +179,9 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/lid-removal.md",
       "images": [
-        "1a_CX3250g_LID UNSCREW.jpg",
-        "1b_CX3250g_LID SLIDE BACK.jpg",
-        "1c_CX3250g_LID REMOVE.jpg"
+        "1a_CX3251g_LID UNSCREW.jpg",
+        "1b_CX3251g_LID SLIDE BACK.jpg",
+        "1c_CX3251g_LID REMOVE.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -195,7 +198,7 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "faceplate-removal.md",
       "images": [
-        "2_CX3250g_FACEPLATE REMOVE.jpg"
+        "2_CX3251g_FACEPLATE REMOVE.jpg"
       ],
       "layout": "procedure"
     },
@@ -205,9 +208,9 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/tray-removal.md",
       "images": [
-        "pending: CX3251g tray screws",
-        "pending: CX3251g tray slid back",
-        "pending: CX3251g tray lifted out"
+        "5a_CX3251g_TRAY UNSCREW.jpg",
+        "5b_CX3251g_TRAY SLIDE BACK.jpg",
+        "5c_CX3251g_TRAY REMOVE.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -224,7 +227,7 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/rack-ears.md",
       "images": [
-        "10_CX3250g_RACK EARS.jpg"
+        "10_CX3251g_RACK EARS.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -241,7 +244,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "fan-bracket-removal.md",
       "images": [
-        "3a1_CX3250g_FAN BRACKET REMOVE.jpg"
+        "3a1_CX3251g_FAN BRACKET REMOVE.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -255,7 +258,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "fan-installation.md",
       "images": [
-        "3a_CX3250g_FAN INSTALL.jpg"
+        "3a_CX3251g_FAN INSTALL.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -268,8 +271,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "aio-installation.md",
       "images": [
-        "3b_CX3250g_AIO PRECOOLER.jpg",
-        "3c_CX3250g_AIO INSTALLED.jpg"
+        "3b_CX3251g_AIO PRECOOLER.jpg",
+        "3c_CX3251g_AIO INSTALLED.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -283,8 +286,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "fan-bracket-installation.md",
       "images": [
-        "3f_CX3250g_FAN BRACKET INSTALL.jpg",
-        "3g_CX3250g_FAN BRACKET INSTALLED.jpg"
+        "3f_CX3251g_FAN BRACKET INSTALL.jpg",
+        "3g_CX3251g_FAN BRACKET INSTALLED.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -298,8 +301,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/motherboard-preparation.md",
       "images": [
-        "4a_CX3151a_STANDOFF INSTALL.jpg",
-        "5a_CX3151a_MOTHERBOARD IO SHIELD.jpg"
+        "4a_CX3251g_STANDOFF INSTALL.jpg",
+        "4b_CX3251g_MOTHERBOARD IO SHIELD_alt.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -315,7 +318,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/motherboard-installation.md",
       "images": [
-        "5b_CX3151a_MOTHERBOARD.bmp"
+        "5b_CX3251g_MOTHERBOARD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -331,7 +334,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "psu-installation.md",
       "images": [
-        "6_CX3151a_PSU.jpg"
+        "6_CX3251g_PSU.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -346,7 +349,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/3u-ssd-installation.md",
       "images": [
-        "7_CX3151a_SSD.jpg"
+        "7_CX3251g_SSD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -361,9 +364,9 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "bay-bank-removal.md",
       "images": [
-        "9a_CX3250g_BAY BANK UNSCREW.jpg",
-        "9b_CX3250g_BAY BANK SLIDE BACK.jpg",
-        "9c_CX3250g_BAY BANK LIFT OUT.jpg"
+        "9a_CX3251g_BAY BANK UNSCREW.jpg",
+        "9b_CX3251g_BAY BANK SLIDE BACK.jpg",
+        "9c_CX3251g_BAY BANK LIFT OUT.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -380,9 +383,9 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "bay-devices.md",
       "images": [
-        "9d_CX3250g_OPTICAL BAY DEVICE.jpg",
-        "9e_CX3250g_BAY DRIVE CAGE.jpg",
-        "9f_CX3250g_BAY FILLER.jpg"
+        "9d_CX3251g_OPTICAL BAY DEVICE.jpg",
+        "9e_CX3251g_BAY DRIVE CAGE.jpg",
+        "9f_CX3251g_BAY FILLER.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -425,9 +428,9 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/tray-installation.md",
       "images": [
-        "pending: CX3251g tray lowered in",
-        "pending: CX3251g tray slid forward",
-        "pending: CX3251g tray screws"
+        "5d_CX3251g_TRAY INSTALL.jpg",
+        "5e_CX3251g_TRAY SLIDE FORWARD.jpg",
+        "5f_CX3251g_TRAY SCREW INSTALL.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -444,11 +447,11 @@
       "id": "rear-cover-removal",
       "title": "Remove the rear slot cover",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "../../shared/rackmount/riser-rear-cover-removal.md",
+      "source": "rear-cover-removal.md",
       "images": [
-        "8a_CX3151a_REAR COVER UNSCREW.jpg",
-        "8b_CX3151a_REAR COVER REMOVE 1.jpg",
-        "8c_CX3151a_REAR COVER REMOVE 2.jpg"
+        "7r1_CX3251g_REAR COVER UNSCREW.jpg",
+        "7r2_CX3251g_REAR COVER REMOVE 1.jpg",
+        "7r3_CX3251g_REAR COVER REMOVE 2.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -463,12 +466,11 @@
       "id": "gpu-brace",
       "title": "Fit the GPU support brace",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "../../shared/rackmount/riser-gpu-brace.md",
+      "source": "gpu-brace.md",
       "images": [
-        "9a_CX3151a_GPU SUPPORT SCREW REMOVAL V1.jpg",
-        "9b_CX3151a_GPU SUPPORT INSTALL V1.jpg",
-        "9a_CX3151a_GPU SUPPORT SCREW REMOVAL V2.jpg",
-        "9b_CX3151a_GPU SUPPORT INSTALL V2.jpg"
+        "8a_CX3251g_GPU BRACE SCREW REMOVAL.jpg",
+        "8b_CX3251g_GPU BRACE INSTALL.jpg",
+        "8d_CX3251g_GPU BRACE INSTALL V2.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -478,9 +480,6 @@
         [
           "J",
           "K"
-        ],
-        [
-          "A"
         ],
         [
           "J",
@@ -494,8 +493,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/riser-gpu-installation.md",
       "images": [
-        "9c_CX3151a_GPU INSTALL.jpg",
-        "9d_CX3151a_GPU INSTALL REAR.jpg",
+        "8_CX3251g_GPU.jpg",
+        "9d_CX3251g_GPU INSTALL REAR.jpg",
         "9e_CX3151a_COVER.jpg"
       ],
       "layout": "procedure",
@@ -516,7 +515,7 @@
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
       "images": [
-        "12e_CX3151a_cable_managment.jpg"
+        "CX3251g_CABLE MANAGEMENT_alt.jpg"
       ],
       "layout": "procedure"
     },
@@ -570,10 +569,5 @@
     "6 × 5.25\" BAYS"
   ],
   "cover_format": "landscape",
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "CX3251g tray removal and reinstall renders (riser tray); until then grey placeholders. The tray steps keep the CX3151a renders for comparison (Sliger to decide on re-rendering)."
-    }
-  ]
+  "missing_assets": []
 }

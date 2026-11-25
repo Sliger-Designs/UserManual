@@ -1,8 +1,8 @@
 {
-  "asset_key": "CX3180n-CHASSIS_EXPLODE-REV20261110-IOPEM.jpg",
-  "source_sha256": "13a2317a402e1dde2ece11bc8153fecabb243e600e1d0505f855525d796dba1e",
+  "asset_key": "CX3180g-CHASSIS_EXPLODE-REV20261123.jpg",
+  "source_sha256": "35f6a5d686323591faf3f3287431e7f5f3a03336ab94c8c7b7cd42c61c6c7ea1",
   "coordinate_space": "uncropped_image",
-  "aspect_ratio": 1.8439716312056738,
+  "aspect_ratio": 1.770956316410862,
   "view_box": [
     0,
     0,
@@ -11,18 +11,18 @@
   ],
   "badge_radius_height_fraction": 0.024,
   "font_size_height_fraction": 0.032,
-  "review_status": "Callouts placed on the supplied CX3180n exploded view 2026-11-23 (lid, faceplate, front I/O and rack ear exploded; fan brackets not exploded); review before release.",
+  "review_status": "Callouts placed on the CX3180g exploded view (2026-11-24, Sliger review); review before release.",
   "callouts": [
     {
       "number": 1,
       "label": "Lid",
       "target": [
-        0.55,
+        0.6,
         0.22
       ],
       "badge": [
         0.3,
-        0.1
+        0.08
       ]
     },
     {
@@ -33,19 +33,19 @@
         0.62
       ],
       "badge": [
-        0.035,
-        0.86
+        0.05,
+        0.9
       ]
     },
     {
       "number": 3,
       "label": "Front I/O assembly",
       "target": [
-        0.47,
-        0.71
+        0.505,
+        0.68
       ],
       "badge": [
-        0.44,
+        0.45,
         0.95
       ]
     },
@@ -53,24 +53,48 @@
       "number": 4,
       "label": "Rack ear & pull handle",
       "target": [
-        0.508,
-        0.76
+        0.54,
+        0.8
       ],
       "badge": [
-        0.58,
-        0.95
+        0.62,
+        0.93
       ]
     },
     {
       "number": 5,
+      "label": "5.25-inch bay fillers",
+      "target": [
+        0.33,
+        0.45
+      ],
+      "badge": [
+        0.08,
+        0.28
+      ]
+    },
+    {
+      "number": 6,
       "label": "Chassis wrap",
       "target": [
-        0.75,
-        0.63
+        0.78,
+        0.6
       ],
       "badge": [
         0.88,
-        0.82
+        0.8
+      ]
+    },
+    {
+      "number": 7,
+      "label": "Motherboard tray",
+      "target": [
+        0.83,
+        0.4
+      ],
+      "badge": [
+        0.96,
+        0.22
       ]
     }
   ]

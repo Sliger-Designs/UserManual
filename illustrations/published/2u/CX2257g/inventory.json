@@ -382,6 +382,29 @@
       "sha256": "3d06b079c54c502d4b99fa12d87315466615861d2cf8639b2620cac4a0ad12d5",
       "selection_status": "candidate",
       "note": "Solid Edge render of the Dynatron L34 in the CX2257g_INT model (fans, radiator and pump black as the CX2177a renders; guards 4 mm / screws 12 mm in L34a; bracket 20 mm / screws 15 mm in L34b; cameras framed by Sliger 2026-11-23)."
+    },
+    {
+      "id": "cx2257g-0644b04eb4ed",
+      "original_filename": "_CX2177a_ADVANCED_FRONT VIEW.jpg",
+      "local_path": "illustrations/2u/CX2257g/_CX2177a_ADVANCED_FRONT VIEW.jpg",
+      "width_px": 5597,
+      "height_px": 3998,
+      "format": "JPEG",
+      "size_bytes": 1008738,
+      "sha256": "e56447a7b859870257342524fe1b24eb1daa81982ab78ad49d13bd8bbca9a28a",
+      "selection_status": "candidate",
+      "note": "Copied from illustrations/2u/CX2177a/: same 2U front-view component clearances (Sliger review, 2026-11-24).",
+      "background_cleanup": {
+        "reference_rgb": [
+          250,
+          252,
+          251
+        ],
+        "tolerance_per_channel": 4,
+        "publication_format": "jpeg",
+        "full_resolution_path": "_build/cleaned-renders/CX2257g/_CX2177a_ADVANCED_FRONT VIEW-white.png",
+        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
+      }
     }
   ]
 }

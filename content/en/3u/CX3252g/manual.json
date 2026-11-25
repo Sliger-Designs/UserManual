@@ -64,9 +64,13 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "pending: CX3252g exploded view with part callouts"
+        "CX3252g-CHASSIS_EXPLODE-REV20261124.jpg"
       ],
-      "layout": "exploded"
+      "layout": "exploded",
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX3252g-CHASSIS_EXPLODE-REV20261124.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -148,9 +152,9 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/lid-removal.md",
       "images": [
-        "pending: CX3252g lid screws",
-        "pending: CX3252g lid slid back",
-        "pending: CX3252g lid lifted off"
+        "1a_CX3252g_LID UNSCREW.jpg",
+        "1b_CX3252g_LID SLIDE BACK.jpg",
+        "1c_CX3252g_LID REMOVE.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -167,7 +171,7 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "faceplate-removal.md",
       "images": [
-        "pending: CX3252g faceplate removal with the 5.25-inch bays"
+        "2_CX3252g_FACEPLATE REMOVE.jpg"
       ],
       "layout": "procedure"
     },
@@ -177,9 +181,9 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/tray-removal.md",
       "images": [
-        "pending: CX3252g tray screws",
-        "pending: CX3252g tray slid back",
-        "pending: CX3252g tray lifted out"
+        "5a_CX3252g_TRAY UNSCREW.jpg",
+        "5b_CX3252g_TRAY SLIDE BACK.jpg",
+        "5c_CX3252g_TRAY REMOVE.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -196,7 +200,7 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/rack-ears.md",
       "images": [
-        "pending: CX3252g rack ears and pull handles"
+        "10_CX3252g_RACK EARS.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -213,7 +217,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "fan-bracket-removal.md",
       "images": [
-        "pending: CX3252g fan bracket lifted out"
+        "3a1_CX3252g_FAN BRACKET REMOVE.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -227,7 +231,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "fan-installation.md",
       "images": [
-        "pending: CX3252g three fans on the bracket"
+        "3a_CX3252g_FAN INSTALL.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -240,8 +244,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "aio-installation.md",
       "images": [
-        "pending: CX3252g fans and 360 mm radiator on the bracket",
-        "pending: CX3252g radiator assembly secured"
+        "3b_CX3252g_AIO PRECOOLER.jpg",
+        "3c_CX3252g_AIO INSTALLED.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -255,8 +259,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "fan-bracket-installation.md",
       "images": [
-        "pending: CX3252g bracket lowered in",
-        "pending: CX3252g bracket installed"
+        "3f_CX3252g_FAN BRACKET INSTALL.jpg",
+        "3g_CX3252g_FAN BRACKET INSTALLED.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -270,8 +274,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/motherboard-preparation.md",
       "images": [
-        "4a_CX3152a_STANDOFF INSTALL.jpg",
-        "6a_CX3152a_MOTHERBOARD IO SHIELD.jpg"
+        "4a_CX3252g_STANDOFF INSTALL.jpg",
+        "4b_CX3252g_MOTHERBOARD IO SHIELD_alt.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -287,7 +291,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/motherboard-installation.md",
       "images": [
-        "6a_CX3152a_MOTHERBOARD.jpg"
+        "5b_CX3252g_MOTHERBOARD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -303,7 +307,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "ssd-installation.md",
       "images": [
-        "7a_CX3152a_SSD 1.jpg",
+        "7a_CX3252g_SSD 1.jpg",
         "7b_CX3152a_SSD 2.jpg"
       ],
       "layout": "procedure",
@@ -322,8 +326,8 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "psu-installation.md",
       "images": [
-        "8a_CX3152a_PSU 1.jpg",
-        "8b_CX3152a_PSU 2.jpg"
+        "8a_CX3252g_PSU 1.jpg",
+        "8b_CX3252g_PSU 2.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -339,7 +343,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/gpu-installation.md",
       "images": [
-        "9_CX3152a_GPU.jpg"
+        "8_CX3252g_GPU.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -355,9 +359,9 @@
       "section": "04 / REASSEMBLY",
       "source": "bay-bank-removal.md",
       "images": [
-        "pending: CX3252g bay bank screws (217-499)",
-        "pending: CX3252g bay bank slid back",
-        "pending: CX3252g bay bank lifted out"
+        "9a_CX3252g_BAY BANK UNSCREW.jpg",
+        "9b_CX3252g_BAY BANK SLIDE BACK.jpg",
+        "9c_CX3252g_BAY BANK LIFT OUT.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -374,9 +378,9 @@
       "section": "04 / REASSEMBLY",
       "source": "bay-devices.md",
       "images": [
-        "pending: CX3252g 5.25-inch device in the bank (217-477P)",
-        "pending: CX3252g bay drive cage in the bank",
-        "pending: CX3252g filler blank in the bank"
+        "9d_CX3252g_OPTICAL BAY DEVICE.jpg",
+        "9e_CX3252g_BAY DRIVE CAGE.jpg",
+        "9f_CX3252g_BAY FILLER.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -419,9 +423,9 @@
       "section": "04 / REASSEMBLY",
       "source": "../../shared/rackmount/tray-installation.md",
       "images": [
-        "pending: CX3252g tray lowered in",
-        "pending: CX3252g tray slid forward",
-        "pending: CX3252g tray screws"
+        "5d_CX3252g_TRAY INSTALL.jpg",
+        "5e_CX3252g_TRAY SLIDE FORWARD.jpg",
+        "5f_CX3252g_TRAY SCREW INSTALL.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -440,7 +444,7 @@
       "section": "04 / REASSEMBLY",
       "source": "cable-management.md",
       "images": [
-        "12e_CX3152a_cableManage.jpg"
+        "CX3252g_CABLE MANAGEMENT_alt2.jpg"
       ],
       "layout": "procedure"
     },
@@ -494,22 +498,5 @@
     "6 × 5.25\" BAYS"
   ],
   "cover_format": "landscape",
-  "missing_assets": [
-    {
-      "id": "M01",
-      "needed": "CX3252g exploded view with part callouts."
-    },
-    {
-      "id": "M02",
-      "needed": "CX3252g chassis views: lid, faceplate, tray removal and reinstall, rack ears."
-    },
-    {
-      "id": "M03",
-      "needed": "CX3252g mid-chassis fan bracket, fan and radiator renders."
-    },
-    {
-      "id": "M04",
-      "needed": "CX3252g bay-bank renders: unscrew 217-499, slide back, lift out; device, bay drive cage and filler with 217-477P."
-    }
-  ]
+  "missing_assets": []
 }

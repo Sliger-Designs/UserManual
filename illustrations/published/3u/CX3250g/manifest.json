@@ -12,10 +12,10 @@
     "status": "prototype_selection_needs_review"
   },
   "1a_CX3250g_LID UNSCREW.jpg": {
-    "path": "illustrations/published/3u/CX3250g/cx3250g-7c172d85f4f3.jpg",
+    "path": "illustrations/published/3u/CX3250g/cx3250g-2257b9a11a74.jpg",
     "source_path": "illustrations/3u/CX3250g/1a_CX3250g_LID UNSCREW.jpg",
-    "source_sha256": "7c172d85f4f3b692ead24b8340404324a46acb6fc1e92c5609a9928c19afd17a",
-    "sha256": "f81a257f38c089b70ccb193da2190caa660edb956d087d8f4679d100ea989af8",
+    "source_sha256": "2257b9a11a747f82f48366ef9da1137cb0073b23dbb80cf02f68ad1d881376f1",
+    "sha256": "a9e2e35c037989f6cd942b4ebebe0a898dbb18730075b2abd31024c10f0a61e7",
     "dimensions_px": [
       1800,
       1016
@@ -364,40 +364,23 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "CABLE_MANAGEMENT_BAR_HIGHLIGHT.jpg": {
-    "path": "illustrations/published/3u/CX3250g/cx3250g-e7d975449cfe.jpg",
-    "source_path": "illustrations/3u/CX3250g/CABLE_MANAGEMENT_BAR_HIGHLIGHT.jpg",
-    "source_sha256": "ce8c713f09f452ed2922793cc73647c439f8ed0038afbe21a42ab537b70459c4",
-    "sha256": "050f33bbcc96beabb660272a95feddf4753156f862bee5d33e349e0e47a09631",
-    "dimensions_px": [
-      1800,
-      1286
-    ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 45426,
-      "total_pixels": 12200616,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3250g/CABLE_MANAGEMENT_BAR_HIGHLIGHT-white.png",
-      "full_resolution_dimensions_px": [
-        4133,
-        2952
-      ],
-      "full_resolution_sha256": "cba4baa770d2cee9f429123fe2ce14d5817a6bc69ad6eca861179547ee5d6e54"
-    }
-  },
   "CX3250g-CHASSIS_EXPLODE-REV20261123.jpg": {
     "path": "illustrations/published/3u/CX3250g/cx3250g-0211902bb1e7.jpg",
     "source_path": "illustrations/3u/CX3250g/CX3250g-CHASSIS_EXPLODE-REV20261123.jpg",
     "source_sha256": "0211902bb1e792dfc3e027c30b4c76ba8ebb8a2b723c558d1d0f91f362369ce8",
     "sha256": "39882dd99aafe3963a20c52cc031d222c285cff16005b4a8d6c30f5e7f75a340",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX3250g_CABLE MANAGEMENT.jpg": {
+    "path": "illustrations/published/3u/CX3250g/cx3250g-b2893b62870d.jpg",
+    "source_path": "illustrations/3u/CX3250g/CX3250g_CABLE MANAGEMENT.jpg",
+    "source_sha256": "b2893b62870d88314766e1c01334c45661177662c6144db6513ee4702e476183",
+    "sha256": "00c31747b132a23a9ff1586def1e4520d03c709c2701e3c0db6acea937117289",
     "dimensions_px": [
       1800,
       1016
@@ -474,17 +457,5 @@
       ],
       "full_resolution_sha256": "5ba62233a5865bb683e682d82ca1684fe0ef0034589aa7dc977e7549fbfb91f2"
     }
-  },
-  "CX3250g_CABLE MANAGEMENT.jpg": {
-    "path": "illustrations/published/3u/CX3250g/cx3250g-b2893b62870d.jpg",
-    "source_path": "illustrations/3u/CX3250g/CX3250g_CABLE MANAGEMENT.jpg",
-    "source_sha256": "b2893b62870d88314766e1c01334c45661177662c6144db6513ee4702e476183",
-    "sha256": "00c31747b132a23a9ff1586def1e4520d03c709c2701e3c0db6acea937117289",
-    "dimensions_px": [
-      1800,
-      1016
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
   }
 }

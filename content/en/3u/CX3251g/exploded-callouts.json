@@ -1,0 +1,101 @@
+{
+  "asset_key": "CX3251g-CHASSIS_EXPLODE-REV20261124.jpg",
+  "source_sha256": "68d6c13cdf54b87560ea444b5948c9f535d759ef8a4ae69c96855b748053a87a",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.770956316410862,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the CX3251g exploded view (2026-11-24, Sliger review); review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.62,
+        0.22
+      ],
+      "badge": [
+        0.4,
+        0.08
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.2,
+        0.62
+      ],
+      "badge": [
+        0.05,
+        0.9
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.435,
+        0.72
+      ],
+      "badge": [
+        0.36,
+        0.95
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.47,
+        0.83
+      ],
+      "badge": [
+        0.53,
+        0.95
+      ]
+    },
+    {
+      "number": 5,
+      "label": "5.25-inch bay fillers",
+      "target": [
+        0.21,
+        0.5
+      ],
+      "badge": [
+        0.06,
+        0.36
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Chassis wrap",
+      "target": [
+        0.75,
+        0.6
+      ],
+      "badge": [
+        0.86,
+        0.82
+      ]
+    },
+    {
+      "number": 7,
+      "label": "Motherboard tray",
+      "target": [
+        0.83,
+        0.38
+      ],
+      "badge": [
+        0.95,
+        0.18
+      ]
+    }
+  ]
+}

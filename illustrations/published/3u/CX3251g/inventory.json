@@ -3,340 +3,6 @@
   "model": "CX3251g",
   "items": [
     {
-      "id": "cx3251g-2809d985a7b7",
-      "original_filename": "12e_CX3151a_cable_managment.jpg",
-      "local_path": "illustrations/3u/CX3251g/12e_CX3151a_cable_managment.jpg",
-      "width_px": 4377,
-      "height_px": 3126,
-      "format": "JPEG",
-      "size_bytes": 1605511,
-      "sha256": "4bc04b7fee5781ede0de93728dfc5e3d4a67035433ae1197e1050f03ab4ff685",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md)."
-    },
-    {
-      "id": "cx3251g-d3c791f378e5",
-      "original_filename": "4a_CX3151a_STANDOFF INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3251g/4a_CX3151a_STANDOFF INSTALL.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2009864,
-      "sha256": "d156d47c8ec585b226fa4a3952f03bd43dbdfb0e8b9d8c0e4ce491ba5b5a7f06",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/4a_CX3151a_STANDOFF INSTALL-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-d413fcc56e77",
-      "original_filename": "5a_CX3151a_MOTHERBOARD IO SHIELD.jpg",
-      "local_path": "illustrations/3u/CX3251g/5a_CX3151a_MOTHERBOARD IO SHIELD.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2094466,
-      "sha256": "5576860929441091f40adf478f67bfbe17549cf3b8c30ededcbaad9419eda59d",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/5a_CX3151a_MOTHERBOARD IO SHIELD-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-6fe68fbe793d",
-      "original_filename": "5b_CX3151a_MOTHERBOARD.bmp",
-      "local_path": "illustrations/3u/CX3251g/5b_CX3151a_MOTHERBOARD.bmp",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "BMP",
-      "size_bytes": 67590198,
-      "sha256": "441ad00a0347aa11ed92645da7dbc75684d60c711e281e898a485f30541b8610",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/5b_CX3151a_MOTHERBOARD-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-2827fb77cdcd",
-      "original_filename": "6_CX3151a_PSU.jpg",
-      "local_path": "illustrations/3u/CX3251g/6_CX3151a_PSU.jpg",
-      "width_px": 5817,
-      "height_px": 4155,
-      "format": "JPEG",
-      "size_bytes": 2068679,
-      "sha256": "fce4368decba88b927f3220dd674d9187b8c7aabc8cc03dfa6f731134da83116",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/6_CX3151a_PSU-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-7da35fd6767c",
-      "original_filename": "7_CX3151a_SSD.jpg",
-      "local_path": "illustrations/3u/CX3251g/7_CX3151a_SSD.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2106645,
-      "sha256": "e1db7b8a50cf77d6e5ec440c01af7f2737faa1255ad6743bfa720fcc3114f592",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/7_CX3151a_SSD-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-ce69aefe0a2d",
-      "original_filename": "8a_CX3151a_REAR COVER UNSCREW.jpg",
-      "local_path": "illustrations/3u/CX3251g/8a_CX3151a_REAR COVER UNSCREW.jpg",
-      "width_px": 5817,
-      "height_px": 4155,
-      "format": "JPEG",
-      "size_bytes": 1917109,
-      "sha256": "f598839b1147a9245476e536b888f62784f6f3d92ffb7a2b6954a6cb03b81ec1",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/8a_CX3151a_REAR COVER UNSCREW-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-0c8322125d33",
-      "original_filename": "8b_CX3151a_REAR COVER REMOVE 1.jpg",
-      "local_path": "illustrations/3u/CX3251g/8b_CX3151a_REAR COVER REMOVE 1.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2041144,
-      "sha256": "447283b8440344d13507321fd11c6fde8993a619a3410f1a6de16616d298df68",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/8b_CX3151a_REAR COVER REMOVE 1-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-cf06a3aae2a0",
-      "original_filename": "8c_CX3151a_REAR COVER REMOVE 2.jpg",
-      "local_path": "illustrations/3u/CX3251g/8c_CX3151a_REAR COVER REMOVE 2.jpg",
-      "width_px": 5817,
-      "height_px": 4155,
-      "format": "JPEG",
-      "size_bytes": 1932417,
-      "sha256": "5075780b6d54986885071dc57079d4cc8a46415c60063d7cb8fd75284086a88e",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/8c_CX3151a_REAR COVER REMOVE 2-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-40dfe3eaf822",
-      "original_filename": "9a_CX3151a_GPU SUPPORT SCREW REMOVAL V1.jpg",
-      "local_path": "illustrations/3u/CX3251g/9a_CX3151a_GPU SUPPORT SCREW REMOVAL V1.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 1839329,
-      "sha256": "9c8fa65bb992e4034641cd89cd82e80075cc515bd0d5d999840fe4016f92df7e",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/9a_CX3151a_GPU SUPPORT SCREW REMOVAL V1-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-fea60f780eb0",
-      "original_filename": "9a_CX3151a_GPU SUPPORT SCREW REMOVAL V2.jpg",
-      "local_path": "illustrations/3u/CX3251g/9a_CX3151a_GPU SUPPORT SCREW REMOVAL V2.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2328332,
-      "sha256": "fd0a7f16c2a8705f83c852a98617520435500863140e69560aae1c49b7693df2",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/9a_CX3151a_GPU SUPPORT SCREW REMOVAL V2-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-e4f795027399",
-      "original_filename": "9b_CX3151a_GPU SUPPORT INSTALL V1.jpg",
-      "local_path": "illustrations/3u/CX3251g/9b_CX3151a_GPU SUPPORT INSTALL V1.jpg",
-      "width_px": 4864,
-      "height_px": 3474,
-      "format": "JPEG",
-      "size_bytes": 1930459,
-      "sha256": "b9304c814a7e9fd39d4e22573a9bb9853542acb9536de489452ec558b704a2e5",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/9b_CX3151a_GPU SUPPORT INSTALL V1-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-0e4b6ebf99bd",
-      "original_filename": "9b_CX3151a_GPU SUPPORT INSTALL V2.jpg",
-      "local_path": "illustrations/3u/CX3251g/9b_CX3151a_GPU SUPPORT INSTALL V2.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2234251,
-      "sha256": "30780152ed1e32a8395f3957e19c532ab9488a0507b2a9a4b2d76284f42a1af2",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/9b_CX3151a_GPU SUPPORT INSTALL V2-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-82cf097e91b3",
-      "original_filename": "9c_CX3151a_GPU INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3251g/9c_CX3151a_GPU INSTALL.jpg",
-      "width_px": 5319,
-      "height_px": 3799,
-      "format": "JPEG",
-      "size_bytes": 2035318,
-      "sha256": "fbc478bfd08bc401d03b6cdafa324ffb0bf582449db90ca4e7f07d13dbd65d59",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/9c_CX3151a_GPU INSTALL-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
-      "id": "cx3251g-1b4264b2bb6d",
-      "original_filename": "9d_CX3151a_GPU INSTALL REAR.jpg",
-      "local_path": "illustrations/3u/CX3251g/9d_CX3151a_GPU INSTALL REAR.jpg",
-      "width_px": 5702,
-      "height_px": 4073,
-      "format": "JPEG",
-      "size_bytes": 3001135,
-      "sha256": "0908b07bb69b5d8f133babeb6ecb7724cd15733561a16fb199c7327ab0b62518",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3151a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3251g/9d_CX3151a_GPU INSTALL REAR-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
       "id": "cx3251g-86b0e3164ce6",
       "original_filename": "9e_CX3151a_COVER.jpg",
       "local_path": "illustrations/3u/CX3251g/9e_CX3151a_COVER.jpg",
@@ -418,220 +84,460 @@
       "note": "CX3251g top-view clearance drawing supplied 2026-03/04 (website dimension drawing)."
     },
     {
-      "id": "cx3251g-bbc19c0dbd68",
-      "original_filename": "10_CX3250g_RACK EARS.jpg",
-      "local_path": "illustrations/3u/CX3251g/10_CX3250g_RACK EARS.jpg",
+      "id": "cx3251g-990e71dcf7ab",
+      "original_filename": "10_CX3251g_RACK EARS.jpg",
+      "local_path": "illustrations/3u/CX3251g/10_CX3251g_RACK EARS.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2746920,
-      "sha256": "bbc19c0dbd682ef0d4f866f61f10303c4b2f31500ac1c3578f47196ebdbe77dc",
+      "size_bytes": 2750295,
+      "sha256": "990e71dcf7ab5a0cf6b04b80fc492e252068840db0f33170eb2fdc3fd9eee1b5",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-7c172d85f4f3",
-      "original_filename": "1a_CX3250g_LID UNSCREW.jpg",
-      "local_path": "illustrations/3u/CX3251g/1a_CX3250g_LID UNSCREW.jpg",
+      "id": "cx3251g-6663463e2828",
+      "original_filename": "1a_CX3251g_LID UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3251g/1a_CX3251g_LID UNSCREW.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 1632005,
-      "sha256": "7c172d85f4f3b692ead24b8340404324a46acb6fc1e92c5609a9928c19afd17a",
+      "size_bytes": 1584953,
+      "sha256": "6663463e2828995bb65a9edd054710faaf3fcc8f0a19158dc4287044d1acd5da",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-8c72428ff35e",
-      "original_filename": "1b_CX3250g_LID SLIDE BACK.jpg",
-      "local_path": "illustrations/3u/CX3251g/1b_CX3250g_LID SLIDE BACK.jpg",
+      "id": "cx3251g-367e8f9af0d9",
+      "original_filename": "1b_CX3251g_LID SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3251g/1b_CX3251g_LID SLIDE BACK.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2183178,
-      "sha256": "8c72428ff35e824dfab1ae6b651e01e426945aef4f83d198f7f7f723699d93f6",
+      "size_bytes": 2185658,
+      "sha256": "367e8f9af0d948cc48fee3b2b053427e14eaa757e67992a864bcc6beee206be8",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-ce07db41797d",
-      "original_filename": "1c_CX3250g_LID REMOVE.jpg",
-      "local_path": "illustrations/3u/CX3251g/1c_CX3250g_LID REMOVE.jpg",
+      "id": "cx3251g-7805df1a44cb",
+      "original_filename": "1c_CX3251g_LID REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3251g/1c_CX3251g_LID REMOVE.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2496439,
-      "sha256": "ce07db41797dde98f6668efc97b606f83a517bd7955110f9da7aafcc711dc07e",
+      "size_bytes": 2506094,
+      "sha256": "7805df1a44cbcc2dfaedc22c8bb1de1bccb12f0a963f0b1cbba0eda79d37784f",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-6fe8dd358381",
-      "original_filename": "2_CX3250g_FACEPLATE REMOVE.jpg",
-      "local_path": "illustrations/3u/CX3251g/2_CX3250g_FACEPLATE REMOVE.jpg",
+      "id": "cx3251g-4ee095cb9f13",
+      "original_filename": "2_CX3251g_FACEPLATE REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3251g/2_CX3251g_FACEPLATE REMOVE.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 3145764,
-      "sha256": "6fe8dd3583816e12fc780662c9097741f51471e9b7c47147aefce9df6204f935",
+      "size_bytes": 3308379,
+      "sha256": "4ee095cb9f13d817b8ae158037a70a4b0ad483e3622b3eea06fe7430d77e72de",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-40b4c55a952c",
-      "original_filename": "3a1_CX3250g_FAN BRACKET REMOVE.jpg",
-      "local_path": "illustrations/3u/CX3251g/3a1_CX3250g_FAN BRACKET REMOVE.jpg",
+      "id": "cx3251g-befa0aa5f7b8",
+      "original_filename": "3a1_CX3251g_FAN BRACKET REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3251g/3a1_CX3251g_FAN BRACKET REMOVE.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2174527,
-      "sha256": "40b4c55a952cea7c63d2391e47a0204d009b986a919bbc74707ec63350ecc083",
+      "size_bytes": 2289492,
+      "sha256": "befa0aa5f7b8011f497998622cc76e9bf6e0b67e1c7d12d83d00b4724f99c1eb",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-1b692c7efb5e",
-      "original_filename": "3a_CX3250g_FAN INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3251g/3a_CX3250g_FAN INSTALL.jpg",
+      "id": "cx3251g-cece97cce9d7",
+      "original_filename": "3a_CX3251g_FAN INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3251g/3a_CX3251g_FAN INSTALL.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2243881,
-      "sha256": "1b692c7efb5e81cceb182bf3f0a5ad8f7940e33ae592b1724b4c00d1e9e2f6eb",
+      "size_bytes": 2227580,
+      "sha256": "cece97cce9d7fd9b08de5c9d096b0e7aa30500fdafebf519dd2e31791ad2457d",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-6feeada3a914",
-      "original_filename": "3b_CX3250g_AIO PRECOOLER.jpg",
-      "local_path": "illustrations/3u/CX3251g/3b_CX3250g_AIO PRECOOLER.jpg",
+      "id": "cx3251g-8f1b2c9e95e5",
+      "original_filename": "3b_CX3251g_AIO PRECOOLER.jpg",
+      "local_path": "illustrations/3u/CX3251g/3b_CX3251g_AIO PRECOOLER.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 3047261,
-      "sha256": "6feeada3a91404abeccad734616cc7391c3bb5efeee67ec8bd5606aff50b5293",
+      "size_bytes": 3043446,
+      "sha256": "8f1b2c9e95e58c411dee82d839af19e384f57dc120463be95df854e011997dd7",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-a67d3a0a2c22",
-      "original_filename": "3c_CX3250g_AIO INSTALLED.jpg",
-      "local_path": "illustrations/3u/CX3251g/3c_CX3250g_AIO INSTALLED.jpg",
+      "id": "cx3251g-8698090ce563",
+      "original_filename": "3c_CX3251g_AIO INSTALLED.jpg",
+      "local_path": "illustrations/3u/CX3251g/3c_CX3251g_AIO INSTALLED.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2279052,
-      "sha256": "a67d3a0a2c223e4074d564be3e83b2f1cc98277492ba38ba6bcf33d5aed3005f",
+      "size_bytes": 2277827,
+      "sha256": "8698090ce5636d1942775eb77e67a1737be7d9788dbb8671ea2ba661ae489341",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-6fb2a707fabd",
-      "original_filename": "3f_CX3250g_FAN BRACKET INSTALL.jpg",
-      "local_path": "illustrations/3u/CX3251g/3f_CX3250g_FAN BRACKET INSTALL.jpg",
+      "id": "cx3251g-acf5392e1220",
+      "original_filename": "3f_CX3251g_FAN BRACKET INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3251g/3f_CX3251g_FAN BRACKET INSTALL.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2533147,
-      "sha256": "6fb2a707fabdb30efc57789f2bd1ff59a7ff878c514e8825bd7175538c4be933",
+      "size_bytes": 2568452,
+      "sha256": "acf5392e1220d4d04bbd9508b5c1f2a9b170279c68b4de3846cbebdae5d9c961",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-7f3cd452bd49",
-      "original_filename": "3g_CX3250g_FAN BRACKET INSTALLED.jpg",
-      "local_path": "illustrations/3u/CX3251g/3g_CX3250g_FAN BRACKET INSTALLED.jpg",
+      "id": "cx3251g-524549208c98",
+      "original_filename": "3g_CX3251g_FAN BRACKET INSTALLED.jpg",
+      "local_path": "illustrations/3u/CX3251g/3g_CX3251g_FAN BRACKET INSTALLED.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2217878,
-      "sha256": "7f3cd452bd49a644edd0b16037592993631de078dba09bfff4621fca729e13a1",
+      "size_bytes": 2344732,
+      "sha256": "524549208c9804ebe3175fea84db48f247950bda6610572184bddef7fe93c87d",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-c9dc38b66195",
-      "original_filename": "9a_CX3250g_BAY BANK UNSCREW.jpg",
-      "local_path": "illustrations/3u/CX3251g/9a_CX3250g_BAY BANK UNSCREW.jpg",
+      "id": "cx3251g-d5b0d5a4e5b1",
+      "original_filename": "4a_CX3251g_STANDOFF INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3251g/4a_CX3251g_STANDOFF INSTALL.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2757969,
-      "sha256": "c9dc38b6619586b2f2f6cd0026d5bb69ae1b410b4f23dd61b94daf80952fc44e",
+      "size_bytes": 3131117,
+      "sha256": "d5b0d5a4e5b1ed367b6469cd8882396ba49e533bd91602d7b462de873335a727",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-6c58974a0a58",
-      "original_filename": "9b_CX3250g_BAY BANK SLIDE BACK.jpg",
-      "local_path": "illustrations/3u/CX3251g/9b_CX3250g_BAY BANK SLIDE BACK.jpg",
+      "id": "cx3251g-41ae59fe0d6d",
+      "original_filename": "5a_CX3251g_TRAY UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3251g/5a_CX3251g_TRAY UNSCREW.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2771358,
-      "sha256": "6c58974a0a58d7f345fab04488ca04922d7b6ed8cdf2aca4926a0a07535d9c8c",
+      "size_bytes": 1995638,
+      "sha256": "41ae59fe0d6d0bea1fc0c07c8d6d92a6b3981d1cf2b1b1a07248c63fa19b83bc",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (254, 254, 254)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-0a823f7f8cd7",
-      "original_filename": "9c_CX3250g_BAY BANK LIFT OUT.jpg",
-      "local_path": "illustrations/3u/CX3251g/9c_CX3250g_BAY BANK LIFT OUT.jpg",
+      "id": "cx3251g-f6a6d99baf39",
+      "original_filename": "5b_CX3251g_MOTHERBOARD.jpg",
+      "local_path": "illustrations/3u/CX3251g/5b_CX3251g_MOTHERBOARD.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2717007,
-      "sha256": "0a823f7f8cd7f699995b7c0cd6979b230e3ea6e419e69dc58b1f4a837bda4d15",
+      "size_bytes": 3266609,
+      "sha256": "f6a6d99baf39145a6e43b7872f7512e4f17614d80d076d01f3ef9b004875b0f4",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-607fed365e1e",
-      "original_filename": "9d_CX3250g_OPTICAL BAY DEVICE.jpg",
-      "local_path": "illustrations/3u/CX3251g/9d_CX3250g_OPTICAL BAY DEVICE.jpg",
+      "id": "cx3251g-5a31d6522b44",
+      "original_filename": "5b_CX3251g_TRAY SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3251g/5b_CX3251g_TRAY SLIDE BACK.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 1479199,
-      "sha256": "607fed365e1edfd9d436bb3922fc4185b7b3847c56ad0e3b153234be56a19eab",
+      "size_bytes": 2048706,
+      "sha256": "5a31d6522b440795fec4f8a3c96d635086a1205960b819d69d0b59ad71a65e7f",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255). Real 217-477P device screws swapped in at render time (device_screws.py)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-d1448f53154a",
-      "original_filename": "9e_CX3250g_BAY DRIVE CAGE.jpg",
-      "local_path": "illustrations/3u/CX3251g/9e_CX3250g_BAY DRIVE CAGE.jpg",
+      "id": "cx3251g-12fa7213798e",
+      "original_filename": "5c_CX3251g_TRAY REMOVE.jpg",
+      "local_path": "illustrations/3u/CX3251g/5c_CX3251g_TRAY REMOVE.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 1938039,
-      "sha256": "d1448f53154a925cc9ef665f7d1bf6f13b4ff38e87d0ff67ed05e8797d0cf227",
+      "size_bytes": 2174536,
+      "sha256": "12fa7213798e8393e3cbb0b952fb6e0d34e7f2e9cda2d9d97f19e1f102084713",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255). Real 217-477P device screws swapped in at render time (device_screws.py)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-343ad7a18fb7",
-      "original_filename": "9f_CX3250g_BAY FILLER.jpg",
-      "local_path": "illustrations/3u/CX3251g/9f_CX3250g_BAY FILLER.jpg",
+      "id": "cx3251g-d7e72efb513e",
+      "original_filename": "5d_CX3251g_TRAY INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3251g/5d_CX3251g_TRAY INSTALL.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 1579866,
-      "sha256": "343ad7a18fb7c21c804ba217153ed1600e958c548d91863878f7c2e178a178cc",
+      "size_bytes": 2867889,
+      "sha256": "d7e72efb513e0f142e74523352e5d1b4b1ede87d2d8b4368b3592ba98868d8f8",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
     },
     {
-      "id": "cx3251g-0211902bb1e7",
-      "original_filename": "CX3250g-CHASSIS_EXPLODE-REV20261123.jpg",
-      "local_path": "illustrations/3u/CX3251g/CX3250g-CHASSIS_EXPLODE-REV20261123.jpg",
+      "id": "cx3251g-0344dc8722c4",
+      "original_filename": "5e_CX3251g_TRAY SLIDE FORWARD.jpg",
+      "local_path": "illustrations/3u/CX3251g/5e_CX3251g_TRAY SLIDE FORWARD.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 2112499,
-      "sha256": "0211902bb1e792dfc3e027c30b4c76ba8ebb8a2b723c558d1d0f91f362369ce8",
+      "size_bytes": 2544248,
+      "sha256": "0344dc8722c46af1caaa5ed8d8a33e7588659a38ad903afb3abb2f692d6e7a75",
       "selection_status": "candidate",
-      "note": "Copied from illustrations/3u/CX3250g/: same 25-inch chassis, front, fan wall and bay banks (CX3250g render, 2026-11-23); the CX3250g tray shows where the lid is off. Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-2b4fae388df8",
+      "original_filename": "5f_CX3251g_TRAY SCREW INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3251g/5f_CX3251g_TRAY SCREW INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2404378,
+      "sha256": "2b4fae388df876b97d4ac0b2217f0a9436f3e126c57a3a7c3d4eadb99cdd6c62",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-a0bb70a65e7e",
+      "original_filename": "6_CX3251g_PSU.jpg",
+      "local_path": "illustrations/3u/CX3251g/6_CX3251g_PSU.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4625412,
+      "sha256": "a0bb70a65e7e35b7d02b30b19e2099f7368f81fa1658beea936ffe603be774d0",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-a25e62ea81ef",
+      "original_filename": "7r1_CX3251g_REAR COVER UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3251g/7r1_CX3251g_REAR COVER UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4179311,
+      "sha256": "a25e62ea81ef09d275bdec8c52fc517360d6bf19dfc3ea8f21a42bc9f18ce831",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-37e7be9a1a39",
+      "original_filename": "7r2_CX3251g_REAR COVER REMOVE 1.jpg",
+      "local_path": "illustrations/3u/CX3251g/7r2_CX3251g_REAR COVER REMOVE 1.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4128633,
+      "sha256": "37e7be9a1a39ea128fa47cbec07b446cdc38e16ed0337e7e35c51774aa41c6fb",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-c7b2ba1e6de8",
+      "original_filename": "7r3_CX3251g_REAR COVER REMOVE 2.jpg",
+      "local_path": "illustrations/3u/CX3251g/7r3_CX3251g_REAR COVER REMOVE 2.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3788580,
+      "sha256": "c7b2ba1e6de8777cff8e48061f76b9e32a12a93f4ada0f625a6656069f47257d",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-bd647e39de22",
+      "original_filename": "7_CX3251g_SSD.jpg",
+      "local_path": "illustrations/3u/CX3251g/7_CX3251g_SSD.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4730331,
+      "sha256": "bd647e39de223da3900a8416a92263b7268ba98235f541ba371fece0676b6f08",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-32cb3883bf92",
+      "original_filename": "8a_CX3251g_GPU BRACE SCREW REMOVAL.jpg",
+      "local_path": "illustrations/3u/CX3251g/8a_CX3251g_GPU BRACE SCREW REMOVAL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4425427,
+      "sha256": "32cb3883bf925f394d6b73e4e3372f27e5a42af7a86546ae59c20c7671ba1944",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-e8641aea20a5",
+      "original_filename": "8b_CX3251g_GPU BRACE INSTALL.jpg",
+      "local_path": "illustrations/3u/CX3251g/8b_CX3251g_GPU BRACE INSTALL.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4369352,
+      "sha256": "e8641aea20a5065e5818b88bfb2717d7a5f0f189e1dd1bab0c9a3f175531d9fd",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-876ebfbf65df",
+      "original_filename": "8d_CX3251g_GPU BRACE INSTALL V2.jpg",
+      "local_path": "illustrations/3u/CX3251g/8d_CX3251g_GPU BRACE INSTALL V2.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4365876,
+      "sha256": "876ebfbf65dfafcce38bc4975258137e86af70beaffe583814f97c29b08f9e2a",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-1c3235a0dd0b",
+      "original_filename": "8_CX3251g_GPU.jpg",
+      "local_path": "illustrations/3u/CX3251g/8_CX3251g_GPU.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3566588,
+      "sha256": "1c3235a0dd0b57c1e997134a7f5f61c1d71ee1bb6a5145ca83519c8b35ea0dd5",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-b892dadc128f",
+      "original_filename": "9a_CX3251g_BAY BANK UNSCREW.jpg",
+      "local_path": "illustrations/3u/CX3251g/9a_CX3251g_BAY BANK UNSCREW.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2760749,
+      "sha256": "b892dadc128f638cee9ca3262fa6fe9506544d3a79179aae4e4f6f78378fec92",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-496cc8fcdb5c",
+      "original_filename": "9b_CX3251g_BAY BANK SLIDE BACK.jpg",
+      "local_path": "illustrations/3u/CX3251g/9b_CX3251g_BAY BANK SLIDE BACK.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2709115,
+      "sha256": "496cc8fcdb5ca6a06f30843fef516ac33ef2cd312009dfcaeff21adb57af1748",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-c5b7566a4d0e",
+      "original_filename": "9c_CX3251g_BAY BANK LIFT OUT.jpg",
+      "local_path": "illustrations/3u/CX3251g/9c_CX3251g_BAY BANK LIFT OUT.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2719008,
+      "sha256": "c5b7566a4d0ec527b52c74b3db549f7c17d0cc753e2780c1895c4024cd752560",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-9b1dfefafe1d",
+      "original_filename": "9d_CX3251g_GPU INSTALL REAR.jpg",
+      "local_path": "illustrations/3u/CX3251g/9d_CX3251g_GPU INSTALL REAR.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 4064652,
+      "sha256": "9b1dfefafe1dd7b4a075db4507a1a9e6b89bb51e499a2f66c485e884bd09d061",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-78e8c1859648",
+      "original_filename": "9d_CX3251g_OPTICAL BAY DEVICE.jpg",
+      "local_path": "illustrations/3u/CX3251g/9d_CX3251g_OPTICAL BAY DEVICE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1482493,
+      "sha256": "78e8c185964831e54054cdf156431e3bc2b1b2a720566a60e9968feb1aefb270",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-4d0c17898423",
+      "original_filename": "9e_CX3251g_BAY DRIVE CAGE.jpg",
+      "local_path": "illustrations/3u/CX3251g/9e_CX3251g_BAY DRIVE CAGE.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1926141,
+      "sha256": "4d0c178984238b83657b4135ee7c28e0b7605d0636b6a67f99be5e2a10fb1ebf",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-deeb85e120a5",
+      "original_filename": "9f_CX3251g_BAY FILLER.jpg",
+      "local_path": "illustrations/3u/CX3251g/9f_CX3251g_BAY FILLER.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 1580596,
+      "sha256": "deeb85e120a54c136acfacfee95ecae0feb3fa8a419585a0c7c095a149e60ec3",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-68d6c13cdf54",
+      "original_filename": "CX3251g-CHASSIS_EXPLODE-REV20261124.jpg",
+      "local_path": "illustrations/3u/CX3251g/CX3251g-CHASSIS_EXPLODE-REV20261124.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2111146,
+      "sha256": "68d6c13cdf54b87560ea444b5948c9f535d759ef8a4ae69c96855b748053a87a",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with its populated tray (scripts/solidedge, make_specs_3u_g.py; chassis cameras framed by Sliger for CX3250g 2026-11-23 and reused; tray-step views calculated 2026-11-24); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3251g-f464208012dc",
+      "original_filename": "4b_CX3251g_MOTHERBOARD IO SHIELD_alt.jpg",
+      "local_path": "illustrations/3u/CX3251g/4b_CX3251g_MOTHERBOARD IO SHIELD_alt.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 2999387,
+      "sha256": "f464208012dcde4d466053fa4f38f3680ff250018857a4cf6cd399de11eb5850",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model, I/O-shield opening filled in Manual Orange, edited by Sliger in GIMP (2026-11-25)."
+    },
+    {
+      "id": "cx3251g-b1cc5d368904",
+      "original_filename": "CX3251g_CABLE MANAGEMENT_alt.jpg",
+      "local_path": "illustrations/3u/CX3251g/CX3251g_CABLE MANAGEMENT_alt.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 6072096,
+      "sha256": "b1cc5d3689048f75fa4ab6e616f923c1656b9940114eac9679620e3c1dabdc73",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3251g_INT-MIN model with the populated tray, cable-routing channel filled light green, edited by Sliger in GIMP (2026-11-25)."
     }
   ]
 }

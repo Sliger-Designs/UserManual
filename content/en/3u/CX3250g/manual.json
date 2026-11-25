@@ -57,7 +57,10 @@
         "CX3250g-CHASSIS_EXPLODE-REV20261123.jpg"
       ],
       "layout": "exploded",
-      "layout_variant": "exploded-side"
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX3250g-CHASSIS_EXPLODE-REV20261123.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",

@@ -397,5 +397,34 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "_CX2177a_ADVANCED_FRONT VIEW.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-0644b04eb4ed.jpg",
+    "source_path": "illustrations/2u/CX2257g/_CX2177a_ADVANCED_FRONT VIEW.jpg",
+    "source_sha256": "e56447a7b859870257342524fe1b24eb1daa81982ab78ad49d13bd8bbca9a28a",
+    "sha256": "ace8bfdabba853906a0c1b07ba974b7f3e8b5abb3e3f79966d8013b6a4230f15",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 17353221,
+      "total_pixels": 22376806,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX2257g/_CX2177a_ADVANCED_FRONT VIEW-white.png",
+      "full_resolution_dimensions_px": [
+        5597,
+        3998
+      ],
+      "full_resolution_sha256": "eb48bd67dd95004498ccc69441294209e54ded153e3f037acf03bddc83e4acf6"
+    }
   }
 }

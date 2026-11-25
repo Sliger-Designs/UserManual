@@ -825,18 +825,18 @@
     ]
   },
   "CX2257g": {
-    "path": "illustrations/published/covers/CX2257g-b93104633b26.jpg",
-    "sha256": "967095a09f31ce0724965453a2293fe6677a68e925b0e792849b6b0cb1b5a8fb",
+    "path": "illustrations/published/covers/CX2257g-7d8088911862.jpg",
+    "sha256": "7d808891186203b2272d1748255a0d1be1841caa9e2df74a26c2b9fb78ddfc37",
     "source_path": "sources/web/covers/CX2257g-b93104633b26.webp",
     "source_sha256": "b93104633b2626144b0c09fb41c9211536e5d94dd2345d9436c443578c5f1c8a",
     "product_url": "https://sliger.com/products/cx2257g",
     "image_url": "https://sliger-part-images.s3.amazonaws.com/1312.webp",
     "retrieved_at": "2026-11-23T18:56:00.293095+00:00",
     "selection": "First entry in product cover_photos; primary website image.",
-    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; cropped to the case with a 40 px margin (box [240, 456, 2259, 1119] of the 2400x1600 fit), so the cover shows it larger; RGB JPEG quality 94.",
     "dimensions_px": [
-      2400,
-      1600
+      2019,
+      663
     ]
   }
 }

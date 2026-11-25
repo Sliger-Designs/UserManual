@@ -115,7 +115,7 @@ and g models (CX3150n, CX3180n, CX3150g, CX3180g, CX3250g, CX3251g, CX3252g) and
 |  | CX4250g, CX4280g | Front-clearance drawings showing the eight 5.25-inch bays; top-view dimension drawings | The CX4712 and CX4713 front drawings are used, and the guides have no top-view page |
 |  | CX4280g | Product photo or cover render | The CX4250g photo is used (identical from the outside) |
 |  | CX3150g, CX3180g | Top-view clearance drawings with the six 5.25-inch bays (as the CX3250g `TOP_DIMS`) | Grey placeholder on the clearance page; every other view is rendered (2026-11-23) |
-|  | CX3251g, CX3252g | `_INT-MIN` assemblies with their trays and components, for their own renders (Sliger is building them) | CX3251g uses the CX3250g chassis renders and keeps the CX3151a tray images; CX3252g still has grey placeholders and CX3152a tray images |
+|  | CX3251g, CX3252g | Optional: a slot cover in `MT3-C1A_INT-MIN` (CX3251g step 9e) and the upright second SSD with its two screws in `MT3-C2A_INT-MIN` (CX3252g step 7b) | Every other view is rendered from each model's own `_INT-MIN` assembly (2026-11-24/25); those two steps keep the CX3151a and CX3152a images |
 |  | CX2257g | Top- and front-view clearance drawings | Grey placeholders on the two clearance pages; every other view is rendered (2026-11-23) |
 
 ## 2U

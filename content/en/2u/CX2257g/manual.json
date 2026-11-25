@@ -71,7 +71,10 @@
         "CX2257g-CHASSIS_EXPLODE-REV20261123.jpg"
       ],
       "layout": "exploded",
-      "layout_variant": "exploded-side"
+      "layout_variant": "exploded-side",
+      "image_annotations": {
+        "CX2257g-CHASSIS_EXPLODE-REV20261123.jpg": "exploded-callouts.json"
+      }
     },
     {
       "id": "dimensions",
@@ -90,7 +93,7 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "front-clearance.md",
       "images": [
-        "pending: CX2257g front-view clearance drawing"
+        "_CX2177a_ADVANCED_FRONT VIEW.jpg"
       ],
       "layout": "reference-drawing",
       "crop_margins": true
@@ -186,7 +189,8 @@
       "images": [
         "2_CX2257g_FACEPLATE REMOVE.jpg"
       ],
-      "layout": "procedure"
+      "layout": "procedure",
+      "layout_variant": "stacked"
     },
     {
       "id": "rack-ears",
@@ -203,7 +207,8 @@
           "H",
           "I"
         ]
-      ]
+      ],
+      "layout_variant": "stacked"
     },
     {
       "id": "fan-bracket-removal",
@@ -483,7 +488,7 @@
   "missing_assets": [
     {
       "id": "M01",
-      "needed": "CX2257g top-view and front-view clearance drawings. Grey placeholders mark them."
+      "needed": "CX2257g top-view clearance drawing. A grey placeholder marks it (the front view reuses the CX2177a drawing)."
     }
   ],
   "cover_description": "25\" DEEP 2U CHASSIS",

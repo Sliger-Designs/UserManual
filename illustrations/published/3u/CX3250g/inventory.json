@@ -230,14 +230,14 @@
       "note": "CX3250g top-view clearance drawing supplied 2026-03/04 (website dimension drawing)."
     },
     {
-      "id": "cx3250g-7c172d85f4f3",
+      "id": "cx3250g-2257b9a11a74",
       "original_filename": "1a_CX3250g_LID UNSCREW.jpg",
       "local_path": "illustrations/3u/CX3250g/1a_CX3250g_LID UNSCREW.jpg",
       "width_px": 9000,
       "height_px": 5082,
       "format": "JPEG",
-      "size_bytes": 1632005,
-      "sha256": "7c172d85f4f3b692ead24b8340404324a46acb6fc1e92c5609a9928c19afd17a",
+      "size_bytes": 1537504,
+      "sha256": "2257b9a11a747f82f48366ef9da1137cb0073b23dbb80cf02f68ad1d881376f1",
       "selection_status": "candidate",
       "note": "Solid Edge render of the CX3250g_INT-MIN model (scripts/solidedge, make_specs_3u_g.py; cameras framed by Sliger 2026-11-23); background (255, 255, 255)."
     },
