@@ -1,13 +1,13 @@
 {
   "asset_key": "CX2257g_TOP VIEW.jpg",
-  "source_sha256": "411b96600819c91d81257c8f6c4e41aa487db2d232aa2dab39bdbd0a556fe548",
+  "source_sha256": "31f2fca454f7534794438bb1f70565a6a506f0d4757527384add8acec33e62d3",
   "coordinate_space": "uncropped_image",
   "aspect_ratio": 1.7520805957074026,
   "view_box": [
-    0.16666666666666666,
-    0.05061319836480436,
-    0.6444444444444445,
-    0.9032509246642009
+    0.13333333333333333,
+    0.005839984426708195,
+    0.7,
+    0.9713840763091298
   ],
   "dimension_font_size_height_fraction": 0.011,
   "note_font_size_height_fraction": 0.011,
@@ -15,140 +15,172 @@
   "dimension_labels": [],
   "notes": [
     {
-      "label": "Chassis width",
+      "label": "INSIDE DEPTH OF CASE; NOT INCLUDING FANS",
       "at": [
-        0.4998888888888889,
-        0.07007981312049835
-      ],
-      "anchor": "middle",
-      "rotate": 0,
-      "wrap_chars": 40
-    },
-    {
-      "label": "Maximum motherboard width",
-      "at": [
-        0.40555555555555556,
-        0.1216663422230874
-      ],
-      "anchor": "middle",
-      "rotate": 0,
-      "wrap_chars": 40
-    },
-    {
-      "label": "Maximum PSU length",
-      "at": [
-        0.7,
-        0.2530659918240218
+        0.3055555555555556,
+        0.021413276231263382
       ],
       "anchor": "start",
       "rotate": 0,
-      "wrap_chars": 40,
+      "wrap_chars": 60,
       "leader": [
-        0.6711111111111111,
-        0.2530659918240218
+        0.285,
+        0.18687950165466224
       ]
     },
     {
-      "label": "Motherboard to side wall",
+      "label": "MAXIMUM GPU LENGTH WITH 25mm FANS",
+      "at": [
+        0.3333333333333333,
+        0.042826552462526764
+      ],
+      "anchor": "start",
+      "rotate": 0,
+      "wrap_chars": 60,
+      "leader": [
+        0.31555555555555553,
+        0.18687950165466224
+      ]
+    },
+    {
+      "label": "MAXIMUM GPU LENGTH WITH DYNATRON L34 AIO",
+      "at": [
+        0.3611111111111111,
+        0.06423982869379015
+      ],
+      "anchor": "start",
+      "rotate": 0,
+      "wrap_chars": 60,
+      "leader": [
+        0.334,
+        0.18687950165466224
+      ]
+    },
+    {
+      "label": "TOTAL CASE WIDTH",
+      "at": [
+        0.5944444444444444,
+        0.04866653688923496
+      ],
+      "anchor": "start",
+      "rotate": 0,
+      "wrap_chars": 60,
+      "leader": [
+        0.5722222222222222,
+        0.09460774771267276
+      ]
+    },
+    {
+      "label": "MAXIMUM MOTHERBOARD WIDTH",
+      "at": [
+        0.6055555555555555,
+        0.07591979754720654
+      ],
+      "anchor": "start",
+      "rotate": 0,
+      "wrap_chars": 60,
+      "leader": [
+        0.5666666666666667,
+        0.1216663422230874
+      ]
+    },
+    {
+      "label": "SPACE BETWEEN STANDARD 13in EATX MOTHERBOARD AND INSIDE WALL OF CASE",
       "at": [
         0.2611111111111111,
-        0.2238660696904808
+        0.2433326844461748
       ],
       "anchor": "end",
       "rotate": 0,
-      "wrap_chars": 40,
+      "wrap_chars": 28,
       "leader": [
         0.34555555555555556,
         0.2960872104341055
       ]
     },
     {
-      "label": "Maximum GPU length with Dynatron L34 AIO",
+      "label": "MAXIMUM PSU LENGTH",
       "at": [
-        0.3343333333333333,
-        0.4126922328207125
-      ],
-      "anchor": "middle",
-      "rotate": -90,
-      "wrap_chars": 22
-    },
-    {
-      "label": "Maximum GPU length with 25 mm fans",
-      "at": [
-        0.31566666666666665,
-        0.4574654467588086
-      ],
-      "anchor": "middle",
-      "rotate": -90,
-      "wrap_chars": 22
-    },
-    {
-      "label": "Inside depth, not counting fans",
-      "at": [
-        0.28544444444444445,
-        0.4671987541366556
-      ],
-      "anchor": "middle",
-      "rotate": -90,
-      "wrap_chars": 22
-    },
-    {
-      "label": "Rear panel to rack ears",
-      "at": [
-        0.7,
-        0.5012653299591201
+        0.7055555555555556,
+        0.19466614755693984
       ],
       "anchor": "start",
       "rotate": 0,
-      "wrap_chars": 40,
+      "wrap_chars": 60,
       "leader": [
-        0.6922222222222222,
-        0.5012653299591201
+        0.6635555555555556,
+        0.2627992992018688
       ]
     },
     {
-      "label": "Fan bracket to drive cage",
+      "label": "DISTANCE FROM REAR OF CASE TO BACK OF RACK EARS",
       "at": [
-        0.7,
-        0.6367529686587502
+        0.7166666666666667,
+        0.4379988320031147
       ],
       "anchor": "start",
       "rotate": 0,
-      "wrap_chars": 40,
+      "wrap_chars": 28,
       "leader": [
-        0.6644444444444444,
-        0.6367529686587502
+        0.6805555555555556,
+        0.4866653688923496
       ]
     },
     {
-      "label": "Fan bracket to front panel",
+      "label": "DISTANCE FROM REAR OF DRIVE CAGE TO FAN BRACKET",
       "at": [
-        0.33655555555555555,
-        0.7825579131788982
+        0.7166666666666667,
+        0.5937317500486665
       ],
-      "anchor": "middle",
-      "rotate": -90,
-      "wrap_chars": 16
+      "anchor": "start",
+      "rotate": 0,
+      "wrap_chars": 28,
+      "leader": [
+        0.656,
+        0.6521315943157485
+      ]
     },
     {
-      "label": "Pull handle",
+      "label": "MAXIMUM BAY DEVICE LENGTH",
       "at": [
         0.29444444444444445,
-        0.8902082927778859
+        0.6521315943157485
       ],
       "anchor": "end",
       "rotate": 0,
-      "wrap_chars": 40
+      "wrap_chars": 16,
+      "leader": [
+        0.33655555555555555,
+        0.7397313607163715
+      ]
     },
     {
-      "label": "Width with rack ears",
+      "label": "PULL HANDLE PROJECTION",
       "at": [
-        0.4998888888888889,
-        0.9343975082733113
+        0.28888888888888886,
+        0.8273311271169943
       ],
-      "anchor": "middle",
+      "anchor": "end",
       "rotate": 0,
-      "wrap_chars": 40
+      "wrap_chars": 16,
+      "leader": [
+        0.33555555555555555,
+        0.8604243722016741
+      ]
+    },
+    {
+      "label": "TOTAL WIDTH WITH RACK EARS INSTALLED",
+      "at": [
+        0.6722222222222223,
+        0.9441308156511583
+      ],
+      "anchor": "start",
+      "rotate": 0,
+      "wrap_chars": 60,
+      "leader": [
+        0.6333333333333333,
+        0.9067549153202258
+      ]
     }
   ],
   "callouts": []
