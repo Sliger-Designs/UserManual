@@ -357,6 +357,18 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
+  "CX2257g_TOP VIEW.jpg": {
+    "path": "illustrations/published/2u/CX2257g/cx2257g-2016b0e3c570.jpg",
+    "source_path": "illustrations/2u/CX2257g/CX2257g_TOP VIEW.jpg",
+    "source_sha256": "2016b0e3c570c988df66ff122c98bc76296a8f6bda2ec144658410ec60d375d7",
+    "sha256": "1d9389c8da123cb041432c420927a9c651e78526f720fd92d567453ab3313c38",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
   "L34a_CX2257g_FAN GUARDS OFF.jpg": {
     "path": "illustrations/published/2u/CX2257g/cx2257g-8a517cbd45bf.jpg",
     "source_path": "illustrations/2u/CX2257g/L34a_CX2257g_FAN GUARDS OFF.jpg",

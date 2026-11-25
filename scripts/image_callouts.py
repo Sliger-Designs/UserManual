@@ -52,8 +52,52 @@ def with_callouts(image, annotation_path, asset, image_fragments=None, label=lam
         coordinates = ' '.join(f'{x * width},{y * height}' for x, y in points)
         description = escape(label(region['label']), quote=True)
         svg.append(f'<polygon points="{coordinates}" fill="#48F447" fill-opacity=".27" aria-label="{description}"/>')
+    dimension_font = height * annotation.get('dimension_font_size_height_fraction', .011)
+    for dimension in annotation.get('dimension_labels', []):
+        # The render's own dimension text (Solid Edge PMI) is covered and redrawn at a readable size.
+        x0, y0, x1, y1 = dimension['cover']
+        assert 0 <= x0 < x1 <= 1 and 0 <= y0 < y1 <= 1
+        svg.append(f'<rect x="{x0 * width}" y="{y0 * height}" width="{(x1 - x0) * width}" height="{(y1 - y0) * height}" fill="white"/>')
+        ax, ay = dimension['at'][0] * width, dimension['at'][1] * height
+        assert vx <= ax <= vx + vw and vy <= ay <= vy + vh, 'Framing clips a dimension label'
+        lines = dimension['text']
+        rotate = dimension.get('rotate', 0)
+        assert rotate in (0, -90)
+        half_w = max(len(line) for line in lines) * dimension_font * .29 + dimension_font * .3
+        half_h = len(lines) * dimension_font * .6 + dimension_font * .15
+        svg.append(f'<g transform="translate({ax} {ay}) rotate({rotate})" font-family="Arial, sans-serif" font-size="{dimension_font}" fill="#5D4B7D" text-anchor="middle">'
+                   f'<rect x="{-half_w}" y="{-half_h}" width="{2 * half_w}" height="{2 * half_h}" fill="white"/>')
+        for i, line in enumerate(lines):
+            svg.append(f'<text y="{(i - (len(lines) - 1) / 2) * dimension_font * 1.15}" dy=".35em">{escape(line)}</text>')
+        svg.append('</g>')
+    note_font = height * annotation.get('note_font_size_height_fraction', .012)
+    for note in annotation.get('notes', []):
+        # Translatable notes: blue text with an optional leader to the dimension it names.
+        nx, ny = note['at'][0] * width, note['at'][1] * height
+        anchor = note.get('anchor', 'start')
+        assert anchor in ('start', 'middle', 'end')
+        words, lines = label(note['label']).split(), ['']
+        for word in words:
+            lines[-1:] = [lines[-1] + ' ' + word] if len(lines[-1]) + len(word) < note.get('wrap_chars', 22) or not lines[-1] else [lines[-1], word]
+        lines = [line.strip() for line in lines]
+        rotate = note.get('rotate', 0)
+        assert rotate in (0, -90)
+        group = []
+        if 'leader' in note:
+            tx, ty = note['leader'][0] * width, note['leader'][1] * height
+            sx = nx + {'start': -.3, 'middle': 0, 'end': .3}[anchor] * note_font
+            group.append(f'<line x1="{sx}" y1="{ny}" x2="{tx}" y2="{ty}" stroke="#1F5FA8" stroke-width="1" vector-effect="non-scaling-stroke"/>')
+        group.append(f'<g transform="translate({nx} {ny}) rotate({rotate})" font-family="Arial, sans-serif" font-size="{note_font}" fill="#1F5FA8" text-anchor="{anchor}">')
+        # A white backing keeps a note readable where it sits on a dimension line.
+        text_w = max(len(line) for line in lines) * note_font * .52 + note_font * .4
+        left = {'start': -note_font * .2, 'middle': -text_w / 2, 'end': -text_w + note_font * .2}[anchor]
+        half_h = len(lines) * note_font * .6 + note_font * .1
+        group.append(f'<rect x="{left}" y="{-half_h}" width="{text_w}" height="{2 * half_h}" fill="white"/>')
+        for i, line in enumerate(lines):
+            group.append(f'<text y="{(i - (len(lines) - 1) / 2) * note_font * 1.2}" dy=".35em">{escape(line)}</text>')
+        svg.extend(group + ['</g>'])
     numbers = []
-    for callout in annotation['callouts']:
+    for callout in annotation.get('callouts', []):
         number = callout['number']
         assert isinstance(number, int) and number > 0 and number not in numbers
         numbers.append(number)
@@ -78,4 +122,4 @@ def with_callouts(image, annotation_path, asset, image_fragments=None, label=lam
         display = escape(badge_text) if badge_text else str(number)
         svg.append(f'<text x="{bx}" y="{by}" dy=".35em" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-weight="bold" font-size="{font_size}">{display}</text></g>')
     svg.append('</svg>')
-    return {**image, 'svg': ''.join(svg), 'callouts': annotation['callouts']}
+    return {**image, 'svg': ''.join(svg), 'callouts': annotation.get('callouts', [])}

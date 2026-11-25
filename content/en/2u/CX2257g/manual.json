@@ -82,10 +82,13 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "dimensions.md",
       "images": [
-        "pending: CX2257g top-view clearance drawing"
+        "CX2257g_TOP VIEW.jpg"
       ],
       "layout": "reference-drawing",
-      "layout_variant": "notes-above"
+      "layout_variant": "notes-above",
+      "image_annotations": {
+        "CX2257g_TOP VIEW.jpg": "top-view-dimensions.json"
+      }
     },
     {
       "id": "front-clearance",
