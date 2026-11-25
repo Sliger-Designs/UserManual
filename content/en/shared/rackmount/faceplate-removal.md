@@ -6,4 +6,4 @@ Pull on the left-side handle of the faceplate until its locating pins disengage,
 
 Gently pull the right side outward to remove the faceplate and dust filter.
 
-Keep the faceplate and filter aside while installing front fans or a radiator.
+Set the faceplate and filter aside for reassembly.
