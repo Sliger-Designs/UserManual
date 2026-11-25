@@ -1,6 +1,6 @@
 {
   "asset_key": "CX2257g_TOP VIEW.jpg",
-  "source_sha256": "31f2fca454f7534794438bb1f70565a6a506f0d4757527384add8acec33e62d3",
+  "source_sha256": "6bbd3355f27f02a6920fcd2db76430951d91d0a0d89d020a412148d907c6ecdb",
   "coordinate_space": "uncropped_image",
   "aspect_ratio": 1.7520805957074026,
   "view_box": [
@@ -17,22 +17,36 @@
     {
       "label": "INSIDE DEPTH OF CASE; NOT INCLUDING FANS",
       "at": [
-        0.3055555555555556,
-        0.021413276231263382
+        0.29444444444444445,
+        0.015573291804555188
       ],
       "anchor": "start",
       "rotate": 0,
       "wrap_chars": 60,
       "leader": [
-        0.285,
+        0.2751111111111111,
         0.18687950165466224
       ]
     },
     {
       "label": "MAXIMUM GPU LENGTH WITH 25mm FANS",
       "at": [
-        0.3333333333333333,
-        0.042826552462526764
+        0.31444444444444447,
+        0.035039906560249176
+      ],
+      "anchor": "start",
+      "rotate": 0,
+      "wrap_chars": 60,
+      "leader": [
+        0.2947777777777778,
+        0.18687950165466224
+      ]
+    },
+    {
+      "label": "MAXIMUM GPU LENGTH WITH 38mm FANS",
+      "at": [
+        0.33444444444444443,
+        0.054506521315943156
       ],
       "anchor": "start",
       "rotate": 0,
@@ -45,8 +59,8 @@
     {
       "label": "MAXIMUM GPU LENGTH WITH DYNATRON L34 AIO",
       "at": [
-        0.3611111111111111,
-        0.06423982869379015
+        0.35444444444444445,
+        0.07397313607163714
       ],
       "anchor": "start",
       "rotate": 0,
