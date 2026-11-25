@@ -361,29 +361,6 @@
       "note": "Solid Edge render of the Dynatron L34 in the CX2257g_INT model (fans, radiator and pump black as the CX2177a renders; guards 4 mm / screws 12 mm in L34a; bracket 20 mm / screws 15 mm in L34b; cameras framed by Sliger 2026-11-23)."
     },
     {
-      "id": "cx2257g-0644b04eb4ed",
-      "original_filename": "_CX2177a_ADVANCED_FRONT VIEW.jpg",
-      "local_path": "illustrations/2u/CX2257g/_CX2177a_ADVANCED_FRONT VIEW.jpg",
-      "width_px": 5597,
-      "height_px": 3998,
-      "format": "JPEG",
-      "size_bytes": 1008738,
-      "sha256": "e56447a7b859870257342524fe1b24eb1daa81982ab78ad49d13bd8bbca9a28a",
-      "selection_status": "candidate",
-      "note": "Copied from illustrations/2u/CX2177a/: same 2U front-view component clearances (Sliger review, 2026-11-24).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX2257g/_CX2177a_ADVANCED_FRONT VIEW-white.png",
-        "authorization": "Requested 2026-11-04: non-AI pixel-based background cleanup for the rackmount manuals (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
       "id": "cx2257g-3b992ae7bc7d",
       "original_filename": "6a_CX2257g_MOTHERBOARD IO SHIELD.jpg",
       "local_path": "illustrations/2u/CX2257g/6a_CX2257g_MOTHERBOARD IO SHIELD.jpg",
@@ -406,6 +383,18 @@
       "sha256": "cdf441a2b702da632c9097b83f262a5a08c9acc89e6b2bcf83a195cd7f0f8d65",
       "selection_status": "candidate",
       "note": "Solid Edge render of CX2257g_INT at 4000 px (ERA's PMI text reads at page size), top view without the lid, faceplate on, chassis and screws in their own colours: GPU pink, 25 mm fans red, L34 black, drives yellow, ICY DOCK MB994SP-4S in the bays in Manual Pale Yellow (as Sliger's g drawings); notes are the overlay in content/en/2u/CX2257g/top-view-dimensions.json (2026-11-25)."
+    },
+    {
+      "id": "cx2257g-865a614838e0",
+      "original_filename": "CX2257g_FRONT VIEW.jpg",
+      "local_path": "illustrations/2u/CX2257g/CX2257g_FRONT VIEW.jpg",
+      "width_px": 4000,
+      "height_px": 2283,
+      "format": "JPEG",
+      "size_bytes": 526797,
+      "sha256": "865a614838e00d334aca346f902496f2fac95179b0593339edac4e8b2f59c8cf",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of CX2257g_INT at 4000 px, front view (Sliger's orthographic camera) with the subfront, brackets, fans, L34 and rack ears hidden; Sliger's PMI dimensions drawn by ERA; notes are the overlay in content/en/2u/CX2257g/front-view-dimensions.json (2026-11-25)."
     }
   ]
 }

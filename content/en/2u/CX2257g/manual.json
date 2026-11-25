@@ -96,10 +96,13 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "front-clearance.md",
       "images": [
-        "_CX2177a_ADVANCED_FRONT VIEW.jpg"
+        "CX2257g_FRONT VIEW.jpg"
       ],
       "layout": "reference-drawing",
-      "crop_margins": true
+      "crop_margins": true,
+      "image_annotations": {
+        "CX2257g_FRONT VIEW.jpg": "front-view-dimensions.json"
+      }
     },
     {
       "id": "specifications",
