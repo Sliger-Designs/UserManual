@@ -51,30 +51,6 @@
       }
     },
     {
-      "id": "cx3250g-5421958919a3",
-      "original_filename": "5_CX3150a_MOTHERBOARD IO SHIELD (cropped).jpg",
-      "local_path": "illustrations/3u/CX3250g/5_CX3150a_MOTHERBOARD IO SHIELD (cropped).jpg",
-      "size_bytes": 1258344,
-      "width_px": 2528,
-      "height_px": 1940,
-      "format": "JPEG",
-      "sha256": "ca122239432eee3e7cca23581d2d9f72f68def3ece54b5cf0bc461704ccfdd81",
-      "selection_status": "candidate",
-      "proposed_section": "motherboard-installation",
-      "note": "Copied from illustrations/3u/CX3150a/: same motherboard tray; the 15-inch chassis shows around it (sources/decisions/2026-11-23-3u-g-25.md).",
-      "background_cleanup": {
-        "reference_rgb": [
-          250,
-          252,
-          251
-        ],
-        "tolerance_per_channel": 4,
-        "publication_format": "jpeg",
-        "full_resolution_path": "_build/cleaned-renders/CX3250g/5_CX3150a_MOTHERBOARD IO SHIELD (cropped)-white.png",
-        "authorization": "Requested non-AI pixel-based background cleanup for the rackmount manuals on 2026-11-04 (same method as S630/S640, 2026-11-02). Source render unchanged."
-      }
-    },
-    {
       "id": "cx3250g-20a9ee49aa59",
       "original_filename": "5_CX3150a_PSU (EXPLODED).jpg",
       "local_path": "illustrations/3u/CX3250g/5_CX3150a_PSU (EXPLODED).jpg",
@@ -588,6 +564,18 @@
       "sha256": "b2893b62870d88314766e1c01334c45661177662c6144db6513ee4702e476183",
       "selection_status": "candidate",
       "note": "Solid Edge render of the CX3250g_INT-MIN model, cable-management view, tray in Manual Orange (camera framed by Sliger, 2026-11-23); green routing overlay in content/en/3u/CX3250g/cable-management-highlight.json."
+    },
+    {
+      "id": "cx3250g-971d4a40d13d",
+      "original_filename": "4b_CX3250g_MOTHERBOARD IO SHIELD.jpg",
+      "local_path": "illustrations/3u/CX3250g/4b_CX3250g_MOTHERBOARD IO SHIELD.jpg",
+      "width_px": 9000,
+      "height_px": 5082,
+      "format": "JPEG",
+      "size_bytes": 3579076,
+      "sha256": "971d4a40d13d3fe7f7c37189c99fe5c20873022e6ad5b9c5e8787cc18dfdc642",
+      "selection_status": "candidate",
+      "note": "Solid Edge render of the CX3250g_INT-MIN model (4a camera), I/O-shield opening filled in Manual Orange by script, as Sliger's CX3251g edit (2026-11-25)."
     }
   ]
 }

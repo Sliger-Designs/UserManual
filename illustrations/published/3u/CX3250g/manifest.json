@@ -143,34 +143,17 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "5_CX3150a_MOTHERBOARD IO SHIELD (cropped).jpg": {
-    "path": "illustrations/published/3u/CX3250g/cx3250g-5421958919a3.jpg",
-    "source_path": "illustrations/3u/CX3250g/5_CX3150a_MOTHERBOARD IO SHIELD (cropped).jpg",
-    "source_sha256": "ca122239432eee3e7cca23581d2d9f72f68def3ece54b5cf0bc461704ccfdd81",
-    "sha256": "bbc25065b4e5611f748ebf2407e4b165872d58ecad26cc8f487e3676f1eda93f",
+  "4b_CX3250g_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/3u/CX3250g/cx3250g-971d4a40d13d.jpg",
+    "source_path": "illustrations/3u/CX3250g/4b_CX3250g_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "971d4a40d13d3fe7f7c37189c99fe5c20873022e6ad5b9c5e8787cc18dfdc642",
+    "sha256": "4d31398e7468c03d274cee97c0f947493e9d9492a28d50114c016562bda9fb16",
     "dimensions_px": [
       1800,
-      1381
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 33781,
-      "total_pixels": 4904320,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3250g/5_CX3150a_MOTHERBOARD IO SHIELD (cropped)-white.png",
-      "full_resolution_dimensions_px": [
-        2528,
-        1940
-      ],
-      "full_resolution_sha256": "6d44422c312b53489ccfe95fb0e4cf7333ba20cc7adffecba58dd935e85d7371"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "5a_CX3250g_TRAY UNSCREW.jpg": {
     "path": "illustrations/published/3u/CX3250g/cx3250g-6ed8fc4d8e5b.jpg",
