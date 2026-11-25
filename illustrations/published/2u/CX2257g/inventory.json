@@ -396,16 +396,16 @@
       "note": "Solid Edge render of CX2257g_INT, I/O-shield opening (the board's reference shield) in Manual Orange; 5a camera (framed by Sliger), 2026-11-25."
     },
     {
-      "id": "cx2257g-2016b0e3c570",
+      "id": "cx2257g-411b96600819",
       "original_filename": "CX2257g_TOP VIEW.jpg",
       "local_path": "illustrations/2u/CX2257g/CX2257g_TOP VIEW.jpg",
-      "width_px": 9000,
-      "height_px": 5137,
+      "width_px": 4000,
+      "height_px": 2283,
       "format": "JPEG",
-      "size_bytes": 1433713,
-      "sha256": "2016b0e3c570c988df66ff122c98bc76296a8f6bda2ec144658410ec60d375d7",
+      "size_bytes": 431190,
+      "sha256": "411b96600819c91d81257c8f6c4e41aa487db2d232aa2dab39bdbd0a556fe548",
       "selection_status": "candidate",
-      "note": "Solid Edge render of CX2257g_INT, top view without the lid, Sliger's PMI dimensions drawn by ERA; labels and notes are the overlay in content/en/2u/CX2257g/top-view-dimensions.json (2026-11-25)."
+      "note": "Solid Edge render of CX2257g_INT at 4000 px (ERA's PMI text reads at page size), top view without the lid: GPU pink, 25 mm fans red, L34 black, drives yellow, ICY DOCK MB994SP-4S in the bays; notes are the overlay in content/en/2u/CX2257g/top-view-dimensions.json (2026-11-25)."
     }
   ]
 }
