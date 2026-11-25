@@ -1,0 +1,89 @@
+{
+  "asset_key": "CX3180n-CHASSIS_EXPLODE-REV20261125.jpg",
+  "source_sha256": "1d9d38e4f955441526b5706a98fa5ac89910003a8eff68c36207135fbe9dae84",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.770956316410862,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the CX3180n exploded view (2026-11-24, Sliger review); review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.46,
+        0.29
+      ],
+      "badge": [
+        0.1,
+        0.15
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.21,
+        0.66
+      ],
+      "badge": [
+        0.05,
+        0.92
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.452,
+        0.68
+      ],
+      "badge": [
+        0.4,
+        0.95
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.487,
+        0.77
+      ],
+      "badge": [
+        0.54,
+        0.95
+      ]
+    },
+    {
+      "number": 5,
+      "label": "Chassis wrap",
+      "target": [
+        0.64,
+        0.66
+      ],
+      "badge": [
+        0.75,
+        0.88
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Motherboard tray",
+      "target": [
+        0.84,
+        0.5
+      ],
+      "badge": [
+        0.93,
+        0.22
+      ]
+    }
+  ]
+}

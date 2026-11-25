@@ -104,8 +104,20 @@ Every released 3U manual is built (November 5, 2026); open items are in the tabl
 ## Concept models
 
 The CX3150n, CX3180n, CX4250n and CX4280n are listed on the website as concepts ahead of
-preorder. Their manuals are built once renders and specifications are available; none are
-requested yet.
+preorder. The 4U n and g models (CX4250n, CX4280n, CX4250g, CX4280g; November 20, 2026), the 3U n
+and g models (CX3150n, CX3180n, CX3150g, CX3180g, CX3250g, CX3251g, CX3252g) and the CX2257g
+(November 23, 2026) have Prototype 0.1 manuals.
+
+| Done | Model | Needed | Effect until supplied |
+|---|---|---|---|
+|  | CX4250n, CX4280n | Optional: a photo of the three backplane power cables (kit item L) alone on a plain background | None (a cut-out of the retrofit kit photo DSC00016 is used; the top of one PCIe connector is trimmed where it met the tray) |
+|  | CX4280n | Product photo or cover render; front and top-view clearance drawings | The CX4713 photo and drawings are used |
+|  | CX4250g, CX4280g | Front-clearance drawings showing the eight 5.25-inch bays; top-view dimension drawings | The CX4712 and CX4713 front drawings are used, and the guides have no top-view page |
+|  | CX4280g | Product photo or cover render | The CX4250g photo is used (identical from the outside) |
+|  | CX3150g, CX3180g | Top-view clearance drawings with the six 5.25-inch bays (as the CX3250g `TOP_DIMS`); CX3180g also a front-view drawing (new tray, shared with the CX3180n) | Grey placeholder on the clearance page; every step is rendered from the `_INT-MIN` models (2026-11-25); the covers use the CX3701/CX3702 photos |
+|  | CX3150n, CX3180n | Top- and front-view clearance drawings (CX3180n: new tray); product photos or cover renders; optional: the two missing shoulder screws on each SA-3000n demo drive (HDD step 2 reuses the CX4250n render) | The CX3701/CX3702 drawings and photos are used; every step is rendered from the `_INT-MIN` models (2026-11-25) |
+|  | CX3251g, CX3252g | Optional: a slot cover in `MT3-C1A_INT-MIN` (CX3251g step 9e) and the upright second SSD with its two screws in `MT3-C2A_INT-MIN` (CX3252g step 7b) | Every other view is rendered from each model's own `_INT-MIN` assembly (2026-11-24/25); those two steps keep the CX3151a and CX3152a images |
+| added | CX2257g | Top- and front-view clearance drawings | None (added 2026-11-25: Sliger's PMI dimensions in the CX2257g_INT renders, notes overlay from `scripts/clearance_specs/`) |
 
 ## 2U
 

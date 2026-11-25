@@ -1,0 +1,1 @@
+Hot-swap drive hardware is supplied in a separate kit, **CX-NAS-HWKIT** (items J–M), in addition to the chassis hardware kit (items A–I). The ten-port backplane comes preinstalled behind the drive bays; data cables are not included.

@@ -18,6 +18,10 @@ _book/
 /illustrations/3u/*/
 /illustrations/4u/*/
 /illustrations/desktop/*/
+# Kit source material (photos, SVG/PDF masters); local like the model folders.
+/illustrations/kits/
+# Shared originals for models without manuals yet (2U S-series drive brackets); local until used.
+/illustrations/common/2u-s-drive-brackets/
 
 # Private catalog exports used by scripts/import_pilot.py (not public).
 /sources/original/compatibility-list.csv

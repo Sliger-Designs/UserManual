@@ -1,0 +1,97 @@
+Technical Specifications
+Motherboard
+Mini-ITX (L x W: 170mm x 170mm) [6.7" x 6.7"]
+Deep Mini-ITX (L x W: 170mm x 209mm) [6.7" x 8.2"]
+MicroATX (L x W: 245mm x 245mm) [9.6" x 9.6"]
+CPU Air Coolers
+Max Height: 110mm
+RECOMMENDED CPU COOLERS
+Noctua D9L
+Thermalright SI-100
+Thermalright Silver Soul 110
+ID-COOLING IS-67-XT
+Filter Foam
+Includes one (1) washable / reusable dust filter
+30 ppi open cell reticulated polyether filter foam with flame resistant rating, UL94 HF1, UL FILE NO E93229(N)
+Alternate density and/or materials such as aluminum mesh available for OEM projects
+Fan Mounting
+Rear
+Mounting for one (1) 120mm fan
+One(1) 120mm fan mounting spots, up to 38mm thick
+RECOMMENDED 120mm FANS
+Noctua A12x25 PWM
+Noctua A12x25 Chromax Black
+Arctic P12 MAX
+Phanteks T30
+Corsair RS120 MAX
+Lian Li UNI Fan P28
+Lian Li UNI Fan SL-Infinity
+Any fan from
+Dynatron
+Side
+Mounting for one (1) 120mm fan
+One(1)120mm fan mounting spots, up to 25mm thick
+GPU / PCIe Cards
+Four (4) Full height PCIe card slot cutouts
+Maximum card height: 115mm - including power connectors
+ENSURE CLEARANCE FOR 12-pin 12VHPWR / CEM5 POWER CONNECTOR
+Maximum card length: 245mm
+NOTE:
+If using a dual slot PCIe card, such as a GPU, you may need to use a slim (15mm thick) 120mm fan on the side vent.
+Total Internal Depth: 261mm
+GPU length + Power connector length must equal less than 261mm total.
+Storage
+Four (4) 2.5" drives up to 7mm thick
+Four(4) 2.5" SSD/HDD mounting points (behind power button and USB front panel area)
+The backplane has two SATA ports on the edge closest to these four SSD mounting locations allowing the user to use short ~6" SATA cables to go between the SSD and backplane. Data for these two ports is fed through the SFF-8643 port to the HBA/Motherboard
+3.5" Bays
+Ten (10) 3.5" drives
+Ten(10) 3.5" SAS or SATA Hard Drive Disks accessible by removing the magnetic Faceplate
+Case includes one(1) ten(10) port SATA/SAS PCB backplane (preinstalled in case) with SFF-8643 Data plugs
+Case has a locking mechanism and key, as well as thumb screws, to secure drives
+Case also includes three(3) power cables for the backplane; one(1) dual 4-pin board side connector to one(1) EPS PSU side plug and two(2) single 4-pin board side connector to one 6-pin PCIe PSU side plug
+Case does
+NOT
+include any data cables
+Four(4) shoulder screws attach to each 3.5" HDD
+The shoulder screws guide HDDs through slots and align the drive to the SATA/SAS plug on the backplane
+User must connect SFF-8643 Board-side data and power cables on inside of case to the backplane
+Hot-swap support depends on HBA / RAID card, motherboard and OS
+A SAS controller can control SATA drives, but a SATA controller cannot control SAS drives <
+li>2.5" to 3.5" Converter Mount Bracket to mount SSDs in the front bays:
+Sliger 2.5" to 3.5" Adapter Bracket
+or
+Orico Converter Mounting Bracket
+Front Panel I/O
+One (1) Momentary Switch / Power Status LED (Ring Shape, White)
+Two (2) USB 3.0 Type A Port
+One (1) USB 3.2 Type C 10Gbps Port
+Power Supply
+One (1) SFX / SFX-L power supply
+Supports up to 1x SFX or 1x SFX-L form factor PSU
+Recommended Models:
+Cooler Master V1100 SFX Platinum 1100W
+CORSAIR SF1000 1000W
+Seasonic FOCUS SPX-750 750W
+FSP Dagger Pro 850W
+FSP Dagger Pro 650W
+FSP SFX Pro 450W
+Rack Rails
+General Devices C300-S Series
+Rack Rails are not included by default, must be purchased on the configuration or parts page.
+Other Brand Compatibility
+Brands such as
+iStarUSA TC Rails
+are natively compatible.
+Please contact our support team for any compatibility questions.
+Warranty
+Case
+5 Years
+Chassis, USB cables, Power Button(s), Power Cable(s)
+5 Years
+Liquid Coolers & Fans
+3 Years
+Please see our warranty policy for additional conditions, exclusions, and limitations.
+Warranty Policy
+Rack Rails
+3 Years

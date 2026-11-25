@@ -658,5 +658,185 @@
       1600,
       640
     ]
+  },
+  "CX4250g": {
+    "path": "illustrations/published/covers/CX4250g-b6059ff4bea4.jpg",
+    "sha256": "596ee7d1a491449955be43a841959c311edaf9bb1b078c858a868b8d5897c56b",
+    "source_path": "sources/web/covers/CX4250g-b6059ff4bea4.webp",
+    "source_sha256": "b6059ff4bea430dea3e7ee126baebda8c32d31870d35297d1d04631f44846514",
+    "product_url": "https://sliger.com/products/cx4250g",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1344.webp",
+    "retrieved_at": "2026-11-20T20:41:08.122768+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      1347
+    ]
+  },
+  "CX4250n": {
+    "path": "illustrations/published/covers/CX4250n-b6059ff4bea4.jpg",
+    "sha256": "596ee7d1a491449955be43a841959c311edaf9bb1b078c858a868b8d5897c56b",
+    "source_path": "sources/web/covers/CX4250g-b6059ff4bea4.webp",
+    "source_sha256": "b6059ff4bea430dea3e7ee126baebda8c32d31870d35297d1d04631f44846514",
+    "product_url": null,
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1344.webp",
+    "retrieved_at": "2026-11-20T20:41:08.122768+00:00",
+    "selection": "The CX4250g primary website image: the n and g cases are identical from the outside (decided 2026-11-20, sources/decisions/2026-11-20-CX4250n.md).",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      1347
+    ]
+  },
+  "CX4280n": {
+    "path": "illustrations/published/covers/CX4713-95fb52150f71.jpg",
+    "sha256": "830d5438e4e55665678b5970d56ca0a34fc2664d978d02ec6d16c8ed82d5d939",
+    "source_path": "sources/web/covers/CX4713-95fb52150f71.webp",
+    "source_sha256": "95fb52150f7197099035d5cf4d8371d1c43ff75f93040a33eaab24d5f6fddf37",
+    "product_url": "https://sliger.com/products/cx4713",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/17.webp",
+    "retrieved_at": "2026-11-04T22:44:11.990856+00:00",
+    "selection": "CX4713 website photograph used provisionally for the CX4280n prototype.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1600,
+      870
+    ]
+  },
+  "CX4280g": {
+    "path": "illustrations/published/covers/CX4250g-b6059ff4bea4.jpg",
+    "sha256": "596ee7d1a491449955be43a841959c311edaf9bb1b078c858a868b8d5897c56b",
+    "source_path": "sources/web/covers/CX4250g-b6059ff4bea4.webp",
+    "source_sha256": "b6059ff4bea430dea3e7ee126baebda8c32d31870d35297d1d04631f44846514",
+    "product_url": "https://sliger.com/products/cx4250g",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1344.webp",
+    "retrieved_at": "2026-11-20T20:41:08.122768+00:00",
+    "selection": "CX4250g product photograph used provisionally for CX4280g.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      1347
+    ]
+  },
+  "CX3150n": {
+    "path": "illustrations/published/covers/CX3701-ad35eeea52a2.jpg",
+    "sha256": "2ad9a5474bbca23d46def985cd7fe1bb7e0ad8667499576b7f7b2ccf1494360f",
+    "source_path": "sources/web/covers/CX3701-ad35eeea52a2.webp",
+    "source_sha256": "ad35eeea52a286809f1529cd2dcc9aaa81bc7d0272f4b2bee22383df3d29ac89",
+    "product_url": "https://sliger.com/products/cx3701",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1196.webp",
+    "retrieved_at": "2026-11-05T22:33:51.874350+00:00",
+    "selection": "CX3701 website photograph used provisionally for the CX3150n prototype (same chassis and front).",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      975
+    ]
+  },
+  "CX3180n": {
+    "path": "illustrations/published/covers/CX3702-e7b85f489580.jpg",
+    "sha256": "c268459280e335f4ae617a1266afce5c82af9494ccfac62f6d08df2461ed9d76",
+    "source_path": "sources/web/covers/CX3702-e7b85f489580.webp",
+    "source_sha256": "e7b85f489580c0566889193df0433a7eaa87538496980ff13838bda9267b2b84",
+    "product_url": "https://sliger.com/products/cx3702",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/15.webp",
+    "retrieved_at": "2026-11-05T22:33:52.587326+00:00",
+    "selection": "CX3702 website photograph used provisionally for the CX3180n prototype (same chassis and front).",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1200,
+      515
+    ]
+  },
+  "CX3150g": {
+    "path": "illustrations/published/covers/CX3701-ad35eeea52a2.jpg",
+    "sha256": "2ad9a5474bbca23d46def985cd7fe1bb7e0ad8667499576b7f7b2ccf1494360f",
+    "source_path": "sources/web/covers/CX3701-ad35eeea52a2.webp",
+    "source_sha256": "ad35eeea52a286809f1529cd2dcc9aaa81bc7d0272f4b2bee22383df3d29ac89",
+    "product_url": "https://sliger.com/products/cx3701",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1196.webp",
+    "retrieved_at": "2026-11-05T22:33:51.874350+00:00",
+    "selection": "CX3701 website photograph used provisionally for the CX3150g prototype (identical from the outside).",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      975
+    ]
+  },
+  "CX3180g": {
+    "path": "illustrations/published/covers/CX3702-e7b85f489580.jpg",
+    "sha256": "c268459280e335f4ae617a1266afce5c82af9494ccfac62f6d08df2461ed9d76",
+    "source_path": "sources/web/covers/CX3702-e7b85f489580.webp",
+    "source_sha256": "e7b85f489580c0566889193df0433a7eaa87538496980ff13838bda9267b2b84",
+    "product_url": "https://sliger.com/products/cx3702",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/15.webp",
+    "retrieved_at": "2026-11-05T22:33:52.587326+00:00",
+    "selection": "CX3702 website photograph used provisionally for the CX3180g prototype (identical from the outside).",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      1200,
+      515
+    ]
+  },
+  "CX3250g": {
+    "path": "illustrations/published/covers/CX3250g-1262201c83f4.jpg",
+    "sha256": "8f7943a53793ad4aebe4b286fec9ac303e9316a0f538f3e3bc6bfb78e856b973",
+    "source_path": "sources/web/covers/CX3250g-1262201c83f4.webp",
+    "source_sha256": "1262201c83f4e50542c6613b76b49d6c7dd7ce33156af14a4f81008f0dc7d6f0",
+    "product_url": "https://sliger.com/products/cx3250g",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1325.webp",
+    "retrieved_at": "2026-11-23T18:48:07.799662+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      1232
+    ]
+  },
+  "CX3251g": {
+    "path": "illustrations/published/covers/CX3251g-1262201c83f4.jpg",
+    "sha256": "8f7943a53793ad4aebe4b286fec9ac303e9316a0f538f3e3bc6bfb78e856b973",
+    "source_path": "sources/web/covers/CX3251g-1262201c83f4.webp",
+    "source_sha256": "1262201c83f4e50542c6613b76b49d6c7dd7ce33156af14a4f81008f0dc7d6f0",
+    "product_url": "https://sliger.com/products/cx3251g",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1326.webp",
+    "retrieved_at": "2026-11-23T18:48:09.068534+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      1232
+    ]
+  },
+  "CX3252g": {
+    "path": "illustrations/published/covers/CX3252g-1262201c83f4.jpg",
+    "sha256": "8f7943a53793ad4aebe4b286fec9ac303e9316a0f538f3e3bc6bfb78e856b973",
+    "source_path": "sources/web/covers/CX3252g-1262201c83f4.webp",
+    "source_sha256": "1262201c83f4e50542c6613b76b49d6c7dd7ce33156af14a4f81008f0dc7d6f0",
+    "product_url": "https://sliger.com/products/cx3252g",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1334.webp",
+    "retrieved_at": "2026-11-23T18:48:10.286851+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; no crop; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2400,
+      1232
+    ]
+  },
+  "CX2257g": {
+    "path": "illustrations/published/covers/CX2257g-7d8088911862.jpg",
+    "sha256": "7d808891186203b2272d1748255a0d1be1841caa9e2df74a26c2b9fb78ddfc37",
+    "source_path": "sources/web/covers/CX2257g-b93104633b26.webp",
+    "source_sha256": "b93104633b2626144b0c09fb41c9211536e5d94dd2345d9436c443578c5f1c8a",
+    "product_url": "https://sliger.com/products/cx2257g",
+    "image_url": "https://sliger-part-images.s3.amazonaws.com/1312.webp",
+    "retrieved_at": "2026-11-23T18:56:00.293095+00:00",
+    "selection": "First entry in product cover_photos; primary website image.",
+    "transformation": "EXIF orientation; fit within 2400x1800 without upscaling; cropped to the case with a 40 px margin (box [240, 456, 2259, 1119] of the 2400x1600 fit), so the cover shows it larger; RGB JPEG quality 94.",
+    "dimensions_px": [
+      2019,
+      663
+    ]
   }
 }

@@ -508,7 +508,7 @@
       "status": "needs_review"
     },
     "Storage Support": {
-      "text": "Mounting locations for: 6x 2.5\" SSD, 10x 3.5\" HDD",
+      "text": "Mounting locations for: 14x 2.5\" SSD, 12x 3.5\" HDD",
       "source": {
         "id": "bulk_create",
         "record": 19,
@@ -721,7 +721,7 @@
         "Chassis Height": "6.9in / 176.75mm",
         "Mobo Support": "SSI-EEB, EATX, SSI-CEB, ATX, MicroATX, MiniITX\n",
         "PSU Support": "ATX form factor",
-        "Storage Support": "Mounting locations for: 6x 2.5\" SSD, 10x 3.5\" HDD",
+        "Storage Support": "Mounting locations for: 14x 2.5\" SSD, 12x 3.5\" HDD",
         "Storage Disclaimer": "*The above lists mounting locations. Not every mounting location can be use simultaneously.\n",
         "Front Bays": "2 x 5.25\" ",
         "GPU / PCIe Card Support": "8x Full Height Slots",

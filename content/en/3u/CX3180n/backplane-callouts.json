@@ -1,0 +1,94 @@
+{
+  "asset_key": "12_CX3180n_BACKPLANE.jpg",
+  "source_sha256": "6d1468e86a179e94e18badffbbc03e08258fc3b181bbd36b1ea62a5f7c3ff922",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.770956316410862,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.023,
+  "font_size_height_fraction": 0.034,
+  "review_status": "Callouts placed on the CX3180n backplane render (2026-11-25, Sliger review); review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "badge_text": "J13",
+      "label": "J13, bays 9–10 and both front SSD SATA ports",
+      "badge": [
+        0.21,
+        0.9
+      ],
+      "target": [
+        0.207,
+        0.708
+      ]
+    },
+    {
+      "number": 2,
+      "badge_text": "J7",
+      "label": "J7, bays 5–8",
+      "badge": [
+        0.53,
+        0.84
+      ],
+      "target": [
+        0.533,
+        0.608
+      ]
+    },
+    {
+      "number": 3,
+      "badge_text": "J1",
+      "label": "J1, bays 1–4",
+      "badge": [
+        0.86,
+        0.76
+      ],
+      "target": [
+        0.867,
+        0.502
+      ]
+    },
+    {
+      "number": 4,
+      "badge_text": "PWR",
+      "label": "Two 4-pin backplane power inputs",
+      "badge": [
+        0.55,
+        0.3
+      ],
+      "targets": [
+        [
+          0.383,
+          0.638
+        ],
+        [
+          0.717,
+          0.531
+        ]
+      ]
+    },
+    {
+      "number": 5,
+      "badge_text": "SATA",
+      "label": "Two SATA data ports for front SSDs",
+      "badge": [
+        0.07,
+        0.42
+      ],
+      "targets": [
+        [
+          0.14,
+          0.614
+        ],
+        [
+          0.14,
+          0.69
+        ]
+      ]
+    }
+  ]
+}

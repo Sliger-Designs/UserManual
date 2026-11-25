@@ -1,0 +1,89 @@
+{
+  "asset_key": "CX2257g-CHASSIS_EXPLODE-REV20261123.jpg",
+  "source_sha256": "f832f2897c089c6c273423f5226804a68e1f737fea75fae9751afa262fa37e4d",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7519953280124587,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "badge_radius_height_fraction": 0.024,
+  "font_size_height_fraction": 0.032,
+  "review_status": "Callouts placed on the CX2257g exploded view (2026-11-24, Sliger review); review before release.",
+  "callouts": [
+    {
+      "number": 1,
+      "label": "Lid",
+      "target": [
+        0.62,
+        0.3
+      ],
+      "badge": [
+        0.4,
+        0.13
+      ]
+    },
+    {
+      "number": 2,
+      "label": "Faceplate and dust filter",
+      "target": [
+        0.2,
+        0.62
+      ],
+      "badge": [
+        0.05,
+        0.85
+      ]
+    },
+    {
+      "number": 3,
+      "label": "Front I/O assembly",
+      "target": [
+        0.43,
+        0.66
+      ],
+      "badge": [
+        0.37,
+        0.9
+      ]
+    },
+    {
+      "number": 4,
+      "label": "Rack ear & pull handle",
+      "target": [
+        0.465,
+        0.72
+      ],
+      "badge": [
+        0.52,
+        0.88
+      ]
+    },
+    {
+      "number": 5,
+      "label": "5.25-inch bay fillers",
+      "target": [
+        0.3,
+        0.5
+      ],
+      "badge": [
+        0.07,
+        0.35
+      ]
+    },
+    {
+      "number": 6,
+      "label": "Chassis wrap",
+      "target": [
+        0.78,
+        0.55
+      ],
+      "badge": [
+        0.88,
+        0.76
+      ]
+    }
+  ]
+}

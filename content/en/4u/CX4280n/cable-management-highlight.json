@@ -1,0 +1,40 @@
+{
+  "asset_key": "CX4280n_CABLE MANAGEMENT.jpg",
+  "source_sha256": "af35d3f71f9dbf25ddeba2512f1235f30cf3a7fd7560d28eb7ea5ffca72ec4d2",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7716535433070866,
+  "view_box": [
+    0.18,
+    0.025,
+    0.64,
+    0.95
+  ],
+  "highlight_regions": [
+    {
+      "label": "Cable-routing area between the fans and motherboard tray",
+      "points": [
+        [
+          0.42,
+          0.5912
+        ],
+        [
+          0.5641,
+          0.3924
+        ],
+        [
+          0.5656,
+          0.378
+        ],
+        [
+          0.5985,
+          0.4226
+        ],
+        [
+          0.4485,
+          0.626
+        ]
+      ]
+    }
+  ],
+  "callouts": []
+}

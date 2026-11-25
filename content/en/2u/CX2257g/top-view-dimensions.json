@@ -1,0 +1,186 @@
+{
+  "asset_key": "CX2257g_TOP VIEW.jpg",
+  "source_sha256": "cdf441a2b702da632c9097b83f262a5a08c9acc89e6b2bcf83a195cd7f0f8d65",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.7520805957074026,
+  "view_box": [
+    0.13333333333333333,
+    0.005839984426708195,
+    0.7,
+    0.9713840763091298
+  ],
+  "note_font_size_height_fraction": 0.011,
+  "review_status": "Draft CX2257g top-view overlay (2026-11-25): dimensions are Solid Edge PMI drawn by ERA in the 4000 px render; notes are overlay. Review before release.",
+  "notes": [
+    {
+      "label": "INSIDE DEPTH OF CASE; NOT INCLUDING FANS",
+      "at": [
+        0.29444444444444445,
+        0.015573291804555188
+      ],
+      "anchor": "start",
+      "wrap_chars": 60,
+      "leader": [
+        0.2751111111111111,
+        0.18687950165466224
+      ]
+    },
+    {
+      "label": "MAXIMUM GPU LENGTH WITH 25mm FANS",
+      "at": [
+        0.31444444444444447,
+        0.035039906560249176
+      ],
+      "anchor": "start",
+      "wrap_chars": 60,
+      "leader": [
+        0.2947777777777778,
+        0.18687950165466224
+      ]
+    },
+    {
+      "label": "MAXIMUM GPU LENGTH WITH 38mm FANS",
+      "at": [
+        0.33444444444444443,
+        0.054506521315943156
+      ],
+      "anchor": "start",
+      "wrap_chars": 60,
+      "leader": [
+        0.31555555555555553,
+        0.18687950165466224
+      ]
+    },
+    {
+      "label": "MAXIMUM GPU LENGTH WITH DYNATRON L34 AIO",
+      "at": [
+        0.35444444444444445,
+        0.07397313607163714
+      ],
+      "anchor": "start",
+      "wrap_chars": 60,
+      "leader": [
+        0.334,
+        0.18687950165466224
+      ]
+    },
+    {
+      "label": "TOTAL CASE WIDTH",
+      "at": [
+        0.5944444444444444,
+        0.04866653688923496
+      ],
+      "anchor": "start",
+      "wrap_chars": 60,
+      "leader": [
+        0.5722222222222222,
+        0.09460774771267276
+      ]
+    },
+    {
+      "label": "MAXIMUM MOTHERBOARD WIDTH",
+      "at": [
+        0.6055555555555555,
+        0.07591979754720654
+      ],
+      "anchor": "start",
+      "wrap_chars": 60,
+      "leader": [
+        0.5666666666666667,
+        0.1216663422230874
+      ]
+    },
+    {
+      "label": "SPACE BETWEEN STANDARD 13in EATX MOTHERBOARD AND INSIDE WALL OF CASE",
+      "at": [
+        0.2611111111111111,
+        0.2433326844461748
+      ],
+      "anchor": "end",
+      "wrap_chars": 28,
+      "leader": [
+        0.34555555555555556,
+        0.2960872104341055
+      ]
+    },
+    {
+      "label": "MAXIMUM PSU LENGTH",
+      "at": [
+        0.7055555555555556,
+        0.19466614755693984
+      ],
+      "anchor": "start",
+      "wrap_chars": 60,
+      "leader": [
+        0.6635555555555556,
+        0.2627992992018688
+      ]
+    },
+    {
+      "label": "DISTANCE FROM REAR OF CASE TO BACK OF RACK EARS",
+      "at": [
+        0.7166666666666667,
+        0.4379988320031147
+      ],
+      "anchor": "start",
+      "wrap_chars": 28,
+      "leader": [
+        0.6805555555555556,
+        0.4866653688923496
+      ]
+    },
+    {
+      "label": "DISTANCE FROM REAR OF DRIVE CAGE TO FAN BRACKET",
+      "at": [
+        0.7166666666666667,
+        0.5937317500486665
+      ],
+      "anchor": "start",
+      "wrap_chars": 28,
+      "leader": [
+        0.656,
+        0.6521315943157485
+      ]
+    },
+    {
+      "label": "MAXIMUM BAY DEVICE LENGTH",
+      "at": [
+        0.29444444444444445,
+        0.6521315943157485
+      ],
+      "anchor": "end",
+      "wrap_chars": 16,
+      "leader": [
+        0.33655555555555555,
+        0.7397313607163715
+      ]
+    },
+    {
+      "label": "PULL HANDLE PROJECTION",
+      "at": [
+        0.28888888888888886,
+        0.8273311271169943
+      ],
+      "anchor": "end",
+      "wrap_chars": 16,
+      "leader": [
+        0.33555555555555555,
+        0.8604243722016741
+      ]
+    },
+    {
+      "label": "TOTAL WIDTH WITH RACK EARS INSTALLED",
+      "at": [
+        0.6722222222222223,
+        0.9441308156511583
+      ],
+      "anchor": "start",
+      "wrap_chars": 60,
+      "leader": [
+        0.6333333333333333,
+        0.9067549153202258
+      ]
+    }
+  ],
+  "callouts": []
+}

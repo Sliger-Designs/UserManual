@@ -2791,5 +2791,484 @@
       },
       "note": "Up to seven 7 mm SSDs when the 3.5-inch mounts are unused (confirmed 2026-11-12; replaces the 2026-11-04 value of 2)."
     }
+  },
+  "CX4250g": {
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 4,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-4u-n-g.md"
+      },
+      "note": "Counts the two included filler blanks (each holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs); other bays take 5.25-inch devices. Not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-4u-n-g.md"
+      },
+      "note": "Counts the two included filler blanks. Not all usable at once."
+    }
+  },
+  "CX4280g": {
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 4,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-4u-n-g.md"
+      },
+      "note": "Counts the two included filler blanks (each holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs); other bays take 5.25-inch devices. Not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-4u-n-g.md"
+      },
+      "note": "Counts the two included filler blanks. Not all usable at once."
+    }
+  },
+  "CX3150n": {
+    "ssd_2_5_max": {
+      "value": 4,
+      "configuration": {
+        "behind_front_io": 4
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3701-CX3702.md"
+      },
+      "note": "Up to 7 mm thick. Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-n.md)."
+    },
+    "hdd_3_5_max": {
+      "value": 10,
+      "configuration": {
+        "hot_swap_bays": 10
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3701-CX3702.md"
+      },
+      "note": "Hot-swap bays behind the magnetic faceplate. Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-n.md)."
+    },
+    "gpu_length_baseline_mm": {
+      "value": 182,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Lower value (import CSV 182 vs compatibility CSV 185). Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-n.md)."
+    },
+    "aio_92": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Asetek 645LT on a 3D-printed 120-to-92 mm adapter; not officially supported. Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-n.md)."
+    },
+    "aio_92_supported": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Keep the \"not officially supported\" qualifier. Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-n.md)."
+    }
+  },
+  "CX3180n": {
+    "ssd_2_5_max": {
+      "value": 4,
+      "configuration": {
+        "behind_front_io": 4
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3701-CX3702.md"
+      },
+      "note": "Up to 7 mm thick. Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-n.md)."
+    },
+    "hdd_3_5_max": {
+      "value": 10,
+      "configuration": {
+        "hot_swap_bays": 10
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3701-CX3702.md"
+      },
+      "note": "Hot-swap bays behind the magnetic faceplate. Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-n.md)."
+    },
+    "pcie_slots": {
+      "value": "4x Full Height",
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Four full-height slots (import CSV and website). Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-n.md)."
+    }
+  },
+  "CX3150g": {
+    "ssd_2_5_max": {
+      "value": 8,
+      "configuration": {
+        "per_bay_filler_blank": 4,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-3u-g-15-18.md"
+      },
+      "note": "Counts the two included filler blanks (each holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs); no other 2.5-inch mounts. Not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-3u-g-15-18.md"
+      },
+      "note": "Counts the two included filler blanks. Not all usable at once."
+    },
+    "gpu_length_baseline_mm": {
+      "value": 182,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Lower value (import CSV 182 vs compatibility CSV 185). Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-g-15-18.md)."
+    },
+    "aio_92": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Asetek 645LT on a 3D-printed 120-to-92 mm adapter; not officially supported. Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-g-15-18.md)."
+    },
+    "aio_92_supported": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Keep the \"not officially supported\" qualifier. Same chassis as the CX3701 (sources/decisions/2026-11-23-3u-g-15-18.md)."
+    }
+  },
+  "CX3180g": {
+    "ssd_2_5_max": {
+      "value": 8,
+      "configuration": {
+        "per_bay_filler_blank": 4,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-3u-g-15-18.md"
+      },
+      "note": "Counts the two included filler blanks (each holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs); no other 2.5-inch mounts. Not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-3u-g-15-18.md"
+      },
+      "note": "Counts the two included filler blanks. Not all usable at once."
+    },
+    "pcie_slots": {
+      "value": "4x Full Height",
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Four full-height slots (import CSV and website). Same chassis as the CX3702 (sources/decisions/2026-11-23-3u-g-15-18.md)."
+    }
+  },
+  "CX3250g": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-10-27",
+        "evidence": "sources/web/cx3150a-specs.txt"
+      },
+      "note": "Approved the website EATX definition of 12 × 10.5 inches. Separate 13-inch support flag does not apply to this definition. Same tray as the CX3150a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 4,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-3u-g-25.md"
+      },
+      "note": "Tray mounts as the CX3150a plus the two included filler blanks (each holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs). Not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-3u-g-25.md"
+      },
+      "note": "Counts the two included filler blanks. Not all usable at once."
+    }
+  },
+  "CX3251g": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches, as approved for the CX3150a. The separate 13-inch flag does not apply. Same tray as the CX3151a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "aio_360": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import CSV and website list a 360 mm radiator. Same tray as the CX3151a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 4,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-3u-g-25.md"
+      },
+      "note": "Tray mounts as the CX3151a plus the two included filler blanks (each holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs). Not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-3u-g-25.md"
+      },
+      "note": "Counts the two included filler blanks. Not all usable at once."
+    }
+  },
+  "CX3252g": {
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches; the ATX PSU limits SSI-CEB, EATX and ATX boards to five PCIe slots. Same tray as the CX3152a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "psu_atx": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "Import CSV and website: one ATX power supply. Same tray as the CX3152a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "pcie_slots": {
+      "value": "5x Full Height",
+      "source": {
+        "id": "decision",
+        "date": "2026-11-05",
+        "record": "sources/decisions/2026-11-05-CX3152-family.md"
+      },
+      "note": "Website, import sheet and rear render; replaces the compatibility CSV's \"5x Half Height\". Same tray as the CX3152a (sources/decisions/2026-11-23-3u-g-25.md)."
+    },
+    "ssd_2_5_max": {
+      "value": 10,
+      "configuration": {
+        "motherboard_tray": 2,
+        "per_bay_filler_blank": 4,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-3u-g-25.md"
+      },
+      "note": "Tray mounts as the CX3152a plus the two included filler blanks (each holds four 2.5-inch SSDs, or one 3.5-inch HDD and two SSDs). Not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 2,
+      "configuration": {
+        "per_bay_filler_blank": 1,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-3u-g-25.md"
+      },
+      "note": "Counts the two included filler blanks. Not all usable at once."
+    }
+  },
+  "CX2257g": {
+    "psu_atx": {
+      "value": false,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      },
+      "note": "The website specifies a FlexATX power supply."
+    },
+    "psu_flex_atx": {
+      "value": true,
+      "source": {
+        "id": "decision",
+        "date": "2026-11-04",
+        "record": "Private chassis data review (Chassis_Data_Review_2026-10-27-reviewed.xlsx, Review Queue)"
+      }
+    },
+    "pcie_slot_covers": {
+      "value": 7,
+      "source": {
+        "id": "bulk_create",
+        "column": "G - Slot Covers"
+      }
+    },
+    "gpu_length_fans_38mm_mm": {
+      "value": 330,
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2257g-specs.txt"
+      },
+      "note": "With 38 mm fans, including power connectors."
+    },
+    "motherboard_eatx": {
+      "value": true,
+      "maximum_board_dimensions_in": [
+        12,
+        10.5
+      ],
+      "source": {
+        "id": "website",
+        "path": "sources/web/cx2257g-specs.txt"
+      },
+      "note": "Website EATX definition of 12 × 10.5 inches."
+    },
+    "ssd_2_5_max": {
+      "value": 13,
+      "configuration": {
+        "rear_drive_bracket": 5,
+        "per_bay_filler_blank": 4,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-CX2257g.md"
+      },
+      "note": "Rear drive cage plus the two included filler blanks. Not all usable at once."
+    },
+    "hdd_3_5_max": {
+      "value": 4,
+      "configuration": {
+        "rear_drive_bracket": 2,
+        "per_bay_filler_blank": 1,
+        "filler_blanks_included": 2
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-CX2257g.md"
+      },
+      "note": "Rear drive cage plus the two included filler blanks. Not all usable at once."
+    },
+    "gpu_length_fans_aio_mm": {
+      "value": 281,
+      "configuration": {
+        "aio": "Dynatron L34",
+        "fan_count": 4,
+        "stack_thickness_mm": 86.5
+      },
+      "source": {
+        "id": "decision",
+        "date": "2026-11-23",
+        "record": "sources/decisions/2026-11-23-CX2257g.md"
+      },
+      "note": "368.2 mm usable depth less the 86.5 mm L34 stack (radiator and fans), rounded down (same method as the CX2177a)."
+    }
   }
 }

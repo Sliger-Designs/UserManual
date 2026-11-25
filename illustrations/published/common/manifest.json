@@ -1218,5 +1218,29 @@
     ],
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
+  },
+  "common/hardware/Backplane power cables (CX-NAS-HWKIT L).jpg": {
+    "path": "illustrations/published/common/common-42b1f7bf8cb0.jpg",
+    "source_path": "illustrations/common/hardware/Backplane power cables (CX-NAS-HWKIT L).jpg",
+    "source_sha256": "42b1f7bf8cb0b826ec29d870fd62973eb4d6f8fa4debc774cf64ca56caee9d7d",
+    "sha256": "ba2d665611cc46e14b2fc712a01072a418723fc34023447f3606be16fa0b19a7",
+    "dimensions_px": [
+      1800,
+      1109
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "common/kits/nas-backplane-included-power-cables.png": {
+    "path": "illustrations/published/common/common-c7b44ef63c41.png",
+    "source_path": "illustrations/kits/kit-nas-retrofit/power-cables/included-power-cables.png",
+    "source_sha256": "c7b44ef63c4160ad2a7d45be08b85377f80f7b73106e0759cc16a0e5039a3b27",
+    "sha256": "cb17419b234b7089bfa721bb598078ffab9c96e5b18615ea92ebfe2343bd1f5e",
+    "dimensions_px": [
+      1800,
+      1305
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   }
 }

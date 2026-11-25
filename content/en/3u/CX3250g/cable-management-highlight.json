@@ -1,0 +1,36 @@
+{
+  "asset_key": "CX3250g_CABLE MANAGEMENT.jpg",
+  "source_sha256": "b2893b62870d88314766e1c01334c45661177662c6144db6513ee4702e476183",
+  "coordinate_space": "uncropped_image",
+  "aspect_ratio": 1.770956316410862,
+  "view_box": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "highlight_regions": [
+    {
+      "label": "Cable-routing area between the fans and motherboard tray",
+      "points": [
+        [
+          0.255,
+          0.565
+        ],
+        [
+          0.553,
+          0.236
+        ],
+        [
+          0.627,
+          0.2515
+        ],
+        [
+          0.31,
+          0.6407
+        ]
+      ]
+    }
+  ],
+  "callouts": []
+}

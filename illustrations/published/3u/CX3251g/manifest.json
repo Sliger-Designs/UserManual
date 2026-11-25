@@ -1,0 +1,557 @@
+{
+  "10_CX3251g_RACK EARS.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-990e71dcf7ab.jpg",
+    "source_path": "illustrations/3u/CX3251g/10_CX3251g_RACK EARS.jpg",
+    "source_sha256": "990e71dcf7ab5a0cf6b04b80fc492e252068840db0f33170eb2fdc3fd9eee1b5",
+    "sha256": "0cfbe37bf1f552878f347c6809e07f474fdd3d5c9cc062dc69874f87f9c2e25f",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1a_CX3251g_LID UNSCREW.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-6663463e2828.jpg",
+    "source_path": "illustrations/3u/CX3251g/1a_CX3251g_LID UNSCREW.jpg",
+    "source_sha256": "6663463e2828995bb65a9edd054710faaf3fcc8f0a19158dc4287044d1acd5da",
+    "sha256": "e89a60d9037bbb928fd86cc4d1635e60781cbb6c12fe2b85c39462b6d1e4c532",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1b_CX3251g_LID SLIDE BACK.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-367e8f9af0d9.jpg",
+    "source_path": "illustrations/3u/CX3251g/1b_CX3251g_LID SLIDE BACK.jpg",
+    "source_sha256": "367e8f9af0d948cc48fee3b2b053427e14eaa757e67992a864bcc6beee206be8",
+    "sha256": "75e1797ad712773da24f32b280eb4350c678d46352107b5f474bd627474ce9d4",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "1c_CX3251g_LID REMOVE.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-7805df1a44cb.jpg",
+    "source_path": "illustrations/3u/CX3251g/1c_CX3251g_LID REMOVE.jpg",
+    "source_sha256": "7805df1a44cbcc2dfaedc22c8bb1de1bccb12f0a963f0b1cbba0eda79d37784f",
+    "sha256": "6142ab98781a18ae9f33b3c0cf68a1931cdc5c8852a413b47cf103c7a50122e7",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "2_CX3251g_FACEPLATE REMOVE.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-4ee095cb9f13.jpg",
+    "source_path": "illustrations/3u/CX3251g/2_CX3251g_FACEPLATE REMOVE.jpg",
+    "source_sha256": "4ee095cb9f13d817b8ae158037a70a4b0ad483e3622b3eea06fe7430d77e72de",
+    "sha256": "160f558819578fe9d862e8c4465d733a95ee3a49c8635b7305f6408f0f910cc6",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3a1_CX3251g_FAN BRACKET REMOVE.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-befa0aa5f7b8.jpg",
+    "source_path": "illustrations/3u/CX3251g/3a1_CX3251g_FAN BRACKET REMOVE.jpg",
+    "source_sha256": "befa0aa5f7b8011f497998622cc76e9bf6e0b67e1c7d12d83d00b4724f99c1eb",
+    "sha256": "ee835a22270c914a72d9fff34ec60730724ed2c00b991e769ed04764f96443a5",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3a_CX3251g_FAN INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-cece97cce9d7.jpg",
+    "source_path": "illustrations/3u/CX3251g/3a_CX3251g_FAN INSTALL.jpg",
+    "source_sha256": "cece97cce9d7fd9b08de5c9d096b0e7aa30500fdafebf519dd2e31791ad2457d",
+    "sha256": "19ce5741647c11c7a57c8ccc95af504182442788cc9243acc95a7a10c8241638",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3b_CX3251g_AIO PRECOOLER.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-8f1b2c9e95e5.jpg",
+    "source_path": "illustrations/3u/CX3251g/3b_CX3251g_AIO PRECOOLER.jpg",
+    "source_sha256": "8f1b2c9e95e58c411dee82d839af19e384f57dc120463be95df854e011997dd7",
+    "sha256": "e7570ae1b9083f8cd6691f518279922a9dbac0d7373c534c4a5c800899d5b99e",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3c_CX3251g_AIO INSTALLED.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-8698090ce563.jpg",
+    "source_path": "illustrations/3u/CX3251g/3c_CX3251g_AIO INSTALLED.jpg",
+    "source_sha256": "8698090ce5636d1942775eb77e67a1737be7d9788dbb8671ea2ba661ae489341",
+    "sha256": "cd1ad781f23aac467628d58298b13930fdad8f80a640d83ba43ae54d790c557a",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3f_CX3251g_FAN BRACKET INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-acf5392e1220.jpg",
+    "source_path": "illustrations/3u/CX3251g/3f_CX3251g_FAN BRACKET INSTALL.jpg",
+    "source_sha256": "acf5392e1220d4d04bbd9508b5c1f2a9b170279c68b4de3846cbebdae5d9c961",
+    "sha256": "a776d3eaeab0d37f40cd32a7798235066f9ec1146c07f13d4364ecaea29e4713",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "3g_CX3251g_FAN BRACKET INSTALLED.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-524549208c98.jpg",
+    "source_path": "illustrations/3u/CX3251g/3g_CX3251g_FAN BRACKET INSTALLED.jpg",
+    "source_sha256": "524549208c9804ebe3175fea84db48f247950bda6610572184bddef7fe93c87d",
+    "sha256": "e98e3d5d512ba44d4c9daebe179eadeead1f5d6cf78e6ef207fde373aa047700",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4a_CX3251g_STANDOFF INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-d5b0d5a4e5b1.jpg",
+    "source_path": "illustrations/3u/CX3251g/4a_CX3251g_STANDOFF INSTALL.jpg",
+    "source_sha256": "d5b0d5a4e5b1ed367b6469cd8882396ba49e533bd91602d7b462de873335a727",
+    "sha256": "38aa3fc9c4536b8e2039c090b0bf9eea40c11009cf366eeb33a31cf084faaf46",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "4b_CX3251g_MOTHERBOARD IO SHIELD_alt.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-f464208012dc.jpg",
+    "source_path": "illustrations/3u/CX3251g/4b_CX3251g_MOTHERBOARD IO SHIELD_alt.jpg",
+    "source_sha256": "f464208012dcde4d466053fa4f38f3680ff250018857a4cf6cd399de11eb5850",
+    "sha256": "d55c9576bd1ff71c7d4e30578e60a7c8ecf6ba52c002e0b53b76d773278e130a",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5a_CX3251g_TRAY UNSCREW.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-41ae59fe0d6d.jpg",
+    "source_path": "illustrations/3u/CX3251g/5a_CX3251g_TRAY UNSCREW.jpg",
+    "source_sha256": "41ae59fe0d6d0bea1fc0c07c8d6d92a6b3981d1cf2b1b1a07248c63fa19b83bc",
+    "sha256": "5f120a9724ce5149e3ceede3d23ce3494a43659779822c19cf9d8cd2d36be366",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5b_CX3251g_MOTHERBOARD.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-f6a6d99baf39.jpg",
+    "source_path": "illustrations/3u/CX3251g/5b_CX3251g_MOTHERBOARD.jpg",
+    "source_sha256": "f6a6d99baf39145a6e43b7872f7512e4f17614d80d076d01f3ef9b004875b0f4",
+    "sha256": "3be5223c074633ec5a43046ea80768bb91d399997f355bf37b0b47db57166698",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5b_CX3251g_TRAY SLIDE BACK.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-5a31d6522b44.jpg",
+    "source_path": "illustrations/3u/CX3251g/5b_CX3251g_TRAY SLIDE BACK.jpg",
+    "source_sha256": "5a31d6522b440795fec4f8a3c96d635086a1205960b819d69d0b59ad71a65e7f",
+    "sha256": "31ab64b17ef519e868f91329882ace2ae42d640c1d2604b9e967194efa6f7199",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5c_CX3251g_TRAY REMOVE.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-12fa7213798e.jpg",
+    "source_path": "illustrations/3u/CX3251g/5c_CX3251g_TRAY REMOVE.jpg",
+    "source_sha256": "12fa7213798e8393e3cbb0b952fb6e0d34e7f2e9cda2d9d97f19e1f102084713",
+    "sha256": "d631de5bde9b2bc525e8ad8947ae0763b3d94ab144270ba5166bc82d7bf079ff",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5d_CX3251g_TRAY INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-d7e72efb513e.jpg",
+    "source_path": "illustrations/3u/CX3251g/5d_CX3251g_TRAY INSTALL.jpg",
+    "source_sha256": "d7e72efb513e0f142e74523352e5d1b4b1ede87d2d8b4368b3592ba98868d8f8",
+    "sha256": "e30ff210a4bd37641677b70aa74be23dbbe895639796e1c38679a9851ad0e035",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5e_CX3251g_TRAY SLIDE FORWARD.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-0344dc8722c4.jpg",
+    "source_path": "illustrations/3u/CX3251g/5e_CX3251g_TRAY SLIDE FORWARD.jpg",
+    "source_sha256": "0344dc8722c46af1caaa5ed8d8a33e7588659a38ad903afb3abb2f692d6e7a75",
+    "sha256": "ccf4526c619bdfb68f09801d7b08085237b964b62bccc8025854fa77d68d9e42",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "5f_CX3251g_TRAY SCREW INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-2b4fae388df8.jpg",
+    "source_path": "illustrations/3u/CX3251g/5f_CX3251g_TRAY SCREW INSTALL.jpg",
+    "source_sha256": "2b4fae388df876b97d4ac0b2217f0a9436f3e126c57a3a7c3d4eadb99cdd6c62",
+    "sha256": "4c9544b145413fc950c1b57dace8d706c2c6659438ccf3b847930cc7dd1ffb10",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "6_CX3251g_PSU.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-a0bb70a65e7e.jpg",
+    "source_path": "illustrations/3u/CX3251g/6_CX3251g_PSU.jpg",
+    "source_sha256": "a0bb70a65e7e35b7d02b30b19e2099f7368f81fa1658beea936ffe603be774d0",
+    "sha256": "8359416aaf525916897e51a0c2d0144d3be6b21e02e484bd887d5ab0f682fc77",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "7_CX3251g_SSD.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-bd647e39de22.jpg",
+    "source_path": "illustrations/3u/CX3251g/7_CX3251g_SSD.jpg",
+    "source_sha256": "bd647e39de223da3900a8416a92263b7268ba98235f541ba371fece0676b6f08",
+    "sha256": "e0a6c4916cdb95f557d5f1b2522b1e346ec7df6ca929f401aea4fc22320e0328",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "7r1_CX3251g_REAR COVER UNSCREW.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-a25e62ea81ef.jpg",
+    "source_path": "illustrations/3u/CX3251g/7r1_CX3251g_REAR COVER UNSCREW.jpg",
+    "source_sha256": "a25e62ea81ef09d275bdec8c52fc517360d6bf19dfc3ea8f21a42bc9f18ce831",
+    "sha256": "f79dc6600781658b51fbf5a823f441cfa3e80207a9de46d1d5918b5787d525b3",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "7r2_CX3251g_REAR COVER REMOVE 1.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-37e7be9a1a39.jpg",
+    "source_path": "illustrations/3u/CX3251g/7r2_CX3251g_REAR COVER REMOVE 1.jpg",
+    "source_sha256": "37e7be9a1a39ea128fa47cbec07b446cdc38e16ed0337e7e35c51774aa41c6fb",
+    "sha256": "748ea169c055fa3d71d2d5c1e8f3b56bdafdc3292520eacdc07b48b74d574da3",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "7r3_CX3251g_REAR COVER REMOVE 2.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-c7b2ba1e6de8.jpg",
+    "source_path": "illustrations/3u/CX3251g/7r3_CX3251g_REAR COVER REMOVE 2.jpg",
+    "source_sha256": "c7b2ba1e6de8777cff8e48061f76b9e32a12a93f4ada0f625a6656069f47257d",
+    "sha256": "cfb9bff517df19a7a3a9acf7beccc87f3c3f2c7dce98c0aad47c0d34b7af665c",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "8_CX3251g_GPU.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-1c3235a0dd0b.jpg",
+    "source_path": "illustrations/3u/CX3251g/8_CX3251g_GPU.jpg",
+    "source_sha256": "1c3235a0dd0b57c1e997134a7f5f61c1d71ee1bb6a5145ca83519c8b35ea0dd5",
+    "sha256": "3dda0cc291d402778044ead7881226ed370c24a23f8249fe221743842ce54d84",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "8a_CX3251g_GPU BRACE SCREW REMOVAL.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-32cb3883bf92.jpg",
+    "source_path": "illustrations/3u/CX3251g/8a_CX3251g_GPU BRACE SCREW REMOVAL.jpg",
+    "source_sha256": "32cb3883bf925f394d6b73e4e3372f27e5a42af7a86546ae59c20c7671ba1944",
+    "sha256": "40f03860b13b3be3de7391ce9674404b6e5c3362c1ea9931f22b222931b06bc2",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "8b_CX3251g_GPU BRACE INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-e8641aea20a5.jpg",
+    "source_path": "illustrations/3u/CX3251g/8b_CX3251g_GPU BRACE INSTALL.jpg",
+    "source_sha256": "e8641aea20a5065e5818b88bfb2717d7a5f0f189e1dd1bab0c9a3f175531d9fd",
+    "sha256": "9b59871155ec4a727597c94da7406612c2509281d83f72d4f9f9c15940d655a8",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "8d_CX3251g_GPU BRACE INSTALL V2.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-876ebfbf65df.jpg",
+    "source_path": "illustrations/3u/CX3251g/8d_CX3251g_GPU BRACE INSTALL V2.jpg",
+    "source_sha256": "876ebfbf65dfafcce38bc4975258137e86af70beaffe583814f97c29b08f9e2a",
+    "sha256": "70165eb3c49bf5fb9fbf8a8fae766b331ef3417f7e99fee5dd1e3a8ba109f3bb",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9a_CX3251g_BAY BANK UNSCREW.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-b892dadc128f.jpg",
+    "source_path": "illustrations/3u/CX3251g/9a_CX3251g_BAY BANK UNSCREW.jpg",
+    "source_sha256": "b892dadc128f638cee9ca3262fa6fe9506544d3a79179aae4e4f6f78378fec92",
+    "sha256": "ac7b43a787571b28da8d950490d66f901934fdbe64e865bccc9fb0f6d177fad1",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9b_CX3251g_BAY BANK SLIDE BACK.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-496cc8fcdb5c.jpg",
+    "source_path": "illustrations/3u/CX3251g/9b_CX3251g_BAY BANK SLIDE BACK.jpg",
+    "source_sha256": "496cc8fcdb5ca6a06f30843fef516ac33ef2cd312009dfcaeff21adb57af1748",
+    "sha256": "4b328306f6afcd923909a181319873b7550785f0c0c2ced02d1ea975b2c22e98",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9c_CX3251g_BAY BANK LIFT OUT.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-c5b7566a4d0e.jpg",
+    "source_path": "illustrations/3u/CX3251g/9c_CX3251g_BAY BANK LIFT OUT.jpg",
+    "source_sha256": "c5b7566a4d0ec527b52c74b3db549f7c17d0cc753e2780c1895c4024cd752560",
+    "sha256": "477f96b1147ba29a85802a126ff4b454091dd5c1efb4e5a726f25d47f5496136",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9d_CX3251g_GPU INSTALL REAR.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-9b1dfefafe1d.jpg",
+    "source_path": "illustrations/3u/CX3251g/9d_CX3251g_GPU INSTALL REAR.jpg",
+    "source_sha256": "9b1dfefafe1dd7b4a075db4507a1a9e6b89bb51e499a2f66c485e884bd09d061",
+    "sha256": "d6bc831b9557bdcd9857dba0915943676ee6b5d4d7cf5b04479912fd3cdcf120",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9d_CX3251g_OPTICAL BAY DEVICE.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-78e8c1859648.jpg",
+    "source_path": "illustrations/3u/CX3251g/9d_CX3251g_OPTICAL BAY DEVICE.jpg",
+    "source_sha256": "78e8c185964831e54054cdf156431e3bc2b1b2a720566a60e9968feb1aefb270",
+    "sha256": "6a87c8be6411911a8f8c404918b1611a2e3cad503d2475d8effd9c4e516bc5e8",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9e_CX3151a_COVER.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-86b0e3164ce6.jpg",
+    "source_path": "illustrations/3u/CX3251g/9e_CX3151a_COVER.jpg",
+    "source_sha256": "20a5c76974416f36e15fdca92fdf58a1f879e573426e260933d47ce9763d6a7f",
+    "sha256": "82f9d9cb2823b6c330788ea6480d9cd253722d493d34aa854e2fcfe922ef50b0",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11684900,
+      "total_pixels": 16897536,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3251g/9e_CX3151a_COVER-white.png",
+      "full_resolution_dimensions_px": [
+        4864,
+        3474
+      ],
+      "full_resolution_sha256": "3971510099214065f3119669f985f36e3897e331daf74de18042c11e1a59b733"
+    }
+  },
+  "9e_CX3251g_BAY DRIVE CAGE.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-4d0c17898423.jpg",
+    "source_path": "illustrations/3u/CX3251g/9e_CX3251g_BAY DRIVE CAGE.jpg",
+    "source_sha256": "4d0c178984238b83657b4135ee7c28e0b7605d0636b6a67f99be5e2a10fb1ebf",
+    "sha256": "03527e583e57ed500b89bb1cfbb10fd75600715939fcc2b2d1afe82f3a6221dd",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "9f_CX3251g_BAY FILLER.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-deeb85e120a5.jpg",
+    "source_path": "illustrations/3u/CX3251g/9f_CX3251g_BAY FILLER.jpg",
+    "source_sha256": "deeb85e120a54c136acfacfee95ecae0feb3fa8a419585a0c7c095a149e60ec3",
+    "sha256": "09fbca6f87e3d7b51dc0ef17a356ebabdfe0084e78d7b981d49c0fb6b5955494",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX3251g-CHASSIS_EXPLODE-REV20261124.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-68d6c13cdf54.jpg",
+    "source_path": "illustrations/3u/CX3251g/CX3251g-CHASSIS_EXPLODE-REV20261124.jpg",
+    "source_sha256": "68d6c13cdf54b87560ea444b5948c9f535d759ef8a4ae69c96855b748053a87a",
+    "sha256": "f0b36920566957c109726b93bab951b3e4e7d90a1ca5b82eda1e2a91c2499ca3",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "CX3251g_CABLE MANAGEMENT_alt.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-b1cc5d368904.jpg",
+    "source_path": "illustrations/3u/CX3251g/CX3251g_CABLE MANAGEMENT_alt.jpg",
+    "source_sha256": "b1cc5d3689048f75fa4ab6e616f923c1656b9940114eac9679620e3c1dabdc73",
+    "sha256": "7f37189a8527aef2986af545981af24d69accbb9cbcd569f2701c076ea7b66c1",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "TOP_DIMS.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-15e9b472d7c8.jpg",
+    "source_path": "illustrations/3u/CX3251g/TOP_DIMS.jpg",
+    "source_sha256": "15e9b472d7c86767aa7cd14e48917beecf15c27ecb8fa5967f54402eaff1ee25",
+    "sha256": "db5ca5903dab7ce25ff0238eabef91a05f2c683c48d648a1da197bac59c92f53",
+    "dimensions_px": [
+      1800,
+      1056
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "_CX3150a_rendering.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-cea6abf87908.jpg",
+    "source_path": "illustrations/3u/CX3251g/_CX3150a_rendering.jpg",
+    "source_sha256": "bff2ca61586a9932b5d402fc28bd137d049444737dd1b611ba6e15950a34b75b",
+    "sha256": "2b4c0a8f96f376ba0761758325a3e88cef392dfe66f7e8d19e6ce764952ba25d",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 11433127,
+      "total_pixels": 16136435,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3251g/_CX3150a_rendering-white.png",
+      "full_resolution_dimensions_px": [
+        4753,
+        3395
+      ],
+      "full_resolution_sha256": "9d14fda8d03100dc74d00b031f12eb6fc92f9e65168d260e42ebf2f5eb087930"
+    }
+  },
+  "_CX3151a_ADVANCED_FRONT VIEW ONE GPU.jpg": {
+    "path": "illustrations/published/3u/CX3251g/cx3251g-45eec4af9aa6.jpg",
+    "source_path": "illustrations/3u/CX3251g/_CX3151a_ADVANCED_FRONT VIEW ONE GPU.jpg",
+    "source_sha256": "463667df6211e58624512501227abfebe427157e25d8dcdd8164062924855742",
+    "sha256": "106d33f1815bdb3be55aa639de27ca531ed5a80017e9f09b873834d6100588ea",
+    "dimensions_px": [
+      1800,
+      1286
+    ],
+    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
+    "status": "prototype_selection_needs_review",
+    "background_cleanup": {
+      "reference_rgb": [
+        250,
+        252,
+        251
+      ],
+      "tolerance_per_channel": 4,
+      "background_pixels_replaced": 10680292,
+      "total_pixels": 13759515,
+      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
+      "full_resolution_path": "_build/cleaned-renders/CX3251g/_CX3151a_ADVANCED_FRONT VIEW ONE GPU-white.png",
+      "full_resolution_dimensions_px": [
+        4389,
+        3135
+      ],
+      "full_resolution_sha256": "64845100bb2601da87023b00a926f47a13a6eca0ab47c515d8bd9f92bec8625b"
+    }
+  }
+}
