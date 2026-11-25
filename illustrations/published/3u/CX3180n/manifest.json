@@ -71,6 +71,18 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
+  "12_CX3180n_BACKPLANE.jpg": {
+    "path": "illustrations/published/3u/CX3180n/cx3180n-c372892f956c.jpg",
+    "source_path": "illustrations/3u/CX3180n/12_CX3180n_BACKPLANE.jpg",
+    "source_sha256": "c372892f956c0ebdaad3c6fb5a321f4e6cfa2be74e15bf61d0cde5ac9b5fe7f7",
+    "sha256": "25e104454c4813383771ef446539020eaca13da9d8586fed826070d7cb763f2c",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
   "1a_CX3180n_LID UNSCREW.jpg": {
     "path": "illustrations/published/3u/CX3180n/cx3180n-e58d865baeb8.jpg",
     "source_path": "illustrations/3u/CX3180n/1a_CX3180n_LID UNSCREW.jpg",
@@ -131,34 +143,17 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "3c_CX3702_SIDE FAN INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3180n/cx3180n-6a06cc77a427.jpg",
-    "source_path": "illustrations/3u/CX3180n/3c_CX3702_SIDE FAN INSTALL.jpg",
-    "source_sha256": "49e8272a49560469eca37ba587b2b03f7cfab861f9b36a98a0c95f007426000c",
-    "sha256": "db0b74839a6cf7160c42cc15dd1bf412462522b21ce645c4cec1f79f5d554641",
+  "3c_CX3180n_SIDE FAN INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3180n/cx3180n-4970cff228a9.jpg",
+    "source_path": "illustrations/3u/CX3180n/3c_CX3180n_SIDE FAN INSTALL.jpg",
+    "source_sha256": "4970cff228a9026f15524842e1fe40d86348cd43494a4e4eed1d743ad54e9424",
+    "sha256": "9e1de5889386fcbe268a58d0dbcbc56dd58c31abd79d649f5eff206e36e4cdd4",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 10471133,
-      "total_pixels": 11814635,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180n/3c_CX3702_SIDE FAN INSTALL-white.png",
-      "full_resolution_dimensions_px": [
-        4067,
-        2905
-      ],
-      "full_resolution_sha256": "9ea66dcdbc6ebad0b6c4f7f5258abe6278bc5b7de94812842223f20384962043"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "3d_CX3180n_SIDE FAN BRACKET INSTALL.jpg": {
     "path": "illustrations/published/3u/CX3180n/cx3180n-571263938350.jpg",
@@ -184,34 +179,17 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "3f_CX3702_REAR FAN INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3180n/cx3180n-d1186873952a.jpg",
-    "source_path": "illustrations/3u/CX3180n/3f_CX3702_REAR FAN INSTALL.jpg",
-    "source_sha256": "2af23c0ad75b94f5f53ae7aef9fe79a88ed591ec3c0f88ca7fc83f8bc36ac8e2",
-    "sha256": "58b1156e05f530f521c7ddd97498cbbce7a124632c920f6bf967540389e509ea",
+  "3f_CX3180n_REAR FAN INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3180n/cx3180n-21efc07720d3.jpg",
+    "source_path": "illustrations/3u/CX3180n/3f_CX3180n_REAR FAN INSTALL.jpg",
+    "source_sha256": "21efc07720d3740df5037249e82adda1f2e1b66d57892a86a975f1db64f005c6",
+    "sha256": "414179f8321eba26d5374edccc2c522fb4ce0b87c755b3dcfe0911eea6818166",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 17878100,
-      "total_pixels": 20206881,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180n/3f_CX3702_REAR FAN INSTALL-white.png",
-      "full_resolution_dimensions_px": [
-        5319,
-        3799
-      ],
-      "full_resolution_sha256": "604ec914183fb0cdf401fe64562e575cb1c3c00f6f4a44baa49ae934e393c480"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "3g_CX3180n_REAR FAN BRACKET INSTALL.jpg": {
     "path": "illustrations/published/3u/CX3180n/cx3180n-00936da3cbbc.jpg",
@@ -379,121 +357,53 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "9a_CX3702_SLIDE TRAY.jpg": {
-    "path": "illustrations/published/3u/CX3180n/cx3180n-dd4416093827.jpg",
-    "source_path": "illustrations/3u/CX3180n/9a_CX3702_SLIDE TRAY.jpg",
-    "source_sha256": "aefa744bfa962e1a671c1e7b6c99d80b9ee1a6d68efb4c7bddcd6a68fb3b32d9",
-    "sha256": "3e71b3901a283da4245985a2c08ee6e8438cafe27d8a76c70e8946e35a501908",
+  "9a_CX3180n_SLIDE TRAY.jpg": {
+    "path": "illustrations/published/3u/CX3180n/cx3180n-95d4394bdd40.jpg",
+    "source_path": "illustrations/3u/CX3180n/9a_CX3180n_SLIDE TRAY.jpg",
+    "source_sha256": "95d4394bdd40e666cbad60ff1b15879ec9ea8f5f3838a8a46baa44508c011598",
+    "sha256": "40e681823e6ee2929bb619da686d278675d353de2f92dc1f7becdc0ddd390e3d",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 4267532,
-      "total_pixels": 20206881,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180n/9a_CX3702_SLIDE TRAY-white.png",
-      "full_resolution_dimensions_px": [
-        5319,
-        3799
-      ],
-      "full_resolution_sha256": "38a7bb9a0070239c27b50c4380081edbbbd89ee30963ced357f0b041c3c91ec7"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "9b_CX3702_HDD ASSEMBLE.jpg": {
-    "path": "illustrations/published/3u/CX3180n/cx3180n-42851e877199.jpg",
-    "source_path": "illustrations/3u/CX3180n/9b_CX3702_HDD ASSEMBLE.jpg",
-    "source_sha256": "9b0272508f02066d97216ad17aa9c4fcefdc2c882ce3e762d761f21029fdba64",
-    "sha256": "d5cba036930be2af8fd5976a45c5bdc4c78c8f989250ddc9ff399d3ec9e2e2e0",
+  "9b_CX3180n_HDD ASSEMBLE.jpg": {
+    "path": "illustrations/published/3u/CX3180n/cx3180n-698ccba65126.jpg",
+    "source_path": "illustrations/3u/CX3180n/9b_CX3180n_HDD ASSEMBLE.jpg",
+    "source_sha256": "698ccba65126fec30cd844939adf63e1d9f2d2755036664386412c9bc0846d36",
+    "sha256": "43c1639398b725e59013ba07eea0c7ec9c4f79ba38e507431446983addf10da3",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 13121205,
-      "total_pixels": 14131296,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180n/9b_CX3702_HDD ASSEMBLE-white.png",
-      "full_resolution_dimensions_px": [
-        4448,
-        3177
-      ],
-      "full_resolution_sha256": "5f8ccac02dd1e47eae8d2d1a083eec1a31700db359718f4740e8cafb43c65179"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "9c_CX3702_HDD INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3180n/cx3180n-efb5db77fac4.jpg",
-    "source_path": "illustrations/3u/CX3180n/9c_CX3702_HDD INSTALL.jpg",
-    "source_sha256": "d8d20a29e16f9307e86cb0096a7f7b58b9d4fc81faeddf490e87fe1a7f73f3d6",
-    "sha256": "952f7c9f4770d94a09036e154dd9026eb299f557a560c9734a75a4f60bdefa21",
+  "9c_CX3180n_HDD INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3180n/cx3180n-2e0a498b8439.jpg",
+    "source_path": "illustrations/3u/CX3180n/9c_CX3180n_HDD INSTALL.jpg",
+    "source_sha256": "2e0a498b84391717ece777116e6f7f068a50d4a4ab11b5de98a93b9cb28e0f48",
+    "sha256": "298a62e665bb9b2fe60da3e2d823ba56c37cbc986db850aff56b34c3e4b1dbb5",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 5429909,
-      "total_pixels": 16897536,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180n/9c_CX3702_HDD INSTALL-white.png",
-      "full_resolution_dimensions_px": [
-        4864,
-        3474
-      ],
-      "full_resolution_sha256": "53011a37d24deb55ea9b0df508b46391a7e13868d6bb520533f3fd71c7cd63ae"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "9d_CX3702_HDD INSTALLED.jpg": {
-    "path": "illustrations/published/3u/CX3180n/cx3180n-e67eb0166ce5.jpg",
-    "source_path": "illustrations/3u/CX3180n/9d_CX3702_HDD INSTALLED.jpg",
-    "source_sha256": "f5cc96e8bfb1cd68cebcc85523af65ee48523c998ca4e86763c54d3dd58c680e",
-    "sha256": "33327b1e48a52f3878fa7c06d3e9440796507c2e1b6e08ede8990354e2c56a43",
+  "9d_CX3180n_HDD INSTALLED.jpg": {
+    "path": "illustrations/published/3u/CX3180n/cx3180n-d96881663ded.jpg",
+    "source_path": "illustrations/3u/CX3180n/9d_CX3180n_HDD INSTALLED.jpg",
+    "source_sha256": "d96881663ded05c3b4de9f95b8cd6eda9497bb4ae6a307137bc5448aa0d6aa8b",
+    "sha256": "e02bd5ad0210a2488839a53343005cc4117013dc57c2ceb45f62c41f6bf635b7",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 7128082,
-      "total_pixels": 14131296,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180n/9d_CX3702_HDD INSTALLED-white.png",
-      "full_resolution_dimensions_px": [
-        4448,
-        3177
-      ],
-      "full_resolution_sha256": "a768ed5b633a37aab27a02ffaaf6167ec2b01c58d5c3f254e86be931826aa6fe"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "CX3180n-CHASSIS_EXPLODE-REV20261125.jpg": {
     "path": "illustrations/published/3u/CX3180n/cx3180n-1d9d38e4f955.jpg",
@@ -593,17 +503,5 @@
       ],
       "full_resolution_sha256": "90565e6f72be5ee605ef54bad80eceb23430764e6451cb0bdc137ef5c7e954ac"
     }
-  },
-  "_CX4250n_BACKPLANE.jpg": {
-    "path": "illustrations/published/3u/CX3180n/cx3180n-b35a1a1ee635.jpg",
-    "source_path": "illustrations/3u/CX3180n/_CX4250n_BACKPLANE.jpg",
-    "source_sha256": "6b4776b3c97592471557d7633c238615579a9d39ab8aadba489e1c53530f9aaf",
-    "sha256": "bb2528bd202095792d7bca694beb32591b201a18e77628ce80b250e9cfef64b8",
-    "dimensions_px": [
-      1800,
-      1027
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
   }
 }

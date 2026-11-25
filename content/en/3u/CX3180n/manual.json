@@ -265,7 +265,7 @@
       "source": "side-fan-installation.md",
       "images": [
         "3a_CX3180n_SIDE FAN BRACKET UNSCREW.jpg",
-        "3c_CX3702_SIDE FAN INSTALL.jpg",
+        "3c_CX3180n_SIDE FAN INSTALL.jpg",
         "3d_CX3180n_SIDE FAN BRACKET INSTALL.jpg"
       ],
       "layout": "procedure",
@@ -286,7 +286,7 @@
       "source": "rear-fan-installation.md",
       "images": [
         "3e_CX3180n_REAR FAN BRACKET REMOVE.jpg",
-        "3f_CX3702_REAR FAN INSTALL.jpg",
+        "3f_CX3180n_REAR FAN INSTALL.jpg",
         "3g_CX3180n_REAR FAN BRACKET INSTALL.jpg"
       ],
       "layout": "procedure",
@@ -414,9 +414,9 @@
       "section": "04 / REASSEMBLY",
       "source": "hdd-installation.md",
       "images": [
-        "9a_CX3702_SLIDE TRAY.jpg",
-        "9b_CX3702_HDD ASSEMBLE.jpg",
-        "9c_CX3702_HDD INSTALL.jpg"
+        "9a_CX3180n_SLIDE TRAY.jpg",
+        "9b_CX3180n_HDD ASSEMBLE.jpg",
+        "9c_CX3180n_HDD INSTALL.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -435,7 +435,7 @@
       "section": "04 / REASSEMBLY",
       "source": "hdd-lock.md",
       "images": [
-        "9d_CX3702_HDD INSTALLED.jpg",
+        "9d_CX3180n_HDD INSTALLED.jpg",
         "8e_CX3701_LOCKED HDD.jpg"
       ],
       "layout": "procedure",
@@ -453,7 +453,7 @@
       "section": "04 / REASSEMBLY",
       "source": "../../shared/rackmount/backplane-connections.md",
       "images": [
-        "_CX4250n_BACKPLANE.jpg"
+        "12_CX3180n_BACKPLANE.jpg"
       ],
       "layout": "procedure",
       "layout_variant": "visual-left",
