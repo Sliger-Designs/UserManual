@@ -1,0 +1,8760 @@
+{
+  "s_89a34e118c3ab436": {
+    "source": "6-32 × 0.25-inch hex screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware A: name",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware A: name",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_f1db07ed98d96709": {
+    "source": "Motherboard, PSU, HDDs, and PCIe accessories.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware A: description",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware A: description",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_30ee81ea7337c3cb": {
+    "source": "M3 × 0.5 screws, 5 mm long",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware B: name",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware B: name",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_107d80e480200c06": {
+    "source": "2.5-inch SSDs and some 3.5-inch accessories.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware B: description",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware B: description",
+        "model": "CX4200i",
+        "page": 8
+      },
+      {
+        "use": "hardware D: description",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_0b478a085dd2b078": {
+    "source": "6-32 hex standoffs",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: name",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware C: name",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_abae46bf22f30a65": {
+    "source": "0.125-inch and 0.25-inch lengths. Install in the motherboard tray.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: description",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware C: description",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_b797502d0754d598": {
+    "source": "Teal in drawings; black, unpatched hardware",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: color_label",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware C: color_label",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_9b67db9d758a0fb4": {
+    "source": "M3 screws (5 mm thread)",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware D: name",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware D: name",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_a4d54c0d1d2bfd74": {
+    "source": "6-32 × 0.25-inch flat-head screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware E: name",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware E: name",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_314e1d363dec87e2": {
+    "source": "Motherboard tray, subfront, internal brackets, and front I/O bracket.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware E: description",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware E: description",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_86f9fb96bfe3748e": {
+    "source": "M4 × 7 mm screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware F: name",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware F: name",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_fb1b0ca15358060c": {
+    "source": "Rack ears and pull handles.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware F: description",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware F: description",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_ffa0a85f71f3ae48": {
+    "source": "Slot covers",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware G: name",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware G: name",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_fb2604077aeab684": {
+    "source": "Cover unused PCIe slots.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware G: description",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware G: description",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_a4c12d67ddf2e0a8": {
+    "source": "Rack ears",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware H: name",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware H: name",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_a5f3d845252d308a": {
+    "source": "Secure the chassis to the rack.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware H: description",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware H: description",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_c89b0850fb314b8f": {
+    "source": "1 pair",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware H: quantity",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware H: quantity",
+        "model": "CX4200i",
+        "page": 8
+      },
+      {
+        "use": "hardware I: quantity",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_614dc4bb22cda885": {
+    "source": "Pull handles",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware I: name",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware I: name",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_a1efcd357e071acf": {
+    "source": "Optional handles make pulling the chassis from the rack easier.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware I: description",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware I: description",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_9bee7636b2bccef1": {
+    "source": "15\" DEEP 4U CHASSIS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description",
+        "model": "CX4150a",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX4150e",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX4150i",
+        "page": 1
+      }
+    ]
+  },
+  "s_86a2a9ba70bc0260": {
+    "source": "User guide",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "status",
+        "model": "CX4150a",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX4150a"
+      },
+      {
+        "use": "status",
+        "model": "CX4150e",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX4150e"
+      },
+      {
+        "use": "status",
+        "model": "CX4150i",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX4150i"
+      },
+      {
+        "use": "status",
+        "model": "CX4170a",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX4170a"
+      },
+      {
+        "use": "status",
+        "model": "CX4170e",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX4170e"
+      },
+      {
+        "use": "status",
+        "model": "CX4170i",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX4170i"
+      },
+      {
+        "use": "status",
+        "model": "CX4200a",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX4200a"
+      },
+      {
+        "use": "status",
+        "model": "CX4200e",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX4200e"
+      },
+      {
+        "use": "status",
+        "model": "CX4200f",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX4200f"
+      },
+      {
+        "use": "status",
+        "model": "CX4200i",
+        "page": 1
+      },
+      {
+        "use": "browser document title",
+        "model": "CX4200i"
+      }
+    ]
+  },
+  "s_ee56c51f554915fb": {
+    "source": "ENGLISH",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "language_label",
+        "model": "CX4150a",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX4150e",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX4150i",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX4170a",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX4170e",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX4170i",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX4200a",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX4200e",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX4200f",
+        "page": 1
+      },
+      {
+        "use": "language_label",
+        "model": "CX4200i",
+        "page": 1
+      }
+    ]
+  },
+  "s_e904f136de1d752b": {
+    "source": "primary product photograph",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX4150a",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX4150e",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX4150i",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX4170a",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX4170e",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX4170i",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX4200a",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX4200e",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX4200f",
+        "page": 1
+      },
+      {
+        "use": "cover image accessibility suffix",
+        "model": "CX4200i",
+        "page": 1
+      }
+    ]
+  },
+  "s_f16ac1eadb15d486": {
+    "source": "In this guide",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 2
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 2
+      }
+    ]
+  },
+  "s_e44a4595fc68902e": {
+    "source": "START HERE",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 2
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 2
+      }
+    ]
+  },
+  "s_6ec7c29724cdac1c": {
+    "source": "Exploded assembly & part key",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_03691eb5070d6dea": {
+    "source": "01 / PRODUCT INFORMATION",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 3
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 4
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 5
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 6
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 7
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 8
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 9
+      }
+    ]
+  },
+  "s_eed575c189308b34": {
+    "source": "Remove the lid",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 10
+      }
+    ]
+  },
+  "s_3660315a9af3df25": {
+    "source": "page",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4150a",
+        "page": 18
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4150e",
+        "page": 15
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4150e",
+        "page": 19
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4150e",
+        "page": 23
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4150i",
+        "page": 19
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4150i",
+        "page": 23
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170a",
+        "page": 15
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170a",
+        "page": 18
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170a",
+        "page": 19
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170e",
+        "page": 15
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170e",
+        "page": 19
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170e",
+        "page": 23
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170i",
+        "page": 15
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170i",
+        "page": 17
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170i",
+        "page": 20
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4170i",
+        "page": 29
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200a",
+        "page": 14
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200a",
+        "page": 16
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200a",
+        "page": 19
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200e",
+        "page": 15
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200e",
+        "page": 19
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200e",
+        "page": 23
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200f",
+        "page": 16
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200f",
+        "page": 21
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200i",
+        "page": 3
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200i",
+        "page": 15
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200i",
+        "page": 17
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200i",
+        "page": 20
+      },
+      {
+        "use": "cross-reference: word before the page number, as in \"(page 8)\"",
+        "model": "CX4200i",
+        "page": 29
+      }
+    ]
+  },
+  "s_fe2b3fa9b4f47a72": {
+    "source": "Install a front AIO radiator",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 14
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 15
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 15
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 15
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 15
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 17
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 16
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 15
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 16
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 17
+      }
+    ]
+  },
+  "s_fc045c84d68e584a": {
+    "source": "Remove the faceplate & filter",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 10
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 11
+      }
+    ]
+  },
+  "s_c4484902bf9f0441": {
+    "source": "Front ports & connections",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 9
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 8
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 9
+      }
+    ]
+  },
+  "s_33e6dae3b9288adf": {
+    "source": "Install rack ears & handles",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 12
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 12
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 12
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 13
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 12
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 13
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 12
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 12
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 13
+      }
+    ]
+  },
+  "s_1fdc1acea36a0515": {
+    "source": "Remove the motherboard tray",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 12
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 12
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 12
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 11
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 12
+      }
+    ]
+  },
+  "s_eea3f22e5366b453": {
+    "source": "Lid",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_75243fbf9270ca70": {
+    "source": "Subfront",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_6048e4ee19b6f5f9": {
+    "source": "Filter foam",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_c005bca808869050": {
+    "source": "Faceplate",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_7cbdcf025f91877c": {
+    "source": "Front I/O assembly",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_53d417103df0eb74": {
+    "source": "Rack ear & pull handle",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_16a7728c15ca5f8c": {
+    "source": "Chassis wrap",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_188c41a99d9ec4bd": {
+    "source": "Removable motherboard tray",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200a",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_4fb34afd9c222834": {
+    "source": "Clearance drawing — top view",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 4
+      }
+    ]
+  },
+  "s_2269850583debe12": {
+    "source": "Front-view component clearances",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 6
+      }
+    ]
+  },
+  "s_93f78c6771549a03": {
+    "source": "Dimensions & compatibility",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 6
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 7
+      }
+    ]
+  },
+  "s_3c7efbcc01be9a87": {
+    "source": "Hardware kit",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_588eeecbbeedd0aa": {
+    "source": "Power switch and status light",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 9
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 9
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200a",
+        "page": 9
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 9
+      }
+    ]
+  },
+  "s_0d2709ef1cda8fa2": {
+    "source": "USB Type-A ports",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 9
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 9
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200a",
+        "page": 9
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 9
+      }
+    ]
+  },
+  "s_7198a981b9df8338": {
+    "source": "USB Type-C",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150a",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170a",
+        "page": 9
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 9
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200a",
+        "page": 9
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 8
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 9
+      }
+    ]
+  },
+  "s_29093f53e9952726": {
+    "source": "02 / CHASSIS ACCESS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 9
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 10
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 11
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 12
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 13
+      }
+    ]
+  },
+  "s_9fa7647b2f38c999": {
+    "source": "yellow-patched 6-32 screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150a",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150a",
+        "page": 17
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150a",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150a",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150a",
+        "page": 23
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150e",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150e",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150e",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150e",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150e",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150e",
+        "page": 23
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150e",
+        "page": 25
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150e",
+        "page": 27
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150i",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150i",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150i",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150i",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150i",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150i",
+        "page": 23
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150i",
+        "page": 25
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4150i",
+        "page": 27
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170a",
+        "page": 10
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170a",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170a",
+        "page": 22
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170a",
+        "page": 23
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170a",
+        "page": 24
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170a",
+        "page": 29
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170e",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170e",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170e",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170e",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170e",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170e",
+        "page": 23
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170e",
+        "page": 25
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170e",
+        "page": 27
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170i",
+        "page": 10
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170i",
+        "page": 14
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170i",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170i",
+        "page": 23
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170i",
+        "page": 24
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170i",
+        "page": 25
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170i",
+        "page": 31
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4170i",
+        "page": 33
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200a",
+        "page": 10
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200a",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200a",
+        "page": 22
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200a",
+        "page": 23
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200a",
+        "page": 24
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200a",
+        "page": 29
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200e",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200e",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200e",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200e",
+        "page": 19
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200e",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200e",
+        "page": 23
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200e",
+        "page": 25
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200e",
+        "page": 27
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200f",
+        "page": 9
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200f",
+        "page": 13
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200f",
+        "page": 14
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200f",
+        "page": 18
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200f",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200f",
+        "page": 21
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200f",
+        "page": 22
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200f",
+        "page": 27
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200f",
+        "page": 29
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200i",
+        "page": 10
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200i",
+        "page": 14
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200i",
+        "page": 20
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200i",
+        "page": 23
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200i",
+        "page": 24
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200i",
+        "page": 25
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200i",
+        "page": 29
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200i",
+        "page": 31
+      },
+      {
+        "use": "hardware A: reference in instructions",
+        "model": "CX4200i",
+        "page": 33
+      }
+    ]
+  },
+  "s_bfb87917a043599e": {
+    "source": "green-patched 6-32 screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150a",
+        "page": 11
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150a",
+        "page": 22
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150e",
+        "page": 11
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150e",
+        "page": 13
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150e",
+        "page": 15
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150e",
+        "page": 23
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150e",
+        "page": 24
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150e",
+        "page": 25
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150e",
+        "page": 26
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150i",
+        "page": 11
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150i",
+        "page": 13
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150i",
+        "page": 24
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150i",
+        "page": 25
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4150i",
+        "page": 26
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170a",
+        "page": 12
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170a",
+        "page": 18
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170a",
+        "page": 27
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170a",
+        "page": 28
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170e",
+        "page": 11
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170e",
+        "page": 13
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170e",
+        "page": 15
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170e",
+        "page": 23
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170e",
+        "page": 24
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170e",
+        "page": 25
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170e",
+        "page": 26
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170i",
+        "page": 12
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170i",
+        "page": 14
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170i",
+        "page": 15
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170i",
+        "page": 28
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170i",
+        "page": 30
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170i",
+        "page": 31
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4170i",
+        "page": 32
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200a",
+        "page": 12
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200a",
+        "page": 14
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200a",
+        "page": 27
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200a",
+        "page": 28
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200e",
+        "page": 11
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200e",
+        "page": 13
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200e",
+        "page": 15
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200e",
+        "page": 23
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200e",
+        "page": 24
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200e",
+        "page": 25
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200e",
+        "page": 26
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200f",
+        "page": 11
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200f",
+        "page": 13
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200f",
+        "page": 16
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200f",
+        "page": 26
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200f",
+        "page": 27
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200f",
+        "page": 28
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200i",
+        "page": 12
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200i",
+        "page": 14
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200i",
+        "page": 15
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200i",
+        "page": 28
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200i",
+        "page": 30
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200i",
+        "page": 31
+      },
+      {
+        "use": "hardware E: reference in instructions",
+        "model": "CX4200i",
+        "page": 32
+      }
+    ]
+  },
+  "s_661bb458a9292d16": {
+    "source": "rack ears",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX4150a",
+        "page": 12
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX4150e",
+        "page": 12
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX4150i",
+        "page": 12
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX4170a",
+        "page": 13
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX4170e",
+        "page": 12
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX4170i",
+        "page": 13
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX4200a",
+        "page": 13
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX4200e",
+        "page": 12
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX4200f",
+        "page": 12
+      },
+      {
+        "use": "hardware H: reference in instructions",
+        "model": "CX4200i",
+        "page": 13
+      }
+    ]
+  },
+  "s_c9090d7fb4d87048": {
+    "source": "pull handles",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX4150a",
+        "page": 12
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX4150e",
+        "page": 12
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX4150i",
+        "page": 12
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX4170a",
+        "page": 13
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX4170e",
+        "page": 12
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX4170i",
+        "page": 13
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX4200a",
+        "page": 13
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX4200e",
+        "page": 12
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX4200f",
+        "page": 12
+      },
+      {
+        "use": "hardware I: reference in instructions",
+        "model": "CX4200i",
+        "page": 13
+      }
+    ]
+  },
+  "s_68ea3393e6cc68de": {
+    "source": "pink-marked M4 × 7 mm screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX4150a",
+        "page": 12
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX4150e",
+        "page": 12
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX4150i",
+        "page": 12
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX4170a",
+        "page": 13
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX4170e",
+        "page": 12
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX4170i",
+        "page": 13
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX4200a",
+        "page": 13
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX4200e",
+        "page": 12
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX4200f",
+        "page": 12
+      },
+      {
+        "use": "hardware F: reference in instructions",
+        "model": "CX4200i",
+        "page": 13
+      }
+    ]
+  },
+  "s_803afbc00e036024": {
+    "source": "Install front fans",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 16
+      }
+    ]
+  },
+  "s_d70de792f0ca61cf": {
+    "source": "03 / COMPONENT INSTALLATION",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 27
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 29
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 30
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 31
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 13
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 27
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 14
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 15
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 16
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 17
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 18
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 19
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 20
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 21
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 27
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 29
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 30
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 31
+      }
+    ]
+  },
+  "s_9711d9548093532c": {
+    "source": "Install push-pull cooling",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 19
+      }
+    ]
+  },
+  "s_a98c1dd1c8fd7aed": {
+    "source": "Prepare the motherboard tray",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 22
+      }
+    ]
+  },
+  "s_d476155e7e374d99": {
+    "source": "black hex standoffs",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4150a",
+        "page": 16
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4150a",
+        "page": 17
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4150e",
+        "page": 17
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4150e",
+        "page": 18
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4150i",
+        "page": 17
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4150i",
+        "page": 18
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4170a",
+        "page": 21
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4170a",
+        "page": 22
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4170e",
+        "page": 17
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4170e",
+        "page": 18
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4170i",
+        "page": 22
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4170i",
+        "page": 23
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4200a",
+        "page": 21
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4200a",
+        "page": 22
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4200e",
+        "page": 17
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4200e",
+        "page": 18
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4200f",
+        "page": 19
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4200f",
+        "page": 20
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4200i",
+        "page": 22
+      },
+      {
+        "use": "hardware C: reference in instructions",
+        "model": "CX4200i",
+        "page": 23
+      }
+    ]
+  },
+  "s_f998e83ce73b70e9": {
+    "source": "Install the motherboard",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 23
+      }
+    ]
+  },
+  "s_315554c170db4502": {
+    "source": "Install the power supply",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 24
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 24
+      }
+    ]
+  },
+  "s_54cdc22efa3766b8": {
+    "source": "the front-view drawing",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150a",
+        "page": 18
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150e",
+        "page": 19
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150i",
+        "page": 19
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170e",
+        "page": 19
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200e",
+        "page": 19
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200f",
+        "page": 21
+      }
+    ]
+  },
+  "s_173b507a77a2c6ef": {
+    "source": "Install a GPU or PCIe card",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 24
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 25
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 24
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 25
+      }
+    ]
+  },
+  "s_bc256b79ce34fecc": {
+    "source": "slot covers",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX4150a",
+        "page": 19
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX4150e",
+        "page": 20
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX4150i",
+        "page": 20
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX4170a",
+        "page": 24
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX4170e",
+        "page": 20
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX4170i",
+        "page": 25
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX4200a",
+        "page": 24
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX4200e",
+        "page": 20
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX4200f",
+        "page": 22
+      },
+      {
+        "use": "hardware G: reference in instructions",
+        "model": "CX4200i",
+        "page": 25
+      }
+    ]
+  },
+  "s_f42d03667fb96491": {
+    "source": "Install a 2.5-inch SSD",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 25
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 26
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 25
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 26
+      }
+    ]
+  },
+  "s_c66ff09f61cf88b2": {
+    "source": "red-patched M3 × 0.5 screws, 5 mm long",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4150a",
+        "page": 20
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4150e",
+        "page": 15
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4150e",
+        "page": 21
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4150e",
+        "page": 23
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4150e",
+        "page": 24
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4150i",
+        "page": 21
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4150i",
+        "page": 24
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4170a",
+        "page": 25
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4170e",
+        "page": 15
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4170e",
+        "page": 21
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4170e",
+        "page": 23
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4170e",
+        "page": 24
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4170i",
+        "page": 26
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4170i",
+        "page": 30
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200a",
+        "page": 25
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200e",
+        "page": 15
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200e",
+        "page": 21
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200e",
+        "page": 23
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200e",
+        "page": 24
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200f",
+        "page": 16
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200f",
+        "page": 23
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200f",
+        "page": 26
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200i",
+        "page": 26
+      },
+      {
+        "use": "hardware B: reference in instructions",
+        "model": "CX4200i",
+        "page": 30
+      }
+    ]
+  },
+  "s_8f61fe9a4a7578e9": {
+    "source": "Install the rear fan bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 21
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 26
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 27
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 26
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 24
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 27
+      }
+    ]
+  },
+  "s_19836984915760ad": {
+    "source": "Reinstall the motherboard tray",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 22
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 26
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 26
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 28
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 26
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 32
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 28
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 26
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 28
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 32
+      }
+    ]
+  },
+  "s_3f4d379dee161aad": {
+    "source": "04 / REASSEMBLY",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 22
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 23
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 27
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 27
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 27
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 28
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 29
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 27
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 28
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 32
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 33
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 27
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 28
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 29
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 27
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 28
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 29
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 28
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 32
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 33
+      }
+    ]
+  },
+  "s_d4466914ec50d2c5": {
+    "source": "Route cables & close the chassis",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 27
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 27
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 29
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 27
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 33
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 29
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 27
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 29
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 33
+      }
+    ]
+  },
+  "s_7404495b2f8f6933": {
+    "source": "Warranty & support",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 24
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 28
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 28
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 30
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 28
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 34
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 30
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 28
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 30
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 34
+      }
+    ]
+  },
+  "s_01a7e346e7a01e63": {
+    "source": "05 / REFERENCE",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 24
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 25
+      },
+      {
+        "use": "section",
+        "model": "CX4150a",
+        "page": 26
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 28
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 29
+      },
+      {
+        "use": "section",
+        "model": "CX4150e",
+        "page": 30
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 28
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 29
+      },
+      {
+        "use": "section",
+        "model": "CX4150i",
+        "page": 30
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 30
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 31
+      },
+      {
+        "use": "section",
+        "model": "CX4170a",
+        "page": 32
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 28
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 29
+      },
+      {
+        "use": "section",
+        "model": "CX4170e",
+        "page": 30
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 34
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 35
+      },
+      {
+        "use": "section",
+        "model": "CX4170i",
+        "page": 36
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 30
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 31
+      },
+      {
+        "use": "section",
+        "model": "CX4200a",
+        "page": 32
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 28
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 29
+      },
+      {
+        "use": "section",
+        "model": "CX4200e",
+        "page": 30
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 30
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 31
+      },
+      {
+        "use": "section",
+        "model": "CX4200f",
+        "page": 32
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 34
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 35
+      },
+      {
+        "use": "section",
+        "model": "CX4200i",
+        "page": 36
+      }
+    ]
+  },
+  "s_d985e3d3a2c4923a": {
+    "source": "Regulations",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 25
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 29
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 29
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 31
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 29
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 35
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 31
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 29
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 31
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 35
+      }
+    ]
+  },
+  "s_86ec1bdcc59bb75e": {
+    "source": "Manual revision history",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150a",
+        "page": 26
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 30
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 30
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 32
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 30
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 36
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 32
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 30
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 32
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 36
+      }
+    ]
+  },
+  "s_e331da0741fb6d05": {
+    "source": "Table of contents",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "contents accessibility label",
+        "model": "CX4150a",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX4150e",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX4150i",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX4170a",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX4170e",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX4170i",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX4200a",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX4200e",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX4200f",
+        "page": 2
+      },
+      {
+        "use": "contents accessibility label",
+        "model": "CX4200i",
+        "page": 2
+      }
+    ]
+  },
+  "s_4fc36010f284b7ec": {
+    "source": "Yellow-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_9c0211c51d04574f": {
+    "source": "detail",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware image accessibility suffix",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_29486d69890122f7": {
+    "source": "Red-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_f625e504b578039e": {
+    "source": "Blue-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_6018cdad03073975": {
+    "source": "Green-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_8e342f5682eca65c": {
+    "source": "Pink-marked",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150a",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4150i",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170a",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4170i",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200a",
+        "page": 8
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200e",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200f",
+        "page": 7
+      },
+      {
+        "use": "hardware key patch-color label",
+        "model": "CX4200i",
+        "page": 8
+      }
+    ]
+  },
+  "s_38178a20b470cfd1": {
+    "source": "No.",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "front I/O table heading",
+        "model": "CX4150a",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4150e",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4150i",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4170a",
+        "page": 9
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4170e",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4170i",
+        "page": 9
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4200a",
+        "page": 9
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4200e",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4200f",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4200i",
+        "page": 9
+      }
+    ]
+  },
+  "s_e9198f30c63cc481": {
+    "source": "Port / connection",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "front I/O table heading",
+        "model": "CX4150a",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4150e",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4150i",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4170a",
+        "page": 9
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4170e",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4170i",
+        "page": 9
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4200a",
+        "page": 9
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4200e",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4200f",
+        "page": 8
+      },
+      {
+        "use": "front I/O table heading",
+        "model": "CX4200i",
+        "page": 9
+      }
+    ]
+  },
+  "s_19dd83f117525b93": {
+    "source": "Yellow",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150a",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150a",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150a",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150a",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 10
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 22
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 10
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 31
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 10
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 22
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 9
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 21
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 22
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 27
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 10
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 29
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 31
+      }
+    ]
+  },
+  "s_d486dfbd5fb57834": {
+    "source": "Green",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150a",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150a",
+        "page": 22
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 26
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 26
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 27
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 28
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 26
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 28
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 30
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 31
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 32
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 27
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 28
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 26
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 11
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 26
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 27
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 28
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 14
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 15
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 28
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 30
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 31
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 32
+      }
+    ]
+  },
+  "s_bd38ed7732402b1a": {
+    "source": "Pink",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150a",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 13
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 12
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 13
+      }
+    ]
+  },
+  "s_fa15a5c1d6101055": {
+    "source": "Teal",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150a",
+        "page": 16
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150a",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 21
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 22
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 22
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 21
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 22
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 17
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 18
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 22
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 23
+      }
+    ]
+  },
+  "s_ba19e9c3d5f49882": {
+    "source": "Red",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150a",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 21
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 21
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 21
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 26
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 30
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 21
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 24
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 26
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 26
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 30
+      }
+    ]
+  },
+  "s_380d8dc338eb6225": {
+    "source": "2 × 5.25\" BAYS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description_detail",
+        "model": "CX4150e",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX4170e",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX4200e",
+        "page": 1
+      }
+    ]
+  },
+  "s_9ad9ba564eff3ae5": {
+    "source": "Fit 5.25-inch devices or filler blanks",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150e",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 23
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 23
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170e",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 23
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200e",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 23
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200f",
+        "page": 3
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200f",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_0f8befa183dd6f67": {
+    "source": "5.25-inch bay fillers",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200e",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200f",
+        "page": 3
+      }
+    ]
+  },
+  "s_eb4aef43893c39db": {
+    "source": "Remove the 5.25-inch bay bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 13
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 14
+      }
+    ]
+  },
+  "s_a83dcae2948e3a53": {
+    "source": "blue-patched M3 screws",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4150e",
+        "page": 23
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4150i",
+        "page": 23
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4170a",
+        "page": 19
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4170e",
+        "page": 23
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4170i",
+        "page": 20
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4170i",
+        "page": 29
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4200a",
+        "page": 19
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4200e",
+        "page": 23
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4200i",
+        "page": 20
+      },
+      {
+        "use": "hardware D: reference in instructions",
+        "model": "CX4200i",
+        "page": 29
+      }
+    ]
+  },
+  "s_0060ad3109aabd68": {
+    "source": "Mount drives on a filler blank",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150e",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 24
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4150i",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 24
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170e",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 24
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 29
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 30
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200e",
+        "page": 23
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 24
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 26
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 29
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 30
+      }
+    ]
+  },
+  "s_b33d5ad81ae5d390": {
+    "source": "Reinstall the 5.25-inch bay bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4150e",
+        "page": 25
+      },
+      {
+        "use": "title",
+        "model": "CX4150i",
+        "page": 25
+      },
+      {
+        "use": "title",
+        "model": "CX4170e",
+        "page": 25
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 31
+      },
+      {
+        "use": "title",
+        "model": "CX4200e",
+        "page": 25
+      },
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 27
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 31
+      }
+    ]
+  },
+  "s_ec7d56a01607001e": {
+    "source": "Blue",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150e",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4150i",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170a",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170e",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4170i",
+        "page": 29
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200a",
+        "page": 19
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200e",
+        "page": 23
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200f",
+        "page": 25
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 20
+      },
+      {
+        "use": "hardware chip color; translate display text, keep internal color key",
+        "model": "CX4200i",
+        "page": 29
+      }
+    ]
+  },
+  "s_b517a2478aa1b871": {
+    "source": "1 × 5.25\" BAY",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description_detail",
+        "model": "CX4150i",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX4170i",
+        "page": 1
+      },
+      {
+        "use": "cover_description_detail",
+        "model": "CX4200i",
+        "page": 1
+      }
+    ]
+  },
+  "s_162556f56d5b8832": {
+    "source": "5.25-inch bay filler",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4150i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4170i",
+        "page": 3
+      },
+      {
+        "use": "diagram accessibility label",
+        "model": "CX4200i",
+        "page": 3
+      }
+    ]
+  },
+  "s_32aa60f923946808": {
+    "source": "17\" DEEP 4U CHASSIS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description",
+        "model": "CX4170a",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX4170e",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX4170i",
+        "page": 1
+      }
+    ]
+  },
+  "s_34405e39f24f01a3": {
+    "source": "Clearance drawing — drive cage installed",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 4
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 4
+      }
+    ]
+  },
+  "s_91b43563a9684c1f": {
+    "source": "Clearance drawing — cage removed",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 5
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 5
+      }
+    ]
+  },
+  "s_f1885e08d06c1f82": {
+    "source": "Radiator and drive-cage clearance",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170a",
+        "page": 15
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170a",
+        "page": 18
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 15
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 17
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200a",
+        "page": 14
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200a",
+        "page": 16
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 15
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 17
+      }
+    ]
+  },
+  "s_095da8dce31c6063": {
+    "source": "Radiator & drive-cage clearance",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 16
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 17
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 18
+      }
+    ]
+  },
+  "s_0d26ddf5f5305383": {
+    "source": "Remove the internal drive cage",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 18
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 15
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 14
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 15
+      }
+    ]
+  },
+  "s_e60bea98e52dad07": {
+    "source": "Install drives in the cage",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 20
+      }
+    ]
+  },
+  "s_055ca28fbbc0cf7d": {
+    "source": "Drive-cage layout examples",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170a",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 20
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4170i",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 21
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200a",
+        "page": 19
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 20
+      },
+      {
+        "use": "cross-reference link text",
+        "model": "CX4200i",
+        "page": 20
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 21
+      }
+    ]
+  },
+  "s_25bc610dea3ab66d": {
+    "source": "Reinstall the drive cage",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4170a",
+        "page": 27
+      },
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 28
+      },
+      {
+        "use": "title",
+        "model": "CX4200a",
+        "page": 27
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 28
+      }
+    ]
+  },
+  "s_b64313a4a45a4fc7": {
+    "source": "Fit a 5.25-inch device or filler blank",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4170i",
+        "page": 29
+      },
+      {
+        "use": "title",
+        "model": "CX4200i",
+        "page": 29
+      }
+    ]
+  },
+  "s_fda8fddd7ad5a77a": {
+    "source": "20\" DEEP 4U CHASSIS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description",
+        "model": "CX4200a",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX4200e",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX4200f",
+        "page": 1
+      },
+      {
+        "use": "cover_description",
+        "model": "CX4200i",
+        "page": 1
+      }
+    ]
+  },
+  "s_0e9183be7ca288cd": {
+    "source": "3 × 5.25\" BAYS",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "cover_description_detail",
+        "model": "CX4200f",
+        "page": 1
+      }
+    ]
+  },
+  "s_b75d36c18b217ea4": {
+    "source": "Remove the front fan bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 14
+      }
+    ]
+  },
+  "s_9a53dff94172623e": {
+    "source": "Reinstall the front fan bracket",
+    "translation": "",
+    "contexts": [
+      {
+        "use": "title",
+        "model": "CX4200f",
+        "page": 18
+      }
+    ]
+  }
+}

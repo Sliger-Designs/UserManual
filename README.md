@@ -8,48 +8,48 @@ tools used to translate them.
 |---|---|---|---|
 | S630 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S630/v1.0/S630-en-v1.0.pdf) |
 | S640 | Desktop (SFF) | Released v1.0 (2026-11-02) | [PDF](releases/en/desktop/S640/v1.0/S640-en-v1.0.pdf) |
-| CX2130a | 2U rackmount, 13-inch, five half-height slots, four 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2130a/v1.0/CX2130a-en-v1.0.pdf) |
-| CX2130c | 2U rackmount, 13-inch, two external 3.5" bays | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2130c/v1.0/CX2130c-en-v1.0.pdf) |
-| CX2130x | 2U rackmount, 13-inch, internal 3.5" drive cage | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2130x/v1.0/CX2130x-en-v1.0.pdf) |
-| CX2137a | 2U rackmount, 13-inch, four 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2137a/v1.0/CX2137a-en-v1.0.pdf) |
-| CX2137b | 2U rackmount, 13-inch, three 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2137b/v1.0/CX2137b-en-v1.0.pdf) |
-| CX2151a | 2U rackmount, 15-inch, riser GPU, four 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2151a/v1.0/CX2151a-en-v1.0.pdf) |
-| CX2151c | 2U rackmount, 15-inch, riser GPU, two external 3.5" bays | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2151c/v1.0/CX2151c-en-v1.0.pdf) |
-| CX2151x | 2U rackmount, 15-inch, riser GPU, internal 3.5" drive cage | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2151x/v1.0/CX2151x-en-v1.0.pdf) |
-| CX2177a | 2U rackmount, 17-inch, four 80 mm fans | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2177a/v1.0/CX2177a-en-v1.0.pdf) |
-| CX2177c | 2U rackmount, 17-inch, two external 3.5" bays | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2177c/v1.0/CX2177c-en-v1.0.pdf) |
-| CX2177x | 2U rackmount, 17-inch, internal 3.5" drive cage | Released v1.0 (2026-11-13) | [PDF](releases/en/2u/CX2177x/v1.0/CX2177x-en-v1.0.pdf) |
-| CX3150a | 3U rackmount | Released v1.3 (2026-11-13) | [PDF](releases/en/3u/CX3150a/v1.3/CX3150a-en-v1.3.pdf) |
-| CX3150i | 3U rackmount, one 5.25" bay | Released v1.2 (2026-11-13) | [PDF](releases/en/3u/CX3150i/v1.2/CX3150i-en-v1.2.pdf) |
-| CX3150x | 3U rackmount, internal drive bracket | Released v1.2 (2026-11-13) | [PDF](releases/en/3u/CX3150x/v1.2/CX3150x-en-v1.2.pdf) |
-| CX3151a | 3U rackmount, riser GPU | Released v1.2 (2026-11-13) | [PDF](releases/en/3u/CX3151a/v1.2/CX3151a-en-v1.2.pdf) |
-| CX3151i | 3U rackmount, one 5.25" bay, riser GPU | Released v1.2 (2026-11-13) | [PDF](releases/en/3u/CX3151i/v1.2/CX3151i-en-v1.2.pdf) |
-| CX3151x | 3U rackmount, internal drive bracket, riser GPU | Released v1.2 (2026-11-13) | [PDF](releases/en/3u/CX3151x/v1.2/CX3151x-en-v1.2.pdf) |
-| CX3152a | 3U rackmount, ATX power supply | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3152a/v1.1/CX3152a-en-v1.1.pdf) |
-| CX3152i | 3U rackmount, one 5.25" bay, ATX power supply | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3152i/v1.1/CX3152i-en-v1.1.pdf) |
-| CX3170a | 3U rackmount, 17-inch | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3170a/v1.1/CX3170a-en-v1.1.pdf) |
-| CX3171a | 3U rackmount, 17-inch, riser GPU | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3171a/v1.1/CX3171a-en-v1.1.pdf) |
-| CX3172a | 3U rackmount, 17-inch, ATX power supply | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3172a/v1.1/CX3172a-en-v1.1.pdf) |
-| CX3170a XL | 3U rackmount, 17-inch, XL tray, drive cage | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3170aXL/v1.1/CX3170aXL-en-v1.1.pdf) |
-| CX3170i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3170iXL/v1.1/CX3170iXL-en-v1.1.pdf) |
-| CX3171a XL | 3U rackmount, 17-inch, XL tray, riser GPU, drive cage | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3171aXL/v1.1/CX3171aXL-en-v1.1.pdf) |
-| CX3171i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, riser GPU | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3171iXL/v1.1/CX3171iXL-en-v1.1.pdf) |
-| CX3172a XL | 3U rackmount, 17-inch, XL tray, ATX power supply | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3172aXL/v1.1/CX3172aXL-en-v1.1.pdf) |
-| CX3172i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, ATX power supply | Released v1.1 (2026-11-13) | [PDF](releases/en/3u/CX3172iXL/v1.1/CX3172iXL-en-v1.1.pdf) |
-| CX3701 | 3U NAS, 15-inch, Mini-ITX, 10 × 3.5" hot-swap | Released v1.0 (2026-11-18) | [PDF](releases/en/3u/CX3701/v1.0/CX3701-en-v1.0.pdf) |
-| CX3702 | 3U NAS, 18-inch, MicroATX, 10 × 3.5" hot-swap | Released v1.0 (2026-11-18) | [PDF](releases/en/3u/CX3702/v1.0/CX3702-en-v1.0.pdf) |
-| CX4150a | 4U rackmount | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4150a/v1.1/CX4150a-en-v1.1.pdf) |
-| CX4150e | 4U rackmount, two 5.25" bays | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4150e/v1.1/CX4150e-en-v1.1.pdf) |
-| CX4150i | 4U rackmount, one 5.25" bay | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4150i/v1.1/CX4150i-en-v1.1.pdf) |
-| CX4170a | 4U rackmount | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4170a/v1.1/CX4170a-en-v1.1.pdf) |
-| CX4170e | 4U rackmount, two 5.25" bays | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4170e/v1.1/CX4170e-en-v1.1.pdf) |
-| CX4170i | 4U rackmount, one 5.25" bay | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4170i/v1.1/CX4170i-en-v1.1.pdf) |
-| CX4200a | 4U rackmount | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4200a/v1.1/CX4200a-en-v1.1.pdf) |
-| CX4200e | 4U rackmount, two 5.25" bays | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4200e/v1.1/CX4200e-en-v1.1.pdf) |
-| CX4200f | 4U rackmount, three 5.25" bays | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4200f/v1.1/CX4200f-en-v1.1.pdf) |
-| CX4200i | 4U rackmount, one 5.25" bay | Released v1.1 (2026-11-13) | [PDF](releases/en/4u/CX4200i/v1.1/CX4200i-en-v1.1.pdf) |
-| CX4712 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Released v1.0 (2026-11-18) | [PDF](releases/en/4u/CX4712/v1.0/CX4712-en-v1.0.pdf) |
-| CX4713 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Released v1.0 (2026-11-18) | [PDF](releases/en/4u/CX4713/v1.0/CX4713-en-v1.0.pdf) |
+| CX2130a | 2U rackmount, 13-inch, five half-height slots, four 80 mm fans | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2130a/v1.1/CX2130a-en-v1.1.pdf) |
+| CX2130c | 2U rackmount, 13-inch, two external 3.5" bays | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2130c/v1.1/CX2130c-en-v1.1.pdf) |
+| CX2130x | 2U rackmount, 13-inch, internal 3.5" drive cage | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2130x/v1.1/CX2130x-en-v1.1.pdf) |
+| CX2137a | 2U rackmount, 13-inch, four 80 mm fans | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2137a/v1.1/CX2137a-en-v1.1.pdf) |
+| CX2137b | 2U rackmount, 13-inch, three 80 mm fans | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2137b/v1.1/CX2137b-en-v1.1.pdf) |
+| CX2151a | 2U rackmount, 15-inch, riser GPU, four 80 mm fans | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2151a/v1.1/CX2151a-en-v1.1.pdf) |
+| CX2151c | 2U rackmount, 15-inch, riser GPU, two external 3.5" bays | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2151c/v1.1/CX2151c-en-v1.1.pdf) |
+| CX2151x | 2U rackmount, 15-inch, riser GPU, internal 3.5" drive cage | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2151x/v1.1/CX2151x-en-v1.1.pdf) |
+| CX2177a | 2U rackmount, 17-inch, four 80 mm fans | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2177a/v1.1/CX2177a-en-v1.1.pdf) |
+| CX2177c | 2U rackmount, 17-inch, two external 3.5" bays | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2177c/v1.1/CX2177c-en-v1.1.pdf) |
+| CX2177x | 2U rackmount, 17-inch, internal 3.5" drive cage | Released v1.1 (2026-11-25) | [PDF](releases/en/2u/CX2177x/v1.1/CX2177x-en-v1.1.pdf) |
+| CX3150a | 3U rackmount | Released v1.4 (2026-11-25) | [PDF](releases/en/3u/CX3150a/v1.4/CX3150a-en-v1.4.pdf) |
+| CX3150i | 3U rackmount, one 5.25" bay | Released v1.3 (2026-11-25) | [PDF](releases/en/3u/CX3150i/v1.3/CX3150i-en-v1.3.pdf) |
+| CX3150x | 3U rackmount, internal drive bracket | Released v1.3 (2026-11-25) | [PDF](releases/en/3u/CX3150x/v1.3/CX3150x-en-v1.3.pdf) |
+| CX3151a | 3U rackmount, riser GPU | Released v1.3 (2026-11-25) | [PDF](releases/en/3u/CX3151a/v1.3/CX3151a-en-v1.3.pdf) |
+| CX3151i | 3U rackmount, one 5.25" bay, riser GPU | Released v1.3 (2026-11-25) | [PDF](releases/en/3u/CX3151i/v1.3/CX3151i-en-v1.3.pdf) |
+| CX3151x | 3U rackmount, internal drive bracket, riser GPU | Released v1.3 (2026-11-25) | [PDF](releases/en/3u/CX3151x/v1.3/CX3151x-en-v1.3.pdf) |
+| CX3152a | 3U rackmount, ATX power supply | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3152a/v1.2/CX3152a-en-v1.2.pdf) |
+| CX3152i | 3U rackmount, one 5.25" bay, ATX power supply | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3152i/v1.2/CX3152i-en-v1.2.pdf) |
+| CX3170a | 3U rackmount, 17-inch | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3170a/v1.2/CX3170a-en-v1.2.pdf) |
+| CX3171a | 3U rackmount, 17-inch, riser GPU | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3171a/v1.2/CX3171a-en-v1.2.pdf) |
+| CX3172a | 3U rackmount, 17-inch, ATX power supply | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3172a/v1.2/CX3172a-en-v1.2.pdf) |
+| CX3170a XL | 3U rackmount, 17-inch, XL tray, drive cage | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3170aXL/v1.2/CX3170aXL-en-v1.2.pdf) |
+| CX3170i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3170iXL/v1.2/CX3170iXL-en-v1.2.pdf) |
+| CX3171a XL | 3U rackmount, 17-inch, XL tray, riser GPU, drive cage | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3171aXL/v1.2/CX3171aXL-en-v1.2.pdf) |
+| CX3171i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, riser GPU | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3171iXL/v1.2/CX3171iXL-en-v1.2.pdf) |
+| CX3172a XL | 3U rackmount, 17-inch, XL tray, ATX power supply | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3172aXL/v1.2/CX3172aXL-en-v1.2.pdf) |
+| CX3172i XL | 3U rackmount, 17-inch, XL tray, one 5.25" bay, ATX power supply | Released v1.2 (2026-11-25) | [PDF](releases/en/3u/CX3172iXL/v1.2/CX3172iXL-en-v1.2.pdf) |
+| CX3701 | 3U NAS, 15-inch, Mini-ITX, 10 × 3.5" hot-swap | Released v1.1 (2026-11-25) | [PDF](releases/en/3u/CX3701/v1.1/CX3701-en-v1.1.pdf) |
+| CX3702 | 3U NAS, 18-inch, MicroATX, 10 × 3.5" hot-swap | Released v1.1 (2026-11-25) | [PDF](releases/en/3u/CX3702/v1.1/CX3702-en-v1.1.pdf) |
+| CX4150a | 4U rackmount | Released v1.2 (2026-11-25) | [PDF](releases/en/4u/CX4150a/v1.2/CX4150a-en-v1.2.pdf) |
+| CX4150e | 4U rackmount, two 5.25" bays | Released v1.2 (2026-11-25) | [PDF](releases/en/4u/CX4150e/v1.2/CX4150e-en-v1.2.pdf) |
+| CX4150i | 4U rackmount, one 5.25" bay | Released v1.2 (2026-11-25) | [PDF](releases/en/4u/CX4150i/v1.2/CX4150i-en-v1.2.pdf) |
+| CX4170a | 4U rackmount | Released v1.2 (2026-11-25) | [PDF](releases/en/4u/CX4170a/v1.2/CX4170a-en-v1.2.pdf) |
+| CX4170e | 4U rackmount, two 5.25" bays | Released v1.2 (2026-11-25) | [PDF](releases/en/4u/CX4170e/v1.2/CX4170e-en-v1.2.pdf) |
+| CX4170i | 4U rackmount, one 5.25" bay | Released v1.2 (2026-11-25) | [PDF](releases/en/4u/CX4170i/v1.2/CX4170i-en-v1.2.pdf) |
+| CX4200a | 4U rackmount | Released v1.2 (2026-11-25) | [PDF](releases/en/4u/CX4200a/v1.2/CX4200a-en-v1.2.pdf) |
+| CX4200e | 4U rackmount, two 5.25" bays | Released v1.2 (2026-11-25) | [PDF](releases/en/4u/CX4200e/v1.2/CX4200e-en-v1.2.pdf) |
+| CX4200f | 4U rackmount, three 5.25" bays | Released v1.2 (2026-11-25) | [PDF](releases/en/4u/CX4200f/v1.2/CX4200f-en-v1.2.pdf) |
+| CX4200i | 4U rackmount, one 5.25" bay | Released v1.2 (2026-11-25) | [PDF](releases/en/4u/CX4200i/v1.2/CX4200i-en-v1.2.pdf) |
+| CX4712 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Released v1.1 (2026-11-25) | [PDF](releases/en/4u/CX4712/v1.1/CX4712-en-v1.1.pdf) |
+| CX4713 | 4U NAS, 10 hot-swap + 2 × 5.25" bays | Released v1.1 (2026-11-25) | [PDF](releases/en/4u/CX4713/v1.1/CX4713-en-v1.1.pdf) |
 
 ## Repository layout
 
