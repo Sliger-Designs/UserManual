@@ -280,7 +280,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/motherboard-preparation-no-standoffs.md",
       "images": [
-        "4a_CX3701_MOTHERBOARD IO SHIELD.jpg"
+        "4a_CX3150g_MOTHERBOARD IO SHIELD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -293,7 +293,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "../../shared/rackmount/motherboard-installation-no-standoffs.md",
       "images": [
-        "4b_CX3701_MOTHERBOARD.jpg"
+        "4b_CX3150g_MOTHERBOARD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -308,7 +308,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "psu-installation.md",
       "images": [
-        "6_CX3701_PSU.jpg"
+        "6_CX3150g_PSU.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -323,7 +323,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "gpu-installation.md",
       "images": [
-        "7_CX3701_GPU.jpg"
+        "7_CX3150g_GPU.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -339,9 +339,9 @@
       "section": "04 / REASSEMBLY",
       "source": "bay-bank-removal.md",
       "images": [
-        "9a_CX3250g_BAY BANK UNSCREW.jpg",
-        "9b_CX3250g_BAY BANK SLIDE BACK.jpg",
-        "9c_CX3250g_BAY BANK LIFT OUT.jpg"
+        "9a_CX3150g_BAY BANK UNSCREW.jpg",
+        "9b_CX3150g_BAY BANK SLIDE BACK.jpg",
+        "9c_CX3150g_BAY BANK LIFT OUT.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [

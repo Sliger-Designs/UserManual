@@ -1,9 +1,9 @@
 {
   "10a_CX3180g_TRAY UNSCREW.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-f8549c5c676b.jpg",
+    "path": "illustrations/published/3u/CX3180g/cx3180g-a63b98fd3b35.jpg",
     "source_path": "illustrations/3u/CX3180g/10a_CX3180g_TRAY UNSCREW.jpg",
-    "source_sha256": "f8549c5c676be2834a9be2377409a4e00431947108d45fdd1b70b68f72cc6cc0",
-    "sha256": "5bfd2e5b61fa5555aeb55c26f2cac9882d3f6521425d35861f7a5c4044bd75f4",
+    "source_sha256": "a63b98fd3b35886d161dd43249f1aefe1388b60bf193063549ace181f57d9369",
+    "sha256": "1a5b41bb57063194e96a0a1fb044bd156b76bddf43d739beb427a742390e30ea",
     "dimensions_px": [
       1800,
       1016
@@ -12,10 +12,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10b_CX3180g_TRAY SLIDE BACK.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-f3a4b7289053.jpg",
+    "path": "illustrations/published/3u/CX3180g/cx3180g-078b306aad25.jpg",
     "source_path": "illustrations/3u/CX3180g/10b_CX3180g_TRAY SLIDE BACK.jpg",
-    "source_sha256": "f3a4b72890539a2afe5a1dbac85451d6a5d2cd63cf833d91e8dab0e15b6a4a28",
-    "sha256": "3b43eaf828f38c0f5b0c738bdd4234021e04064d13ca9450e1ff51cbe7374d37",
+    "source_sha256": "078b306aad256be104fb149a9e4c618e8144a5ccab907f7860ca6a20b96376a1",
+    "sha256": "a4c81575f3e57acf56904d379e047ecec598a2108e04081555445fa8e564069f",
     "dimensions_px": [
       1800,
       1016
@@ -24,10 +24,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10c_CX3180g_TRAY SLIDE BACK 2.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-4e870eb8e767.jpg",
+    "path": "illustrations/published/3u/CX3180g/cx3180g-0d9a37592879.jpg",
     "source_path": "illustrations/3u/CX3180g/10c_CX3180g_TRAY SLIDE BACK 2.jpg",
-    "source_sha256": "4e870eb8e7671931710302da62ccefdbe43dd7167c2dd92ed36803f465d9c5a4",
-    "sha256": "9096830a849f78bbe64269a803f41f5c5fbf6634365403d400bf5346e10d28d4",
+    "source_sha256": "0d9a3759287999743653846d80329e20f3b76db913ecd1f5c2da4bfce8033028",
+    "sha256": "959b9f38fa68324bb79a476445be4ae43beae1629b0f74b3ddffd3fb18380123",
     "dimensions_px": [
       1800,
       1016
@@ -36,10 +36,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10d_CX3180g_TRAY INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-4e870eb8e767.jpg",
+    "path": "illustrations/published/3u/CX3180g/cx3180g-41d7584931ee.jpg",
     "source_path": "illustrations/3u/CX3180g/10d_CX3180g_TRAY INSTALL.jpg",
-    "source_sha256": "4e870eb8e7671931710302da62ccefdbe43dd7167c2dd92ed36803f465d9c5a4",
-    "sha256": "9096830a849f78bbe64269a803f41f5c5fbf6634365403d400bf5346e10d28d4",
+    "source_sha256": "41d7584931ee52d8e6f6ff3cd7a577772f1caa866d1d1353258e1aa3ac6d58e8",
+    "sha256": "0fd72ee3197776e5e606d1adc6e1476237e35cfe4088d8596fc44ff6f5cbbbae",
     "dimensions_px": [
       1800,
       1016
@@ -48,10 +48,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10e_CX3180g_TRAY INSTALL 2.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-f3a4b7289053.jpg",
+    "path": "illustrations/published/3u/CX3180g/cx3180g-c33c2136f005.jpg",
     "source_path": "illustrations/3u/CX3180g/10e_CX3180g_TRAY INSTALL 2.jpg",
-    "source_sha256": "f3a4b72890539a2afe5a1dbac85451d6a5d2cd63cf833d91e8dab0e15b6a4a28",
-    "sha256": "3b43eaf828f38c0f5b0c738bdd4234021e04064d13ca9450e1ff51cbe7374d37",
+    "source_sha256": "c33c2136f005b3fdca89b0d16c3c8e31439a7359c5971c2a4f258e6e12837179",
+    "sha256": "0306eb9b1dc68c2470abe8b33cd3bd44ca0ef5828dde85e942a902242441278b",
     "dimensions_px": [
       1800,
       1016
@@ -60,10 +60,10 @@
     "status": "prototype_selection_needs_review"
   },
   "10f_CX3180g_TRAY INSTALL 3.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-f8549c5c676b.jpg",
+    "path": "illustrations/published/3u/CX3180g/cx3180g-7af0b8b88d21.jpg",
     "source_path": "illustrations/3u/CX3180g/10f_CX3180g_TRAY INSTALL 3.jpg",
-    "source_sha256": "f8549c5c676be2834a9be2377409a4e00431947108d45fdd1b70b68f72cc6cc0",
-    "sha256": "5bfd2e5b61fa5555aeb55c26f2cac9882d3f6521425d35861f7a5c4044bd75f4",
+    "source_sha256": "7af0b8b88d21e6ea2b1abb393092e9c1bb890b290d6df811bb739eadbe0aa3d0",
+    "sha256": "19f7dfa583950f33db167712f439c7f4a606bfa6a0590f8c490f3d14a4546539",
     "dimensions_px": [
       1800,
       1016
@@ -225,179 +225,89 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "4a_CX3702_MOTHERBOARD IO SHIELD.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-2643d72a3a70.jpg",
-    "source_path": "illustrations/3u/CX3180g/4a_CX3702_MOTHERBOARD IO SHIELD.jpg",
-    "source_sha256": "871628911d7984752759d5481fafe379854d53c4d2f5b207883530a39b63c253",
-    "sha256": "76b2f002ec9febb20105a197fc4e7206f3ea72692efb8e8f5e45d72f6c1d3152",
+  "4a_CX3180g_STANDOFF INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-8ac9d684bd12.jpg",
+    "source_path": "illustrations/3u/CX3180g/4a_CX3180g_STANDOFF INSTALL.jpg",
+    "source_sha256": "8ac9d684bd12bcd029a542bf6b5eef04795802d3b7c21080b035074b0d2de9e9",
+    "sha256": "92c4607e21b9978d09de60292e81e9e3d824171a867223f3d99132aecbcdd92c",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 10243946,
-      "total_pixels": 20206881,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180g/4a_CX3702_MOTHERBOARD IO SHIELD-white.png",
-      "full_resolution_dimensions_px": [
-        5319,
-        3799
-      ],
-      "full_resolution_sha256": "4ab4a5b75c7c043abde7c18873b5e0fe32c70499ebaf4596dd6cb17e7287048f"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "4b_CX3702_MOTHERBOARD.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-b362edf4cabb.jpg",
-    "source_path": "illustrations/3u/CX3180g/4b_CX3702_MOTHERBOARD.jpg",
-    "source_sha256": "eb2edf7dd5edb8c91e41f63559d99df343a0afc2c671584cffb01ddcaf641475",
-    "sha256": "de6377123543bae32b2ca85d8f3b752a226710d443d234e879319fa57b625f06",
+  "4b_CX3180g_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-ff163eb7f3f0.jpg",
+    "source_path": "illustrations/3u/CX3180g/4b_CX3180g_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "ff163eb7f3f04139455ee249be2c7c6a1323feddffef2aa0876bbbb464dcf36c",
+    "sha256": "0a5d8cb5316fa99afeedc755d6c4bc156fb8aab9a189c873ebfdc1082aa15a3b",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 3031641,
-      "total_pixels": 8258600,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180g/4b_CX3702_MOTHERBOARD-white.png",
-      "full_resolution_dimensions_px": [
-        3400,
-        2429
-      ],
-      "full_resolution_sha256": "644acecabc223a56277c3a6062b3a9aa65a1f5835bb1bf3f486c5304fcde72ae"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "5a_CX3702_PSU BRACKET UNSCREW.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-b4d05e4cfd30.jpg",
-    "source_path": "illustrations/3u/CX3180g/5a_CX3702_PSU BRACKET UNSCREW.jpg",
-    "source_sha256": "a6a117400113e5d4c80beb874b01a3496fa2de5a4b1d882ea249cb037b913576",
-    "sha256": "66e9738d2d388057f58fea35f2c2d643971be148ee0afb4bd0afdddd728f44b6",
+  "4c_CX3180g_MOTHERBOARD.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-e8f97432774f.jpg",
+    "source_path": "illustrations/3u/CX3180g/4c_CX3180g_MOTHERBOARD.jpg",
+    "source_sha256": "e8f97432774f3b808152652c2b807fbb864e58327add14fbf483fb683d7cc975",
+    "sha256": "ef1d913bbe8638550d5f0d96be8c874bbc47d4a94a873583309c17387957a060",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 2630657,
-      "total_pixels": 11814635,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180g/5a_CX3702_PSU BRACKET UNSCREW-white.png",
-      "full_resolution_dimensions_px": [
-        4067,
-        2905
-      ],
-      "full_resolution_sha256": "28f61432f4d8419fb49b5bde5cc6b04e6e25de0eec4527f40c09c2c2292f47c4"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "5c_CX3702_PSU.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-431da2d888e4.jpg",
-    "source_path": "illustrations/3u/CX3180g/5c_CX3702_PSU.jpg",
-    "source_sha256": "137a1fc87461d1f786d2c0b2e7f6dd89dbce3f13a5aa118c96b74bab614d6a0a",
-    "sha256": "ca2028fd036952d97512c6506e39e85b7942bf6efabe76b97e5a780e7d3c5403",
+  "5a_CX3180g_PSU BRACKET UNSCREW.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-019019feeb5b.jpg",
+    "source_path": "illustrations/3u/CX3180g/5a_CX3180g_PSU BRACKET UNSCREW.jpg",
+    "source_sha256": "019019feeb5bae7cb14fa63a081f0f2b18d370fe73a899cca62307e1c0b14f2d",
+    "sha256": "ad2470102940b7fe58f3a21120012826ec0968cfd24570f230f51cf778d18ae0",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 7310478,
-      "total_pixels": 9877664,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180g/5c_CX3702_PSU-white.png",
-      "full_resolution_dimensions_px": [
-        3719,
-        2656
-      ],
-      "full_resolution_sha256": "40a0c3006bfb8098b389fdf4cd40cb78e2a8570d73e612f73e0445fa0d123d2b"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "7_CX3702_PSU BRACKET INSTALL.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-fb2d7abd4654.jpg",
-    "source_path": "illustrations/3u/CX3180g/7_CX3702_PSU BRACKET INSTALL.jpg",
-    "source_sha256": "3b57a7dea43a37ad9d954f7b484c08039f538126200502b03c8ae2bd06de9bb4",
-    "sha256": "0069a37bd39ac4edacd2b3d345bbab9b688c1abade8e7ef65bbe741a228af20b",
+  "5c_CX3180g_PSU.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-e87ce830d08d.jpg",
+    "source_path": "illustrations/3u/CX3180g/5c_CX3180g_PSU.jpg",
+    "source_sha256": "e87ce830d08d327e416914804dd69c640d07272c66d8c7cab8da0a20d791f538",
+    "sha256": "cc91f05aaa5bd0291e4a37c115f16d17d4605563b58419070de7d5dcd7c0ef01",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 5847411,
-      "total_pixels": 20078674,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180g/7_CX3702_PSU BRACKET INSTALL-white.png",
-      "full_resolution_dimensions_px": [
-        5302,
-        3787
-      ],
-      "full_resolution_sha256": "f42e3d5df3416764c22521d5bbfb3015114f6b13a31bb92c6f3a0da489fc4c6b"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "8_CX3702_GPU.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-8372dfe8ac89.jpg",
-    "source_path": "illustrations/3u/CX3180g/8_CX3702_GPU.jpg",
-    "source_sha256": "c78c82f2e2101c47ccfdda51bb2b040c5f9d5588cd634e71fc721b94e32d7be5",
-    "sha256": "7a646b47fb2702155ddd47d59468b3c3d23552483a4a2319088720520da94b04",
+  "7_CX3180g_PSU BRACKET INSTALL.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-c8295d6eecb6.jpg",
+    "source_path": "illustrations/3u/CX3180g/7_CX3180g_PSU BRACKET INSTALL.jpg",
+    "source_sha256": "c8295d6eecb60156a71f7bebece702a9e73adbf7c47ef21440c944a20315c9f8",
+    "sha256": "d19b8b74405d4aab15a064452065578fa79ad8c49d9c69907a9df0cba438bccc",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 8239344,
-      "total_pixels": 16897536,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3180g/8_CX3702_GPU-white.png",
-      "full_resolution_dimensions_px": [
-        4864,
-        3474
-      ],
-      "full_resolution_sha256": "7bd579be699c58e92b26fbffb2c3ce8c7a919773cc80a529b7f0c1667685105a"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
+  "8_CX3180g_GPU.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-20071f833cf3.jpg",
+    "source_path": "illustrations/3u/CX3180g/8_CX3180g_GPU.jpg",
+    "source_sha256": "20071f833cf32e0352d4768665dd5ea5edfdd8a0ca1cad66ef69e980d77ab4a9",
+    "sha256": "10af28638458370af4b8a031a082fca82cf662fa64d07ee793c9c34e524c41d9",
+    "dimensions_px": [
+      1800,
+      1016
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "9_CX3180g_RACK EARS.jpg": {
     "path": "illustrations/published/3u/CX3180g/cx3180g-28caeb3eb285.jpg",
@@ -411,11 +321,11 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "9a_CX3250g_BAY BANK UNSCREW.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-c9dc38b66195.jpg",
-    "source_path": "illustrations/3u/CX3180g/9a_CX3250g_BAY BANK UNSCREW.jpg",
-    "source_sha256": "c9dc38b6619586b2f2f6cd0026d5bb69ae1b410b4f23dd61b94daf80952fc44e",
-    "sha256": "219f088cf48abc41272a859eebdc1cc816bc21b519dd1a162cbeb80741eea48f",
+  "9a_CX3180g_BAY BANK UNSCREW.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-5ee341fe8ff1.jpg",
+    "source_path": "illustrations/3u/CX3180g/9a_CX3180g_BAY BANK UNSCREW.jpg",
+    "source_sha256": "5ee341fe8ff1ccf499f29ff4f2cba5a0182438684bb465e9a7dd040ec86246c8",
+    "sha256": "c19b6ece97b33bd9a8a6dbea46540e835159acc453872becd0248c734ec6da37",
     "dimensions_px": [
       1800,
       1016
@@ -423,11 +333,11 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "9b_CX3250g_BAY BANK SLIDE BACK.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-6c58974a0a58.jpg",
-    "source_path": "illustrations/3u/CX3180g/9b_CX3250g_BAY BANK SLIDE BACK.jpg",
-    "source_sha256": "6c58974a0a58d7f345fab04488ca04922d7b6ed8cdf2aca4926a0a07535d9c8c",
-    "sha256": "515e7c4e35294b7b793633d5c5aada7c6200fc90ad8d3ccf816d526266d7b339",
+  "9b_CX3180g_BAY BANK SLIDE BACK.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-5683c167f81f.jpg",
+    "source_path": "illustrations/3u/CX3180g/9b_CX3180g_BAY BANK SLIDE BACK.jpg",
+    "source_sha256": "5683c167f81fff90bb98e03cf9aaa02fa93d6c27af6a430095d0a472c8d245a7",
+    "sha256": "b9a98e1eaddc505adb7d0b98493244c2e97c5204d4719a2286e5aaea60316786",
     "dimensions_px": [
       1800,
       1016
@@ -435,11 +345,11 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "9c_CX3250g_BAY BANK LIFT OUT.jpg": {
-    "path": "illustrations/published/3u/CX3180g/cx3180g-0a823f7f8cd7.jpg",
-    "source_path": "illustrations/3u/CX3180g/9c_CX3250g_BAY BANK LIFT OUT.jpg",
-    "source_sha256": "0a823f7f8cd7f699995b7c0cd6979b230e3ea6e419e69dc58b1f4a837bda4d15",
-    "sha256": "2c2ee2cf8ccdb6c6378940179f98bca6ddbba0827da36a487453933b23919b27",
+  "9c_CX3180g_BAY BANK LIFT OUT.jpg": {
+    "path": "illustrations/published/3u/CX3180g/cx3180g-64ff5ba85f4c.jpg",
+    "source_path": "illustrations/3u/CX3180g/9c_CX3180g_BAY BANK LIFT OUT.jpg",
+    "source_sha256": "64ff5ba85f4c323e760d2a61c05cc7d969c4802f02fcb559964c95e00da2ddc6",
+    "sha256": "9852d9dc7978dbc0dc56c709c9d571f2d92574986ba70198ef240b03af09835e",
     "dimensions_px": [
       1800,
       1016

@@ -225,121 +225,53 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "4a_CX3701_MOTHERBOARD IO SHIELD.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-f674dbded226.jpg",
-    "source_path": "illustrations/3u/CX3150g/4a_CX3701_MOTHERBOARD IO SHIELD.jpg",
-    "source_sha256": "a84d3de168565a3a35f10cd1852a8fff983c8b14cd62ad5f82b90a3b7a143642",
-    "sha256": "acd3b2050106c8f0179b4b341e9369fce0a8e7a5273fc710f7f482cc139e83a1",
+  "4a_CX3150g_MOTHERBOARD IO SHIELD.jpg": {
+    "path": "illustrations/published/3u/CX3150g/cx3150g-90aa33fb0f5b.jpg",
+    "source_path": "illustrations/3u/CX3150g/4a_CX3150g_MOTHERBOARD IO SHIELD.jpg",
+    "source_sha256": "90aa33fb0f5b7b5e15f2c238fe265e7f2a93b7154455fd5c23dbbf4e5aee9c59",
+    "sha256": "c38bfc26a6540f3807fd2d5024ca8b8633247990b0c18a587e995f3f8074fdfa",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 8152191,
-      "total_pixels": 20206881,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3150g/4a_CX3701_MOTHERBOARD IO SHIELD-white.png",
-      "full_resolution_dimensions_px": [
-        5319,
-        3799
-      ],
-      "full_resolution_sha256": "a2639f2c445f4cda449bcefb6a245bb75f5d55308e58cd986e5ece8eb78b9af5"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "4b_CX3701_MOTHERBOARD.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-db62edb78f26.jpg",
-    "source_path": "illustrations/3u/CX3150g/4b_CX3701_MOTHERBOARD.jpg",
-    "source_sha256": "38328d472c8821d3a34b71790f0beffe772e73491bb1111f15b7223e25758701",
-    "sha256": "c8c3bf3221a3f7d7f1bc291f70b0ebc4978ad289d0414985fb8501ba2003cffc",
+  "4b_CX3150g_MOTHERBOARD.jpg": {
+    "path": "illustrations/published/3u/CX3150g/cx3150g-457ca232f8e8.jpg",
+    "source_path": "illustrations/3u/CX3150g/4b_CX3150g_MOTHERBOARD.jpg",
+    "source_sha256": "457ca232f8e8001a230ddb2aeab85d975faaa96fd7121691168dab7bc782d62e",
+    "sha256": "5c9708ca23fcf350caf31ffd252a3c5ddb2af7230a060d2d7a5e3ef8dc078993",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 4060284,
-      "total_pixels": 14131296,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3150g/4b_CX3701_MOTHERBOARD-white.png",
-      "full_resolution_dimensions_px": [
-        4448,
-        3177
-      ],
-      "full_resolution_sha256": "daeaf37e16f8def9975ba94b1db4e5f0c26a6e0080d8bf81ef9f8c60fedf3498"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "6_CX3701_PSU.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-c3ed3505bb29.jpg",
-    "source_path": "illustrations/3u/CX3150g/6_CX3701_PSU.jpg",
-    "source_sha256": "ee552b83fb0a66db5614cea57495bbd6c1f6976b2b4347586a6f0f57242925ec",
-    "sha256": "c65e378d56949fe8abb7db368fa83a07c9c68525231e7c40ab893968165347d4",
+  "6_CX3150g_PSU.jpg": {
+    "path": "illustrations/published/3u/CX3150g/cx3150g-fb8a5a0f9cc3.jpg",
+    "source_path": "illustrations/3u/CX3150g/6_CX3150g_PSU.jpg",
+    "source_sha256": "fb8a5a0f9cc334bc2f4cebc2e9dc028faa3c8ee9a3a1416a87b7746f1d2348bd",
+    "sha256": "adec01bf17f1b7028bb37bbf234259d99ebc5be0c383d7f68cbc7e24c82ecff4",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 10648502,
-      "total_pixels": 20206881,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3150g/6_CX3701_PSU-white.png",
-      "full_resolution_dimensions_px": [
-        5319,
-        3799
-      ],
-      "full_resolution_sha256": "7820e0e7287fa71e5d7578df316e96094d285ec8abc9e18326aaa712c01d9a28"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
-  "7_CX3701_GPU.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-1ecf78731fe1.jpg",
-    "source_path": "illustrations/3u/CX3150g/7_CX3701_GPU.jpg",
-    "source_sha256": "df96e0c523a7b5f8f0b8d4d10e66ad894b69a028beaff95b191846a1d7618055",
-    "sha256": "3a90e43163d536e117792da28c8aab980ed74b535f5b445f62d8d394a8730141",
+  "7_CX3150g_GPU.jpg": {
+    "path": "illustrations/published/3u/CX3150g/cx3150g-d2218d20b4bb.jpg",
+    "source_path": "illustrations/3u/CX3150g/7_CX3150g_GPU.jpg",
+    "source_sha256": "d2218d20b4bbe1a0e4c44dabc753a95bcfbfa26596fe1b5c93274134b30095a9",
+    "sha256": "243cf9d5d98a228b0706c2213cee1a317860b4237035b9073823bac5f899ccf8",
     "dimensions_px": [
       1800,
-      1286
+      1016
     ],
-    "transformation": "EXIF orientation; flat gray background replaced with white before resizing; fit within 1800x1400 without upscaling; no crop; RGB JPEG quality 90, subsampling 0. Full-resolution cleaned copy saved separately; original unchanged.",
-    "status": "prototype_selection_needs_review",
-    "background_cleanup": {
-      "reference_rgb": [
-        250,
-        252,
-        251
-      ],
-      "tolerance_per_channel": 4,
-      "background_pixels_replaced": 7458494,
-      "total_pixels": 16897536,
-      "method": "Replace only pixels within the specified distance of the flat background with RGB white; preserve all other source pixels exactly.",
-      "full_resolution_path": "_build/cleaned-renders/CX3150g/7_CX3701_GPU-white.png",
-      "full_resolution_dimensions_px": [
-        4864,
-        3474
-      ],
-      "full_resolution_sha256": "b5a47e040e5ebfa40ab54a18ba0bd2aa9464397b5d2121ce849699d4cf4e8509"
-    }
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
   },
   "9_CX3150g_RACK EARS.jpg": {
     "path": "illustrations/published/3u/CX3150g/cx3150g-d8f497fa3f82.jpg",
@@ -353,11 +285,11 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "9a_CX3250g_BAY BANK UNSCREW.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-c9dc38b66195.jpg",
-    "source_path": "illustrations/3u/CX3150g/9a_CX3250g_BAY BANK UNSCREW.jpg",
-    "source_sha256": "c9dc38b6619586b2f2f6cd0026d5bb69ae1b410b4f23dd61b94daf80952fc44e",
-    "sha256": "219f088cf48abc41272a859eebdc1cc816bc21b519dd1a162cbeb80741eea48f",
+  "9a_CX3150g_BAY BANK UNSCREW.jpg": {
+    "path": "illustrations/published/3u/CX3150g/cx3150g-22dabf688950.jpg",
+    "source_path": "illustrations/3u/CX3150g/9a_CX3150g_BAY BANK UNSCREW.jpg",
+    "source_sha256": "22dabf6889502bfeae24826ce23290410c194a9ef8b476de41cc22efb0478a39",
+    "sha256": "570d13b0082784072c197e1141aec95f321941efc0e0786b0f77c4d0f7d4c38c",
     "dimensions_px": [
       1800,
       1016
@@ -365,11 +297,11 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "9b_CX3250g_BAY BANK SLIDE BACK.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-6c58974a0a58.jpg",
-    "source_path": "illustrations/3u/CX3150g/9b_CX3250g_BAY BANK SLIDE BACK.jpg",
-    "source_sha256": "6c58974a0a58d7f345fab04488ca04922d7b6ed8cdf2aca4926a0a07535d9c8c",
-    "sha256": "515e7c4e35294b7b793633d5c5aada7c6200fc90ad8d3ccf816d526266d7b339",
+  "9b_CX3150g_BAY BANK SLIDE BACK.jpg": {
+    "path": "illustrations/published/3u/CX3150g/cx3150g-663eccf0c4eb.jpg",
+    "source_path": "illustrations/3u/CX3150g/9b_CX3150g_BAY BANK SLIDE BACK.jpg",
+    "source_sha256": "663eccf0c4eb2ea92eb7fe7912d800a93c888d16f68b351d1e3e244e926e81fb",
+    "sha256": "0e8cb2e1c27494152c81ed20e0c42c30e35359675b1c742f9584a4ebbda7d4d0",
     "dimensions_px": [
       1800,
       1016
@@ -377,11 +309,11 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
-  "9c_CX3250g_BAY BANK LIFT OUT.jpg": {
-    "path": "illustrations/published/3u/CX3150g/cx3150g-0a823f7f8cd7.jpg",
-    "source_path": "illustrations/3u/CX3150g/9c_CX3250g_BAY BANK LIFT OUT.jpg",
-    "source_sha256": "0a823f7f8cd7f699995b7c0cd6979b230e3ea6e419e69dc58b1f4a837bda4d15",
-    "sha256": "2c2ee2cf8ccdb6c6378940179f98bca6ddbba0827da36a487453933b23919b27",
+  "9c_CX3150g_BAY BANK LIFT OUT.jpg": {
+    "path": "illustrations/published/3u/CX3150g/cx3150g-be61c0c1ce06.jpg",
+    "source_path": "illustrations/3u/CX3150g/9c_CX3150g_BAY BANK LIFT OUT.jpg",
+    "source_sha256": "be61c0c1ce063094739c7dce439f894a387bc93403a0f9da479754047988c1a9",
+    "sha256": "58aaa759530c50a147d549115df018e691d0994af25711e32093d17a5f14089d",
     "dimensions_px": [
       1800,
       1016

@@ -3,7 +3,7 @@
 | Outer dimensions, D × W × H | {{ outer.depth }} × {{ outer.width }} × {{ outer.height }} mm (18 × 17 × 5.22 inches) |
 | Rack size | 3U · 19-inch rack |
 | Power supply | SFX or SFX-L |
-| Motherboard | Mini-ITX, Deep Mini-ITX, MicroATX; mounts without standoffs. The motherboard tray slides out for assembly |
+| Motherboard | Mini-ITX, Deep Mini-ITX, MicroATX; mounts on the included standoffs. The motherboard tray slides out for assembly |
 | CPU air cooler | Up to {{ facts.air_cooler_height_max_mm }} mm tall |
 | Cooling | Two 120 mm fans, side vent and rear, up to 38 mm thick |
 | Liquid cooling | Not supported; the space gives the motherboard more clearance to the side fan and more cable room behind the PSU |

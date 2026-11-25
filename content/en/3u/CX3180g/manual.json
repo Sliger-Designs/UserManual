@@ -284,12 +284,16 @@
       "id": "motherboard-preparation",
       "title": "Prepare the motherboard tray",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "../../shared/rackmount/motherboard-preparation-no-standoffs.md",
+      "source": "../../shared/rackmount/motherboard-preparation.md",
       "images": [
-        "4a_CX3702_MOTHERBOARD IO SHIELD.jpg"
+        "4a_CX3180g_STANDOFF INSTALL.jpg",
+        "4b_CX3180g_MOTHERBOARD IO SHIELD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
+        [
+          "C"
+        ],
         []
       ]
     },
@@ -297,14 +301,15 @@
       "id": "motherboard-installation",
       "title": "Install the motherboard",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "../../shared/rackmount/motherboard-installation-no-standoffs.md",
+      "source": "../../shared/rackmount/motherboard-installation.md",
       "images": [
-        "4b_CX3702_MOTHERBOARD.jpg"
+        "4c_CX3180g_MOTHERBOARD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
         [
-          "A"
+          "A",
+          "C"
         ]
       ]
     },
@@ -314,9 +319,9 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "psu-installation.md",
       "images": [
-        "5a_CX3702_PSU BRACKET UNSCREW.jpg",
-        "5c_CX3702_PSU.jpg",
-        "7_CX3702_PSU BRACKET INSTALL.jpg"
+        "5a_CX3180g_PSU BRACKET UNSCREW.jpg",
+        "5c_CX3180g_PSU.jpg",
+        "7_CX3180g_PSU BRACKET INSTALL.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -337,7 +342,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "gpu-installation.md",
       "images": [
-        "8_CX3702_GPU.jpg"
+        "8_CX3180g_GPU.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -353,9 +358,9 @@
       "section": "04 / REASSEMBLY",
       "source": "bay-bank-removal.md",
       "images": [
-        "9a_CX3250g_BAY BANK UNSCREW.jpg",
-        "9b_CX3250g_BAY BANK SLIDE BACK.jpg",
-        "9c_CX3250g_BAY BANK LIFT OUT.jpg"
+        "9a_CX3180g_BAY BANK UNSCREW.jpg",
+        "9b_CX3180g_BAY BANK SLIDE BACK.jpg",
+        "9c_CX3180g_BAY BANK LIFT OUT.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
