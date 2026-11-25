@@ -78,12 +78,12 @@
       "section": "01 / PRODUCT INFORMATION",
       "source": "exploded-view.md",
       "images": [
-        "CX3180n-CHASSIS_EXPLODE-REV20261123.jpg"
+        "CX3180n-CHASSIS_EXPLODE-REV20261125.jpg"
       ],
       "layout": "exploded",
       "layout_variant": "exploded-side",
       "image_annotations": {
-        "CX3180n-CHASSIS_EXPLODE-REV20261123.jpg": "exploded-callouts.json"
+        "CX3180n-CHASSIS_EXPLODE-REV20261125.jpg": "exploded-callouts.json"
       }
     },
     {
@@ -199,9 +199,9 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/lid-removal.md",
       "images": [
-        "1a_CX3702_LID UNSCREW.jpg",
-        "1b_CX3702_LID SLIDE BACK.jpg",
-        "1c_CX3702_LID REMOVE.jpg"
+        "1a_CX3180n_LID UNSCREW.jpg",
+        "1b_CX3180n_LID SLIDE BACK.jpg",
+        "1c_CX3180n_LID REMOVE.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -218,7 +218,7 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/faceplate-removal.md",
       "images": [
-        "2_CX3702_FACEPLATE REMOVE.jpg"
+        "2_CX3180n_FACEPLATE REMOVE.jpg"
       ],
       "layout": "procedure"
     },
@@ -228,9 +228,9 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/tray-removal.md",
       "images": [
-        "11a_CX3702_TRAY UNSCREW.jpg",
-        "11b_CX3702_TRAY SLIDE BACK.jpg",
-        "11c_CX3702_TRAY SLIDE BACK 2.jpg"
+        "10a_CX3180n_TRAY UNSCREW.jpg",
+        "10b_CX3180n_TRAY SLIDE BACK.jpg",
+        "10c_CX3180n_TRAY SLIDE BACK 2.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -247,7 +247,7 @@
       "section": "02 / CHASSIS ACCESS",
       "source": "../../shared/rackmount/rack-ears.md",
       "images": [
-        "10_CX3702_RACK EARS.jpg"
+        "9_CX3180n_RACK EARS.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -264,9 +264,9 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "side-fan-installation.md",
       "images": [
-        "3a_CX3702_SIDE FAN BRACKET UNSCREW.jpg",
+        "3a_CX3180n_SIDE FAN BRACKET UNSCREW.jpg",
         "3c_CX3702_SIDE FAN INSTALL.jpg",
-        "3d_CX3702_SIDE FAN SCREW INSTALL.jpg"
+        "3d_CX3180n_SIDE FAN BRACKET INSTALL.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -285,9 +285,9 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "rear-fan-installation.md",
       "images": [
-        "3e_CX3702_REAR FAN BRACKET UNSCREW.jpg",
+        "3e_CX3180n_REAR FAN BRACKET REMOVE.jpg",
         "3f_CX3702_REAR FAN INSTALL.jpg",
-        "3i_CX3702_REAR FAN SCREW INSTALL.jpg"
+        "3g_CX3180n_REAR FAN BRACKET INSTALL.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -304,12 +304,16 @@
       "id": "motherboard-preparation",
       "title": "Prepare the motherboard tray",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "../../shared/rackmount/motherboard-preparation-no-standoffs.md",
+      "source": "../../shared/rackmount/motherboard-preparation.md",
       "images": [
-        "4a_CX3702_MOTHERBOARD IO SHIELD.jpg"
+        "4a_CX3180n_STANDOFF INSTALL.jpg",
+        "4b_CX3180n_MOTHERBOARD IO SHIELD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
+        [
+          "C"
+        ],
         []
       ]
     },
@@ -317,14 +321,15 @@
       "id": "motherboard-installation",
       "title": "Install the motherboard",
       "section": "03 / COMPONENT INSTALLATION",
-      "source": "../../shared/rackmount/motherboard-installation-no-standoffs.md",
+      "source": "../../shared/rackmount/motherboard-installation.md",
       "images": [
-        "4b_CX3702_MOTHERBOARD.jpg"
+        "4c_CX3180n_MOTHERBOARD.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
         [
-          "A"
+          "A",
+          "C"
         ]
       ]
     },
@@ -334,9 +339,9 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "psu-installation.md",
       "images": [
-        "5a_CX3702_PSU BRACKET UNSCREW.jpg",
-        "5c_CX3702_PSU.jpg",
-        "7_CX3702_PSU BRACKET INSTALL.jpg"
+        "5a_CX3180n_PSU BRACKET UNSCREW.jpg",
+        "5c_CX3180n_PSU.jpg",
+        "7_CX3180n_PSU BRACKET INSTALL.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -372,7 +377,7 @@
       "section": "03 / COMPONENT INSTALLATION",
       "source": "gpu-installation.md",
       "images": [
-        "8_CX3702_GPU.jpg"
+        "8_CX3180n_GPU.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
@@ -388,9 +393,9 @@
       "section": "04 / REASSEMBLY",
       "source": "../../shared/rackmount/tray-installation.md",
       "images": [
-        "11d_CX3702_TRAY INSTALL.jpg",
-        "11e_CX3702_TRAY INSTALL 2.jpg",
-        "11f_CX3702_TRAY INSTALL 3.jpg"
+        "10d_CX3180n_TRAY INSTALL.jpg",
+        "10e_CX3180n_TRAY INSTALL 2.jpg",
+        "10f_CX3180n_TRAY INSTALL 3.jpg"
       ],
       "layout": "procedure",
       "hardware_callouts": [
