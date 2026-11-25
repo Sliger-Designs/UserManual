@@ -144,18 +144,6 @@
       "note": "Solid Edge render of the CX3180n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
     },
     {
-      "id": "cx3180n-698ccba65126",
-      "original_filename": "9b_CX3180n_HDD ASSEMBLE.jpg",
-      "local_path": "illustrations/3u/CX3180n/9b_CX3180n_HDD ASSEMBLE.jpg",
-      "width_px": 9000,
-      "height_px": 5082,
-      "format": "JPEG",
-      "size_bytes": 870422,
-      "sha256": "698ccba65126fec30cd844939adf63e1d9f2d2755036664386412c9bc0846d36",
-      "selection_status": "candidate",
-      "note": "Solid Edge render of the CX3180n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
-    },
-    {
       "id": "cx3180n-2e0a498b8439",
       "original_filename": "9c_CX3180n_HDD INSTALL.jpg",
       "local_path": "illustrations/3u/CX3180n/9c_CX3180n_HDD INSTALL.jpg",
@@ -454,6 +442,18 @@
       "sha256": "b8cff9f4ff14e42f37577475e225bf656e245775100e15b6ffa7b0b540ada38f",
       "selection_status": "candidate",
       "note": "Solid Edge render of the CX3180n_INT-MIN model (scripts/solidedge, make_specs_3u_g15_int.py; calculated view, 2026-11-25); background (255, 255, 255)."
+    },
+    {
+      "id": "cx3180n-6cdfda9d001c",
+      "original_filename": "10b_CX4250n_HDD ASSEMBLE.jpg",
+      "local_path": "illustrations/3u/CX3180n/10b_CX4250n_HDD ASSEMBLE.jpg",
+      "width_px": 9000,
+      "height_px": 5137,
+      "format": "JPEG",
+      "size_bytes": 1221974,
+      "sha256": "6cdfda9d001c0e7b66c9b3b3dcc31d5d2d4c7e49c730d8536398d67b68f9d5dd",
+      "selection_status": "candidate",
+      "note": "CX4250n render reused (same 3.5-inch drive and four shoulder screws; the 3U n model has two per drive so far, Sliger 2026-11-25)."
     }
   ]
 }

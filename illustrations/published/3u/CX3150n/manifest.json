@@ -23,6 +23,18 @@
     "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
     "status": "prototype_selection_needs_review"
   },
+  "10b_CX4250n_HDD ASSEMBLE.jpg": {
+    "path": "illustrations/published/3u/CX3150n/cx3150n-6cdfda9d001c.jpg",
+    "source_path": "illustrations/3u/CX3150n/10b_CX4250n_HDD ASSEMBLE.jpg",
+    "source_sha256": "6cdfda9d001c0e7b66c9b3b3dcc31d5d2d4c7e49c730d8536398d67b68f9d5dd",
+    "sha256": "39723a8c0ea2fc91a4fde863fc2f16e052d870a152287fc3a4b1c4cee4e8e9b7",
+    "dimensions_px": [
+      1800,
+      1027
+    ],
+    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
+    "status": "prototype_selection_needs_review"
+  },
   "10c_CX3150n_TRAY SLIDE BACK 2.jpg": {
     "path": "illustrations/published/3u/CX3150n/cx3150n-a19eb0f87050.jpg",
     "source_path": "illustrations/3u/CX3150n/10c_CX3150n_TRAY SLIDE BACK 2.jpg",
@@ -292,18 +304,6 @@
     "source_path": "illustrations/3u/CX3150n/9a_CX3150n_SLIDE TRAY.jpg",
     "source_sha256": "c8dc96b9c6696b28e1d32a6bb2ac655b8c68bcfc1c27e08658faf2c133e53963",
     "sha256": "cc950ed644945b1eba796553f554e418208bdda1c16cce0ebc8774c6a659f8af",
-    "dimensions_px": [
-      1800,
-      1016
-    ],
-    "transformation": "EXIF orientation; fit within 1800x1400 without upscaling; no crop. PNG retains transparency; JPEG uses RGB, quality 90, subsampling 0.",
-    "status": "prototype_selection_needs_review"
-  },
-  "9b_CX3150n_HDD ASSEMBLE.jpg": {
-    "path": "illustrations/published/3u/CX3150n/cx3150n-6bd15fb25504.jpg",
-    "source_path": "illustrations/3u/CX3150n/9b_CX3150n_HDD ASSEMBLE.jpg",
-    "source_sha256": "6bd15fb25504fa6bc0dff88bd70d83c1fc39006f707382f47ada5a27ce4e304c",
-    "sha256": "5414834370cac734412ed5b374d991aa7ab447cf9d79858951fcd4a4f006498d",
     "dimensions_px": [
       1800,
       1016
