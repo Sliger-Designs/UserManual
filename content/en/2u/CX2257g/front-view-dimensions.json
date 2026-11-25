@@ -4,9 +4,9 @@
   "coordinate_space": "uncropped_image",
   "aspect_ratio": 1.7520805957074026,
   "view_box": [
-    0,
+    0.0,
     0.19710906701708278,
-    1,
+    1.0,
     0.5475251861585633
   ],
   "note_font_size_height_fraction": 0.024,

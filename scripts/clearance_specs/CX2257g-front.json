@@ -1,0 +1,44 @@
+{
+  "image": "illustrations/2u/CX2257g/CX2257g_FRONT VIEW.jpg",
+  "annotation": "content/en/2u/CX2257g/front-view-dimensions.json",
+  "frame_px": [
+    4000,
+    2283
+  ],
+  "view_box_px": [
+    0,
+    450,
+    4000,
+    1250
+  ],
+  "note_font_size_height_fraction": 0.024,
+  "review_status": "Draft CX2257g front-view overlay (2026-11-25): dimensions are Solid Edge PMI drawn by ERA in the 4000 px render; notes are overlay. Review before release.",
+  "notes": [
+    {
+      "label": "MAXIMUM PCIe CARD HEIGHT",
+      "at": [
+        520,
+        650
+      ],
+      "anchor": "start",
+      "leader": [
+        355,
+        925
+      ],
+      "wrap_chars": 60
+    },
+    {
+      "label": "MAXIMUM CPU COOLER HEIGHT",
+      "at": [
+        2580,
+        560
+      ],
+      "anchor": "start",
+      "leader": [
+        2330,
+        760
+      ],
+      "wrap_chars": 60
+    }
+  ]
+}

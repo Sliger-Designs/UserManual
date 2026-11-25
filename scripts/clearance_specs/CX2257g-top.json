@@ -1,0 +1,187 @@
+{
+  "image": "illustrations/2u/CX2257g/CX2257g_TOP VIEW.jpg",
+  "annotation": "content/en/2u/CX2257g/top-view-dimensions.json",
+  "frame_px": [
+    9000,
+    5137
+  ],
+  "view_box_px": [
+    1200,
+    30,
+    6300,
+    4990
+  ],
+  "note_font_size_height_fraction": 0.011,
+  "review_status": "Draft CX2257g top-view overlay (2026-11-25): dimensions are Solid Edge PMI drawn by ERA in the 4000 px render; notes are overlay. Review before release.",
+  "notes": [
+    {
+      "label": "INSIDE DEPTH OF CASE; NOT INCLUDING FANS",
+      "at": [
+        2650,
+        80
+      ],
+      "anchor": "start",
+      "leader": [
+        2476,
+        960
+      ],
+      "wrap_chars": 60
+    },
+    {
+      "label": "MAXIMUM GPU LENGTH WITH 25mm FANS",
+      "at": [
+        2830,
+        180
+      ],
+      "anchor": "start",
+      "leader": [
+        2653,
+        960
+      ],
+      "wrap_chars": 60
+    },
+    {
+      "label": "MAXIMUM GPU LENGTH WITH 38mm FANS",
+      "at": [
+        3010,
+        280
+      ],
+      "anchor": "start",
+      "leader": [
+        2840,
+        960
+      ],
+      "wrap_chars": 60
+    },
+    {
+      "label": "MAXIMUM GPU LENGTH WITH DYNATRON L34 AIO",
+      "at": [
+        3190,
+        380
+      ],
+      "anchor": "start",
+      "leader": [
+        3006,
+        960
+      ],
+      "wrap_chars": 60
+    },
+    {
+      "label": "TOTAL CASE WIDTH",
+      "at": [
+        5350,
+        250
+      ],
+      "anchor": "start",
+      "leader": [
+        5150,
+        486
+      ],
+      "wrap_chars": 60
+    },
+    {
+      "label": "MAXIMUM MOTHERBOARD WIDTH",
+      "at": [
+        5450,
+        390
+      ],
+      "anchor": "start",
+      "leader": [
+        5100,
+        625
+      ],
+      "wrap_chars": 60
+    },
+    {
+      "label": "SPACE BETWEEN STANDARD 13in EATX MOTHERBOARD AND INSIDE WALL OF CASE",
+      "at": [
+        2350,
+        1250
+      ],
+      "anchor": "end",
+      "leader": [
+        3110,
+        1521
+      ],
+      "wrap_chars": 28
+    },
+    {
+      "label": "MAXIMUM PSU LENGTH",
+      "at": [
+        6350,
+        1000
+      ],
+      "anchor": "start",
+      "leader": [
+        5972,
+        1350
+      ],
+      "wrap_chars": 60
+    },
+    {
+      "label": "DISTANCE FROM REAR OF CASE TO BACK OF RACK EARS",
+      "at": [
+        6450,
+        2250
+      ],
+      "anchor": "start",
+      "leader": [
+        6125,
+        2500
+      ],
+      "wrap_chars": 28
+    },
+    {
+      "label": "DISTANCE FROM REAR OF DRIVE CAGE TO FAN BRACKET",
+      "at": [
+        6450,
+        3050
+      ],
+      "anchor": "start",
+      "leader": [
+        5904,
+        3350
+      ],
+      "wrap_chars": 28
+    },
+    {
+      "label": "MAXIMUM BAY DEVICE LENGTH",
+      "at": [
+        2650,
+        3350
+      ],
+      "anchor": "end",
+      "leader": [
+        3029,
+        3800
+      ],
+      "wrap_chars": 16
+    },
+    {
+      "label": "PULL HANDLE PROJECTION",
+      "at": [
+        2600,
+        4250
+      ],
+      "anchor": "end",
+      "leader": [
+        3020,
+        4420
+      ],
+      "wrap_chars": 16
+    },
+    {
+      "label": "TOTAL WIDTH WITH RACK EARS INSTALLED",
+      "at": [
+        6050,
+        4850
+      ],
+      "anchor": "start",
+      "leader": [
+        5700,
+        4658
+      ],
+      "wrap_chars": 60
+    }
+  ]
+}
